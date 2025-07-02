@@ -1,0 +1,559 @@
+"use strict";
+(self.webpackChunk_shopee_page_builder_pcmall = self.webpackChunk_shopee_page_builder_pcmall || []).push([[4551], {
+    94750: (e, t, a) => {
+        a.d(t, {
+            Z: () => s
+        });
+        var i = a(87363)
+          , n = a(25988)
+          , l = a(52877);
+        const s = function(e) {
+            l.Z && (0,
+            n.mf)(e);
+            var t = (0,
+            i.useRef)(e);
+            t.current = (0,
+            i.useMemo)((function() {
+                return e
+            }
+            ), [e]);
+            var a = (0,
+            i.useRef)();
+            return a.current || (a.current = function() {
+                for (var e = [], a = 0; a < arguments.length; a++)
+                    e[a] = arguments[a];
+                return t.current.apply(this, e)
+            }
+            ),
+            a.current
+        }
+    }
+    ,
+    25988: (e, t, a) => {
+        a.d(t, {
+            mf: () => i
+        });
+        var i = function(e) {
+            return "function" == typeof e
+        }
+    }
+    ,
+    52877: (e, t, a) => {
+        a.d(t, {
+            Z: () => i
+        });
+        const i = !1
+    }
+    ,
+    80570: (e, t, a) => {
+        a.d(t, {
+            d: () => l
+        });
+        var i = a(87363);
+        var n = a(36094);
+        const l = (0,
+        i.memo)(( ({style: e}) => (0,
+        n.jsx)("div", {
+            className: "xMRevy",
+            style: e
+        })));
+        l.displayName = "ComponentPlaceholder"
+    }
+    ,
+    45605: (e, t, a) => {
+        function i() {
+            return !1
+        }
+        a.d(t, {
+            Q: () => i
+        })
+    }
+    ,
+    94703: (e, t, a) => {
+        a.r(t),
+        a.d(t, {
+            IndividualProduct: () => ee
+        });
+        var i = a(22743)
+          , n = a(87363)
+          , l = a(34986)
+          , s = a(35454)
+          , r = a(80570)
+          , d = a(25502)
+          , o = a(75766);
+        const c = "individual_product"
+          , _ = "microsite"
+          , u = "add_to_cart_button";
+        var m = a(52231)
+          , p = a(94750)
+          , y = a(12508)
+          , v = a(40353)
+          , g = a(73709)
+          , h = a(64393)
+          , f = a(29833)
+          , C = a(33093)
+          , x = a(64061);
+        const b = "/api/v4/item/get_list"
+          , D = "/api/v4/item/get_list";
+        var T = a(55353)
+          , j = a(81150)
+          , I = a(30754);
+        var N = a(45605)
+          , S = a(40091)
+          , k = a(70670);
+        function w() {
+            return (0,
+            l.Y5)()
+        }
+        let F = function(e) {
+            return e[e.Grid = 1] = "Grid",
+            e[e.Horizontal = 2] = "Horizontal",
+            e
+        }({})
+          , P = function(e) {
+            return e[e.NoTab = 1] = "NoTab",
+            e[e.MultiTab = 2] = "MultiTab",
+            e
+        }({});
+        const E = (e, t, a) => 0 === (null == e ? void 0 : e.length) && (1 === t.length || a.tab_style === P.NoTab) || 0 === (null == t ? void 0 : t.length)
+          , R = "PVONwW";
+        var M = a(36094);
+        const Z = []
+          , A = (0,
+        n.memo)((e => {
+            var t, a, l, s;
+            const {componentConfig: d} = e
+              , {style: o, data: m} = d
+              , b = (null == m ? void 0 : m.tabs) || Z
+              , [D,T] = (0,
+            n.useState)(null != (t = b[0]) ? t : {})
+              , {items: j, isLoading: I, isFetched: N} = z({
+                activeTab: D,
+                useMockData: !(null == (a = e.previewConfig) || !a.useMockData)
+            })
+              , {isCCInstallmentPaymentEligible: P, isNonCCInstallmentPaymentEligible: A} = y.Jc()
+              , H = null != (l = null == j ? void 0 : j.length) ? l : 0
+              , L = v.lp() && H >= 6
+              , O = ( ({item_card_display_type: e, system_generated_style: t, display_number_per_row: a}) => e === k.FO.System ? t : e === k.FO.Customized ? 1 === a ? k.QQ.CustomizedHorizontal : k.QQ.Customized : k.TU.Simplified)({
+                item_card_display_type: d.style.item_card_display_type,
+                system_generated_style: d.style.system_generated_style,
+                display_number_per_row: d.style.display_number_per_row
+            })
+              , {ItemCard: Q} = (0,
+            S.g)({
+                displayType: d.style.item_card_display_type,
+                itemCardDisplaySet: O
+            })
+              , G = function() {
+                const e = w();
+                return (0,
+                p.Z)((t => {
+                    return {
+                        page_section: c,
+                        page_type: _,
+                        target_type: "item",
+                        data: (0,
+                        i.Z)({}, e, (a = t,
+                        {
+                            itemid: a.itemid,
+                            shopid: a.shopid,
+                            likes: a.likes,
+                            rating: a.rating,
+                            discount_percentage: a.discount_percentage,
+                            free_shipping: a.free_shipping,
+                            is_preferred: a.is_group_buy,
+                            is_mall: a.is_mall,
+                            is_group_buy: a.is_preferred,
+                            exclusive_promotionid: a.exclusive_promotionid ? Number(a.exclusive_promotionid) : 0,
+                            exclusive_is_entitled: a.exclusive_is_entitled ? Number(a.exclusive_is_entitled) : 0,
+                            item_location: a.item_location,
+                            recommendation_algorithm: a.recommendation_algorithm,
+                            recommendation_info: a.recommendation_info,
+                            has_deep_discount_label: a.has_deep_discount_label
+                        }))
+                    };
+                    var a
+                }
+                ))
+            }()
+              , q = function() {
+                const e = w();
+                return (0,
+                p.Z)((t => {
+                    return {
+                        page_section: c,
+                        page_type: _,
+                        target_type: u,
+                        data: (0,
+                        i.Z)({}, e, (a = t,
+                        {
+                            itemid: a.itemid,
+                            shopid: a.shopid,
+                            item_location: a.item_location,
+                            recommendation_algorithm: a.recommendation_algorithm,
+                            recommendation_info: a.recommendation_info
+                        }))
+                    };
+                    var a
+                }
+                ))
+            }()
+              , U = (0,
+            p.Z)(( (e, t) => Q ? (0,
+            M.jsx)(Q, {
+                index: t,
+                item: e,
+                enableXlargeDisplay: !1,
+                micrositeItemCardConfig: d.style,
+                itemOverwrites: null == D ? void 0 : D.items,
+                isCcInstallmentPaymentWhitelist: P,
+                isNonCcInstallmentPaymentWhitelist: A,
+                useAtcIcon: d.style.cards_layout !== F.Horizontal,
+                getTrackingClickData: G,
+                getTrackingImpressionData: G,
+                getAtcTrackingClickData: q,
+                overrideAtcTargetType: u
+            }) : (0,
+            M.jsx)(M.Fragment, {})));
+            return !Q || E(j, b, o) ? null : (0,
+            M.jsxs)(M.Fragment, {
+                children: [(0,
+                M.jsx)(C.X, {
+                    style: o,
+                    displaySeeAllBtn: !1
+                }), (0,
+                M.jsx)(x.t, {
+                    style: o,
+                    data: b,
+                    onSelectTabData: T
+                }), I ? (0,
+                M.jsx)(r.d, {}) : !N || null != j && j.length ? (0,
+                M.jsx)("div", {
+                    className: R,
+                    children: d.style.cards_layout === F.Horizontal ? (0,
+                    M.jsx)(g.Q, {
+                        renderCard: U,
+                        cardsData: j,
+                        showNavButtons: L,
+                        cardsToDisplayCount: d.style.total_items_display_number,
+                        displaySeeAllCard: !1,
+                        cardsDataTotalCount: null != (s = null == j ? void 0 : j.length) ? s : 0
+                    }) : (0,
+                    M.jsx)(h.a, {
+                        renderCard: U,
+                        cardsData: null != j ? j : [],
+                        cardsToDisplayCount: d.style.total_items_display_number,
+                        cardsPerRowCount: d.style.display_number_per_row
+                    })
+                }) : (0,
+                M.jsx)(f.q, {})]
+            })
+        }
+        ));
+        A.displayName = "ItemCardV2List";
+        const H = []
+          , z = ({activeTab: e, useMockData: t}) => {
+            var a;
+            const {data: i, isLoading: n, isFetched: l} = (0,
+            m.a)({
+                queryKey: [b, null == e ? void 0 : e.items, t],
+                queryFn: async () => {
+                    var a, i;
+                    return t ? (async () => {
+                        try {
+                            return await j.u.fetchComponentMockDataApi({
+                                componentType: T.T.INDIVIDUAL_PRODUCT,
+                                apiName: b
+                            })
+                        } catch (e) {
+                            return {
+                                items: [],
+                                error: 1,
+                                error_msg: "Failed to fetch items for item card v2"
+                            }
+                        }
+                    }
+                    )() : (async e => {
+                        try {
+                            const t = await (async e => await I.v_(b, e))(e);
+                            return t
+                        } catch (t) {
+                            return {
+                                items: [],
+                                error: 1,
+                                error_msg: "Failed to fetch items for item card v2"
+                            }
+                        }
+                    }
+                    )({
+                        shop_item_ids: null != (a = null == (i = e.items) ? void 0 : i.map((e => ({
+                            item_id: e.item_id,
+                            shop_id: e.shop_id
+                        })))) ? a : [],
+                        source: "microsite_individual_product"
+                    })
+                }
+                ,
+                suspense: (0,
+                N.Q)()
+            });
+            return {
+                items: null != (a = null == i ? void 0 : i.items) ? a : H,
+                isLoading: n,
+                isFetched: l
+            }
+        }
+        ;
+        var L = a(20266)
+          , O = a(5705)
+          , Q = a(15409)
+          , G = a(54770)
+          , q = a(98200)
+          , U = a(40943);
+        const V = ({item: e, activeTabData: t}) => {
+            var a;
+            const n = e.item_card_displayed_asset
+              , l = null == t || null == (a = t.items.find((t => {
+                var a;
+                return t.item_id === (null == (a = e.item_data) ? void 0 : a.itemid)
+            }
+            ))) ? void 0 : a.item_name;
+            return (0,
+            i.Z)({}, n || {}, {
+                name: l || (null == n ? void 0 : n.name)
+            })
+        }
+          , B = ({centralisedData: e, itemCard: t}) => {
+            var a;
+            const {item_card_displayed_asset: i} = t || {}
+              , n = null == i || null == (a = i.promotion_label_list) ? void 0 : a.map((e => e.type));
+            return {
+                itemid: null == e ? void 0 : e.item_id,
+                shopid: null == e ? void 0 : e.shop_id,
+                likes: null == e ? void 0 : e.likes,
+                rating: null == e ? void 0 : e.rating,
+                discount_percentage: (null == e ? void 0 : e.discount_percentage) || 0,
+                free_shipping: (null == n ? void 0 : n.includes("FREE_SHIPPING")) || (null == n ? void 0 : n.includes("FREE_SHIPPING_SPECIAL")) || (null == e ? void 0 : e.icon_in_price) === G.ICON_IN_PRICE.FREE_SHIPPING,
+                is_preferred: "IS_PREFERRED" === (null == e ? void 0 : e.seller_flag),
+                is_mall: null == e ? void 0 : e.is_mall,
+                item_location: null == e ? void 0 : e.item_location,
+                has_deep_discount_label: null == n ? void 0 : n.includes("DEEP_DISCOUNT"),
+                is_group_buy: !1,
+                exclusive_promotionid: 0,
+                exclusive_is_entitled: 0,
+                is_wholesale: !1
+            }
+        }
+          , X = []
+          , W = (0,
+        n.memo)((e => {
+            var t, a, l;
+            const {componentConfig: s, previewConfig: d, cardSetName: o} = e
+              , {style: c, data: _} = s
+              , u = (null == _ ? void 0 : _.tabs) || X
+              , [m,y] = (0,
+            n.useState)(null != (t = u[0]) ? t : {})
+              , {items: b, cardSet: D, isLoading: T, isFetched: j} = J({
+                activeTab: m,
+                useMockData: !(null == d || !d.useMockData),
+                cardSetName: o
+            })
+              , I = null != (a = null == b ? void 0 : b.length) ? a : 0
+              , N = v.lp() && I >= 6
+              , S = (0,
+            O.p)({
+                getExtraData: B
+            })
+              , k = s.style.cards_layout === F.Horizontal
+              , w = (0,
+            p.Z)(( (e, t) => {
+                return D ? (0,
+                M.jsx)(L.M, (0,
+                i.Z)({
+                    index: t,
+                    layoutId: (null == D ? void 0 : D.layout_id) || 0,
+                    client_page: "microsite",
+                    item_data: e.item_data || null,
+                    item_card_displayed_asset: V({
+                        item: e,
+                        activeTabData: m
+                    }),
+                    element_toggle: (null == D ? void 0 : D.element_toggle) || null,
+                    getTrackingData: S,
+                    v3Tracking: !0
+                }, (a = k,
+                n = e.item_card_displayed_asset,
+                (0,
+                i.Z)({}, (0,
+                U.pt)(n), {
+                    atcButtonType: a && !v.isShopeeApp() ? Q.jD.TEXT : Q.jD.ICON,
+                    atcTextTranslation: q.t("product_card_label_add_to_cart")
+                })))) : (0,
+                M.jsx)(M.Fragment, {});
+                var a, n
+            }
+            ));
+            return E(b, u, c) ? null : (0,
+            M.jsxs)(M.Fragment, {
+                children: [(0,
+                M.jsx)(C.X, {
+                    style: c,
+                    displaySeeAllBtn: !1
+                }), (0,
+                M.jsx)(x.t, {
+                    style: c,
+                    data: u,
+                    onSelectTabData: y
+                }), T ? (0,
+                M.jsx)(r.d, {}) : !j || null != b && b.length ? (0,
+                M.jsx)("div", {
+                    className: R,
+                    children: k ? (0,
+                    M.jsx)(g.Q, {
+                        renderCard: w,
+                        cardsData: b,
+                        showNavButtons: N,
+                        cardsToDisplayCount: s.style.total_items_display_number,
+                        displaySeeAllCard: !1,
+                        cardsDataTotalCount: null != (l = null == b ? void 0 : b.length) ? l : 0
+                    }) : (0,
+                    M.jsx)(h.a, {
+                        renderCard: w,
+                        cardsData: null != b ? b : [],
+                        cardsToDisplayCount: s.style.total_items_display_number,
+                        cardsPerRowCount: s.style.display_number_per_row
+                    })
+                }) : (0,
+                M.jsx)(f.q, {})]
+            })
+        }
+        ));
+        W.displayName = "ItemCardV3List";
+        const K = []
+          , J = ({activeTab: e, useMockData: t, cardSetName: a}) => {
+            var i, n, l, s;
+            const {data: r, isLoading: d, isFetched: o} = (0,
+            m.a)({
+                queryKey: [D, a, null == e ? void 0 : e.items, t],
+                queryFn: async () => {
+                    var i, n;
+                    return t ? (async () => {
+                        try {
+                            return await j.u.fetchComponentMockDataApi({
+                                componentType: T.T.INDIVIDUAL_PRODUCT,
+                                apiName: D
+                            })
+                        } catch (e) {
+                            return {
+                                data: {
+                                    item_cards: [],
+                                    card_set: null,
+                                    card_version: ""
+                                },
+                                error: 1,
+                                error_msg: "Failed to fetch items for item card v3"
+                            }
+                        }
+                    }
+                    )() : (async e => {
+                        try {
+                            const t = await (async e => await I.v_(D, e))(e);
+                            return t
+                        } catch (t) {
+                            return {
+                                data: {
+                                    item_cards: [],
+                                    card_set: null,
+                                    card_version: ""
+                                },
+                                error: 1,
+                                error_msg: "Failed to fetch items for item card v3"
+                            }
+                        }
+                    }
+                    )({
+                        shop_item_ids: null != (i = null == (n = e.items) ? void 0 : n.map((e => ({
+                            item_id: e.item_id,
+                            shop_id: e.shop_id
+                        })))) ? i : []
+                    })
+                }
+                ,
+                suspense: (0,
+                N.Q)()
+            });
+            return {
+                items: null != (i = null == r || null == (n = r.data) ? void 0 : n.item_cards) ? i : K,
+                cardSet: null != (l = null == r || null == (s = r.data) ? void 0 : s.card_set) ? l : null,
+                isLoading: d,
+                isFetched: o
+            }
+        }
+          , Y = {
+            page_section: c
+        }
+          , $ = (0,
+        n.memo)((e => {
+            const {componentConfig: t} = e
+              , {style: a} = t
+              , d = (0,
+            n.useMemo)(( () => ({
+                is_horizontal: a.cards_layout === F.Horizontal
+            })), [a.cards_layout])
+              , {isItemCardV3: c, abtestReady: _, cardSetName: u} = (0,
+            o.p)({
+                item_card_display_type: a.item_card_display_type,
+                system_generated_style: a.system_generated_style,
+                item_card_set: a.item_card_set
+            });
+            return _ ? c ? (0,
+            M.jsx)(s.H, {
+                mdStyle: a,
+                children: (0,
+                M.jsx)(l.rG, {
+                    meta: Y,
+                    children: (0,
+                    M.jsx)(l.wd, {
+                        data: d,
+                        children: (0,
+                        M.jsx)(n.Suspense, {
+                            fallback: (0,
+                            M.jsx)(r.d, {}),
+                            children: (0,
+                            M.jsx)(W, (0,
+                            i.Z)({}, e, {
+                                cardSetName: u
+                            }))
+                        })
+                    })
+                })
+            }) : (0,
+            M.jsx)(s.H, {
+                mdStyle: a,
+                children: (0,
+                M.jsx)(l.rG, {
+                    meta: Y,
+                    children: (0,
+                    M.jsx)(l.wd, {
+                        data: d,
+                        children: (0,
+                        M.jsx)(n.Suspense, {
+                            fallback: (0,
+                            M.jsx)(r.d, {}),
+                            children: (0,
+                            M.jsx)(A, (0,
+                            i.Z)({}, e))
+                        })
+                    })
+                })
+            }) : (0,
+            M.jsx)(r.d, {})
+        }
+        ));
+        $.displayName = "IndividualProductInner";
+        const ee = (0,
+        d.I)($, (0,
+        M.jsx)(r.d, {}))
+    }
+}]);
+//# sourceMappingURL=https://sourcemap.webfe.shopeemobile.com/pcmall-pagebuilder/_/PBCIndividualProduct.9543059b913b2b956820.js.map
