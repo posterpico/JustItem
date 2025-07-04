@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "promotion_id": 689573038915584,
+    "item_id": 13179571609,
+    "shop_id": 285906764,
+    "start_time": 1751669940,
+    "promo_price": 6900
+  },
+  {
+    "promotion_id": 689573038915584,
+    "item_id": 24715429396,
+    "shop_id": 684531921,
+    "start_time": 1751669940,
+    "promo_price": 23900
+  },
+  {
+    "promotion_id": 689573038915584,
+    "item_id": 15416266719,
+    "shop_id": 19247300,
+    "start_time": 1751669940,
+    "promo_price": 42900
+  }
+]
