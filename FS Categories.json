@@ -1,62 +1,5 @@
 [
   {
-    "banner": "id-11134004-7ra0k-mbrs1014c3al28",
-    "banner_url": "",
-    "carousel_banner": {
-      "flash_banner": [
-        {
-          "banner": "id-11134004-7ra0k-mbrs1014c3al28",
-          "banner_url": "",
-          "pc_banner": "id-11134004-7ra0k-mbrs13ahkbyr59",
-          "shopee_food_info": null
-        }
-      ],
-      "mega_banner": [],
-      "shopee_food_banner": []
-    },
-    "categories": [
-      {
-        "catid": 0,
-        "catname": "All",
-        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
-        "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.18515813}}"
-      },
-      {
-        "catid": 21,
-        "catname": "Aksesoris",
-        "image": "28ad1a2b6a71a257b45c4e445682a75e",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 39,
-        "catname": "Handphone & Aksesoris",
-        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      }
-    ],
-    "description": "Flash Sale - RM Nomination | 7 Jul 00:00 - 7 Jul 00:10",
-    "end_time": 1751821800,
-    "is_ongoing": true,
-    "name": "Flash Sale - RM Nomination | 7 Jul 00:00 - 7 Jul 00:10",
-    "pc_banner": "id-11134004-7ra0k-mbrs13ahkbyr59",
-    "promotionid": 151403171680257,
-    "start_time": 1751821200,
-    "status": 1,
-    "with_mega_sale_session": false,
-    "signature": "9d4d544409e4f9d11d8fbdb535fa352c3f322a23c8b91df46b7ae612979dc9c7",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af3945be44a607f83d2dae7000\"}"
-  },
-  {
     "banner": "id-11134004-7ra0o-mbrs1n7gf6dw3f",
     "banner_url": "",
     "carousel_banner": {
@@ -77,7 +20,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.1801744}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0}}"
       },
       {
         "catid": 39,
@@ -96,7 +39,7 @@
     ],
     "description": "Flash Sale - RM Nomination | 7 Jul 00:10 - 7 Jul 00:20",
     "end_time": 1751822400,
-    "is_ongoing": false,
+    "is_ongoing": true,
     "name": "Flash Sale - RM Nomination | 7 Jul 00:10 - 7 Jul 00:20",
     "pc_banner": "id-11134004-7ra0i-mbrs1pnytndca9",
     "promotionid": 151403175874561,
@@ -104,7 +47,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "623fde2bf548a87e9a3201dc5b0b7fcbf9fe66d4cd7324eb8b6f3f0eda2f126f",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af3945be44a607f83d2dae7000\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af3945cc3e5485577cc4668c00\"}"
   },
   {
     "banner": "id-11134004-7ra0r-mbrs2345544z19",
@@ -154,6 +97,63 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "d30165e6850031bff47b41b10d00817907656d59b6dd88b7b1b79a2564ac14dd",
+    "tracker_info": null
+  },
+  {
+    "banner": "id-11134004-7ra0s-mbrs2nqwy5qoed",
+    "banner_url": "",
+    "carousel_banner": {
+      "flash_banner": [
+        {
+          "banner": "id-11134004-7ra0s-mbrs2nqwy5qoed",
+          "banner_url": "",
+          "pc_banner": "id-11134004-7ra0l-mbrs2q8tbz59cc",
+          "shopee_food_info": null
+        }
+      ],
+      "mega_banner": [],
+      "shopee_food_banner": []
+    },
+    "categories": [
+      {
+        "catid": 0,
+        "catname": "All",
+        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 21,
+        "catname": "Aksesoris",
+        "image": "28ad1a2b6a71a257b45c4e445682a75e",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 39,
+        "catname": "Handphone & Aksesoris",
+        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      }
+    ],
+    "description": "Flash Sale - RM Nomination | 7 Jul 00:30 - 7 Jul 00:40",
+    "end_time": 1751823600,
+    "is_ongoing": false,
+    "name": "Flash Sale - RM Nomination | 7 Jul 00:30 - 7 Jul 00:40",
+    "pc_banner": "id-11134004-7ra0l-mbrs2q8tbz59cc",
+    "promotionid": 151403180064768,
+    "start_time": 1751823000,
+    "status": 1,
+    "with_mega_sale_session": false,
+    "signature": "fa9b1a0a9b970d082d2da556db2f1fd357160f39e97bfaa22cc3d64af1beb11f",
     "tracker_info": null
   }
 ]
