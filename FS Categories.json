@@ -1,55 +1,5 @@
 [
   {
-    "banner": "id-11134004-7ra0u-mbrs33qnjl1884",
-    "banner_url": "",
-    "carousel_banner": {
-      "flash_banner": [
-        {
-          "banner": "id-11134004-7ra0u-mbrs33qnjl1884",
-          "banner_url": "",
-          "pc_banner": "id-11134004-7ra0n-mbrs367px9hzdf",
-          "shopee_food_info": null
-        }
-      ],
-      "mega_banner": [],
-      "shopee_food_banner": []
-    },
-    "categories": [
-      {
-        "catid": 0,
-        "catname": "All",
-        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
-        "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.16492486}}"
-      },
-      {
-        "catid": 39,
-        "catname": "Handphone & Aksesoris",
-        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      }
-    ],
-    "description": "Flash Sale - RM Nomination | 7 Jul 00:40 - 7 Jul 00:50",
-    "end_time": 1751824200,
-    "is_ongoing": true,
-    "name": "Flash Sale - RM Nomination | 7 Jul 00:40 - 7 Jul 00:50",
-    "pc_banner": "id-11134004-7ra0n-mbrs367px9hzdf",
-    "promotionid": 151403180068864,
-    "start_time": 1751823600,
-    "status": 1,
-    "with_mega_sale_session": false,
-    "signature": "a660a1355740e5833d84e0a99fe31c4487bda400c8c3bea99587382c1a01071f",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af39464888f01ec1af7082c600\"}"
-  },
-  {
     "banner": "id-11134004-7ra0s-mbrs3m3aov1vf3",
     "banner_url": "",
     "carousel_banner": {
@@ -70,7 +20,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.16559328}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0}}"
       },
       {
         "catid": 39,
@@ -89,7 +39,7 @@
     ],
     "description": "Flash Sale - RM Nomination | 7 Jul 00:50 - 7 Jul 01:00",
     "end_time": 1751824800,
-    "is_ongoing": false,
+    "is_ongoing": true,
     "name": "Flash Sale - RM Nomination | 7 Jul 00:50 - 7 Jul 01:00",
     "pc_banner": "id-11134004-7ra0t-mbrs3oqqt6xw20",
     "promotionid": 151403180068865,
@@ -97,7 +47,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "fcaed1391784766c2c7d113f9b90903eff06242b21c6e8d1d7f25f0f385c2091",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af39464888f01ec1af7082c600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af39465b43873d343125212500\"}"
   },
   {
     "banner": "id-11134004-7ra0o-mbrs4bqp5ksw15",
@@ -120,7 +70,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0}}"
       },
       {
         "catid": 77,
@@ -287,6 +237,189 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "bf424a90ae4d4a08d8f7cb96358990c8e7773bd3a81d3b67f7bc7597e6de2fe1",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af39465b43873d343125212500\"}"
+  },
+  {
+    "banner": "id-11134004-7ra0n-mbs0nyw20im4f9",
+    "banner_url": "",
+    "carousel_banner": {
+      "flash_banner": [
+        {
+          "banner": "id-11134004-7ra0n-mbs0nyw20im4f9",
+          "banner_url": "",
+          "pc_banner": "id-11134004-7ra0q-mbs0o1fcaxj0c7",
+          "shopee_food_info": null
+        }
+      ],
+      "mega_banner": [],
+      "shopee_food_banner": []
+    },
+    "categories": [
+      {
+        "catid": 0,
+        "catname": "All",
+        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 77,
+        "catname": "7.7 Shopee Mall 100% Ori Sale",
+        "image": "id-11134004-7ra0q-mb3j6z16b45ybf",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 16,
+        "catname": "Kesehatan & Kecantikan",
+        "image": "96048b93bd5c09a28672da655bcb0683",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 17,
+        "catname": "Makanan & Minuman",
+        "image": "630bec71a9ce336a20eaaa38fb335846",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 18,
+        "catname": "Hobi & Alat Tulis",
+        "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 19,
+        "catname": "Olahraga & Otomotif",
+        "image": "81de11e6c255333eeb85ac0ff0d97367",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 20,
+        "catname": "Rumah",
+        "image": "1ed449fcff2db0badf0ea3f11464a810",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 21,
+        "catname": "Aksesoris",
+        "image": "28ad1a2b6a71a257b45c4e445682a75e",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 22,
+        "catname": "Jam Tangan",
+        "image": "4377481b1caedc39ed234e365acd3a64",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 23,
+        "catname": "Fashion Anak",
+        "image": "2b1eec13a9bca8a5d83fc7e349756843",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 29,
+        "catname": "Ibu & Bayi",
+        "image": "d9aa0c1e8fb85518baa9777c35343d11",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 34,
+        "catname": "Fashion Muslim",
+        "image": "id-11134004-7rbka-m8ua0eit667v72",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 55,
+        "catname": "Bayar di Tempat",
+        "image": "0b0f34293477d2a153e436a681d67c29",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 39,
+        "catname": "Handphone & Aksesoris",
+        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 41,
+        "catname": "Komputer & Aksesoris",
+        "image": "9139c9eca604be49c1c3b94fd11be593",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 75,
+        "catname": "Fotografi",
+        "image": "058f1348d52540e69630f76b42c027c2",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 86,
+        "catname": "Elektronik",
+        "image": "d92a865d5a891f9566ffbb7d44bdfff7",
+        "cat_label": 0,
+        "recommendation_info": null
+      }
+    ],
+    "description": "Flash Sale - RM Nomination | 7 Jul 08:00 - 7 Jul 12:00",
+    "end_time": 1751864400,
+    "is_ongoing": false,
+    "name": "Flash Sale - RM Nomination | 7 Jul 08:00 - 7 Jul 12:00",
+    "pc_banner": "id-11134004-7ra0q-mbs0o1fcaxj0c7",
+    "promotionid": 151403184263169,
+    "start_time": 1751850000,
+    "status": 1,
+    "with_mega_sale_session": false,
+    "signature": "bb8ff421ea94319aaeaafbee26d029a6dac0143026fd8974c9449507752a2b6a",
     "tracker_info": null
   }
 ]
