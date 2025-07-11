@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "promotion_id": 694761585901568,
+    "item_id": 25789981385,
+    "shop_id": 1005491906,
+    "start_time": 1752209940,
+    "promo_price": 34900
+  },
+  {
+    "promotion_id": 694761585901568,
+    "item_id": 24539275220,
+    "shop_id": 1005491906,
+    "start_time": 1752209940,
+    "promo_price": 34900
+  },
+  {
+    "promotion_id": 694761585901568,
+    "item_id": 23269004518,
+    "shop_id": 1005491906,
+    "start_time": 1752209940,
+    "promo_price": 52900
+  },
+  {
+    "promotion_id": 694761585901568,
+    "item_id": 26556110991,
+    "shop_id": 1005491906,
+    "start_time": 1752209940,
+    "promo_price": 52900
+  },
+  {
+    "promotion_id": 694762005331968,
+    "item_id": 28170187672,
+    "shop_id": 1005491906,
+    "start_time": 1752220740,
+    "promo_price": 89900
+  }
+]
