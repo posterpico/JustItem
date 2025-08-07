@@ -1,48 +1,5 @@
 [
   {
-    "banner": "id-11134004-7ra0u-md1e7zahi9itcb",
-    "banner_url": "",
-    "carousel_banner": {
-      "flash_banner": [
-        {
-          "banner": "id-11134004-7ra0u-md1e7zahi9itcb",
-          "banner_url": "",
-          "pc_banner": "id-11134004-7ra0g-md1e82cd1gzg50",
-          "shopee_food_info": null
-        }
-      ],
-      "mega_banner": [],
-      "shopee_food_banner": []
-    },
-    "categories": [
-      {
-        "catid": 0,
-        "catname": "All",
-        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
-        "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.23858453}}"
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      }
-    ],
-    "description": "Flash Sale - Shopee Nomination | 8 Aug 00:10 - 8 Aug 00:20",
-    "end_time": 1754587200,
-    "is_ongoing": true,
-    "name": "Flash Sale - Shopee Nomination | 8 Aug 00:10 - 8 Aug 00:20",
-    "pc_banner": "id-11134004-7ra0g-md1e82cd1gzg50",
-    "promotionid": 162013368291329,
-    "start_time": 1754586600,
-    "status": 1,
-    "with_mega_sale_session": false,
-    "signature": "96b59acdb8a0163e3175ffa47f5d93fec991a57d4db9fe5c2cbfc4655c72a87f",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af3bc99d06fa5e6b3b37104300\"}"
-  },
-  {
     "banner": "id-11134004-7ra0r-md1g3cyntwtgdc",
     "banner_url": "",
     "carousel_banner": {
@@ -63,7 +20,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.22961983}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0}}"
       },
       {
         "catid": 1,
@@ -75,7 +32,7 @@
     ],
     "description": "Flash Sale - Shopee Nomination | 8 Aug 00:20 - 8 Aug 00:30",
     "end_time": 1754587800,
-    "is_ongoing": false,
+    "is_ongoing": true,
     "name": "Flash Sale - Shopee Nomination | 8 Aug 00:20 - 8 Aug 00:30",
     "pc_banner": "id-11134004-7ra0u-md1g3fbkdnvcb3",
     "promotionid": 162013368291331,
@@ -83,7 +40,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "8fde151eec947e663eb4d4d2c5d1dd55e416b037bf63d860bcf8932da06ba6e4",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af3bc99d06fa5e6b3b37104300\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af3bc9aaf069afdd930bac2200\"}"
   },
   {
     "banner": "id-11134004-7ra0m-md1gmwcmia0s7c",
@@ -106,7 +63,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0}}"
       },
       {
         "catid": 1,
@@ -126,6 +83,49 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "3e173810c77458cb5c8185e46426520f1c2a03babb3e7032ab56ef8df362f1df",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af3bc9aaf069afdd930bac2200\"}"
+  },
+  {
+    "banner": "id-11134004-7ra0k-md1f32qtbm0s1e",
+    "banner_url": "",
+    "carousel_banner": {
+      "flash_banner": [
+        {
+          "banner": "id-11134004-7ra0k-md1f32qtbm0s1e",
+          "banner_url": "",
+          "pc_banner": "id-11134004-7ra0p-md1f35vqqcvp99",
+          "shopee_food_info": null
+        }
+      ],
+      "mega_banner": [],
+      "shopee_food_banner": []
+    },
+    "categories": [
+      {
+        "catid": 0,
+        "catname": "All",
+        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      }
+    ],
+    "description": "Flash Sale - Shopee Nomination | 8 Aug 00:40 - 8 Aug 00:50",
+    "end_time": 1754589000,
+    "is_ongoing": false,
+    "name": "Flash Sale - Shopee Nomination | 8 Aug 00:40 - 8 Aug 00:50",
+    "pc_banner": "id-11134004-7ra0p-md1f35vqqcvp99",
+    "promotionid": 162013368291334,
+    "start_time": 1754588400,
+    "status": 1,
+    "with_mega_sale_session": false,
+    "signature": "ca4e9b3cecdf708bffe58a80707eb47e007f71f0514f37fc84988ce7bfc007eb",
     "tracker_info": null
   }
 ]
