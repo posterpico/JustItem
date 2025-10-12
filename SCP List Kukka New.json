@@ -15,6 +15,13 @@
   },
   {
     "promotion_id": 761480992063488,
+    "item_id": 5752360076,
+    "shop_id": 64474495,
+    "start_time": 1760274000,
+    "promo_price": 10000
+  },
+  {
+    "promotion_id": 761480992063488,
     "item_id": 18072940988,
     "shop_id": 64474495,
     "start_time": 1760274000,
@@ -43,24 +50,17 @@
   },
   {
     "promotion_id": 761480992063488,
-    "item_id": 26615029856,
+    "item_id": 11555859365,
     "shop_id": 64474495,
     "start_time": 1760274000,
     "promo_price": 10000
   },
   {
-    "promotion_id": 761479867990016,
-    "item_id": 4841547939,
+    "promotion_id": 761480992063488,
+    "item_id": 26615029856,
     "shop_id": 64474495,
-    "start_time": 1760273940,
-    "promo_price": 24600
-  },
-  {
-    "promotion_id": 761477854724096,
-    "item_id": 19472357693,
-    "shop_id": 64474495,
-    "start_time": 1760266740,
-    "promo_price": 10900
+    "start_time": 1760274000,
+    "promo_price": 10000
   },
   {
     "promotion_id": 761480992063488,
@@ -77,73 +77,10 @@
     "promo_price": 10000
   },
   {
-    "promotion_id": 761477854724096,
-    "item_id": 23915897591,
-    "shop_id": 64474495,
-    "start_time": 1760266740,
-    "promo_price": 7900
-  },
-  {
-    "promotion_id": 761479867990016,
-    "item_id": 9406084749,
-    "shop_id": 64474495,
-    "start_time": 1760273940,
-    "promo_price": 7600
-  },
-  {
-    "promotion_id": 761479867990016,
-    "item_id": 11922345559,
-    "shop_id": 64474495,
-    "start_time": 1760273940,
-    "promo_price": 14900
-  },
-  {
-    "promotion_id": 761479867990016,
-    "item_id": 13762262829,
-    "shop_id": 64474495,
-    "start_time": 1760273940,
-    "promo_price": 38900
-  },
-  {
-    "promotion_id": 761479867990016,
-    "item_id": 26051843706,
-    "shop_id": 64474495,
-    "start_time": 1760273940,
-    "promo_price": 16900
-  },
-  {
-    "promotion_id": 761477854724096,
-    "item_id": 3967289533,
-    "shop_id": 64474495,
-    "start_time": 1760266740,
-    "promo_price": 13900
-  },
-  {
     "promotion_id": 761480992063488,
     "item_id": 27161838987,
     "shop_id": 64474495,
     "start_time": 1760274000,
     "promo_price": 10000
-  },
-  {
-    "promotion_id": 761477854724096,
-    "item_id": 26254214334,
-    "shop_id": 64474495,
-    "start_time": 1760266740,
-    "promo_price": 14900
-  },
-  {
-    "promotion_id": 761479867990016,
-    "item_id": 6940373038,
-    "shop_id": 64474495,
-    "start_time": 1760273940,
-    "promo_price": 25800
-  },
-  {
-    "promotion_id": 761477854724096,
-    "item_id": 22282851180,
-    "shop_id": 64474495,
-    "start_time": 1760266740,
-    "promo_price": 21900
   }
 ]
