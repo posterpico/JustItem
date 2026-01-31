@@ -1,0 +1,554 @@
+{
+  "items": [
+    {
+      "item_id": "24730509488",
+      "model": [
+        {
+          "model_id": "226331095062",
+          "name": "Hitam-No Side Hook",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1715677688,
+          "seller_sku": "FZJ12-Full Black",
+          "mtime": 1724143560,
+          "price_rule_id": "0",
+          "price": "33000000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 0,
+          "sold": 25,
+          "price_info": {
+            "final_price": "27700000000"
+          }
+        },
+        {
+          "model_id": "226331095063",
+          "name": "Emas-Putih-Side Hook",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1715677688,
+          "seller_sku": "FZJ13-Gold+White",
+          "mtime": 1727594030,
+          "price_rule_id": "775054648983552",
+          "price": "20400000000",
+          "currency": "IDR",
+          "normal_price": "35000000000",
+          "stock": 9661,
+          "sold": 340,
+          "price_info": {
+            "final_price": "15100000000"
+          }
+        },
+        {
+          "model_id": "226331095064",
+          "name": "Emas-Hitam-Side Hook",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1715677688,
+          "seller_sku": "FZJ13-Gold+Black",
+          "mtime": 1727594030,
+          "price_rule_id": "775054648983552",
+          "price": "20400000000",
+          "currency": "IDR",
+          "normal_price": "35000000000",
+          "stock": 9693,
+          "sold": 59,
+          "price_info": {
+            "final_price": "15100000000"
+          }
+        },
+        {
+          "model_id": "226331095065",
+          "name": "Hitam-With Side Hook",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1715677688,
+          "seller_sku": "FZJ13-Black",
+          "mtime": 1724143560,
+          "price_rule_id": "775054648983552",
+          "price": "20400000000",
+          "currency": "IDR",
+          "normal_price": "35000000000",
+          "stock": 9634,
+          "sold": 193,
+          "price_info": {
+            "final_price": "15100000000"
+          }
+        },
+        {
+          "model_id": "226331095066",
+          "name": "Hita-Putih-Side Hook",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1715677688,
+          "seller_sku": "FZJ13-Black+White",
+          "mtime": 1727594030,
+          "price_rule_id": "775054648983552",
+          "price": "20400000000",
+          "currency": "IDR",
+          "normal_price": "35000000000",
+          "stock": 9692,
+          "sold": 46,
+          "price_info": {
+            "final_price": "15100000000"
+          }
+        },
+        {
+          "model_id": "226331095059",
+          "name": "Emas-Putih-170cm",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1715677688,
+          "seller_sku": "FZJ12-gold",
+          "mtime": 1715677688,
+          "price_rule_id": "0",
+          "price": "33000000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 0,
+          "sold": 89,
+          "price_info": {
+            "final_price": "27700000000"
+          }
+        },
+        {
+          "model_id": "226331095060",
+          "name": "Emas-Hitam-170cm",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1715677688,
+          "seller_sku": "FZJ12-Black",
+          "mtime": 1715677688,
+          "price_rule_id": "10000012510",
+          "price": "20350000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 9678,
+          "sold": 27,
+          "price_info": {
+            "final_price": "15050000000"
+          }
+        },
+        {
+          "model_id": "226331095061",
+          "name": "Hitam-Putih-170cm",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1715677688,
+          "seller_sku": "FZJ12-Black+White",
+          "mtime": 1715677688,
+          "price_rule_id": "0",
+          "price": "33000000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 0,
+          "sold": 10,
+          "price_info": {
+            "final_price": "27700000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29323021730",
+      "model": [
+        {
+          "model_id": "224580910168",
+          "name": "Hitam-140*200*34",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1760683701,
+          "seller_sku": "",
+          "mtime": 1763004767,
+          "price_rule_id": "775054648983552",
+          "price": "78900000000",
+          "currency": "IDR",
+          "normal_price": "150000000000",
+          "stock": 0,
+          "sold": 13,
+          "price_info": {
+            "final_price": "73600000000"
+          }
+        },
+        {
+          "model_id": "233708554647",
+          "name": "Hitam-90*200*34",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1736926575,
+          "seller_sku": "",
+          "mtime": 1763004767,
+          "price_rule_id": "775054648983552",
+          "price": "53500000000",
+          "currency": "IDR",
+          "normal_price": "100000000000",
+          "stock": 3075,
+          "sold": 147,
+          "price_info": {
+            "final_price": "48200000000"
+          }
+        },
+        {
+          "model_id": "233708554642",
+          "name": "Hitam-100*200*34",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1736926575,
+          "seller_sku": "",
+          "mtime": 1763004767,
+          "price_rule_id": "775054648983552",
+          "price": "58900000000",
+          "currency": "IDR",
+          "normal_price": "130000000000",
+          "stock": 4690,
+          "sold": 58,
+          "price_info": {
+            "final_price": "53600000000"
+          }
+        },
+        {
+          "model_id": "233708554643",
+          "name": "Hitam-120*200*34",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1736926575,
+          "seller_sku": "",
+          "mtime": 1763004767,
+          "price_rule_id": "826697587425280",
+          "price": "72010000000",
+          "currency": "IDR",
+          "normal_price": "150000000000",
+          "stock": 3085,
+          "sold": 158,
+          "price_info": {
+            "final_price": "66710000000"
+          }
+        },
+        {
+          "model_id": "233708554644",
+          "name": "Hitam-160*200*34",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1736926575,
+          "seller_sku": "",
+          "mtime": 1763004767,
+          "price_rule_id": "826697587425280",
+          "price": "77710000000",
+          "currency": "IDR",
+          "normal_price": "150000000000",
+          "stock": 2971,
+          "sold": 270,
+          "price_info": {
+            "final_price": "72410000000"
+          }
+        },
+        {
+          "model_id": "233708554645",
+          "name": "Hitam-180*200*34",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1736926575,
+          "seller_sku": "",
+          "mtime": 1763004767,
+          "price_rule_id": "775054648983552",
+          "price": "92500000000",
+          "currency": "IDR",
+          "normal_price": "200000000000",
+          "stock": 0,
+          "sold": 152,
+          "price_info": {
+            "final_price": "87200000000"
+          }
+        },
+        {
+          "model_id": "233708554646",
+          "name": "Hitam-180 *200*34",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1736926575,
+          "seller_sku": "",
+          "mtime": 1763004767,
+          "price_rule_id": "0",
+          "price": "50000000000",
+          "currency": "IDR",
+          "normal_price": "50000000000",
+          "stock": 0,
+          "sold": 211,
+          "price_info": {
+            "final_price": "44700000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "1557849304",
+      "model": [
+        {
+          "model_id": "2335234368",
+          "name": "250ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1538990410,
+          "seller_sku": "CO-DSA-0193",
+          "mtime": 1749383974,
+          "price_rule_id": "0",
+          "price": "9700000000",
+          "currency": "IDR",
+          "normal_price": "9700000000",
+          "stock": 0,
+          "sold": 4287,
+          "price_info": {
+            "final_price": "4850000000"
+          }
+        },
+        {
+          "model_id": "2335234367",
+          "name": "100ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1538990410,
+          "seller_sku": "CO-DSA-0110",
+          "mtime": 1749383974,
+          "price_rule_id": "10000013420",
+          "price": "4240000000",
+          "currency": "IDR",
+          "normal_price": "4600000000",
+          "stock": 17,
+          "sold": 6060,
+          "price_info": {
+            "final_price": "3180000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29524738258",
+      "model": [
+        {
+          "model_id": "247560949989",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738055017,
+          "seller_sku": "",
+          "mtime": 1738055017,
+          "price_rule_id": "826697587425280",
+          "price": "8600000000",
+          "currency": "IDR",
+          "normal_price": "9300000000",
+          "stock": 7,
+          "sold": 4985,
+          "price_info": {
+            "final_price": "4300000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "6162599815",
+      "model": [
+        {
+          "model_id": "71799940109",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1605249841,
+          "seller_sku": "VCO100K",
+          "mtime": 1757562723,
+          "price_rule_id": "227571908493313",
+          "price": "3155500000",
+          "currency": "IDR",
+          "normal_price": "3496500000",
+          "stock": 10,
+          "sold": 3697,
+          "price_info": {
+            "final_price": "2155500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24718401895",
+      "model": [
+        {
+          "model_id": "240518205976",
+          "name": "55ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1711009075,
+          "seller_sku": "TS053417",
+          "mtime": 1769062525,
+          "price_rule_id": "227571908493313",
+          "price": "48930000000",
+          "currency": "IDR",
+          "normal_price": "57000000000",
+          "stock": 10,
+          "sold": 1273,
+          "price_info": {
+            "final_price": "42930000000"
+          }
+        },
+        {
+          "model_id": "240518205975",
+          "name": "15ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1711009075,
+          "seller_sku": "TS053416",
+          "mtime": 1769062525,
+          "price_rule_id": "842544800382976",
+          "price": "21375000000",
+          "currency": "IDR",
+          "normal_price": "22500000000",
+          "stock": 19,
+          "sold": 2793,
+          "price_info": {
+            "final_price": "15375000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "7038091784",
+      "model": [
+        {
+          "model_id": "70349192178",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1595243497,
+          "seller_sku": "",
+          "mtime": 1628010034,
+          "price_rule_id": "227571908493313",
+          "price": "4080000000",
+          "currency": "IDR",
+          "normal_price": "4650000000",
+          "stock": 26,
+          "sold": 8730,
+          "price_info": {
+            "final_price": "3060000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "7734760383",
+      "model": [
+        {
+          "model_id": "30857169714",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1599018951,
+          "seller_sku": "",
+          "mtime": 1630134000,
+          "price_rule_id": "841755365261312",
+          "price": "11250000000",
+          "currency": "IDR",
+          "normal_price": "12080000000",
+          "stock": 112,
+          "sold": 10703,
+          "price_info": {
+            "final_price": "5250000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "51750777082",
+      "model": [
+        {
+          "model_id": "297123169234",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1762229622,
+          "seller_sku": "",
+          "mtime": 1762229623,
+          "price_rule_id": "841755365261312",
+          "price": "15500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 523,
+          "sold": 67,
+          "price_info": {
+            "final_price": "9500000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "41819045009",
+      "model": [
+        {
+          "model_id": "243896193146",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1757926803,
+          "seller_sku": "",
+          "mtime": 1757926803,
+          "price_rule_id": "841755365261312",
+          "price": "11550000000",
+          "currency": "IDR",
+          "normal_price": "22500000000",
+          "stock": 163,
+          "sold": 90,
+          "price_info": {
+            "final_price": "5550000000"
+          }
+        }
+      ]
+    }
+  ]
+}
