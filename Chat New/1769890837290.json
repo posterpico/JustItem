@@ -1,0 +1,2548 @@
+{
+  "items": [
+    {
+      "item_id": "24982076199",
+      "model": [
+        {
+          "model_id": "187576254531",
+          "name": "N8 Purple",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1718176335,
+          "seller_sku": "DRN8PUR",
+          "mtime": 1747291600,
+          "price_rule_id": "234470926200832",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 50,
+          "sold": 101,
+          "price_info": {
+            "final_price": "10582000000"
+          }
+        },
+        {
+          "model_id": "187576254532",
+          "name": "N8 Green",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1718176335,
+          "seller_sku": "DRN8GN",
+          "mtime": 1747291600,
+          "price_rule_id": "234470926200832",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 50,
+          "sold": 80,
+          "price_info": {
+            "final_price": "10582000000"
+          }
+        },
+        {
+          "model_id": "187576254529",
+          "name": "N8 White",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1718176335,
+          "seller_sku": "DRN8WT",
+          "mtime": 1747291600,
+          "price_rule_id": "234470926200832",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 50,
+          "sold": 262,
+          "price_info": {
+            "final_price": "10582000000"
+          }
+        },
+        {
+          "model_id": "187576254530",
+          "name": "N8 Blue",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1718176335,
+          "seller_sku": "DRN8BU",
+          "mtime": 1747291600,
+          "price_rule_id": "234470926200832",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 50,
+          "sold": 174,
+          "price_info": {
+            "final_price": "11562000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "4949554167",
+      "model": [
+        {
+          "model_id": "50803985031",
+          "name": "Package",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1598671572,
+          "seller_sku": "",
+          "mtime": 1627932473,
+          "price_rule_id": "814342921043968",
+          "price": "5630000000",
+          "currency": "IDR",
+          "normal_price": "6140000000",
+          "stock": 1036,
+          "sold": 32324,
+          "price_info": {
+            "final_price": "2815000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "11761335008",
+      "model": [
+        {
+          "model_id": "27809795256",
+          "name": "0",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1634632891,
+          "seller_sku": "",
+          "mtime": 1634632891,
+          "price_rule_id": "814342921043968",
+          "price": "8600000000",
+          "currency": "IDR",
+          "normal_price": "9100000000",
+          "stock": 793,
+          "sold": 16335,
+          "price_info": {
+            "final_price": "4042000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "2615304109",
+      "model": [
+        {
+          "model_id": "51739135331",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1604867826,
+          "seller_sku": "",
+          "mtime": 1627095622,
+          "price_rule_id": "826697587425280",
+          "price": "1806400000",
+          "currency": "IDR",
+          "normal_price": "2500000000",
+          "stock": 4891,
+          "sold": 4360,
+          "price_info": {
+            "final_price": "806400000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "21291450100",
+      "model": [
+        {
+          "model_id": "247778868945",
+          "name": "Navy",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1740995299,
+          "seller_sku": "0761-NAVY",
+          "mtime": 1740995299,
+          "price_rule_id": "754794357112832",
+          "price": "28350000000",
+          "currency": "IDR",
+          "normal_price": "31500000000",
+          "stock": 104,
+          "sold": 35,
+          "price_info": {
+            "final_price": "23150000000"
+          }
+        },
+        {
+          "model_id": "197081829846",
+          "name": "Merah",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1696581732,
+          "seller_sku": "0761-MERAH",
+          "mtime": 1696581732,
+          "price_rule_id": "0",
+          "price": "31500000000",
+          "currency": "IDR",
+          "normal_price": "31500000000",
+          "stock": 0,
+          "sold": 23,
+          "price_info": {
+            "final_price": "26300000000"
+          }
+        },
+        {
+          "model_id": "226844166267",
+          "name": "Kuning",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1728030732,
+          "seller_sku": "0761-KUNING",
+          "mtime": 1728030732,
+          "price_rule_id": "754794357112832",
+          "price": "28350000000",
+          "currency": "IDR",
+          "normal_price": "31500000000",
+          "stock": 27,
+          "sold": 47,
+          "price_info": {
+            "final_price": "23150000000"
+          }
+        },
+        {
+          "model_id": "235476907592",
+          "name": "Hitam",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1690949434,
+          "seller_sku": "0761-HITAM",
+          "mtime": 1690949434,
+          "price_rule_id": "10000017020",
+          "price": "28299800000",
+          "currency": "IDR",
+          "normal_price": "31500000000",
+          "stock": 116,
+          "sold": 398,
+          "price_info": {
+            "final_price": "23099800000"
+          }
+        },
+        {
+          "model_id": "245648498344",
+          "name": "Merah Bata",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1713325741,
+          "seller_sku": "0761-MERAHBATA",
+          "mtime": 1713325741,
+          "price_rule_id": "0",
+          "price": "31500000000",
+          "currency": "IDR",
+          "normal_price": "31500000000",
+          "stock": 0,
+          "sold": 70,
+          "price_info": {
+            "final_price": "26300000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "42750276105",
+      "model": [
+        {
+          "model_id": "285022000272",
+          "name": "Default",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1746767445,
+          "seller_sku": "",
+          "mtime": 1746767445,
+          "price_rule_id": "814342921043968",
+          "price": "3980000000",
+          "currency": "IDR",
+          "normal_price": "4800000000",
+          "stock": 606,
+          "sold": 3447,
+          "price_info": {
+            "final_price": "2980000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "154646295",
+      "model": [
+        {
+          "model_id": "76943044605",
+          "name": "Silver",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1628843965,
+          "seller_sku": "BL2098BDU",
+          "mtime": 1716785367,
+          "price_rule_id": "0",
+          "price": "190000000000",
+          "currency": "IDR",
+          "normal_price": "190000000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "180000000000"
+          }
+        },
+        {
+          "model_id": "76943044604",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1628843965,
+          "seller_sku": "BL2098BDH",
+          "mtime": 1716785367,
+          "price_rule_id": "827509688549376",
+          "price": "180000000000",
+          "currency": "IDR",
+          "normal_price": "190000000000",
+          "stock": 480,
+          "sold": 4488,
+          "price_info": {
+            "final_price": "170000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "20013511282",
+      "model": [
+        {
+          "model_id": "233253393767",
+          "name": "Free Gift",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1727083381,
+          "seller_sku": "AS950JPT02",
+          "mtime": 1727083381,
+          "price_rule_id": "0",
+          "price": "165000000000",
+          "currency": "IDR",
+          "normal_price": "165000000000",
+          "stock": 0,
+          "sold": 260,
+          "price_info": {
+            "final_price": "155000000000"
+          }
+        },
+        {
+          "model_id": "233253393766",
+          "name": "Produk",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1727083381,
+          "seller_sku": "BLAS950E",
+          "mtime": 1727083381,
+          "price_rule_id": "826697587425280",
+          "price": "134900000000",
+          "currency": "IDR",
+          "normal_price": "165000000000",
+          "stock": 15,
+          "sold": 5323,
+          "price_info": {
+            "final_price": "124900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "1828879681",
+      "model": [
+        {
+          "model_id": "71563406701",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1603873844,
+          "seller_sku": "",
+          "mtime": 1628442000,
+          "price_rule_id": "826697587425280",
+          "price": "81000000000",
+          "currency": "IDR",
+          "normal_price": "95000000000",
+          "stock": 39,
+          "sold": 5684,
+          "price_info": {
+            "final_price": "71000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "18923017334",
+      "model": [
+        {
+          "model_id": "211200609456",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1657684478,
+          "seller_sku": "",
+          "mtime": 1657684478,
+          "price_rule_id": "827509688549376",
+          "price": "240000000000",
+          "currency": "IDR",
+          "normal_price": "250000000000",
+          "stock": 99,
+          "sold": 1314,
+          "price_info": {
+            "final_price": "230000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26416770905",
+      "model": [
+        {
+          "model_id": "258542575811",
+          "name": "Bunny Tea Party,6-12 M",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1750479357,
+          "seller_sku": "BL-Bodysuit-Emma-TCm-12M-BunnyTP",
+          "mtime": 1757411223,
+          "price_rule_id": "234381017100288",
+          "price": "18905000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 2,
+          "sold": 36,
+          "price_info": {
+            "final_price": "13905000000"
+          }
+        },
+        {
+          "model_id": "275943356320",
+          "name": "Enchanted Forest,0-6 M",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1754112221,
+          "seller_sku": "BL-Bodysuit-Emma-TCm-6M-ForestBlue",
+          "mtime": 1757411223,
+          "price_rule_id": "234381017100288",
+          "price": "18905000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 2,
+          "sold": 14,
+          "price_info": {
+            "final_price": "13905000000"
+          }
+        },
+        {
+          "model_id": "275943356321",
+          "name": "Enchanted Forest,6-12 M",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1754112221,
+          "seller_sku": "BL-Bodysuit-Emma-TCm-12M-ForestBlue",
+          "mtime": 1757411223,
+          "price_rule_id": "234381017100288",
+          "price": "18905000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 2,
+          "sold": 23,
+          "price_info": {
+            "final_price": "13905000000"
+          }
+        },
+        {
+          "model_id": "223428595472",
+          "name": "Fairy Forest,0-6 M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1730912944,
+          "seller_sku": "BL-Bodysuit-Emma-TCm-6M-FairyForest",
+          "mtime": 1757411223,
+          "price_rule_id": "234381017100288",
+          "price": "18905000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 2,
+          "sold": 59,
+          "price_info": {
+            "final_price": "13905000000"
+          }
+        },
+        {
+          "model_id": "223428595473",
+          "name": "Fairy Forest,6-12 M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1730912944,
+          "seller_sku": "BL-Bodysuit-Emma-TCm-12M-FairyForest",
+          "mtime": 1757411223,
+          "price_rule_id": "234381017100288",
+          "price": "18905000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 2,
+          "sold": 75,
+          "price_info": {
+            "final_price": "13905000000"
+          }
+        },
+        {
+          "model_id": "258542575810",
+          "name": "Bunny Tea Party,0-6 M",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1750479357,
+          "seller_sku": "BL-Bodysuit-Emma-TCm-6M-BunnyTP",
+          "mtime": 1757411223,
+          "price_rule_id": "234381017100288",
+          "price": "18905000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 2,
+          "sold": 23,
+          "price_info": {
+            "final_price": "13905000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24704466717",
+      "model": [
+        {
+          "model_id": "207231717890",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1703235317,
+          "seller_sku": "",
+          "mtime": 1703235317,
+          "price_rule_id": "234450130845696",
+          "price": "3209600000",
+          "currency": "IDR",
+          "normal_price": "3776000000",
+          "stock": 4,
+          "sold": 6730,
+          "price_info": {
+            "final_price": "2209600000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "19551131776",
+      "model": [
+        {
+          "model_id": "88316436621",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1664551708,
+          "seller_sku": "",
+          "mtime": 1664551708,
+          "price_rule_id": "843303164100608",
+          "price": "9271300000",
+          "currency": "IDR",
+          "normal_price": "9558000000",
+          "stock": 13809,
+          "sold": 1390,
+          "price_info": {
+            "final_price": "4635600000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "54302423464",
+      "model": [
+        {
+          "model_id": "415236208145",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1764648016,
+          "seller_sku": "",
+          "mtime": 1764648016,
+          "price_rule_id": "842556200501248",
+          "price": "3350000000",
+          "currency": "IDR",
+          "normal_price": "3950000000",
+          "stock": 541,
+          "sold": 405,
+          "price_info": {
+            "final_price": "2050000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "17558346948",
+      "model": [
+        {
+          "model_id": "235948063603",
+          "name": "Bata,size 2",
+          "status": 1,
+          "tier_indices": [
+            6,
+            1
+          ],
+          "create_time": 1703920538,
+          "seller_sku": "KOKO-Bata-2",
+          "mtime": 1764905871,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 1,
+          "sold": 48,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "48709526264",
+          "name": "Milo,size 6",
+          "status": 1,
+          "tier_indices": [
+            1,
+            5
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Milo-6",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 512,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "222020837700",
+          "name": "Dark Grey,size 6",
+          "status": 1,
+          "tier_indices": [
+            5,
+            5
+          ],
+          "create_time": 1694601170,
+          "seller_sku": "KOKO-DarkGrey-6",
+          "mtime": 1694665240,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 11,
+          "sold": 73,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "222020837701",
+          "name": "Dark Grey,size 3",
+          "status": 1,
+          "tier_indices": [
+            5,
+            2
+          ],
+          "create_time": 1694601170,
+          "seller_sku": "KOKO-DarkGrey-3",
+          "mtime": 1694601170,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 12,
+          "sold": 69,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "236281519987",
+          "name": "Peanut,size 4",
+          "status": 1,
+          "tier_indices": [
+            9,
+            3
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-Peanut-4",
+          "mtime": 1742630110,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 2,
+          "sold": 74,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "236281519981",
+          "name": "Moss Green,size 4",
+          "status": 1,
+          "tier_indices": [
+            8,
+            3
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-MossGreen-4",
+          "mtime": 1740621679,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 50,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "48709526271",
+          "name": "Broken White,size 3",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-BrokenWhite-3",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 478,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "58709206255",
+          "name": "Caramel,size 2",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Caramel-2",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 241,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "48709526270",
+          "name": "Broken White,Size 1",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-BrokenWhite-1",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 425,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "58709206254",
+          "name": "Milo,size 2",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Milo-2",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 487,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "58709206250",
+          "name": "Grey,size 4",
+          "status": 1,
+          "tier_indices": [
+            4,
+            3
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Grey-4",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 341,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "236281519988",
+          "name": "Peanut,size 5",
+          "status": 1,
+          "tier_indices": [
+            9,
+            4
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-Peanut-5",
+          "mtime": 1742630110,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 2,
+          "sold": 63,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "255501423603",
+          "name": "Black,size 4",
+          "status": 1,
+          "tier_indices": [
+            7,
+            3
+          ],
+          "create_time": 1710770548,
+          "seller_sku": "KOKO-Black-4",
+          "mtime": 1710770548,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 1,
+          "sold": 62,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "48709526273",
+          "name": "Milo,size 4",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Milo-4",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 530,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526279",
+          "name": "Milo,size 5",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Milo-5",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 499,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526262",
+          "name": "Broken White,size 2",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-BrokenWhite-2",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 430,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "48709526267",
+          "name": "Caramel,size 4",
+          "status": 1,
+          "tier_indices": [
+            3,
+            3
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Caramel-4",
+          "mtime": 1764905871,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 2,
+          "sold": 243,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "48709526278",
+          "name": "Grey,size 2",
+          "status": 1,
+          "tier_indices": [
+            4,
+            1
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Grey-2",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 322,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "48709526272",
+          "name": "Broken White,size 5",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-BrokenWhite-5",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 456,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "236281519984",
+          "name": "Peanut,Size 1",
+          "status": 1,
+          "tier_indices": [
+            9,
+            0
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-Peanut-1",
+          "mtime": 1742630110,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 68,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "48709526283",
+          "name": "Navy,size 4",
+          "status": 1,
+          "tier_indices": [
+            2,
+            3
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Navy-4",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 325,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "236281519989",
+          "name": "Peanut,size 6",
+          "status": 1,
+          "tier_indices": [
+            9,
+            5
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-Peanut-6",
+          "mtime": 1742630110,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 75,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "235948063607",
+          "name": "Bata,size 6",
+          "status": 1,
+          "tier_indices": [
+            6,
+            5
+          ],
+          "create_time": 1703920538,
+          "seller_sku": "KOKO-Bata-6",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 67,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526277",
+          "name": "Grey,Size 1",
+          "status": 1,
+          "tier_indices": [
+            4,
+            0
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Grey-1",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 327,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "48709526282",
+          "name": "Milo,size 3",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Milo-3",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 516,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "255501423600",
+          "name": "Black,Size 1",
+          "status": 1,
+          "tier_indices": [
+            7,
+            0
+          ],
+          "create_time": 1710770548,
+          "seller_sku": "KOKO-Black-1",
+          "mtime": 1710770548,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 3,
+          "sold": 42,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "236281519983",
+          "name": "Moss Green,size 6",
+          "status": 1,
+          "tier_indices": [
+            8,
+            5
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-MossGreen-6",
+          "mtime": 1740621679,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 50,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "58709206252",
+          "name": "Broken White,size 4",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-BrokenWhite-4",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 461,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "255501423604",
+          "name": "Black,size 5",
+          "status": 1,
+          "tier_indices": [
+            7,
+            4
+          ],
+          "create_time": 1710770548,
+          "seller_sku": "KOKO-Black-5",
+          "mtime": 1710770548,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 2,
+          "sold": 48,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "236281519982",
+          "name": "Moss Green,size 5",
+          "status": 1,
+          "tier_indices": [
+            8,
+            4
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-MossGreen-5",
+          "mtime": 1740621679,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 56,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "48709526274",
+          "name": "Caramel,size 6",
+          "status": 1,
+          "tier_indices": [
+            3,
+            5
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Caramel-6",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 247,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526281",
+          "name": "Caramel,Size 1",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Caramel-1",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 233,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "255501423602",
+          "name": "Black,size 3",
+          "status": 1,
+          "tier_indices": [
+            7,
+            2
+          ],
+          "create_time": 1710770548,
+          "seller_sku": "KOKO-Black-3",
+          "mtime": 1710770548,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 57,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526280",
+          "name": "Navy,size 5",
+          "status": 1,
+          "tier_indices": [
+            2,
+            4
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Navy-5",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 326,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526275",
+          "name": "Grey,size 3",
+          "status": 1,
+          "tier_indices": [
+            4,
+            2
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Grey-3",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 353,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "236281519978",
+          "name": "Moss Green,Size 1",
+          "status": 1,
+          "tier_indices": [
+            8,
+            0
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-MossGreen-1",
+          "mtime": 1740621679,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 40,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "58709206253",
+          "name": "Milo,Size 1",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Milo-1",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 486,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "48709526266",
+          "name": "Caramel,size 3",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Caramel-3",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 246,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "235948063604",
+          "name": "Bata,size 3",
+          "status": 1,
+          "tier_indices": [
+            6,
+            2
+          ],
+          "create_time": 1703920538,
+          "seller_sku": "KOKO-Bata-3",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 53,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "222020837698",
+          "name": "Dark Grey,Size 1",
+          "status": 1,
+          "tier_indices": [
+            5,
+            0
+          ],
+          "create_time": 1694601170,
+          "seller_sku": "KOKO-DarkGrey-1",
+          "mtime": 1694601170,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 14,
+          "sold": 70,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "236281519980",
+          "name": "Moss Green,size 3",
+          "status": 1,
+          "tier_indices": [
+            8,
+            2
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-MossGreen-3",
+          "mtime": 1740621679,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 40,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "236281519986",
+          "name": "Peanut,size 3",
+          "status": 1,
+          "tier_indices": [
+            9,
+            2
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-Peanut-3",
+          "mtime": 1742630110,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 1,
+          "sold": 65,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "58709206248",
+          "name": "Caramel,size 5",
+          "status": 1,
+          "tier_indices": [
+            3,
+            4
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Caramel-5",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 213,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526269",
+          "name": "Navy,size 6",
+          "status": 1,
+          "tier_indices": [
+            2,
+            5
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Navy-6",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 327,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "222020837699",
+          "name": "Dark Grey,size 4",
+          "status": 1,
+          "tier_indices": [
+            5,
+            3
+          ],
+          "create_time": 1694601170,
+          "seller_sku": "KOKO-DarkGrey-4",
+          "mtime": 1694601170,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 10,
+          "sold": 78,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526263",
+          "name": "Broken White,size 6",
+          "status": 1,
+          "tier_indices": [
+            0,
+            5
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-BrokenWhite-6",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 455,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "255501423605",
+          "name": "Black,size 6",
+          "status": 1,
+          "tier_indices": [
+            7,
+            5
+          ],
+          "create_time": 1710770548,
+          "seller_sku": "KOKO-Black-6",
+          "mtime": 1710770548,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 2,
+          "sold": 50,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "48709526276",
+          "name": "Navy,size 2",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Navy-2",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 310,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "236281519979",
+          "name": "Moss Green,size 2",
+          "status": 1,
+          "tier_indices": [
+            8,
+            1
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-MossGreen-2",
+          "mtime": 1740621679,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 4,
+          "sold": 51,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "236281519985",
+          "name": "Peanut,size 2",
+          "status": 1,
+          "tier_indices": [
+            9,
+            1
+          ],
+          "create_time": 1714382067,
+          "seller_sku": "KOKO-Peanut-2",
+          "mtime": 1742630110,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 3,
+          "sold": 68,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "58709206249",
+          "name": "Navy,Size 1",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Navy-1",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 309,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "235948063602",
+          "name": "Bata,Size 1",
+          "status": 1,
+          "tier_indices": [
+            6,
+            0
+          ],
+          "create_time": 1703920538,
+          "seller_sku": "KOKO-Bata-1",
+          "mtime": 1764905871,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 2,
+          "sold": 26,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "48709526268",
+          "name": "Grey,size 5",
+          "status": 1,
+          "tier_indices": [
+            4,
+            4
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Grey-5",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 342,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        },
+        {
+          "model_id": "222020837697",
+          "name": "Dark Grey,size 5",
+          "status": 1,
+          "tier_indices": [
+            5,
+            4
+          ],
+          "create_time": 1694601170,
+          "seller_sku": "KOKO-DarkGrey-5",
+          "mtime": 1694601170,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 12,
+          "sold": 67,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "48709526265",
+          "name": "Navy,size 3",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Navy-3",
+          "mtime": 1652697464,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 333,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "235948063606",
+          "name": "Bata,size 5",
+          "status": 1,
+          "tier_indices": [
+            6,
+            4
+          ],
+          "create_time": 1703920538,
+          "seller_sku": "KOKO-Bata-5",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 57,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "255501423601",
+          "name": "Black,size 2",
+          "status": 1,
+          "tier_indices": [
+            7,
+            1
+          ],
+          "create_time": 1710770548,
+          "seller_sku": "KOKO-Black-2",
+          "mtime": 1710770548,
+          "price_rule_id": "227571908493313",
+          "price": "8629400000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 2,
+          "sold": 47,
+          "price_info": {
+            "final_price": "4314700000"
+          }
+        },
+        {
+          "model_id": "222020837696",
+          "name": "Dark Grey,size 2",
+          "status": 1,
+          "tier_indices": [
+            5,
+            1
+          ],
+          "create_time": 1694601170,
+          "seller_sku": "KOKO-DarkGrey-2",
+          "mtime": 1694601170,
+          "price_rule_id": "830854570508288",
+          "price": "8989000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 15,
+          "sold": 68,
+          "price_info": {
+            "final_price": "4494500000"
+          }
+        },
+        {
+          "model_id": "235948063605",
+          "name": "Bata,size 4",
+          "status": 1,
+          "tier_indices": [
+            6,
+            3
+          ],
+          "create_time": 1703920538,
+          "seller_sku": "KOKO-Bata-4",
+          "mtime": 1764905871,
+          "price_rule_id": "830854570508288",
+          "price": "9798900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 62,
+          "price_info": {
+            "final_price": "4899400000"
+          }
+        },
+        {
+          "model_id": "58709206251",
+          "name": "Grey,size 6",
+          "status": 1,
+          "tier_indices": [
+            4,
+            5
+          ],
+          "create_time": 1650879087,
+          "seller_sku": "KOKO-Grey-6",
+          "mtime": 1652697464,
+          "price_rule_id": "227571908493313",
+          "price": "9406900000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 5,
+          "sold": 348,
+          "price_info": {
+            "final_price": "4703400000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "2392562801",
+      "model": [
+        {
+          "model_id": "445445534079",
+          "name": "3x SpringJasmine 94%",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1768630439,
+          "seller_sku": "P3-W-20421-94",
+          "mtime": 1768630439,
+          "price_rule_id": "843370272980992",
+          "price": "4470000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 257,
+          "sold": 323,
+          "price_info": {
+            "final_price": "3352500000"
+          }
+        },
+        {
+          "model_id": "260521128580",
+          "name": "3x SpringJasmine 74%",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1750917232,
+          "seller_sku": "P3-W-20421",
+          "mtime": 1768630439,
+          "price_rule_id": "843370272980992",
+          "price": "4470000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 244,
+          "sold": 9677,
+          "price_info": {
+            "final_price": "3352500000"
+          }
+        },
+        {
+          "model_id": "390141101262",
+          "name": "3 x Campur 94%",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1763369894,
+          "seller_sku": "P3-W-20407-Mx-94",
+          "mtime": 1763369894,
+          "price_rule_id": "843370272980992",
+          "price": "4470000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 0,
+          "sold": 1243,
+          "price_info": {
+            "final_price": "3352500000"
+          }
+        },
+        {
+          "model_id": "28100584106",
+          "name": "3 x Non-Perfumed 74%",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1637893814,
+          "seller_sku": "P3-W-20407-Np",
+          "mtime": 1763369894,
+          "price_rule_id": "843370272980992",
+          "price": "4470000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 230,
+          "sold": 32316,
+          "price_info": {
+            "final_price": "3352500000"
+          }
+        },
+        {
+          "model_id": "28100584105",
+          "name": "3 x Perfumed 74%",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1637893814,
+          "seller_sku": "P3-W-20419",
+          "mtime": 1763369894,
+          "price_rule_id": "843370272980992",
+          "price": "4470000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 174,
+          "sold": 50926,
+          "price_info": {
+            "final_price": "3352500000"
+          }
+        },
+        {
+          "model_id": "390141101263",
+          "name": "3 x Non Perfumed 94%",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1763369894,
+          "seller_sku": "P3-W-20407-Np-94",
+          "mtime": 1763369894,
+          "price_rule_id": "227571908493313",
+          "price": "4429900000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 96,
+          "sold": 1394,
+          "price_info": {
+            "final_price": "3322400000"
+          }
+        },
+        {
+          "model_id": "390141101264",
+          "name": "3 x Perfumed 94%",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1763369894,
+          "seller_sku": "P3-W-20419-94",
+          "mtime": 1763369894,
+          "price_rule_id": "843370272980992",
+          "price": "4470000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 292,
+          "sold": 1404,
+          "price_info": {
+            "final_price": "3352500000"
+          }
+        },
+        {
+          "model_id": "28100584107",
+          "name": "3 x Campur 74%",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1637893814,
+          "seller_sku": "P3-W-20407-Mx",
+          "mtime": 1763369894,
+          "price_rule_id": "843370272980992",
+          "price": "4470000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 414,
+          "sold": 27886,
+          "price_info": {
+            "final_price": "3352500000"
+          }
+        },
+        {
+          "model_id": "28100584104",
+          "name": "3 x Charcoal 74%",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1637893814,
+          "seller_sku": "P3-W-20420",
+          "mtime": 1763369894,
+          "price_rule_id": "843370272980992",
+          "price": "4470000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 83,
+          "sold": 29619,
+          "price_info": {
+            "final_price": "3352500000"
+          }
+        },
+        {
+          "model_id": "390141101261",
+          "name": "3 x Charcoal 94%",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1763369894,
+          "seller_sku": "P3-W-20420-94",
+          "mtime": 1763369894,
+          "price_rule_id": "0",
+          "price": "5290000000",
+          "currency": "IDR",
+          "normal_price": "5290000000",
+          "stock": 0,
+          "sold": 1310,
+          "price_info": {
+            "final_price": "2645000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23777867042",
+      "model": [
+        {
+          "model_id": "196980422705",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1692848569,
+          "seller_sku": "",
+          "mtime": 1692848569,
+          "price_rule_id": "233051011694592",
+          "price": "7638000000",
+          "currency": "IDR",
+          "normal_price": "8040000000",
+          "stock": 5,
+          "sold": 1072,
+          "price_info": {
+            "final_price": "3819000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22576818082",
+      "model": [
+        {
+          "model_id": "214505435243",
+          "name": "Celana Salur Biru,4T",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1692084060,
+          "seller_sku": "XPG6103T.C2.K.LION.4T",
+          "mtime": 1692084060,
+          "price_rule_id": "831088956589056",
+          "price": "5990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 1,
+          "sold": 12,
+          "price_info": {
+            "final_price": "2490000000"
+          }
+        },
+        {
+          "model_id": "214505435244",
+          "name": "Celana Biru Tuton,2T",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1692084060,
+          "seller_sku": "XPG698T.C2.K.LION.2T",
+          "mtime": 1692084060,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 7,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "214505435245",
+          "name": "Celana Biru Tuton,3T",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1692084060,
+          "seller_sku": "XPG698T.C2.K.LION.3T",
+          "mtime": 1692084060,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 4,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "214505435246",
+          "name": "Celana Biru Tuton,4T",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1692084060,
+          "seller_sku": "XPG698T.C2.K.LION.4T",
+          "mtime": 1692084060,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 8,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "214505435241",
+          "name": "Celana Salur Biru,2T",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1692084060,
+          "seller_sku": "XPG6103T.C2.K.LION.2T",
+          "mtime": 1692084060,
+          "price_rule_id": "233728630865921",
+          "price": "4390000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 4,
+          "sold": 4,
+          "price_info": {
+            "final_price": "3292500000"
+          }
+        },
+        {
+          "model_id": "214505435242",
+          "name": "Celana Salur Biru,3T",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1692084060,
+          "seller_sku": "XPG6103T.C2.K.LION.3T",
+          "mtime": 1692084060,
+          "price_rule_id": "233728630865921",
+          "price": "4390000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 5,
+          "sold": 2,
+          "price_info": {
+            "final_price": "3292500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "20147721742",
+      "model": [
+        {
+          "model_id": "168430564825",
+          "name": "Celana Kubus,4T",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG686.C3.N.DUDE.4T",
+          "mtime": 1726831492,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "168430564826",
+          "name": "Celana Abu Muda,3T",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG685.C3.N.DUDE.3T",
+          "mtime": 1726831492,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 5,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "168430564830",
+          "name": "Celana Abu Tua,2T",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG687.C3.N.DUDE.2T",
+          "mtime": 1726831492,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "202411634487",
+          "name": "Celana Abu Muda,2T",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1663673843,
+          "seller_sku": "XPG685.C3.N.DUDE.2T",
+          "mtime": 1663673843,
+          "price_rule_id": "831088956589056",
+          "price": "5990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 2,
+          "sold": 5,
+          "price_info": {
+            "final_price": "2490000000"
+          }
+        },
+        {
+          "model_id": "202411634488",
+          "name": "Celana Salur K-Cklt,2T",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1663673843,
+          "seller_sku": "XPG688.C3.N.DUDE.2T",
+          "mtime": 1663673843,
+          "price_rule_id": "831088956589056",
+          "price": "5990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 27,
+          "sold": 0,
+          "price_info": {
+            "final_price": "2490000000"
+          }
+        },
+        {
+          "model_id": "168430564824",
+          "name": "Celana Kubus,3T",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG686.C3.N.DUDE.3T",
+          "mtime": 1726831492,
+          "price_rule_id": "831088956589056",
+          "price": "5990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 1,
+          "sold": 0,
+          "price_info": {
+            "final_price": "2490000000"
+          }
+        },
+        {
+          "model_id": "202411634486",
+          "name": "Celana Kubus,2T",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1663673843,
+          "seller_sku": "XPG686.C3.N.DUDE.2T",
+          "mtime": 1663673843,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "168430564831",
+          "name": "Celana Abu Tua,3T",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG687.C3.N.DUDE.3T",
+          "mtime": 1726831492,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "168430564832",
+          "name": "Celana Abu Tua,4T",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG687.C3.N.DUDE.4T",
+          "mtime": 1726831492,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "168430564827",
+          "name": "Celana Abu Muda,4T",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG685.C3.N.DUDE.4T",
+          "mtime": 1726831492,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 3,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "168430564828",
+          "name": "Celana Salur K-Cklt,3T",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG688.C3.N.DUDE.3T",
+          "mtime": 1726831492,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        },
+        {
+          "model_id": "168430564829",
+          "name": "Celana Salur K-Cklt,4T",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1726831492,
+          "seller_sku": "XPG688.C3.N.DUDE.4T",
+          "mtime": 1726831492,
+          "price_rule_id": "0",
+          "price": "19990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "12490000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "19865432130",
+      "model": [
+        {
+          "model_id": "165216989692",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1669615901,
+          "seller_sku": "",
+          "mtime": 1669615901,
+          "price_rule_id": "0",
+          "price": "19996800000",
+          "currency": "IDR",
+          "normal_price": "19996800000",
+          "stock": 0,
+          "sold": 263,
+          "price_info": {
+            "final_price": "14396800000"
+          }
+        }
+      ]
+    }
+  ]
+}
