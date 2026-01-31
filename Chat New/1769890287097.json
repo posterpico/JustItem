@@ -1,0 +1,1118 @@
+{
+  "items": [
+    {
+      "item_id": "5944248264",
+      "model": [
+        {
+          "model_id": "40445750121",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1596083088,
+          "seller_sku": "",
+          "mtime": 1627871544,
+          "price_rule_id": "843645620633600",
+          "price": "19507000000",
+          "currency": "IDR",
+          "normal_price": "24300000000",
+          "stock": 87,
+          "sold": 28486,
+          "price_info": {
+            "final_price": "14507000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "4008046214",
+      "model": [
+        {
+          "model_id": "71765700989",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1605007369,
+          "seller_sku": "",
+          "mtime": 1627902056,
+          "price_rule_id": "843615186780160",
+          "price": "3652000000",
+          "currency": "IDR",
+          "normal_price": "4400000000",
+          "stock": 0,
+          "sold": 2248,
+          "price_info": {
+            "final_price": "2652000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28903328148",
+      "model": [
+        {
+          "model_id": "286325301860",
+          "name": "XRV038-1CT",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1756544611,
+          "seller_sku": "XRV038",
+          "mtime": 1767687493,
+          "price_rule_id": "825238741368832",
+          "price": "115000000000",
+          "currency": "IDR",
+          "normal_price": "226000000000",
+          "stock": 29,
+          "sold": 3,
+          "price_info": {
+            "final_price": "69000000000"
+          }
+        },
+        {
+          "model_id": "286325301861",
+          "name": "XRV037-1CT",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1756544611,
+          "seller_sku": "XRV037",
+          "mtime": 1767687493,
+          "price_rule_id": "825238741368832",
+          "price": "115000000000",
+          "currency": "IDR",
+          "normal_price": "226000000000",
+          "stock": 28,
+          "sold": 3,
+          "price_info": {
+            "final_price": "69000000000"
+          }
+        },
+        {
+          "model_id": "207596854967",
+          "name": "SL0009-0.5CT*2",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1718877341,
+          "seller_sku": "SL0009",
+          "mtime": 1767687493,
+          "price_rule_id": "827276745310208",
+          "price": "91865000000",
+          "currency": "IDR",
+          "normal_price": "213400000000",
+          "stock": 96,
+          "sold": 317,
+          "price_info": {
+            "final_price": "55119000000"
+          }
+        },
+        {
+          "model_id": "286325301856",
+          "name": "XRZ006-0.5CT",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1756544611,
+          "seller_sku": "XRZ006",
+          "mtime": 1767687493,
+          "price_rule_id": "10000015500",
+          "price": "87495000000",
+          "currency": "IDR",
+          "normal_price": "154000000000",
+          "stock": 61,
+          "sold": 41,
+          "price_info": {
+            "final_price": "52497000000"
+          }
+        },
+        {
+          "model_id": "286325301857",
+          "name": "XRZ614-0.8CT",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1756544611,
+          "seller_sku": "XRZ614",
+          "mtime": 1767687493,
+          "price_rule_id": "825238741368832",
+          "price": "92100000000",
+          "currency": "IDR",
+          "normal_price": "169600000000",
+          "stock": 32,
+          "sold": 3,
+          "price_info": {
+            "final_price": "55260000000"
+          }
+        },
+        {
+          "model_id": "300018854213",
+          "name": "XRZ003-1CT",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1746754735,
+          "seller_sku": "XRZ003",
+          "mtime": 1767687493,
+          "price_rule_id": "825238741368832",
+          "price": "95700000000",
+          "currency": "IDR",
+          "normal_price": "184200000000",
+          "stock": 46,
+          "sold": 15,
+          "price_info": {
+            "final_price": "57420000000"
+          }
+        },
+        {
+          "model_id": "286325301862",
+          "name": "XRV036-2mm*20/3mm*3",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1756544611,
+          "seller_sku": "XRV036",
+          "mtime": 1767687493,
+          "price_rule_id": "825238741368832",
+          "price": "118000000000",
+          "currency": "IDR",
+          "normal_price": "226000000000",
+          "stock": 34,
+          "sold": 10,
+          "price_info": {
+            "final_price": "70800000000"
+          }
+        },
+        {
+          "model_id": "300018854211",
+          "name": "XFZ001-0.5CT",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1746754735,
+          "seller_sku": "XFZ001",
+          "mtime": 1767687493,
+          "price_rule_id": "825238741368832",
+          "price": "173450000000",
+          "currency": "IDR",
+          "normal_price": "226000000000",
+          "stock": 25,
+          "sold": 7,
+          "price_info": {
+            "final_price": "104070000000"
+          }
+        },
+        {
+          "model_id": "286325301858",
+          "name": "XRZ613-1CT",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1756544611,
+          "seller_sku": "XRZ613",
+          "mtime": 1767687493,
+          "price_rule_id": "825238741368832",
+          "price": "118000000000",
+          "currency": "IDR",
+          "normal_price": "191400000000",
+          "stock": 31,
+          "sold": 9,
+          "price_info": {
+            "final_price": "70800000000"
+          }
+        },
+        {
+          "model_id": "286325301859",
+          "name": "XRV035-1CT",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1756544611,
+          "seller_sku": "XRV035",
+          "mtime": 1767687493,
+          "price_rule_id": "825238741368832",
+          "price": "164450000000",
+          "currency": "IDR",
+          "normal_price": "222400000000",
+          "stock": 31,
+          "sold": 3,
+          "price_info": {
+            "final_price": "98670000000"
+          }
+        },
+        {
+          "model_id": "300018849600",
+          "name": "XRZ009-1CT",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1746754735,
+          "seller_sku": "XRZ009",
+          "mtime": 1767687493,
+          "price_rule_id": "827276745310208",
+          "price": "90915000000",
+          "currency": "IDR",
+          "normal_price": "222400000000",
+          "stock": 48,
+          "sold": 17,
+          "price_info": {
+            "final_price": "54549000000"
+          }
+        },
+        {
+          "model_id": "300018854212",
+          "name": "XRZ004-1CT",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1746754735,
+          "seller_sku": "XRZ004",
+          "mtime": 1767687493,
+          "price_rule_id": "10000015500",
+          "price": "91865000000",
+          "currency": "IDR",
+          "normal_price": "169600000000",
+          "stock": 31,
+          "sold": 16,
+          "price_info": {
+            "final_price": "55119000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24235956821",
+      "model": [
+        {
+          "model_id": "247394635182",
+          "name": "dx120 putih",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1735885833,
+          "seller_sku": "DEM-DX120W",
+          "mtime": 1736145515,
+          "price_rule_id": "811555931881472",
+          "price": "48900000000",
+          "currency": "IDR",
+          "normal_price": "99900000000",
+          "stock": 88,
+          "sold": 34,
+          "price_info": {
+            "final_price": "42152000000"
+          }
+        },
+        {
+          "model_id": "166677366264",
+          "name": "dx115c",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1726134625,
+          "seller_sku": "DEM-DX115C",
+          "mtime": 1726134625,
+          "price_rule_id": "811555931881472",
+          "price": "32900000000",
+          "currency": "IDR",
+          "normal_price": "89900000000",
+          "stock": 130,
+          "sold": 2099,
+          "price_info": {
+            "final_price": "26900000000"
+          }
+        },
+        {
+          "model_id": "166677366265",
+          "name": "dx115 pro",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1726134625,
+          "seller_sku": "DEM-DX115 PRO",
+          "mtime": 1726134625,
+          "price_rule_id": "811555931881472",
+          "price": "42900000000",
+          "currency": "IDR",
+          "normal_price": "89900000000",
+          "stock": 148,
+          "sold": 791,
+          "price_info": {
+            "final_price": "36872000000"
+          }
+        },
+        {
+          "model_id": "246583529185",
+          "name": "dx118",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1726193598,
+          "seller_sku": "DEM-DX118C",
+          "mtime": 1726193598,
+          "price_rule_id": "811555931881472",
+          "price": "32900000000",
+          "currency": "IDR",
+          "normal_price": "89900000000",
+          "stock": 170,
+          "sold": 208,
+          "price_info": {
+            "final_price": "26900000000"
+          }
+        },
+        {
+          "model_id": "247270041609",
+          "name": "dx120 abu-abu",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1734406921,
+          "seller_sku": "DEM-DX120G",
+          "mtime": 1736146373,
+          "price_rule_id": "811555931881472",
+          "price": "48900000000",
+          "currency": "IDR",
+          "normal_price": "99900000000",
+          "stock": 182,
+          "sold": 64,
+          "price_info": {
+            "final_price": "42152000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25114404709",
+      "model": [
+        {
+          "model_id": "370456851411",
+          "name": "957 Black",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1768891551,
+          "seller_sku": "957 Black",
+          "mtime": 1768891551,
+          "price_rule_id": "0",
+          "price": "122900000000",
+          "currency": "IDR",
+          "normal_price": "122900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "112900000000"
+          }
+        },
+        {
+          "model_id": "255354551668",
+          "name": "nc3273  Black a",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1708489465,
+          "seller_sku": "nc3273 Black a",
+          "mtime": 1768798392,
+          "price_rule_id": "838281357476864",
+          "price": "29200000000",
+          "currency": "IDR",
+          "normal_price": "122900000000",
+          "stock": 350,
+          "sold": 76,
+          "price_info": {
+            "final_price": "24200000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "3155389335",
+      "model": [
+        {
+          "model_id": "63040733704",
+          "name": "beddalotong Original,100gr (ecer)",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1609738746,
+          "seller_sku": "",
+          "mtime": 1629800800,
+          "price_rule_id": "227576727748608",
+          "price": "3069000000",
+          "currency": "IDR",
+          "normal_price": "3100000000",
+          "stock": 40,
+          "sold": 44425,
+          "price_info": {
+            "final_price": "2069000000"
+          }
+        },
+        {
+          "model_id": "24233057963",
+          "name": "beddalotong Original,300gr (ecer)",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1611843140,
+          "seller_sku": "",
+          "mtime": 1629800800,
+          "price_rule_id": "227576727748608",
+          "price": "6435000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 34,
+          "sold": 76789,
+          "price_info": {
+            "final_price": "3217500000"
+          }
+        },
+        {
+          "model_id": "53595125955",
+          "name": "Lulur aroma vanila,300gr (ecer)",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1611859407,
+          "seller_sku": "",
+          "mtime": 1632330017,
+          "price_rule_id": "227576727748608",
+          "price": "6831000000",
+          "currency": "IDR",
+          "normal_price": "6900000000",
+          "stock": 39,
+          "sold": 10047,
+          "price_info": {
+            "final_price": "3415500000"
+          }
+        },
+        {
+          "model_id": "53595125957",
+          "name": "Lulur aroma vanila,100gr (ecer)",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1611859407,
+          "seller_sku": "",
+          "mtime": 1632330017,
+          "price_rule_id": "227576727748608",
+          "price": "3366000000",
+          "currency": "IDR",
+          "normal_price": "3400000000",
+          "stock": 38,
+          "sold": 8563,
+          "price_info": {
+            "final_price": "2366000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40225447101",
+      "model": [
+        {
+          "model_id": "254056973715",
+          "name": "Coklat Muda",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761116004,
+          "seller_sku": "MDKB43B-COKLAT-MUDA",
+          "mtime": 1761116004,
+          "price_rule_id": "797922699035648",
+          "price": "5089800000",
+          "currency": "IDR",
+          "normal_price": "13990000000",
+          "stock": 60,
+          "sold": 26,
+          "price_info": {
+            "final_price": "3742300000"
+          }
+        },
+        {
+          "model_id": "254056973716",
+          "name": "Coklat Tua",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1761116004,
+          "seller_sku": "MDKB43B-COKLAT-TUA",
+          "mtime": 1761116004,
+          "price_rule_id": "797922699035648",
+          "price": "5089800000",
+          "currency": "IDR",
+          "normal_price": "13990000000",
+          "stock": 34,
+          "sold": 50,
+          "price_info": {
+            "final_price": "3742300000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40254523834",
+      "model": [
+        {
+          "model_id": "305383548542",
+          "name": "Ungu",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1749902695,
+          "seller_sku": "MDKB36D-UNGU",
+          "mtime": 1749902695,
+          "price_rule_id": "797922699035648",
+          "price": "9169800000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 15,
+          "sold": 8,
+          "price_info": {
+            "final_price": "4484900000"
+          }
+        },
+        {
+          "model_id": "305383548543",
+          "name": "Kuning",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1749902695,
+          "seller_sku": "MDKB36D-KUNING",
+          "mtime": 1749902695,
+          "price_rule_id": "797922699035648",
+          "price": "9169800000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 30,
+          "sold": 22,
+          "price_info": {
+            "final_price": "4484900000"
+          }
+        },
+        {
+          "model_id": "305383548544",
+          "name": "Hijau",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1749902695,
+          "seller_sku": "MDKB36D-HIJAU",
+          "mtime": 1749902695,
+          "price_rule_id": "797922699035648",
+          "price": "9169800000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 10,
+          "sold": 3,
+          "price_info": {
+            "final_price": "4484900000"
+          }
+        },
+        {
+          "model_id": "305383548545",
+          "name": "Biru",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1749902695,
+          "seller_sku": "MDKB36D-BIRU",
+          "mtime": 1749902695,
+          "price_rule_id": "797922699035648",
+          "price": "9169800000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 11,
+          "sold": 2,
+          "price_info": {
+            "final_price": "4484900000"
+          }
+        },
+        {
+          "model_id": "305383548546",
+          "name": "Pink",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1749902695,
+          "seller_sku": "MDKB36D-PINK",
+          "mtime": 1749902695,
+          "price_rule_id": "797922699035648",
+          "price": "9169800000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 30,
+          "sold": 24,
+          "price_info": {
+            "final_price": "4484900000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24431782745",
+      "model": [
+        {
+          "model_id": "246708811640",
+          "name": "Stone",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1727926864,
+          "seller_sku": "DPP-STONE",
+          "mtime": 1727926864,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 22494,
+          "sold": 17535,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        },
+        {
+          "model_id": "246708811639",
+          "name": "Sahara",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1727926864,
+          "seller_sku": "DPP-BROWN",
+          "mtime": 1727926864,
+          "price_rule_id": "0",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 13103,
+          "sold": 11956,
+          "price_info": {
+            "final_price": "1200000000"
+          }
+        },
+        {
+          "model_id": "305350619851",
+          "name": "Wood",
+          "status": 1,
+          "tier_indices": [
+            13
+          ],
+          "create_time": 1749631417,
+          "seller_sku": "DPP-WOOD",
+          "mtime": 1769072955,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 4390,
+          "sold": 1093,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        },
+        {
+          "model_id": "305350619848",
+          "name": "Forest",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1749631417,
+          "seller_sku": "DPP-FOREST",
+          "mtime": 1769072955,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 6833,
+          "sold": 686,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        },
+        {
+          "model_id": "215154786973",
+          "name": "Olive",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1717684689,
+          "seller_sku": "DPP-OLIVE",
+          "mtime": 1717684689,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 3351,
+          "sold": 11213,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        },
+        {
+          "model_id": "305350619847",
+          "name": "Coral",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1749631417,
+          "seller_sku": "DPP-CORAL",
+          "mtime": 1769072955,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 8640,
+          "sold": 2351,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        },
+        {
+          "model_id": "307353779465",
+          "name": "Sun - Non Audible",
+          "status": 1,
+          "tier_indices": [
+            19
+          ],
+          "create_time": 1769072955,
+          "seller_sku": "DPP-SUN-NA",
+          "mtime": 1769072955,
+          "price_rule_id": "0",
+          "price": "1490000000",
+          "currency": "IDR",
+          "normal_price": "1490000000",
+          "stock": 5306,
+          "sold": 9,
+          "price_info": {
+            "final_price": "490000000"
+          }
+        },
+        {
+          "model_id": "305350619849",
+          "name": "Ocean",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1749631417,
+          "seller_sku": "DPP-OCEAN",
+          "mtime": 1769072955,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 2835,
+          "sold": 2170,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        },
+        {
+          "model_id": "307353779462",
+          "name": "Honey - Non Audible",
+          "status": 1,
+          "tier_indices": [
+            16
+          ],
+          "create_time": 1769072955,
+          "seller_sku": "DPP-HONEY-NA",
+          "mtime": 1769072955,
+          "price_rule_id": "0",
+          "price": "1490000000",
+          "currency": "IDR",
+          "normal_price": "1490000000",
+          "stock": 2013,
+          "sold": 5,
+          "price_info": {
+            "final_price": "490000000"
+          }
+        },
+        {
+          "model_id": "215154786976",
+          "name": "Milky",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1717684689,
+          "seller_sku": "DPP-MILKY",
+          "mtime": 1717684689,
+          "price_rule_id": "0",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 19943,
+          "sold": 12868,
+          "price_info": {
+            "final_price": "1200000000"
+          }
+        },
+        {
+          "model_id": "215154786974",
+          "name": "Aqua",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1717684689,
+          "seller_sku": "DPP-AQUA",
+          "mtime": 1717684689,
+          "price_rule_id": "0",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 10543,
+          "sold": 11215,
+          "price_info": {
+            "final_price": "1200000000"
+          }
+        },
+        {
+          "model_id": "307353779463",
+          "name": "Milky - Non Audible",
+          "status": 1,
+          "tier_indices": [
+            17
+          ],
+          "create_time": 1769072955,
+          "seller_sku": "DPP-MILKY-NA",
+          "mtime": 1769072955,
+          "price_rule_id": "0",
+          "price": "1490000000",
+          "currency": "IDR",
+          "normal_price": "1490000000",
+          "stock": 19820,
+          "sold": 10,
+          "price_info": {
+            "final_price": "490000000"
+          }
+        },
+        {
+          "model_id": "215154786972",
+          "name": "Blossom",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1717684689,
+          "seller_sku": "DPP-BLOSSOM",
+          "mtime": 1717684689,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 21392,
+          "sold": 27240,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        },
+        {
+          "model_id": "307353779464",
+          "name": "Sahara - Non Audible",
+          "status": 1,
+          "tier_indices": [
+            18
+          ],
+          "create_time": 1769072955,
+          "seller_sku": "DPP-BROWN-NA",
+          "mtime": 1769072955,
+          "price_rule_id": "0",
+          "price": "1490000000",
+          "currency": "IDR",
+          "normal_price": "1490000000",
+          "stock": 13140,
+          "sold": 8,
+          "price_info": {
+            "final_price": "490000000"
+          }
+        },
+        {
+          "model_id": "246708811642",
+          "name": "Sun",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1727926864,
+          "seller_sku": "DPP-SUN",
+          "mtime": 1727926864,
+          "price_rule_id": "0",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 5451,
+          "sold": 6333,
+          "price_info": {
+            "final_price": "1200000000"
+          }
+        },
+        {
+          "model_id": "215154786975",
+          "name": "Honey",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1717684689,
+          "seller_sku": "DPP-HONEY",
+          "mtime": 1717684689,
+          "price_rule_id": "0",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 2037,
+          "sold": 9118,
+          "price_info": {
+            "final_price": "1200000000"
+          }
+        },
+        {
+          "model_id": "307353779461",
+          "name": "Aqua - Non Audible",
+          "status": 1,
+          "tier_indices": [
+            15
+          ],
+          "create_time": 1769072955,
+          "seller_sku": "DPP-AQUA-NA",
+          "mtime": 1769072955,
+          "price_rule_id": "0",
+          "price": "1490000000",
+          "currency": "IDR",
+          "normal_price": "1490000000",
+          "stock": 10692,
+          "sold": 7,
+          "price_info": {
+            "final_price": "490000000"
+          }
+        },
+        {
+          "model_id": "246708811641",
+          "name": "Blush",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1727926864,
+          "seller_sku": "DPP-BLUSH",
+          "mtime": 1727926864,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 15172,
+          "sold": 9753,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        },
+        {
+          "model_id": "307353779460",
+          "name": "Blossom Non Audible",
+          "status": 1,
+          "tier_indices": [
+            14
+          ],
+          "create_time": 1769072955,
+          "seller_sku": "DPP-BLOSSOM-NA",
+          "mtime": 1769072955,
+          "price_rule_id": "0",
+          "price": "1490000000",
+          "currency": "IDR",
+          "normal_price": "1490000000",
+          "stock": 165,
+          "sold": 6,
+          "price_info": {
+            "final_price": "490000000"
+          }
+        },
+        {
+          "model_id": "305350619850",
+          "name": "Pearl",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1749631417,
+          "seller_sku": "DPP-PEARL",
+          "mtime": 1769072955,
+          "price_rule_id": "826697587425280",
+          "price": "1985500000",
+          "currency": "IDR",
+          "normal_price": "2200000000",
+          "stock": 7001,
+          "sold": 972,
+          "price_info": {
+            "final_price": "985500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23092530210",
+      "model": [
+        {
+          "model_id": "157052442014",
+          "name": "LC+KAWAT+SG",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1697103362,
+          "seller_sku": "",
+          "mtime": 1697103362,
+          "price_rule_id": "227576727748608",
+          "price": "8550000000",
+          "currency": "IDR",
+          "normal_price": "9300000000",
+          "stock": 3,
+          "sold": 1848,
+          "price_info": {
+            "final_price": "4275000000"
+          }
+        }
+      ]
+    }
+  ]
+}
