@@ -1,13 +1,13 @@
 [
   {
-    "banner": "id-11134004-8224t-mi2r8diras5ie3",
+    "banner": "id-11134004-8224t-mk0g720if6dc44",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-8224t-mi2r8diras5ie3",
+          "banner": "id-11134004-8224t-mk0g720if6dc44",
           "banner_url": "",
-          "pc_banner": "id-11134004-82252-mi2r8fsr1ngjcc",
+          "pc_banner": "id-11134004-8224s-mk0g746tgs945a",
           "shopee_food_info": null
         }
       ],
@@ -20,12 +20,12 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.24399121}}"
       },
       {
-        "catid": 77,
-        "catname": "Birthday Sale",
-        "image": "id-11134004-8224o-mges0d5je51pcc",
+        "catid": 66,
+        "catname": "Ramadan Fashion Sale",
+        "image": "id-11134004-8224p-mjiacuidn28679",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -33,6 +33,13 @@
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 7,
+        "catname": "Pesta Diskon Akhir Bulan",
+        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -51,13 +58,6 @@
         "recommendation_info": null
       },
       {
-        "catid": 17,
-        "catname": "Makanan & Minuman",
-        "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-7rbk3-m70p409i1auif5",
@@ -72,368 +72,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 18,
-        "catname": "Hobi & Alat Tulis",
-        "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 19,
-        "catname": "Olahraga & Otomotif",
-        "image": "81de11e6c255333eeb85ac0ff0d97367",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 20,
-        "catname": "Rumah",
-        "image": "1ed449fcff2db0badf0ea3f11464a810",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 21,
-        "catname": "Aksesoris",
-        "image": "28ad1a2b6a71a257b45c4e445682a75e",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 22,
-        "catname": "Jam Tangan",
-        "image": "4377481b1caedc39ed234e365acd3a64",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 23,
-        "catname": "Fashion Anak",
-        "image": "2b1eec13a9bca8a5d83fc7e349756843",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 29,
-        "catname": "Ibu & Bayi",
-        "image": "d9aa0c1e8fb85518baa9777c35343d11",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 34,
-        "catname": "Fashion Muslim",
-        "image": "id-11134004-7rbka-m8ua0eit667v72",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 39,
-        "catname": "Handphone & Aksesoris",
-        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 41,
-        "catname": "Komputer & Aksesoris",
-        "image": "9139c9eca604be49c1c3b94fd11be593",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 75,
-        "catname": "Fotografi",
-        "image": "058f1348d52540e69630f76b42c027c2",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 86,
-        "catname": "Elektronik",
-        "image": "d92a865d5a891f9566ffbb7d44bdfff7",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 73,
-        "catname": "Dikelola Shopee",
-        "image": "fe72453c171aa7f26d3fc0421324a776",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 9,
-        "catname": "ShopeePay Sekitarmu",
-        "image": "id-11134004-7ra0p-mdlezzkg1q1eb0",
-        "cat_label": 0,
-        "recommendation_info": null
-      }
-    ],
-    "description": "Ketahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994 \n\nJika ingin mengeluarkan produk yang sudah tergabung dengan kampanye Flash Sale di periode ini, Anda dapat mengahpus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374",
-    "end_time": 1765544400,
-    "is_ongoing": true,
-    "name": "Flash Sale - Shopee Nomination | 12 Dec 15:00 - 12 Dec 20:00",
-    "pc_banner": "id-11134004-82252-mi2r8fsr1ngjcc",
-    "promotionid": 207634947129347,
-    "start_time": 1765526400,
-    "status": 1,
-    "with_mega_sale_session": false,
-    "signature": "d0f68ebc56f1d8a676bb580e960895f920bf89c830b6cc1f52e804a063d1bd92",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af45c0d0fb908cabe7e7803000\"}"
-  },
-  {
-    "banner": "id-11134004-8224o-mi2rbngmcava75",
-    "banner_url": "",
-    "carousel_banner": {
-      "flash_banner": [
-        {
-          "banner": "id-11134004-8224o-mi2rbngmcava75",
-          "banner_url": "",
-          "pc_banner": "id-11134004-82252-mi2rbpvoyqrs93",
-          "shopee_food_info": null
-        }
-      ],
-      "mega_banner": [],
-      "shopee_food_banner": []
-    },
-    "categories": [
-      {
-        "catid": 0,
-        "catname": "All",
-        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 77,
-        "catname": "Birthday Sale",
-        "image": "id-11134004-8224o-mges0d5je51pcc",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 16,
-        "catname": "Kesehatan & Kecantikan",
-        "image": "96048b93bd5c09a28672da655bcb0683",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
         "catid": 17,
         "catname": "Makanan & Minuman",
         "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 18,
-        "catname": "Hobi & Alat Tulis",
-        "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 19,
-        "catname": "Olahraga & Otomotif",
-        "image": "81de11e6c255333eeb85ac0ff0d97367",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 20,
-        "catname": "Rumah",
-        "image": "1ed449fcff2db0badf0ea3f11464a810",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 21,
-        "catname": "Aksesoris",
-        "image": "28ad1a2b6a71a257b45c4e445682a75e",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 22,
-        "catname": "Jam Tangan",
-        "image": "4377481b1caedc39ed234e365acd3a64",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 23,
-        "catname": "Fashion Anak",
-        "image": "2b1eec13a9bca8a5d83fc7e349756843",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 29,
-        "catname": "Ibu & Bayi",
-        "image": "d9aa0c1e8fb85518baa9777c35343d11",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 34,
-        "catname": "Fashion Muslim",
-        "image": "id-11134004-7rbka-m8ua0eit667v72",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 39,
-        "catname": "Handphone & Aksesoris",
-        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 41,
-        "catname": "Komputer & Aksesoris",
-        "image": "9139c9eca604be49c1c3b94fd11be593",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 75,
-        "catname": "Fotografi",
-        "image": "058f1348d52540e69630f76b42c027c2",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 86,
-        "catname": "Elektronik",
-        "image": "d92a865d5a891f9566ffbb7d44bdfff7",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 73,
-        "catname": "Dikelola Shopee",
-        "image": "fe72453c171aa7f26d3fc0421324a776",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 9,
-        "catname": "ShopeePay Sekitarmu",
-        "image": "id-11134004-7ra0p-mdlezzkg1q1eb0",
-        "cat_label": 0,
-        "recommendation_info": null
-      }
-    ],
-    "description": "Ketahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994 \n\nJika ingin mengeluarkan produk yang sudah tergabung dengan kampanye Flash Sale di periode ini, Anda dapat mengahpus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374",
-    "end_time": 1765558800,
-    "is_ongoing": false,
-    "name": "Flash Sale - Shopee Nomination | 12 Dec 20:00 - 13 Dec 00:00",
-    "pc_banner": "id-11134004-82252-mi2rbpvoyqrs93",
-    "promotionid": 207634951319552,
-    "start_time": 1765544400,
-    "status": 1,
-    "with_mega_sale_session": false,
-    "signature": "a4314066480bae71609cf7032c9b60e53526b7c63c36eac7b1bcd5e5e9c5e26e",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af45c0d0fb908cabe7e7803000\"}"
-  },
-  {
-    "banner": "id-11134004-8224u-mhvfv4i2pmgxc1",
-    "banner_url": "",
-    "carousel_banner": {
-      "flash_banner": [
-        {
-          "banner": "id-11134004-8224u-mhvfv4i2pmgxc1",
-          "banner_url": "",
-          "pc_banner": "id-11134004-82252-mhvfv78h47i9bb",
-          "shopee_food_info": null
-        }
-      ],
-      "mega_banner": [],
-      "shopee_food_banner": []
-    },
-    "categories": [
-      {
-        "catid": 0,
-        "catname": "All",
-        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 77,
-        "catname": "Birthday Sale",
-        "image": "id-11134004-8224o-mges0d5je51pcc",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 16,
-        "catname": "Kesehatan & Kecantikan",
-        "image": "96048b93bd5c09a28672da655bcb0683",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 17,
-        "catname": "Makanan & Minuman",
-        "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -537,15 +178,395 @@
       }
     ],
     "description": "\"Ayo, nominasikan produkmu di Flash Sale Shopee!\n•        Harga promo untuk produk yang dinominasikan harus lebih rendah 1% dari harga terendah produk tersebut dalam 30 hari terakhir.\n•        Produk yang dinominasikan memiliki min. 1 pesanan dalam 14 hari terakhir. \n•        Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n•        Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12 \n•        Nama produk tidak boleh mengandung kata sifat, kata kasar, emoji, kata promosi, serta menggunakan bahasa selain bahasa Inggris dan Indonesia.\n•        Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374  \n\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994\"",
-    "end_time": 1765602000,
-    "is_ongoing": false,
-    "name": "Flash Sale - Seller Nomination | 13 Dec 00:00 - 13 Dec 12:00",
-    "pc_banner": "id-11134004-82252-mhvfv78h47i9bb",
-    "promotionid": 207574062612480,
-    "start_time": 1765558800,
+    "end_time": 1769835600,
+    "is_ongoing": true,
+    "name": "Flash Sale - Seller Nomination | 31 Jan 00:00 - 31 Jan 12:00",
+    "pc_banner": "id-11134004-8224s-mk0g746tgs945a",
+    "promotionid": 227571862351872,
+    "start_time": 1769792400,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "ae935cdb9ca23472c46aac354dfa3450092619632b2d4316394782583678e13a",
+    "signature": "cdb2912b8de5b06f82edd095d591524cf992883acaf3de862eeb7fe07bd027dd",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af49a7e378f27fc703f9884200\"}"
+  },
+  {
+    "banner": "id-11134004-82252-mk0gz1edqqyo8c",
+    "banner_url": "",
+    "carousel_banner": {
+      "flash_banner": [
+        {
+          "banner": "id-11134004-82252-mk0gz1edqqyo8c",
+          "banner_url": "",
+          "pc_banner": "id-11134004-8224o-mk0gz39is3r980",
+          "shopee_food_info": null
+        }
+      ],
+      "mega_banner": [],
+      "shopee_food_banner": []
+    },
+    "categories": [
+      {
+        "catid": 0,
+        "catname": "All",
+        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
+        "cat_label": 0,
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.24480931}}"
+      },
+      {
+        "catid": 66,
+        "catname": "Ramadan Fashion Sale",
+        "image": "id-11134004-8224p-mjiacuidn28679",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 7,
+        "catname": "Pesta Diskon Akhir Bulan",
+        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 16,
+        "catname": "Kesehatan & Kecantikan",
+        "image": "96048b93bd5c09a28672da655bcb0683",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 17,
+        "catname": "Makanan & Minuman",
+        "image": "630bec71a9ce336a20eaaa38fb335846",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 18,
+        "catname": "Hobi & Alat Tulis",
+        "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 19,
+        "catname": "Olahraga & Otomotif",
+        "image": "81de11e6c255333eeb85ac0ff0d97367",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 20,
+        "catname": "Rumah",
+        "image": "1ed449fcff2db0badf0ea3f11464a810",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 21,
+        "catname": "Aksesoris",
+        "image": "28ad1a2b6a71a257b45c4e445682a75e",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 22,
+        "catname": "Jam Tangan",
+        "image": "4377481b1caedc39ed234e365acd3a64",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 23,
+        "catname": "Fashion Anak",
+        "image": "2b1eec13a9bca8a5d83fc7e349756843",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 29,
+        "catname": "Ibu & Bayi",
+        "image": "d9aa0c1e8fb85518baa9777c35343d11",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 34,
+        "catname": "Fashion Muslim",
+        "image": "id-11134004-7rbka-m8ua0eit667v72",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 39,
+        "catname": "Handphone & Aksesoris",
+        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 41,
+        "catname": "Komputer & Aksesoris",
+        "image": "9139c9eca604be49c1c3b94fd11be593",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 75,
+        "catname": "Fotografi",
+        "image": "058f1348d52540e69630f76b42c027c2",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 86,
+        "catname": "Elektronik",
+        "image": "d92a865d5a891f9566ffbb7d44bdfff7",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 9,
+        "catname": "ShopeePay Sekitarmu",
+        "image": "id-11134004-7ra0p-mdlezzkg1q1eb0",
+        "cat_label": 0,
+        "recommendation_info": null
+      }
+    ],
+    "description": "\"Ayo, nominasikan produkmu di Flash Sale Shopee!\n•        Harga promo untuk produk yang dinominasikan harus lebih rendah 1% dari harga terendah produk tersebut dalam 30 hari terakhir.\n•        Produk yang dinominasikan memiliki min. 1 pesanan dalam 14 hari terakhir. \n•        Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n•        Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12 \n•        Nama produk tidak boleh mengandung kata sifat, kata kasar, emoji, kata promosi, serta menggunakan bahasa selain bahasa Inggris dan Indonesia.\n•        Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374  \n\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994\"",
+    "end_time": 1769857200,
+    "is_ongoing": false,
+    "name": "Flash Sale - Seller Nomination | 31 Jan 12:00 - 31 Jan 18:00",
+    "pc_banner": "id-11134004-8224o-mk0gz39is3r980",
+    "promotionid": 227571862355968,
+    "start_time": 1769835600,
+    "status": 1,
+    "with_mega_sale_session": false,
+    "signature": "5da54138dfd72ee9698073e7d98364fe3c66fc03ae2917e521b369846e7ee069",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af49a7e378f27fc703f9884200\"}"
+  },
+  {
+    "banner": "id-11134004-82252-mk0g77so84ck6c",
+    "banner_url": "",
+    "carousel_banner": {
+      "flash_banner": [
+        {
+          "banner": "id-11134004-82252-mk0g77so84ck6c",
+          "banner_url": "",
+          "pc_banner": "id-11134004-82250-mk0g79qgnvnma9",
+          "shopee_food_info": null
+        }
+      ],
+      "mega_banner": [],
+      "shopee_food_banner": []
+    },
+    "categories": [
+      {
+        "catid": 0,
+        "catname": "All",
+        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 66,
+        "catname": "Ramadan Fashion Sale",
+        "image": "id-11134004-8224p-mjiacuidn28679",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 7,
+        "catname": "Pesta Diskon Akhir Bulan",
+        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 16,
+        "catname": "Kesehatan & Kecantikan",
+        "image": "96048b93bd5c09a28672da655bcb0683",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 17,
+        "catname": "Makanan & Minuman",
+        "image": "630bec71a9ce336a20eaaa38fb335846",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 18,
+        "catname": "Hobi & Alat Tulis",
+        "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 19,
+        "catname": "Olahraga & Otomotif",
+        "image": "81de11e6c255333eeb85ac0ff0d97367",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 20,
+        "catname": "Rumah",
+        "image": "1ed449fcff2db0badf0ea3f11464a810",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 21,
+        "catname": "Aksesoris",
+        "image": "28ad1a2b6a71a257b45c4e445682a75e",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 22,
+        "catname": "Jam Tangan",
+        "image": "4377481b1caedc39ed234e365acd3a64",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 23,
+        "catname": "Fashion Anak",
+        "image": "2b1eec13a9bca8a5d83fc7e349756843",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 29,
+        "catname": "Ibu & Bayi",
+        "image": "d9aa0c1e8fb85518baa9777c35343d11",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 34,
+        "catname": "Fashion Muslim",
+        "image": "id-11134004-7rbka-m8ua0eit667v72",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 39,
+        "catname": "Handphone & Aksesoris",
+        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 41,
+        "catname": "Komputer & Aksesoris",
+        "image": "9139c9eca604be49c1c3b94fd11be593",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 75,
+        "catname": "Fotografi",
+        "image": "058f1348d52540e69630f76b42c027c2",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 86,
+        "catname": "Elektronik",
+        "image": "d92a865d5a891f9566ffbb7d44bdfff7",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 9,
+        "catname": "ShopeePay Sekitarmu",
+        "image": "id-11134004-7ra0p-mdlezzkg1q1eb0",
+        "cat_label": 0,
+        "recommendation_info": null
+      }
+    ],
+    "description": "\"Ayo, nominasikan produkmu di Flash Sale Shopee!\n•        Harga promo untuk produk yang dinominasikan harus lebih rendah 1% dari harga terendah produk tersebut dalam 30 hari terakhir.\n•        Produk yang dinominasikan memiliki min. 1 pesanan dalam 14 hari terakhir. \n•        Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n•        Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12 \n•        Nama produk tidak boleh mengandung kata sifat, kata kasar, emoji, kata promosi, serta menggunakan bahasa selain bahasa Inggris dan Indonesia.\n•        Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374  \n\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994\"",
+    "end_time": 1769878800,
+    "is_ongoing": false,
+    "name": "Flash Sale - Seller Nomination | 31 Jan 18:00 - 1 Feb 00:00",
+    "pc_banner": "id-11134004-82250-mk0g79qgnvnma9",
+    "promotionid": 227571862351875,
+    "start_time": 1769857200,
+    "status": 1,
+    "with_mega_sale_session": false,
+    "signature": "930ffe1227616e025a45102716ed0436cd908741b5ab782c5c407a93585b5b63",
     "tracker_info": null
   }
 ]
