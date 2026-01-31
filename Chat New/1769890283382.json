@@ -1,0 +1,1424 @@
+{
+  "items": [
+    {
+      "item_id": "26169257877",
+      "model": [
+        {
+          "model_id": "185602298355",
+          "name": "Barrier",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1732938999,
+          "seller_sku": "DUP8993137010658",
+          "mtime": 1732938999,
+          "price_rule_id": "841982017077248",
+          "price": "4074000000",
+          "currency": "IDR",
+          "normal_price": "6300000000",
+          "stock": 41,
+          "sold": 1978,
+          "price_info": {
+            "final_price": "3055500000"
+          }
+        },
+        {
+          "model_id": "185602298356",
+          "name": "Calming",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1732938999,
+          "seller_sku": "DUP8993137010634",
+          "mtime": 1732938999,
+          "price_rule_id": "841982017077248",
+          "price": "4074000000",
+          "currency": "IDR",
+          "normal_price": "6300000000",
+          "stock": 6116,
+          "sold": 1712,
+          "price_info": {
+            "final_price": "3055500000"
+          }
+        },
+        {
+          "model_id": "185602298357",
+          "name": "Glow",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1732938999,
+          "seller_sku": "DUP8993137010641",
+          "mtime": 1732938999,
+          "price_rule_id": "841982017077248",
+          "price": "4074000000",
+          "currency": "IDR",
+          "normal_price": "6300000000",
+          "stock": 607,
+          "sold": 3011,
+          "price_info": {
+            "final_price": "3055500000"
+          }
+        },
+        {
+          "model_id": "370071838726",
+          "name": "Acne",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1762248182,
+          "seller_sku": "DUP8993137018401",
+          "mtime": 1762248182,
+          "price_rule_id": "841982017077248",
+          "price": "4074000000",
+          "currency": "IDR",
+          "normal_price": "6300000000",
+          "stock": 298,
+          "sold": 318,
+          "price_info": {
+            "final_price": "3055500000"
+          }
+        },
+        {
+          "model_id": "370071838727",
+          "name": "Retinol",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1762248182,
+          "seller_sku": "DUP8993137018418",
+          "mtime": 1762248182,
+          "price_rule_id": "841982017077248",
+          "price": "4462000000",
+          "currency": "IDR",
+          "normal_price": "6600000000",
+          "stock": 179,
+          "sold": 310,
+          "price_info": {
+            "final_price": "3346500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26932859533",
+      "model": [
+        {
+          "model_id": "237657951593",
+          "name": "[HOT] 6 in 1",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1744269070,
+          "seller_sku": "2030091791833",
+          "mtime": 1744269070,
+          "price_rule_id": "0",
+          "price": "36600000000",
+          "currency": "IDR",
+          "normal_price": "36600000000",
+          "stock": 0,
+          "sold": 488,
+          "price_info": {
+            "final_price": "29040000000"
+          }
+        },
+        {
+          "model_id": "305900400679",
+          "name": "Glowing(NEW)",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1753761114,
+          "seller_sku": "2030091796455",
+          "mtime": 1753761114,
+          "price_rule_id": "841982017077248",
+          "price": "18847000000",
+          "currency": "IDR",
+          "normal_price": "30075000000",
+          "stock": 0,
+          "sold": 1022,
+          "price_info": {
+            "final_price": "13547000000"
+          }
+        },
+        {
+          "model_id": "420071823020",
+          "name": "Super Renew Set 4pcs",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1762247992,
+          "seller_sku": "2030097802928",
+          "mtime": 1763955021,
+          "price_rule_id": "841982017077248",
+          "price": "14382000000",
+          "currency": "IDR",
+          "normal_price": "22650000000",
+          "stock": 0,
+          "sold": 118,
+          "price_info": {
+            "final_price": "9082000000"
+          }
+        },
+        {
+          "model_id": "305900400681",
+          "name": "Glowing(ToneUP)",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1753761114,
+          "seller_sku": "2030091796456",
+          "mtime": 1753761114,
+          "price_rule_id": "841982017077248",
+          "price": "16826000000",
+          "currency": "IDR",
+          "normal_price": "26850000000",
+          "stock": 0,
+          "sold": 749,
+          "price_info": {
+            "final_price": "11526000000"
+          }
+        },
+        {
+          "model_id": "237657951591",
+          "name": "Glow 3pcs (2)",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1744269070,
+          "seller_sku": "2030091791837",
+          "mtime": 1753761111,
+          "price_rule_id": "841982017077248",
+          "price": "12126000000",
+          "currency": "IDR",
+          "normal_price": "19350000000",
+          "stock": 0,
+          "sold": 776,
+          "price_info": {
+            "final_price": "6826000000"
+          }
+        },
+        {
+          "model_id": "237657951597",
+          "name": "Glow 5 Pcs",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1744269070,
+          "seller_sku": "2030091791834",
+          "mtime": 1753761111,
+          "price_rule_id": "841982017077248",
+          "price": "18283000000",
+          "currency": "IDR",
+          "normal_price": "29175000000",
+          "stock": 0,
+          "sold": 1324,
+          "price_info": {
+            "final_price": "12983000000"
+          }
+        },
+        {
+          "model_id": "292111543764",
+          "name": "Smooth 3in1",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1761881494,
+          "seller_sku": "2030097802457",
+          "mtime": 1761882606,
+          "price_rule_id": "841982017077248",
+          "price": "11092000000",
+          "currency": "IDR",
+          "normal_price": "17400000000",
+          "stock": 22,
+          "sold": 301,
+          "price_info": {
+            "final_price": "5792000000"
+          }
+        },
+        {
+          "model_id": "237657951596",
+          "name": "Glow 3pcs (1)",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1744269070,
+          "seller_sku": "2030091791836",
+          "mtime": 1753761111,
+          "price_rule_id": "841982017077248",
+          "price": "12079000000",
+          "currency": "IDR",
+          "normal_price": "19275000000",
+          "stock": 14,
+          "sold": 861,
+          "price_info": {
+            "final_price": "6779000000"
+          }
+        },
+        {
+          "model_id": "292111543767",
+          "name": "7in1",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1761881494,
+          "seller_sku": "2030097802473",
+          "mtime": 1761881494,
+          "price_rule_id": "841982017077248",
+          "price": "23453000000",
+          "currency": "IDR",
+          "normal_price": "37125000000",
+          "stock": 0,
+          "sold": 1020,
+          "price_info": {
+            "final_price": "18153000000"
+          }
+        },
+        {
+          "model_id": "420071823021",
+          "name": "Glow Mix",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1762247992,
+          "seller_sku": "2030097802929",
+          "mtime": 1763955021,
+          "price_rule_id": "841982017077248",
+          "price": "15604000000",
+          "currency": "IDR",
+          "normal_price": "25950000000",
+          "stock": 0,
+          "sold": 15,
+          "price_info": {
+            "final_price": "10304000000"
+          }
+        },
+        {
+          "model_id": "292111543766",
+          "name": "Clean 3in1",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1761881494,
+          "seller_sku": "2030097802458",
+          "mtime": 1761881494,
+          "price_rule_id": "841982017077248",
+          "price": "10904000000",
+          "currency": "IDR",
+          "normal_price": "17400000000",
+          "stock": 77,
+          "sold": 451,
+          "price_info": {
+            "final_price": "5604000000"
+          }
+        },
+        {
+          "model_id": "310224084485",
+          "name": "Bright 3in1",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1764391580,
+          "seller_sku": "2030097804378",
+          "mtime": 1764391580,
+          "price_rule_id": "841982017077248",
+          "price": "10716000000",
+          "currency": "IDR",
+          "normal_price": "17100000000",
+          "stock": 0,
+          "sold": 451,
+          "price_info": {
+            "final_price": "5416000000"
+          }
+        },
+        {
+          "model_id": "292111543765",
+          "name": "Radiant Glow",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1761881494,
+          "seller_sku": "2030097802472",
+          "mtime": 1761881494,
+          "price_rule_id": "841982017077248",
+          "price": "13959000000",
+          "currency": "IDR",
+          "normal_price": "21975000000",
+          "stock": 153,
+          "sold": 501,
+          "price_info": {
+            "final_price": "8659000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "10506971428",
+      "model": [
+        {
+          "model_id": "92311494561",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1622101572,
+          "seller_sku": "",
+          "mtime": 1622101572,
+          "price_rule_id": "0",
+          "price": "12000000000",
+          "currency": "IDR",
+          "normal_price": "12000000000",
+          "stock": 131,
+          "sold": 636,
+          "price_info": {
+            "final_price": "7000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23546250246",
+      "model": [
+        {
+          "model_id": "207115024304",
+          "name": "SERUM 20ML",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1697784175,
+          "seller_sku": "SL-RAADSE-SER-1-20",
+          "mtime": 1722419603,
+          "price_rule_id": "234192512495616",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "16500000000",
+          "stock": 28,
+          "sold": 14306,
+          "price_info": {
+            "final_price": "6500000000"
+          }
+        },
+        {
+          "model_id": "266678392786",
+          "name": "#BUY 1 GET 3",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1758525480,
+          "seller_sku": "BUN-3PCS-2PCFRERAS5ML-20",
+          "mtime": 1758525480,
+          "price_rule_id": "0",
+          "price": "37500000000",
+          "currency": "IDR",
+          "normal_price": "37500000000",
+          "stock": 0,
+          "sold": 45,
+          "price_info": {
+            "final_price": "28400000000"
+          }
+        },
+        {
+          "model_id": "275853438454",
+          "name": "BUY 1 GET 3",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1753378546,
+          "seller_sku": "BUN-3PCS-RETRASFRERET5ML-5",
+          "mtime": 1753378546,
+          "price_rule_id": "0",
+          "price": "37500000000",
+          "currency": "IDR",
+          "normal_price": "37500000000",
+          "stock": 0,
+          "sold": 68,
+          "price_info": {
+            "final_price": "28400000000"
+          }
+        },
+        {
+          "model_id": "129062843036",
+          "name": "FS20ML",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1725943254,
+          "seller_sku": "SL-RAADSE-SER-1-20",
+          "mtime": 1725943254,
+          "price_rule_id": "0",
+          "price": "25000000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 418,
+          "price_info": {
+            "final_price": "18000000000"
+          }
+        },
+        {
+          "model_id": "305654188990",
+          "name": "-BUY 1 GET 3",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1751942537,
+          "seller_sku": "BUN-3PCS-INTSIVGHTVIT-20",
+          "mtime": 1762503669,
+          "price_rule_id": "0",
+          "price": "38000000000",
+          "currency": "IDR",
+          "normal_price": "38000000000",
+          "stock": 0,
+          "sold": 20,
+          "price_info": {
+            "final_price": "28800000000"
+          }
+        },
+        {
+          "model_id": "184473036431",
+          "name": "20ML",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1690794013,
+          "seller_sku": "SL-RAADSE-SER-1-20",
+          "mtime": 1722419603,
+          "price_rule_id": "840491243995136",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "16500000000",
+          "stock": 11160,
+          "sold": 39298,
+          "price_info": {
+            "final_price": "6500000000"
+          }
+        },
+        {
+          "model_id": "147978263985",
+          "name": "*BUY 1 GET 3",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1761118552,
+          "seller_sku": "BUN-3PCS-INTBRI&RET-20",
+          "mtime": 1762503669,
+          "price_rule_id": "0",
+          "price": "37500000000",
+          "currency": "IDR",
+          "normal_price": "37500000000",
+          "stock": 0,
+          "sold": 88,
+          "price_info": {
+            "final_price": "28400000000"
+          }
+        },
+        {
+          "model_id": "233297268422",
+          "name": "RAS20ML",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1728281954,
+          "seller_sku": "SL-RAADSE-SER-1-20",
+          "mtime": 1728281954,
+          "price_rule_id": "0",
+          "price": "25000000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 119,
+          "price_info": {
+            "final_price": "18000000000"
+          }
+        },
+        {
+          "model_id": "195379839473",
+          "name": "Intens Radiant Glow",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1725945413,
+          "seller_sku": "BUN-2PCS-RADBRIGLO-20",
+          "mtime": 1725945413,
+          "price_rule_id": "0",
+          "price": "31700000000",
+          "currency": "IDR",
+          "normal_price": "31700000000",
+          "stock": 0,
+          "sold": 287,
+          "price_info": {
+            "final_price": "23760000000"
+          }
+        },
+        {
+          "model_id": "350480534739",
+          "name": "= BUY 1 GET 3",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1769260780,
+          "seller_sku": "BUN-3PCS-RASMOI-20",
+          "mtime": 1769260780,
+          "price_rule_id": "0",
+          "price": "37500000000",
+          "currency": "IDR",
+          "normal_price": "37500000000",
+          "stock": 0,
+          "sold": 12,
+          "price_info": {
+            "final_price": "28400000000"
+          }
+        },
+        {
+          "model_id": "168616440889",
+          "name": "-BUY 1 GET 1",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1734763720,
+          "seller_sku": "BUN-2PCS-RADBRICLE-20",
+          "mtime": 1762503669,
+          "price_rule_id": "840491243995136",
+          "price": "16650000000",
+          "currency": "IDR",
+          "normal_price": "25400000000",
+          "stock": 198,
+          "sold": 1387,
+          "price_info": {
+            "final_price": "10650000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23854070660",
+      "model": [
+        {
+          "model_id": "205975062839",
+          "name": "Max Bright Rejuve 30",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1744261125,
+          "seller_sku": "BUN-5PCS-MTRV-30",
+          "mtime": 1744261125,
+          "price_rule_id": "0",
+          "price": "78400000000",
+          "currency": "IDR",
+          "normal_price": "78400000000",
+          "stock": 0,
+          "sold": 9,
+          "price_info": {
+            "final_price": "66400000000"
+          }
+        },
+        {
+          "model_id": "49862907739",
+          "name": "Retinal&RadiantGlow",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1737358791,
+          "seller_sku": "BUN-5PCS-RNRIG-20",
+          "mtime": 1744261125,
+          "price_rule_id": "0",
+          "price": "70900000000",
+          "currency": "IDR",
+          "normal_price": "70900000000",
+          "stock": 0,
+          "sold": 33,
+          "price_info": {
+            "final_price": "58900000000"
+          }
+        },
+        {
+          "model_id": "271946593806",
+          "name": "Special Birthday Box",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1760363917,
+          "seller_sku": "BUN-5PCS-SB-20",
+          "mtime": 1760363917,
+          "price_rule_id": "0",
+          "price": "93000000000",
+          "currency": "IDR",
+          "normal_price": "93000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "75000000000"
+          }
+        },
+        {
+          "model_id": "205975062841",
+          "name": "Glowing Retinol Set",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1744261125,
+          "seller_sku": "BUN-5PCS-GWRS-35",
+          "mtime": 1747222046,
+          "price_rule_id": "0",
+          "price": "68300000000",
+          "currency": "IDR",
+          "normal_price": "68300000000",
+          "stock": 0,
+          "sold": 8,
+          "price_info": {
+            "final_price": "56300000000"
+          }
+        },
+        {
+          "model_id": "49862907741",
+          "name": "Bright & Rejuve 15ml",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1737358791,
+          "seller_sku": "BUN-5PCS-BRU-15",
+          "mtime": 1744261125,
+          "price_rule_id": "0",
+          "price": "64700000000",
+          "currency": "IDR",
+          "normal_price": "64700000000",
+          "stock": 0,
+          "sold": 12,
+          "price_info": {
+            "final_price": "52700000000"
+          }
+        },
+        {
+          "model_id": "247931885732",
+          "name": "Bright & Rejuve 30ml",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1742360689,
+          "seller_sku": "BUN-5PCS-BGVM-30",
+          "mtime": 1744261125,
+          "price_rule_id": "0",
+          "price": "83400000000",
+          "currency": "IDR",
+          "normal_price": "83400000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "65400000000"
+          }
+        },
+        {
+          "model_id": "205975062840",
+          "name": "Glowing Retinal Set",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1744261125,
+          "seller_sku": "BUN-5PCS-GRTS-35",
+          "mtime": 1747222046,
+          "price_rule_id": "0",
+          "price": "70900000000",
+          "currency": "IDR",
+          "normal_price": "70900000000",
+          "stock": 0,
+          "sold": 14,
+          "price_info": {
+            "final_price": "58900000000"
+          }
+        },
+        {
+          "model_id": "49862907740",
+          "name": "Max Bright & Rejuve",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1737358791,
+          "seller_sku": "BUN-5PCS-MTRV-20",
+          "mtime": 1744261125,
+          "price_rule_id": "0",
+          "price": "68300000000",
+          "currency": "IDR",
+          "normal_price": "68300000000",
+          "stock": 0,
+          "sold": 22,
+          "price_info": {
+            "final_price": "56300000000"
+          }
+        },
+        {
+          "model_id": "49862907738",
+          "name": "VitC Bright Youthful",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1737358791,
+          "seller_sku": "BUN-5PCS-VBY-20",
+          "mtime": 1760082362,
+          "price_rule_id": "234192512495616",
+          "price": "38170000000",
+          "currency": "IDR",
+          "normal_price": "73200000000",
+          "stock": 30,
+          "sold": 475,
+          "price_info": {
+            "final_price": "28936000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "3155563593",
+      "model": [
+        {
+          "model_id": "60307376102",
+          "name": "Multipack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1594898634,
+          "seller_sku": "",
+          "mtime": 1628010013,
+          "price_rule_id": "0",
+          "price": "4070000000",
+          "currency": "IDR",
+          "normal_price": "4070000000",
+          "stock": 15,
+          "sold": 57451,
+          "price_info": {
+            "final_price": "3052500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5443974248",
+      "model": [
+        {
+          "model_id": "21384826191",
+          "name": "Twinpack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1595918478,
+          "seller_sku": "",
+          "mtime": 1627933454,
+          "price_rule_id": "0",
+          "price": "1380000000",
+          "currency": "IDR",
+          "normal_price": "1380000000",
+          "stock": 45,
+          "sold": 41210,
+          "price_info": {
+            "final_price": "380000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27430375402",
+      "model": [
+        {
+          "model_id": "118628184672",
+          "name": "Package",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1742530751,
+          "seller_sku": "",
+          "mtime": 1742530751,
+          "price_rule_id": "814342921043968",
+          "price": "1330000000",
+          "currency": "IDR",
+          "normal_price": "1540000000",
+          "stock": 2240,
+          "sold": 3006,
+          "price_info": {
+            "final_price": "330000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "4932081054",
+      "model": [
+        {
+          "model_id": "16994768459",
+          "name": "Bundle",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1588219310,
+          "seller_sku": "",
+          "mtime": 1628010175,
+          "price_rule_id": "814342921043968",
+          "price": "1640000000",
+          "currency": "IDR",
+          "normal_price": "1750000000",
+          "stock": 929,
+          "sold": 37310,
+          "price_info": {
+            "final_price": "640000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28077730581",
+      "model": [
+        {
+          "model_id": "233861137257",
+          "name": "Default",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1740641755,
+          "seller_sku": "",
+          "mtime": 1740641755,
+          "price_rule_id": "814342921043968",
+          "price": "680000000",
+          "currency": "IDR",
+          "normal_price": "770000000",
+          "stock": 4480,
+          "sold": 3453,
+          "price_info": {
+            "final_price": "680000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "12033328808",
+      "model": [
+        {
+          "model_id": "103283753293",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1634809936,
+          "seller_sku": "",
+          "mtime": 1634809936,
+          "price_rule_id": "0",
+          "price": "16350000000",
+          "currency": "IDR",
+          "normal_price": "16350000000",
+          "stock": 5,
+          "sold": 1107,
+          "price_info": {
+            "final_price": "10350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "47202062364",
+      "model": [
+        {
+          "model_id": "425200084537",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1764038970,
+          "seller_sku": "",
+          "mtime": 1764038970,
+          "price_rule_id": "842698269966336",
+          "price": "4790000000",
+          "currency": "IDR",
+          "normal_price": "5150000000",
+          "stock": 886,
+          "sold": 1070,
+          "price_info": {
+            "final_price": "3592500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "13033284812",
+      "model": [
+        {
+          "model_id": "246000474132",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1718162355,
+          "seller_sku": "",
+          "mtime": 1718162355,
+          "price_rule_id": "842698269966336",
+          "price": "10500000000",
+          "currency": "IDR",
+          "normal_price": "12000000000",
+          "stock": 156,
+          "sold": 4600,
+          "price_info": {
+            "final_price": "4750000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "51505046015",
+      "model": [
+        {
+          "model_id": "425464869830",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1769053351,
+          "seller_sku": "ETSR04489",
+          "mtime": 1769053351,
+          "price_rule_id": "838189376389120",
+          "price": "13600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 88,
+          "sold": 1,
+          "price_info": {
+            "final_price": "8600000000"
+          }
+        },
+        {
+          "model_id": "425464869828",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1769053351,
+          "seller_sku": "ETSR04487",
+          "mtime": 1769053351,
+          "price_rule_id": "838189376389120",
+          "price": "13600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 31,
+          "sold": 0,
+          "price_info": {
+            "final_price": "8600000000"
+          }
+        },
+        {
+          "model_id": "425464869831",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1769053351,
+          "seller_sku": "ETSR04490",
+          "mtime": 1769053351,
+          "price_rule_id": "838189376389120",
+          "price": "13600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 88,
+          "sold": 2,
+          "price_info": {
+            "final_price": "8600000000"
+          }
+        },
+        {
+          "model_id": "425464869829",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1769053351,
+          "seller_sku": "ETSR04488",
+          "mtime": 1769053351,
+          "price_rule_id": "838189376389120",
+          "price": "13600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 83,
+          "sold": 1,
+          "price_info": {
+            "final_price": "8600000000"
+          }
+        },
+        {
+          "model_id": "425464869832",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1769053351,
+          "seller_sku": "ETSR04491",
+          "mtime": 1769053351,
+          "price_rule_id": "838189376389120",
+          "price": "13600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 36,
+          "sold": 1,
+          "price_info": {
+            "final_price": "8600000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "7709237404",
+      "model": [
+        {
+          "model_id": "71161442463",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1601060797,
+          "seller_sku": "",
+          "mtime": 1630123200,
+          "price_rule_id": "805991348764672",
+          "price": "6999900000",
+          "currency": "IDR",
+          "normal_price": "9000000000",
+          "stock": 453,
+          "sold": 3249,
+          "price_info": {
+            "final_price": "2999900000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25514658028",
+      "model": [
+        {
+          "model_id": "226066718378",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1708594368,
+          "seller_sku": "",
+          "mtime": 1708594368,
+          "price_rule_id": "843418960445440",
+          "price": "29610000000",
+          "currency": "IDR",
+          "normal_price": "65800000000",
+          "stock": 244,
+          "sold": 1231,
+          "price_info": {
+            "final_price": "22410000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "43452948336",
+      "model": [
+        {
+          "model_id": "275242199767",
+          "name": "Khaki",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1748840503,
+          "seller_sku": "EJDP1343KHAKI",
+          "mtime": 1748840503,
+          "price_rule_id": "843427349069824",
+          "price": "19044000000",
+          "currency": "IDR",
+          "normal_price": "52900000000",
+          "stock": 33,
+          "sold": 24,
+          "price_info": {
+            "final_price": "12844000000"
+          }
+        },
+        {
+          "model_id": "280242208235",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1748840503,
+          "seller_sku": "EJDP1343BLACK",
+          "mtime": 1748840503,
+          "price_rule_id": "843427349069824",
+          "price": "19044000000",
+          "currency": "IDR",
+          "normal_price": "52900000000",
+          "stock": 22,
+          "sold": 34,
+          "price_info": {
+            "final_price": "12844000000"
+          }
+        },
+        {
+          "model_id": "280242208236",
+          "name": "Cherryred",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1748840503,
+          "seller_sku": "EJDP1343CHERRYRED",
+          "mtime": 1748840503,
+          "price_rule_id": "843427349069824",
+          "price": "19044000000",
+          "currency": "IDR",
+          "normal_price": "52900000000",
+          "stock": 18,
+          "sold": 34,
+          "price_info": {
+            "final_price": "12844000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "51353922872",
+      "model": [
+        {
+          "model_id": "310373916063",
+          "name": "Nude",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1767079189,
+          "seller_sku": "0022-1663-29",
+          "mtime": 1767079189,
+          "price_rule_id": "0",
+          "price": "39000000000",
+          "currency": "IDR",
+          "normal_price": "39000000000",
+          "stock": 30,
+          "sold": 0,
+          "price_info": {
+            "final_price": "34000000000"
+          }
+        },
+        {
+          "model_id": "310373916064",
+          "name": "Beige",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1767079189,
+          "seller_sku": "0022-1663-87",
+          "mtime": 1767079189,
+          "price_rule_id": "0",
+          "price": "39000000000",
+          "currency": "IDR",
+          "normal_price": "39000000000",
+          "stock": 28,
+          "sold": 4,
+          "price_info": {
+            "final_price": "34000000000"
+          }
+        },
+        {
+          "model_id": "310373916062",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1767079189,
+          "seller_sku": "0022-1663-01",
+          "mtime": 1767079189,
+          "price_rule_id": "0",
+          "price": "39000000000",
+          "currency": "IDR",
+          "normal_price": "39000000000",
+          "stock": 26,
+          "sold": 2,
+          "price_info": {
+            "final_price": "34000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "54953936791",
+      "model": [
+        {
+          "model_id": "385373351690",
+          "name": "Khaki",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1767079410,
+          "seller_sku": "0022-1668-27",
+          "mtime": 1767079410,
+          "price_rule_id": "0",
+          "price": "41000000000",
+          "currency": "IDR",
+          "normal_price": "41000000000",
+          "stock": 31,
+          "sold": 0,
+          "price_info": {
+            "final_price": "36000000000"
+          }
+        },
+        {
+          "model_id": "385373351691",
+          "name": "Dark Brickred",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1767079410,
+          "seller_sku": "0022-1668-43",
+          "mtime": 1767079410,
+          "price_rule_id": "0",
+          "price": "41000000000",
+          "currency": "IDR",
+          "normal_price": "41000000000",
+          "stock": 20,
+          "sold": 7,
+          "price_info": {
+            "final_price": "36000000000"
+          }
+        },
+        {
+          "model_id": "385373351689",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1767079410,
+          "seller_sku": "0022-1668-01",
+          "mtime": 1767079410,
+          "price_rule_id": "0",
+          "price": "41000000000",
+          "currency": "IDR",
+          "normal_price": "41000000000",
+          "stock": 17,
+          "sold": 9,
+          "price_info": {
+            "final_price": "36000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "46202123070",
+      "model": [
+        {
+          "model_id": "380205703791",
+          "name": "Random Cream",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1764124861,
+          "seller_sku": "0025-0019-06",
+          "mtime": 1764124861,
+          "price_rule_id": "0",
+          "price": "33000000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 9,
+          "sold": 1,
+          "price_info": {
+            "final_price": "28000000000"
+          }
+        },
+        {
+          "model_id": "380205703792",
+          "name": "Random Khaki",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1764124861,
+          "seller_sku": "0025-0019-27",
+          "mtime": 1764124861,
+          "price_rule_id": "0",
+          "price": "33000000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 13,
+          "sold": 0,
+          "price_info": {
+            "final_price": "28000000000"
+          }
+        },
+        {
+          "model_id": "380205703793",
+          "name": "Random Dark Khaki",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1764124861,
+          "seller_sku": "0025-0019-39",
+          "mtime": 1764124861,
+          "price_rule_id": "0",
+          "price": "33000000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 11,
+          "sold": 0,
+          "price_info": {
+            "final_price": "28000000000"
+          }
+        }
+      ]
+    }
+  ]
+}
