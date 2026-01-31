@@ -1,0 +1,734 @@
+{
+  "items": [
+    {
+      "item_id": "56505624072",
+      "model": [
+        {
+          "model_id": "410509040004",
+          "name": "1PC",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1769769533,
+          "seller_sku": "G2G-268",
+          "mtime": 1769769592,
+          "price_rule_id": "0",
+          "price": "10000000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 10,
+          "sold": 0,
+          "price_info": {
+            "final_price": "5000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26617444732",
+      "model": [
+        {
+          "model_id": "168676361595",
+          "name": "6PCS-Super Renew Set",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1737449986,
+          "seller_sku": "g2g-05+29+43+83+104+131",
+          "mtime": 1752464262,
+          "price_rule_id": "842740808598528",
+          "price": "20850000000",
+          "currency": "IDR",
+          "normal_price": "69900000000",
+          "stock": 68590,
+          "sold": 58116,
+          "price_info": {
+            "final_price": "15850000000"
+          }
+        },
+        {
+          "model_id": "430066801088",
+          "name": "Natural Glow-01 7PCS",
+          "status": 1,
+          "tier_indices": [
+            29
+          ],
+          "create_time": 1762167367,
+          "seller_sku": "g2g-05+29+43+83+131+2111+20902",
+          "mtime": 1763982504,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 1995,
+          "sold": 1011,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "440242550761",
+          "name": "Glowing Korea Set 03",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1764738707,
+          "seller_sku": "g2g-05+29+43+83+131+208+2113",
+          "mtime": 1765788778,
+          "price_rule_id": "842740808598528",
+          "price": "25050000000",
+          "currency": "IDR",
+          "normal_price": "31900000000",
+          "stock": 12535,
+          "sold": 987,
+          "price_info": {
+            "final_price": "20040000000"
+          }
+        },
+        {
+          "model_id": "207988193417",
+          "name": "3PCS-Glowing-1",
+          "status": 1,
+          "tier_indices": [
+            15
+          ],
+          "create_time": 1732004384,
+          "seller_sku": "G2G-05+29+104",
+          "mtime": 1752464262,
+          "price_rule_id": "842740808598528",
+          "price": "11450000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 82208,
+          "sold": 42598,
+          "price_info": {
+            "final_price": "6450000000"
+          }
+        },
+        {
+          "model_id": "430066801086",
+          "name": "SET OUTING-01 7PCS",
+          "status": 1,
+          "tier_indices": [
+            26
+          ],
+          "create_time": 1762167367,
+          "seller_sku": "g2g-05+29+43+83+131+210+2111",
+          "mtime": 1763982504,
+          "price_rule_id": "0",
+          "price": "34900000000",
+          "currency": "IDR",
+          "normal_price": "34900000000",
+          "stock": 991,
+          "sold": 2390,
+          "price_info": {
+            "final_price": "27920000000"
+          }
+        },
+        {
+          "model_id": "430066801089",
+          "name": "SET JERAWAT 7PCS",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1762167367,
+          "seller_sku": "g2g-05+29+43+83+104+131+244",
+          "mtime": 1762167367,
+          "price_rule_id": "842740808598528",
+          "price": "23950000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 24509,
+          "sold": 3042,
+          "price_info": {
+            "final_price": "18950000000"
+          }
+        },
+        {
+          "model_id": "440242550765",
+          "name": "Glowing Korea Set 01",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1764738707,
+          "seller_sku": "g2g-05+29+43+83+131+208+2111",
+          "mtime": 1764738707,
+          "price_rule_id": "829700532928512",
+          "price": "23797500000",
+          "currency": "IDR",
+          "normal_price": "31900000000",
+          "stock": 497,
+          "sold": 1865,
+          "price_info": {
+            "final_price": "18797500000"
+          }
+        },
+        {
+          "model_id": "440242550763",
+          "name": "Set Tone Up 7PCS",
+          "status": 1,
+          "tier_indices": [
+            20
+          ],
+          "create_time": 1764738707,
+          "seller_sku": "g2g-05+29+43+45+83+131+208",
+          "mtime": 1764738707,
+          "price_rule_id": "0",
+          "price": "31900000000",
+          "currency": "IDR",
+          "normal_price": "31900000000",
+          "stock": 1994,
+          "sold": 619,
+          "price_info": {
+            "final_price": "25520000000"
+          }
+        },
+        {
+          "model_id": "227793692096",
+          "name": "Cerah 7PCS",
+          "status": 1,
+          "tier_indices": [
+            19
+          ],
+          "create_time": 1746353288,
+          "seller_sku": "g2g-05+29+43+44+83+104+131",
+          "mtime": 1754383651,
+          "price_rule_id": "829700532928512",
+          "price": "22230000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 498,
+          "sold": 27803,
+          "price_info": {
+            "final_price": "17230000000"
+          }
+        },
+        {
+          "model_id": "430066801087",
+          "name": "Makeup removal 7PCS",
+          "status": 1,
+          "tier_indices": [
+            22
+          ],
+          "create_time": 1762167367,
+          "seller_sku": "g2g-05+29+43+83+104+131+265",
+          "mtime": 1762250768,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 989,
+          "sold": 1293,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "420496856650",
+          "name": "[LIVE DEAL]Cerah7PCS",
+          "status": 1,
+          "tier_indices": [
+            32
+          ],
+          "create_time": 1769591193,
+          "seller_sku": "g2g-05+29+43+45+51+83+104",
+          "mtime": 1769591193,
+          "price_rule_id": "0",
+          "price": "30562500000",
+          "currency": "IDR",
+          "normal_price": "30562500000",
+          "stock": 49993,
+          "sold": 0,
+          "price_info": {
+            "final_price": "24450000000"
+          }
+        },
+        {
+          "model_id": "440242550762",
+          "name": "Acne Travel Set 7pcs",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1764738707,
+          "seller_sku": "g2g-05+29+43+83+131+208+244",
+          "mtime": 1764738707,
+          "price_rule_id": "842740808598528",
+          "price": "23450000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 11731,
+          "sold": 948,
+          "price_info": {
+            "final_price": "18450000000"
+          }
+        },
+        {
+          "model_id": "307313603432",
+          "name": "[Save More]Cerah7PCS",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1767696230,
+          "seller_sku": "g2g-05+29+43+45+51+83+104",
+          "mtime": 1767696230,
+          "price_rule_id": "829700532928512",
+          "price": "23037500000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 491,
+          "sold": 1515,
+          "price_info": {
+            "final_price": "18037500000"
+          }
+        },
+        {
+          "model_id": "420496856651",
+          "name": "[LIVE DEAL]Flash7PCS",
+          "status": 1,
+          "tier_indices": [
+            33
+          ],
+          "create_time": 1769591193,
+          "seller_sku": "g2g-05+29+44+51+83+104+276",
+          "mtime": 1769591193,
+          "price_rule_id": "0",
+          "price": "29187500000",
+          "currency": "IDR",
+          "normal_price": "29187500000",
+          "stock": 49998,
+          "sold": 0,
+          "price_info": {
+            "final_price": "23350000000"
+          }
+        },
+        {
+          "model_id": "307313603430",
+          "name": "Cerah 7PCS-retinol",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1767696230,
+          "seller_sku": "g2g-05+29+43+44+51+83+104",
+          "mtime": 1767696230,
+          "price_rule_id": "829700532928512",
+          "price": "21755000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 491,
+          "sold": 1100,
+          "price_info": {
+            "final_price": "16755000000"
+          }
+        },
+        {
+          "model_id": "177113877527",
+          "name": "[HEMAT40K]Cerah7PCS",
+          "status": 1,
+          "tier_indices": [
+            17
+          ],
+          "create_time": 1744631296,
+          "seller_sku": "g2g-05+29+43+45+83+104+131",
+          "mtime": 1762856600,
+          "price_rule_id": "842740808598528",
+          "price": "24750000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 44876,
+          "sold": 53510,
+          "price_info": {
+            "final_price": "19750000000"
+          }
+        },
+        {
+          "model_id": "290199393005",
+          "name": "7PCS-Dark Spot",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1748423628,
+          "seller_sku": "g2g-05+26+29+35+43+44+104",
+          "mtime": 1752464262,
+          "price_rule_id": "842740808598528",
+          "price": "22900000000",
+          "currency": "IDR",
+          "normal_price": "69900000000",
+          "stock": 87885,
+          "sold": 8853,
+          "price_info": {
+            "final_price": "17900000000"
+          }
+        },
+        {
+          "model_id": "320476197534",
+          "name": "[BIG SIZE]Cerah7PCS",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1769167765,
+          "seller_sku": "G2G-05+43+45+51+104+248+250",
+          "mtime": 1769167765,
+          "price_rule_id": "842740808598528",
+          "price": "32050000000",
+          "currency": "IDR",
+          "normal_price": "80900000000",
+          "stock": 44127,
+          "sold": 22,
+          "price_info": {
+            "final_price": "25640000000"
+          }
+        },
+        {
+          "model_id": "207988193420",
+          "name": "5PCS-Glowing",
+          "status": 1,
+          "tier_indices": [
+            14
+          ],
+          "create_time": 1732004384,
+          "seller_sku": "g2g-05+29+43+45+104",
+          "mtime": 1752464262,
+          "price_rule_id": "842740808598528",
+          "price": "18400000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 87214,
+          "sold": 40478,
+          "price_info": {
+            "final_price": "13400000000"
+          }
+        },
+        {
+          "model_id": "177113877526",
+          "name": "7PCS-Calm",
+          "status": 1,
+          "tier_indices": [
+            31
+          ],
+          "create_time": 1744631296,
+          "seller_sku": "g2g-05+29+45+83+104+108+131",
+          "mtime": 1752464262,
+          "price_rule_id": "0",
+          "price": "79900000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 1991,
+          "sold": 4096,
+          "price_info": {
+            "final_price": "69900000000"
+          }
+        },
+        {
+          "model_id": "147551536809",
+          "name": "Repair7PCS",
+          "status": 1,
+          "tier_indices": [
+            21
+          ],
+          "create_time": 1731485205,
+          "seller_sku": "g2g-05+29+34+45+83+104+131",
+          "mtime": 1762167367,
+          "price_rule_id": "0",
+          "price": "79900000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 1984,
+          "sold": 86198,
+          "price_info": {
+            "final_price": "69900000000"
+          }
+        },
+        {
+          "model_id": "430066801091",
+          "name": "Set Glowing-01 7PCS",
+          "status": 1,
+          "tier_indices": [
+            25
+          ],
+          "create_time": 1762167367,
+          "seller_sku": "g2g-05+29+43+45+83+131+2111",
+          "mtime": 1764738707,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 990,
+          "sold": 2248,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "207988193418",
+          "name": "3PCS-Glowing-2",
+          "status": 1,
+          "tier_indices": [
+            16
+          ],
+          "create_time": 1732004384,
+          "seller_sku": "G2G-05+29+43",
+          "mtime": 1750934248,
+          "price_rule_id": "842740808598528",
+          "price": "11450000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 66501,
+          "sold": 69075,
+          "price_info": {
+            "final_price": "6450000000"
+          }
+        },
+        {
+          "model_id": "310196262232",
+          "name": "Set Glowing-03 7PCS",
+          "status": 1,
+          "tier_indices": [
+            27
+          ],
+          "create_time": 1763955731,
+          "seller_sku": "g2g-05+29+43+45+83+131+2113",
+          "mtime": 1765788778,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 991,
+          "sold": 808,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "310503578990",
+          "name": "[Extra Dis 25%] 9PCS",
+          "status": 1,
+          "tier_indices": [
+            34
+          ],
+          "create_time": 1769673055,
+          "seller_sku": "G2G-05+29+43+45+51+83+104+2111+2113",
+          "mtime": 1769673055,
+          "price_rule_id": "842740808598528",
+          "price": "33650000000",
+          "currency": "IDR",
+          "normal_price": "80900000000",
+          "stock": 44676,
+          "sold": 0,
+          "price_info": {
+            "final_price": "26920000000"
+          }
+        },
+        {
+          "model_id": "207988193416",
+          "name": "6PCS-Glowing",
+          "status": 1,
+          "tier_indices": [
+            13
+          ],
+          "create_time": 1732004384,
+          "seller_sku": "g2g-05+29+29+43+45+104",
+          "mtime": 1752464262,
+          "price_rule_id": "842740808598528",
+          "price": "21150000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 99938,
+          "sold": 19358,
+          "price_info": {
+            "final_price": "16150000000"
+          }
+        },
+        {
+          "model_id": "430148443212",
+          "name": "Makeup removal2 7PCS",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1763452903,
+          "seller_sku": "g2g-05+29+43+83+104+131+266",
+          "mtime": 1763452903,
+          "price_rule_id": "842740808598528",
+          "price": "24750000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 3743,
+          "sold": 1050,
+          "price_info": {
+            "final_price": "19750000000"
+          }
+        },
+        {
+          "model_id": "218230673808",
+          "name": "7PCS-Face&Body Glow",
+          "status": 1,
+          "tier_indices": [
+            23
+          ],
+          "create_time": 1740045696,
+          "seller_sku": "g2g-05+29+43+75+83+104+131",
+          "mtime": 1752464262,
+          "price_rule_id": "0",
+          "price": "79900000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 1991,
+          "sold": 11777,
+          "price_info": {
+            "final_price": "69900000000"
+          }
+        },
+        {
+          "model_id": "325197961976",
+          "name": "SET OUTING-03 7PCS",
+          "status": 1,
+          "tier_indices": [
+            24
+          ],
+          "create_time": 1763982504,
+          "seller_sku": "g2g-05+29+43+83+131+210+2113",
+          "mtime": 1765788778,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 1989,
+          "sold": 1006,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "108635049974",
+          "name": "[HEMAT30K]Repair7PCS",
+          "status": 1,
+          "tier_indices": [
+            18
+          ],
+          "create_time": 1743065523,
+          "seller_sku": "g2g-05+29+34+44+83+104+131",
+          "mtime": 1762856600,
+          "price_rule_id": "829700532928512",
+          "price": "21755000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 499,
+          "sold": 25529,
+          "price_info": {
+            "final_price": "16755000000"
+          }
+        },
+        {
+          "model_id": "440242550764",
+          "name": "Set Tone Up 6PCS",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1764738707,
+          "seller_sku": "g2g-05+29+43+83+131+208",
+          "mtime": 1764738707,
+          "price_rule_id": "842740808598528",
+          "price": "20350000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 23496,
+          "sold": 1675,
+          "price_info": {
+            "final_price": "15350000000"
+          }
+        },
+        {
+          "model_id": "307313603431",
+          "name": "Retinol Glow 7PCS",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1767696230,
+          "seller_sku": "g2g-05+29+44+51+83+104+276",
+          "mtime": 1767696230,
+          "price_rule_id": "829700532928512",
+          "price": "21280000000",
+          "currency": "IDR",
+          "normal_price": "79900000000",
+          "stock": 493,
+          "sold": 1149,
+          "price_info": {
+            "final_price": "16280000000"
+          }
+        },
+        {
+          "model_id": "430066801090",
+          "name": "SET FLAWLESS 7PCS",
+          "status": 1,
+          "tier_indices": [
+            30
+          ],
+          "create_time": 1762167367,
+          "seller_sku": "g2g-05+29+43+45+83+131+20902",
+          "mtime": 1762167367,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 1991,
+          "sold": 547,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "440242550760",
+          "name": "Cerah & Makeup 7PCS",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1764738707,
+          "seller_sku": "g2g-05+29+43+83+131+208+266",
+          "mtime": 1764738707,
+          "price_rule_id": "842740808598528",
+          "price": "24250000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 18787,
+          "sold": 1076,
+          "price_info": {
+            "final_price": "19250000000"
+          }
+        },
+        {
+          "model_id": "325197961975",
+          "name": "Natural Glow-03 7PCS",
+          "status": 1,
+          "tier_indices": [
+            28
+          ],
+          "create_time": 1763982504,
+          "seller_sku": "g2g-05+29+43+83+131+2113+20902",
+          "mtime": 1765788778,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 1992,
+          "sold": 528,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        }
+      ]
+    }
+  ]
+}
