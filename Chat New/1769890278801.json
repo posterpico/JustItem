@@ -1,0 +1,704 @@
+{
+  "items": [
+    {
+      "item_id": "9817497670",
+      "model": [
+        {
+          "model_id": "43780540108",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1614138572,
+          "seller_sku": "",
+          "mtime": 1627757618,
+          "price_rule_id": "0",
+          "price": "3000000000",
+          "currency": "IDR",
+          "normal_price": "3000000000",
+          "stock": 379,
+          "sold": 3010,
+          "price_info": {
+            "final_price": "2000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25816021181",
+      "model": [
+        {
+          "model_id": "138871266205",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1709221770,
+          "seller_sku": "",
+          "mtime": 1709221770,
+          "price_rule_id": "0",
+          "price": "6000000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 26,
+          "sold": 4137,
+          "price_info": {
+            "final_price": "3000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27477300082",
+      "model": [
+        {
+          "model_id": "247715599805",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1740392894,
+          "seller_sku": "",
+          "mtime": 1740392894,
+          "price_rule_id": "0",
+          "price": "15000000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 14,
+          "sold": 63,
+          "price_info": {
+            "final_price": "10000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "43873360091",
+      "model": [
+        {
+          "model_id": "238195669695",
+          "name": "N03 - Buff Master",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH03",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "10080000000",
+          "currency": "IDR",
+          "normal_price": "14000000000",
+          "stock": 7,
+          "sold": 325,
+          "price_info": {
+            "final_price": "5080000000"
+          }
+        },
+        {
+          "model_id": "238195669699",
+          "name": "N07 - Spot Concealer",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH07",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "10440000000",
+          "currency": "IDR",
+          "normal_price": "14500000000",
+          "stock": 10,
+          "sold": 263,
+          "price_info": {
+            "final_price": "5440000000"
+          }
+        },
+        {
+          "model_id": "238195669693",
+          "name": "N01 -Powder Diffuser",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH01",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "9720000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 9,
+          "sold": 216,
+          "price_info": {
+            "final_price": "4860000000"
+          }
+        },
+        {
+          "model_id": "238195669696",
+          "name": "N04 -Cheek Architect",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH04",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "9000000000",
+          "currency": "IDR",
+          "normal_price": "12500000000",
+          "stock": 9,
+          "sold": 224,
+          "price_info": {
+            "final_price": "4500000000"
+          }
+        },
+        {
+          "model_id": "238195669698",
+          "name": "N06 - XL Blender",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH06",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "9000000000",
+          "currency": "IDR",
+          "normal_price": "12500000000",
+          "stock": 10,
+          "sold": 68,
+          "price_info": {
+            "final_price": "4500000000"
+          }
+        },
+        {
+          "model_id": "238195669697",
+          "name": "N05 -Precision Touch",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH05",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "9720000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 10,
+          "sold": 102,
+          "price_info": {
+            "final_price": "4860000000"
+          }
+        },
+        {
+          "model_id": "238195669694",
+          "name": "N02 - Base Perfector",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH02",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "7560000000",
+          "currency": "IDR",
+          "normal_price": "10500000000",
+          "stock": 10,
+          "sold": 131,
+          "price_info": {
+            "final_price": "3780000000"
+          }
+        },
+        {
+          "model_id": "238195669700",
+          "name": "N08 - Dome Blender",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH08",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "10440000000",
+          "currency": "IDR",
+          "normal_price": "14500000000",
+          "stock": 10,
+          "sold": 83,
+          "price_info": {
+            "final_price": "5440000000"
+          }
+        },
+        {
+          "model_id": "244075168937",
+          "name": "N10 - Line & Refine",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH10",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "6480000000",
+          "currency": "IDR",
+          "normal_price": "9000000000",
+          "stock": 10,
+          "sold": 86,
+          "price_info": {
+            "final_price": "3240000000"
+          }
+        },
+        {
+          "model_id": "244075168936",
+          "name": "N09 -Pigment Smudger",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1762143617,
+          "seller_sku": "SN-FG-BRS-BUBH-THECLUB-BBH09",
+          "mtime": 1762740228,
+          "price_rule_id": "842584293949440",
+          "price": "7920000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 10,
+          "sold": 60,
+          "price_info": {
+            "final_price": "3960000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "10326881701",
+      "model": [
+        {
+          "model_id": "101458392767",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1628820572,
+          "seller_sku": "",
+          "mtime": 1628820572,
+          "price_rule_id": "227576727748608",
+          "price": "120490000000",
+          "currency": "IDR",
+          "normal_price": "135000000000",
+          "stock": 5,
+          "sold": 55,
+          "price_info": {
+            "final_price": "109490000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "13898188453",
+      "model": [
+        {
+          "model_id": "137375570199",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1675764924,
+          "seller_sku": "",
+          "mtime": 1675764924,
+          "price_rule_id": "227576727748608",
+          "price": "119590000000",
+          "currency": "IDR",
+          "normal_price": "134000000000",
+          "stock": 5,
+          "sold": 49,
+          "price_info": {
+            "final_price": "109090000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "3669030471",
+      "model": [
+        {
+          "model_id": "32399370318",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1607704510,
+          "seller_sku": "",
+          "mtime": 1627755993,
+          "price_rule_id": "227571908493313",
+          "price": "44090000000",
+          "currency": "IDR",
+          "normal_price": "47800000000",
+          "stock": 5,
+          "sold": 309,
+          "price_info": {
+            "final_price": "38799200000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "1873761200",
+      "model": [
+        {
+          "model_id": "62821538750",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1608915081,
+          "seller_sku": "",
+          "mtime": 1624798757,
+          "price_rule_id": "227571908493313",
+          "price": "69190000000",
+          "currency": "IDR",
+          "normal_price": "77000000000",
+          "stock": 5,
+          "sold": 63,
+          "price_info": {
+            "final_price": "60887200000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "4513097818",
+      "model": [
+        {
+          "model_id": "42822006335",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1608916216,
+          "seller_sku": "",
+          "mtime": 1624798505,
+          "price_rule_id": "843457069891584",
+          "price": "133290000000",
+          "currency": "IDR",
+          "normal_price": "141000000000",
+          "stock": 24,
+          "sold": 59,
+          "price_info": {
+            "final_price": "122290000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "3790121091",
+      "model": [
+        {
+          "model_id": "110376591526",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1622096462,
+          "seller_sku": "",
+          "mtime": 1627756388,
+          "price_rule_id": "826697587425280",
+          "price": "42315000000",
+          "currency": "IDR",
+          "normal_price": "46500000000",
+          "stock": 25,
+          "sold": 69,
+          "price_info": {
+            "final_price": "37237200000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40864104235",
+      "model": [
+        {
+          "model_id": "296161959083",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1755678081,
+          "seller_sku": "",
+          "mtime": 1755678081,
+          "price_rule_id": "227576727748608",
+          "price": "220000000000",
+          "currency": "IDR",
+          "normal_price": "252900000000",
+          "stock": 8,
+          "sold": 94,
+          "price_info": {
+            "final_price": "205000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "9847478002",
+      "model": [
+        {
+          "model_id": "65100875606",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1619237909,
+          "seller_sku": "",
+          "mtime": 1629431569,
+          "price_rule_id": "227576727748608",
+          "price": "2070000000",
+          "currency": "IDR",
+          "normal_price": "2300000000",
+          "stock": 22,
+          "sold": 6639,
+          "price_info": {
+            "final_price": "1070000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "4567643119",
+      "model": [
+        {
+          "model_id": "23049406389",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1607066960,
+          "seller_sku": "",
+          "mtime": 1627864200,
+          "price_rule_id": "232563084111873",
+          "price": "7500000000",
+          "currency": "IDR",
+          "normal_price": "9800000000",
+          "stock": 13,
+          "sold": 57621,
+          "price_info": {
+            "final_price": "3737500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "16579993032",
+      "model": [
+        {
+          "model_id": "211370354465",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1658461194,
+          "seller_sku": "",
+          "mtime": 1658461194,
+          "price_rule_id": "232563084111873",
+          "price": "2500000000",
+          "currency": "IDR",
+          "normal_price": "3000000000",
+          "stock": 1,
+          "sold": 39408,
+          "price_info": {
+            "final_price": "1475000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "19826401375",
+      "model": [
+        {
+          "model_id": "191370335181",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1658461126,
+          "seller_sku": "",
+          "mtime": 1658461126,
+          "price_rule_id": "843400866217984",
+          "price": "2955000000",
+          "currency": "IDR",
+          "normal_price": "3000000000",
+          "stock": 891,
+          "sold": 58807,
+          "price_info": {
+            "final_price": "1930000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "55053971323",
+      "model": [
+        {
+          "model_id": "370376807485",
+          "name": "SRef+TRef20+PHTE30",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1767149412,
+          "seller_sku": "2500493",
+          "mtime": 1768183170,
+          "price_rule_id": "840732131246080",
+          "price": "37000000000",
+          "currency": "IDR",
+          "normal_price": "58600000000",
+          "stock": 586,
+          "sold": 9,
+          "price_info": {
+            "final_price": "28720000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "53604480393",
+      "model": [
+        {
+          "model_id": "310420582150",
+          "name": "TS Glow + Ruby",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1768187858,
+          "seller_sku": "2601007",
+          "mtime": 1768187858,
+          "price_rule_id": "840732131246080",
+          "price": "23900000000",
+          "currency": "IDR",
+          "normal_price": "40100000000",
+          "stock": 301,
+          "sold": 0,
+          "price_info": {
+            "final_price": "17800000000"
+          }
+        },
+        {
+          "model_id": "310420582151",
+          "name": "TS Matte + Ruby",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1768187858,
+          "seller_sku": "2601008",
+          "mtime": 1768187858,
+          "price_rule_id": "840732131246080",
+          "price": "23900000000",
+          "currency": "IDR",
+          "normal_price": "40100000000",
+          "stock": 301,
+          "sold": 0,
+          "price_info": {
+            "final_price": "17800000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "9177794056",
+      "model": [
+        {
+          "model_id": "93433923057",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1626234645,
+          "seller_sku": "",
+          "mtime": 1626234937,
+          "price_rule_id": "233720393248769",
+          "price": "3600000000",
+          "currency": "IDR",
+          "normal_price": "4700000000",
+          "stock": 23,
+          "sold": 1161,
+          "price_info": {
+            "final_price": "2600000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5416934002",
+      "model": [
+        {
+          "model_id": "62750042647",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1608790240,
+          "seller_sku": "",
+          "mtime": 1627923575,
+          "price_rule_id": "233720393248769",
+          "price": "5000000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 24,
+          "sold": 761,
+          "price_info": {
+            "final_price": "2500000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5116931843",
+      "model": [
+        {
+          "model_id": "80389255737",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1608790234,
+          "seller_sku": "",
+          "mtime": 1627757812,
+          "price_rule_id": "233720393248769",
+          "price": "1450000000",
+          "currency": "IDR",
+          "normal_price": "1800000000",
+          "stock": 24,
+          "sold": 15342,
+          "price_info": {
+            "final_price": "450000000"
+          }
+        }
+      ]
+    }
+  ]
+}
