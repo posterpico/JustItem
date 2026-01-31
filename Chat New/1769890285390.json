@@ -1,0 +1,874 @@
+{
+  "items": [
+    {
+      "item_id": "25028436093",
+      "model": [
+        {
+          "model_id": "245765164398",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1714819918,
+          "seller_sku": "",
+          "mtime": 1714819918,
+          "price_rule_id": "0",
+          "price": "13500000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 10212,
+          "sold": 2076,
+          "price_info": {
+            "final_price": "8500000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "52101713983",
+      "model": [
+        {
+          "model_id": "297174284941",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1763543523,
+          "seller_sku": "",
+          "mtime": 1763543523,
+          "price_rule_id": "842584293949440",
+          "price": "5920000000",
+          "currency": "IDR",
+          "normal_price": "12400000000",
+          "stock": 27,
+          "sold": 85,
+          "price_info": {
+            "final_price": "3690000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25817316424",
+      "model": [
+        {
+          "model_id": "168409604349",
+          "name": "50ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1725937681,
+          "seller_sku": "3614273927338",
+          "mtime": 1725937681,
+          "price_rule_id": "227571908493313",
+          "price": "187010000000",
+          "currency": "IDR",
+          "normal_price": "199000000000",
+          "stock": 5,
+          "sold": 227,
+          "price_info": {
+            "final_price": "172010000000"
+          }
+        },
+        {
+          "model_id": "168409604348",
+          "name": "100ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1725937681,
+          "seller_sku": "3614273927321",
+          "mtime": 1725937681,
+          "price_rule_id": "227571908493313",
+          "price": "261210000000",
+          "currency": "IDR",
+          "normal_price": "279000000000",
+          "stock": 5,
+          "sold": 183,
+          "price_info": {
+            "final_price": "236210000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "45651337840",
+      "model": [
+        {
+          "model_id": "425119427203",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRS",
+          "mtime": 1763040257,
+          "price_rule_id": "227576727748608",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 13,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "425119427204",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRM",
+          "mtime": 1763040257,
+          "price_rule_id": "843441928455168",
+          "price": "46890000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 2,
+          "sold": 35,
+          "price_info": {
+            "final_price": "41890000000"
+          }
+        },
+        {
+          "model_id": "425119427205",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRL",
+          "mtime": 1763040257,
+          "price_rule_id": "227576727748608",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 46,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "425119427206",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRXL",
+          "mtime": 1763040257,
+          "price_rule_id": "227576727748608",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 38,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "425119427207",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRXXL",
+          "mtime": 1763040257,
+          "price_rule_id": "227576727748608",
+          "price": "50255000000",
+          "currency": "IDR",
+          "normal_price": "52900000000",
+          "stock": 5,
+          "sold": 31,
+          "price_info": {
+            "final_price": "45255000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29638582902",
+      "model": [
+        {
+          "model_id": "285690692534",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1752238883,
+          "seller_sku": "KDK1D07009XL",
+          "mtime": 1752238883,
+          "price_rule_id": "0",
+          "price": "24900000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 0,
+          "sold": 18,
+          "price_info": {
+            "final_price": "19900000000"
+          }
+        },
+        {
+          "model_id": "285690692531",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1752238883,
+          "seller_sku": "KDK1D07009S",
+          "mtime": 1752238883,
+          "price_rule_id": "227576727748608",
+          "price": "21912000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 5,
+          "sold": 4,
+          "price_info": {
+            "final_price": "16912000000"
+          }
+        },
+        {
+          "model_id": "285690692532",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1752238883,
+          "seller_sku": "KDK1D07009M",
+          "mtime": 1752238883,
+          "price_rule_id": "227576727748608",
+          "price": "21912000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 5,
+          "sold": 10,
+          "price_info": {
+            "final_price": "16912000000"
+          }
+        },
+        {
+          "model_id": "285690692533",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1752238883,
+          "seller_sku": "KDK1D07009L",
+          "mtime": 1752238883,
+          "price_rule_id": "227576727748608",
+          "price": "21912000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 5,
+          "sold": 11,
+          "price_info": {
+            "final_price": "16912000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "51750292739",
+      "model": [
+        {
+          "model_id": "395028172408",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011S",
+          "mtime": 1761652985,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 3,
+          "sold": 20,
+          "price_info": {
+            "final_price": "44900000000"
+          }
+        },
+        {
+          "model_id": "395028172409",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011M",
+          "mtime": 1761652985,
+          "price_rule_id": "227571908493313",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 54,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "395028172410",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011L",
+          "mtime": 1761652985,
+          "price_rule_id": "227571908493313",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 85,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "395028172411",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011XL",
+          "mtime": 1761652985,
+          "price_rule_id": "227571908493313",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 66,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "395028172412",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011XXL",
+          "mtime": 1761652985,
+          "price_rule_id": "227571908493313",
+          "price": "50255000000",
+          "currency": "IDR",
+          "normal_price": "52900000000",
+          "stock": 5,
+          "sold": 39,
+          "price_info": {
+            "final_price": "45255000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23107997185",
+      "model": [
+        {
+          "model_id": "175218679685",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546XL",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "56905000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 5,
+          "sold": 2270,
+          "price_info": {
+            "final_price": "51905000000"
+          }
+        },
+        {
+          "model_id": "175218679686",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546XXL",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "59755000000",
+          "currency": "IDR",
+          "normal_price": "62900000000",
+          "stock": 5,
+          "sold": 1210,
+          "price_info": {
+            "final_price": "54755000000"
+          }
+        },
+        {
+          "model_id": "175218679682",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546L",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "56905000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 5,
+          "sold": 3655,
+          "price_info": {
+            "final_price": "51905000000"
+          }
+        },
+        {
+          "model_id": "175218679683",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546M",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "56905000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 5,
+          "sold": 3512,
+          "price_info": {
+            "final_price": "51905000000"
+          }
+        },
+        {
+          "model_id": "175218679684",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546S",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "56905000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 5,
+          "sold": 1135,
+          "price_info": {
+            "final_price": "51905000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28932882967",
+      "model": [
+        {
+          "model_id": "168852066810",
+          "name": "29 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O145",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 52,
+          "sold": 1,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066811",
+          "name": "30 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O146",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 40,
+          "sold": 4,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066812",
+          "name": "31 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O147",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 40,
+          "sold": 3,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066813",
+          "name": "32 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O148",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 41,
+          "sold": 2,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066806",
+          "name": "25 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O141",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 6,
+          "sold": 1,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066807",
+          "name": "26 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O142",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 25,
+          "sold": 1,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066808",
+          "name": "27 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O143",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 43,
+          "sold": 3,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066809",
+          "name": "28 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O144",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 41,
+          "sold": 5,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24543837863",
+      "model": [
+        {
+          "model_id": "253137378491",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P384",
+          "mtime": 1744267318,
+          "price_rule_id": "0",
+          "price": "34990000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "29990000000"
+          }
+        },
+        {
+          "model_id": "253137378492",
+          "name": "XS",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P385",
+          "mtime": 1744267318,
+          "price_rule_id": "842770126782464",
+          "price": "17495000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 9,
+          "sold": 11,
+          "price_info": {
+            "final_price": "12495000000"
+          }
+        },
+        {
+          "model_id": "253137378488",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P381",
+          "mtime": 1744267318,
+          "price_rule_id": "842770126782464",
+          "price": "17495000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 2,
+          "sold": 17,
+          "price_info": {
+            "final_price": "12495000000"
+          }
+        },
+        {
+          "model_id": "253137378489",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P382",
+          "mtime": 1744267318,
+          "price_rule_id": "0",
+          "price": "34990000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 0,
+          "sold": 30,
+          "price_info": {
+            "final_price": "29990000000"
+          }
+        },
+        {
+          "model_id": "253137378490",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P383",
+          "mtime": 1744267318,
+          "price_rule_id": "0",
+          "price": "34990000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 0,
+          "sold": 25,
+          "price_info": {
+            "final_price": "29990000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26487551956",
+      "model": [
+        {
+          "model_id": "224290727949",
+          "name": "XS",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R317",
+          "mtime": 1749803924,
+          "price_rule_id": "842770126782464",
+          "price": "64995000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 8,
+          "sold": 9,
+          "price_info": {
+            "final_price": "54795400000"
+          }
+        },
+        {
+          "model_id": "224290727950",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R318",
+          "mtime": 1749803924,
+          "price_rule_id": "0",
+          "price": "129990000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "118490000000"
+          }
+        },
+        {
+          "model_id": "224290727946",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R314",
+          "mtime": 1749803924,
+          "price_rule_id": "0",
+          "price": "129990000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 0,
+          "sold": 27,
+          "price_info": {
+            "final_price": "118490000000"
+          }
+        },
+        {
+          "model_id": "224290727947",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R315",
+          "mtime": 1749803924,
+          "price_rule_id": "842770126782464",
+          "price": "64995000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 3,
+          "sold": 22,
+          "price_info": {
+            "final_price": "54795400000"
+          }
+        },
+        {
+          "model_id": "224290727948",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R316",
+          "mtime": 1749803924,
+          "price_rule_id": "842770126782464",
+          "price": "64995000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 15,
+          "sold": 21,
+          "price_info": {
+            "final_price": "54795400000"
+          }
+        }
+      ]
+    }
+  ]
+}
