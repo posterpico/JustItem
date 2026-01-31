@@ -1,0 +1,2264 @@
+{
+  "items": [
+    {
+      "item_id": "26429284748",
+      "model": [
+        {
+          "model_id": "227499490694",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1741761795,
+          "seller_sku": "",
+          "mtime": 1741761795,
+          "price_rule_id": "842533735809024",
+          "price": "20500000000",
+          "currency": "IDR",
+          "normal_price": "50000000000",
+          "stock": 1177,
+          "sold": 304,
+          "price_info": {
+            "final_price": "15000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23079672987",
+      "model": [
+        {
+          "model_id": "214567512449",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1694156360,
+          "seller_sku": "",
+          "mtime": 1694156360,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 681,
+          "sold": 3886,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23579671166",
+      "model": [
+        {
+          "model_id": "194567532007",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1694156687,
+          "seller_sku": "",
+          "mtime": 1694156687,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 343,
+          "sold": 78031,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28393948028",
+      "model": [
+        {
+          "model_id": "159335588980",
+          "name": "Shooting Star",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1767670892,
+          "seller_sku": "8994452870125",
+          "mtime": 1767676124,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 440,
+          "sold": 4,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "159335588981",
+          "name": "Crush On You",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1767670892,
+          "seller_sku": "8994452870125",
+          "mtime": 1767670892,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 440,
+          "sold": 5,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "159335588982",
+          "name": "Red Opium",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1767670892,
+          "seller_sku": "8994452870156",
+          "mtime": 1767670892,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 1392,
+          "sold": 17,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "159335588983",
+          "name": "Spill The Night",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1767670892,
+          "seller_sku": "8994452870026",
+          "mtime": 1767670892,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 491,
+          "sold": 11,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "159335588984",
+          "name": "First Kiss",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1767670892,
+          "seller_sku": "8994452870064",
+          "mtime": 1767670892,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 1395,
+          "sold": 11,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "157994639600",
+          "name": "Ocean Dream",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1767670892,
+          "seller_sku": "8994452870101",
+          "mtime": 1767670892,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 1424,
+          "sold": 8,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "159335588978",
+          "name": "Endless Blossom",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1767670892,
+          "seller_sku": "8994452870040",
+          "mtime": 1767670892,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 1383,
+          "sold": 9,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "159335588979",
+          "name": "Love Journey",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1767670892,
+          "seller_sku": "8994452870088",
+          "mtime": 1767670892,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 404,
+          "sold": 3,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "17996279724",
+      "model": [
+        {
+          "model_id": "147044203105",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1696578979,
+          "seller_sku": "",
+          "mtime": 1696578979,
+          "price_rule_id": "842533735809024",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "26000000000",
+          "stock": 681,
+          "sold": 7529,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27775126167",
+      "model": [
+        {
+          "model_id": "252580080943",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738745209,
+          "seller_sku": "",
+          "mtime": 1738745209,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 1270,
+          "sold": 496,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22283785846",
+      "model": [
+        {
+          "model_id": "232142895360",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1697634862,
+          "seller_sku": "",
+          "mtime": 1697634862,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 691,
+          "sold": 61650,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24391293781",
+      "model": [
+        {
+          "model_id": "257617649464",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1739262225,
+          "seller_sku": "",
+          "mtime": 1739262225,
+          "price_rule_id": "842533735809024",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "30000000000",
+          "stock": 681,
+          "sold": 235,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26075363540",
+      "model": [
+        {
+          "model_id": "49517448225",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738829943,
+          "seller_sku": "",
+          "mtime": 1738829943,
+          "price_rule_id": "842533735809024",
+          "price": "27100000000",
+          "currency": "IDR",
+          "normal_price": "45000000000",
+          "stock": 671,
+          "sold": 373,
+          "price_info": {
+            "final_price": "21280000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25380208629",
+      "model": [
+        {
+          "model_id": "127921368068",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1715572185,
+          "seller_sku": "",
+          "mtime": 1715572185,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 462,
+          "sold": 959,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24129118164",
+      "model": [
+        {
+          "model_id": "168192385686",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1715143080,
+          "seller_sku": "",
+          "mtime": 1715143080,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 498,
+          "sold": 1731,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25230207830",
+      "model": [
+        {
+          "model_id": "215096496275",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1715572061,
+          "seller_sku": "",
+          "mtime": 1715572061,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 365,
+          "sold": 4091,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24605120338",
+      "model": [
+        {
+          "model_id": "245133711178",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1703583176,
+          "seller_sku": "",
+          "mtime": 1703583176,
+          "price_rule_id": "842533735809024",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "26000000000",
+          "stock": 690,
+          "sold": 2338,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25055110690",
+      "model": [
+        {
+          "model_id": "245133456623",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1703581058,
+          "seller_sku": "",
+          "mtime": 1703581058,
+          "price_rule_id": "842533735809024",
+          "price": "55200000000",
+          "currency": "IDR",
+          "normal_price": "81000000000",
+          "stock": 549,
+          "sold": 340,
+          "price_info": {
+            "final_price": "44700000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24105115582",
+      "model": [
+        {
+          "model_id": "197238461464",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1703581339,
+          "seller_sku": "",
+          "mtime": 1703581339,
+          "price_rule_id": "842533735809024",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "26000000000",
+          "stock": 690,
+          "sold": 1442,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25992563069",
+      "model": [
+        {
+          "model_id": "233925662076",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1741760665,
+          "seller_sku": "",
+          "mtime": 1741760665,
+          "price_rule_id": "842533735809024",
+          "price": "20500000000",
+          "currency": "IDR",
+          "normal_price": "50000000000",
+          "stock": 6,
+          "sold": 1489,
+          "price_info": {
+            "final_price": "15000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23154183655",
+      "model": [
+        {
+          "model_id": "232005047113",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1694156515,
+          "seller_sku": "",
+          "mtime": 1694156515,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 1420,
+          "sold": 55206,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "15499451476",
+      "model": [
+        {
+          "model_id": "194567526936",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1694156560,
+          "seller_sku": "",
+          "mtime": 1694156560,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 438,
+          "sold": 55224,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28130259199",
+      "model": [
+        {
+          "model_id": "223971402072",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1742453746,
+          "seller_sku": "",
+          "mtime": 1742453746,
+          "price_rule_id": "842533735809024",
+          "price": "20500000000",
+          "currency": "IDR",
+          "normal_price": "50000000000",
+          "stock": 1178,
+          "sold": 216,
+          "price_info": {
+            "final_price": "15000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27975824215",
+      "model": [
+        {
+          "model_id": "129236138555",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1739262733,
+          "seller_sku": "",
+          "mtime": 1739262733,
+          "price_rule_id": "842533735809024",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "30000000000",
+          "stock": 498,
+          "sold": 330,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26729290141",
+      "model": [
+        {
+          "model_id": "247861442780",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1741761972,
+          "seller_sku": "",
+          "mtime": 1741761972,
+          "price_rule_id": "842533735809024",
+          "price": "20500000000",
+          "currency": "IDR",
+          "normal_price": "50000000000",
+          "stock": 1177,
+          "sold": 151,
+          "price_info": {
+            "final_price": "15000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28075132381",
+      "model": [
+        {
+          "model_id": "166950366249",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738748653,
+          "seller_sku": "",
+          "mtime": 1738748653,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 367,
+          "sold": 640,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25192562837",
+      "model": [
+        {
+          "model_id": "218300452086",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1741759637,
+          "seller_sku": "",
+          "mtime": 1741759637,
+          "price_rule_id": "842533735809024",
+          "price": "20500000000",
+          "currency": "IDR",
+          "normal_price": "50000000000",
+          "stock": 1177,
+          "sold": 109,
+          "price_info": {
+            "final_price": "15000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26325271391",
+      "model": [
+        {
+          "model_id": "188193778758",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738830721,
+          "seller_sku": "",
+          "mtime": 1738830721,
+          "price_rule_id": "842533735809024",
+          "price": "27100000000",
+          "currency": "IDR",
+          "normal_price": "45000000000",
+          "stock": 488,
+          "sold": 344,
+          "price_info": {
+            "final_price": "21280000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25055112368",
+      "model": [
+        {
+          "model_id": "137812077115",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1703581875,
+          "seller_sku": "",
+          "mtime": 1703581875,
+          "price_rule_id": "842533735809024",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "26000000000",
+          "stock": 1073,
+          "sold": 1365,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24141089139",
+      "model": [
+        {
+          "model_id": "242587334280",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738830177,
+          "seller_sku": "",
+          "mtime": 1738830177,
+          "price_rule_id": "842533735809024",
+          "price": "27100000000",
+          "currency": "IDR",
+          "normal_price": "45000000000",
+          "stock": 940,
+          "sold": 378,
+          "price_info": {
+            "final_price": "21280000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29275141552",
+      "model": [
+        {
+          "model_id": "185764530053",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738747851,
+          "seller_sku": "",
+          "mtime": 1738747851,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 950,
+          "sold": 1207,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27675119847",
+      "model": [
+        {
+          "model_id": "215764395301",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738743661,
+          "seller_sku": "",
+          "mtime": 1738743661,
+          "price_rule_id": "842533735809024",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 808,
+          "sold": 1702,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "21085379438",
+      "model": [
+        {
+          "model_id": "405411607084",
+          "name": "2IN1 (BL+BM)",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1767951177,
+          "seller_sku": "FK-BL-BM",
+          "mtime": 1767951177,
+          "price_rule_id": "829700532928512",
+          "price": "19500000000",
+          "currency": "IDR",
+          "normal_price": "40000000000",
+          "stock": 959,
+          "sold": 3,
+          "price_info": {
+            "final_price": "14000000000"
+          }
+        },
+        {
+          "model_id": "400465045076",
+          "name": "2IN1 (SG+BL)",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1769054739,
+          "seller_sku": "SLVPKG-FK",
+          "mtime": 1769054739,
+          "price_rule_id": "829713795317760",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "26000000000",
+          "stock": 1509,
+          "sold": 2,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        },
+        {
+          "model_id": "405411607081",
+          "name": "Shower Gel - FS",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1767951177,
+          "seller_sku": "8994452870064",
+          "mtime": 1767952539,
+          "price_rule_id": "232991574208514",
+          "price": "10390000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 49,
+          "sold": 10,
+          "price_info": {
+            "final_price": "4945000000"
+          }
+        },
+        {
+          "model_id": "405411607082",
+          "name": "Shower Gel",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1767951177,
+          "seller_sku": "8994452870064",
+          "mtime": 1767952539,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 1373,
+          "sold": 56,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "405411607083",
+          "name": "2PCS Shower Gel FK",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1767951177,
+          "seller_sku": "SLVBG-SG2PCS-FK",
+          "mtime": 1767964233,
+          "price_rule_id": "829700532928512",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "27000000000",
+          "stock": 476,
+          "sold": 9,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26425275430",
+      "model": [
+        {
+          "model_id": "166952258553",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1738829686,
+          "seller_sku": "",
+          "mtime": 1738829686,
+          "price_rule_id": "842533735809024",
+          "price": "27100000000",
+          "currency": "IDR",
+          "normal_price": "45000000000",
+          "stock": 748,
+          "sold": 766,
+          "price_info": {
+            "final_price": "21280000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "16295986362",
+      "model": [
+        {
+          "model_id": "360464979766",
+          "name": "2IN1 (SG+BL)",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1769054254,
+          "seller_sku": "SLVPKG-EB",
+          "mtime": 1769054254,
+          "price_rule_id": "829713795317760",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "26000000000",
+          "stock": 1941,
+          "sold": 3,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        },
+        {
+          "model_id": "335411729005",
+          "name": "Shower Gel",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1767952906,
+          "seller_sku": "8994452870040",
+          "mtime": 1767952906,
+          "price_rule_id": "829700532928512",
+          "price": "9200000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 1291,
+          "sold": 28,
+          "price_info": {
+            "final_price": "4350000000"
+          }
+        },
+        {
+          "model_id": "335411729006",
+          "name": "Shower Gel - FS",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1767952906,
+          "seller_sku": "8994452870040",
+          "mtime": 1767952906,
+          "price_rule_id": "232991574208514",
+          "price": "10390000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 50,
+          "sold": 6,
+          "price_info": {
+            "final_price": "4945000000"
+          }
+        },
+        {
+          "model_id": "435411748071",
+          "name": "2PCS Shower Gel EB",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1767953151,
+          "seller_sku": "SLVBG-SG2PCS-EB",
+          "mtime": 1767953151,
+          "price_rule_id": "829700532928512",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "27000000000",
+          "stock": 320,
+          "sold": 8,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        },
+        {
+          "model_id": "435411748072",
+          "name": "2IN1 (BL+BM)",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1767953151,
+          "seller_sku": "EB-BL-BM",
+          "mtime": 1767953151,
+          "price_rule_id": "840494448443392",
+          "price": "17500000000",
+          "currency": "IDR",
+          "normal_price": "40000000000",
+          "stock": 311,
+          "sold": 1,
+          "price_info": {
+            "final_price": "12000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25055120272",
+      "model": [
+        {
+          "model_id": "204839663130",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1703583086,
+          "seller_sku": "",
+          "mtime": 1703583086,
+          "price_rule_id": "842533735809024",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "30000000000",
+          "stock": 1009,
+          "sold": 817,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24155113887",
+      "model": [
+        {
+          "model_id": "217238503858",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1703582349,
+          "seller_sku": "",
+          "mtime": 1703582349,
+          "price_rule_id": "842533735809024",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "26000000000",
+          "stock": 1073,
+          "sold": 1221,
+          "price_info": {
+            "final_price": "12400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "41818128334",
+      "model": [
+        {
+          "model_id": "234490411989",
+          "name": "Hitam Hitam,40",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1757383602,
+          "seller_sku": "SSP-SPEEREGEN-HTM-40",
+          "mtime": 1757383602,
+          "price_rule_id": "826697587425280",
+          "price": "10100000000",
+          "currency": "IDR",
+          "normal_price": "34000000000",
+          "stock": 186,
+          "sold": 12,
+          "price_info": {
+            "final_price": "4675000000"
+          }
+        },
+        {
+          "model_id": "234490411990",
+          "name": "Hitam Hitam,41",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1757383602,
+          "seller_sku": "SSP-SPEEREGEN-HTM-41",
+          "mtime": 1757383602,
+          "price_rule_id": "826697587425280",
+          "price": "10100000000",
+          "currency": "IDR",
+          "normal_price": "34000000000",
+          "stock": 175,
+          "sold": 10,
+          "price_info": {
+            "final_price": "4675000000"
+          }
+        },
+        {
+          "model_id": "234490411991",
+          "name": "Hitam Hitam,42",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1757383602,
+          "seller_sku": "SSP-SPEEREGEN-HTM-42",
+          "mtime": 1757383602,
+          "price_rule_id": "826697587425280",
+          "price": "10100000000",
+          "currency": "IDR",
+          "normal_price": "34000000000",
+          "stock": 159,
+          "sold": 21,
+          "price_info": {
+            "final_price": "4675000000"
+          }
+        },
+        {
+          "model_id": "234490411992",
+          "name": "Hitam Hitam,43",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1757383602,
+          "seller_sku": "SSP-SPEEREGEN-HTM-43",
+          "mtime": 1757383602,
+          "price_rule_id": "826697587425280",
+          "price": "10100000000",
+          "currency": "IDR",
+          "normal_price": "34000000000",
+          "stock": 173,
+          "sold": 9,
+          "price_info": {
+            "final_price": "4675000000"
+          }
+        },
+        {
+          "model_id": "234490411993",
+          "name": "Hitam Hitam,44",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1757383602,
+          "seller_sku": "SSP-SPEEREGEN-HTM-44",
+          "mtime": 1757383602,
+          "price_rule_id": "826697587425280",
+          "price": "10100000000",
+          "currency": "IDR",
+          "normal_price": "34000000000",
+          "stock": 177,
+          "sold": 14,
+          "price_info": {
+            "final_price": "4675000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "10007969186",
+      "model": [
+        {
+          "model_id": "55700336117",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1622455820,
+          "seller_sku": "",
+          "mtime": 1627756416,
+          "price_rule_id": "841057709916160",
+          "price": "9016000000",
+          "currency": "IDR",
+          "normal_price": "17180000000",
+          "stock": 261,
+          "sold": 3970,
+          "price_info": {
+            "final_price": "4508000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "50250641472",
+      "model": [
+        {
+          "model_id": "292115024385",
+          "name": "Crime and Punishment",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1761973210,
+          "seller_sku": "Norris HC",
+          "mtime": 1764559290,
+          "price_rule_id": "234102829891585",
+          "price": "21700000000",
+          "currency": "IDR",
+          "normal_price": "27000000000",
+          "stock": 5,
+          "sold": 110,
+          "price_info": {
+            "final_price": "16700000000"
+          }
+        },
+        {
+          "model_id": "292115024386",
+          "name": "1984",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1761973210,
+          "seller_sku": "Norris HC",
+          "mtime": 1764559290,
+          "price_rule_id": "234102829891585",
+          "price": "15300000000",
+          "currency": "IDR",
+          "normal_price": "19000000000",
+          "stock": 5,
+          "sold": 105,
+          "price_info": {
+            "final_price": "10300000000"
+          }
+        },
+        {
+          "model_id": "292115024387",
+          "name": "Animal Farm",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1761973210,
+          "seller_sku": "Norris HC",
+          "mtime": 1764559290,
+          "price_rule_id": "234102829891585",
+          "price": "9720000000",
+          "currency": "IDR",
+          "normal_price": "12000000000",
+          "stock": 5,
+          "sold": 99,
+          "price_info": {
+            "final_price": "4860000000"
+          }
+        },
+        {
+          "model_id": "292115024388",
+          "name": "White Nights",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1761973210,
+          "seller_sku": "Norris HC",
+          "mtime": 1764559290,
+          "price_rule_id": "234102829891585",
+          "price": "9700000000",
+          "currency": "IDR",
+          "normal_price": "12000000000",
+          "stock": 5,
+          "sold": 194,
+          "price_info": {
+            "final_price": "4850000000"
+          }
+        },
+        {
+          "model_id": "292115024383",
+          "name": "The Little Prince",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761973210,
+          "seller_sku": "Norris HC",
+          "mtime": 1767593353,
+          "price_rule_id": "234102829891585",
+          "price": "9720000000",
+          "currency": "IDR",
+          "normal_price": "12000000000",
+          "stock": 5,
+          "sold": 226,
+          "price_info": {
+            "final_price": "4860000000"
+          }
+        },
+        {
+          "model_id": "292115024384",
+          "name": "The Metamorphosis",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1761973210,
+          "seller_sku": "Norris HC",
+          "mtime": 1764559290,
+          "price_rule_id": "234102829891585",
+          "price": "9700000000",
+          "currency": "IDR",
+          "normal_price": "12000000000",
+          "stock": 5,
+          "sold": 154,
+          "price_info": {
+            "final_price": "4850000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28034884998",
+      "model": [
+        {
+          "model_id": "208469547803",
+          "name": "WHITE,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1745570480,
+          "seller_sku": "SPE2000040-L",
+          "mtime": 1745570480,
+          "price_rule_id": "0",
+          "price": "19980000000",
+          "currency": "IDR",
+          "normal_price": "19980000000",
+          "stock": 0,
+          "sold": 10,
+          "price_info": {
+            "final_price": "14980000000"
+          }
+        },
+        {
+          "model_id": "208469547804",
+          "name": "WHITE,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1745570480,
+          "seller_sku": "SPE2000040-XL",
+          "mtime": 1745570480,
+          "price_rule_id": "0",
+          "price": "19980000000",
+          "currency": "IDR",
+          "normal_price": "19980000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "14980000000"
+          }
+        },
+        {
+          "model_id": "208469547805",
+          "name": "WHITE,XXL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1745570480,
+          "seller_sku": "SPE2000040-XXL",
+          "mtime": 1745570480,
+          "price_rule_id": "838465453867008",
+          "price": "10000000000",
+          "currency": "IDR",
+          "normal_price": "19980000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "5000000000"
+          }
+        },
+        {
+          "model_id": "208469547801",
+          "name": "WHITE,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1745570480,
+          "seller_sku": "SPE2000040-S",
+          "mtime": 1745570480,
+          "price_rule_id": "838465453867008",
+          "price": "10000000000",
+          "currency": "IDR",
+          "normal_price": "19980000000",
+          "stock": 0,
+          "sold": 3,
+          "price_info": {
+            "final_price": "5000000000"
+          }
+        },
+        {
+          "model_id": "208469547802",
+          "name": "WHITE,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1745570480,
+          "seller_sku": "SPE2000040-M",
+          "mtime": 1745570480,
+          "price_rule_id": "838465453867008",
+          "price": "10000000000",
+          "currency": "IDR",
+          "normal_price": "19980000000",
+          "stock": 0,
+          "sold": 5,
+          "price_info": {
+            "final_price": "5000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "469637854",
+      "model": [
+        {
+          "model_id": "40731638266",
+          "name": "150 ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1598191141,
+          "seller_sku": "OPW",
+          "mtime": 1660197142,
+          "price_rule_id": "840495102757888",
+          "price": "8020000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 16,
+          "sold": 22858,
+          "price_info": {
+            "final_price": "4010000000"
+          }
+        },
+        {
+          "model_id": "164028189582",
+          "name": "30 ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1660193885,
+          "seller_sku": "BB-OPW",
+          "mtime": 1660197142,
+          "price_rule_id": "840495102757888",
+          "price": "3160000000",
+          "currency": "IDR",
+          "normal_price": "3900000000",
+          "stock": 19,
+          "sold": 14837,
+          "price_info": {
+            "final_price": "2160000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "2085418357",
+      "model": [
+        {
+          "model_id": "40731632207",
+          "name": "150 ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1598191191,
+          "seller_sku": "BPW",
+          "mtime": 1660196040,
+          "price_rule_id": "840495102757888",
+          "price": "8020000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 10,
+          "sold": 34268,
+          "price_info": {
+            "final_price": "4010000000"
+          }
+        },
+        {
+          "model_id": "155439680349",
+          "name": "30 ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1660196040,
+          "seller_sku": "BB-BPW",
+          "mtime": 1660196040,
+          "price_rule_id": "840495102757888",
+          "price": "3160000000",
+          "currency": "IDR",
+          "normal_price": "3900000000",
+          "stock": 10,
+          "sold": 27424,
+          "price_info": {
+            "final_price": "2160000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "3030119326",
+      "model": [
+        {
+          "model_id": "91391165518",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1617847842,
+          "seller_sku": "",
+          "mtime": 1627642895,
+          "price_rule_id": "809240130813952",
+          "price": "17988800000",
+          "currency": "IDR",
+          "normal_price": "28900000000",
+          "stock": 15,
+          "sold": 1105,
+          "price_info": {
+            "final_price": "12988800000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "44955253802",
+      "model": [
+        {
+          "model_id": "292360476411",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1769231857,
+          "seller_sku": "",
+          "mtime": 1769231857,
+          "price_rule_id": "0",
+          "price": "8100000000",
+          "currency": "IDR",
+          "normal_price": "8100000000",
+          "stock": 19,
+          "sold": 1,
+          "price_info": {
+            "final_price": "4050000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "19217107343",
+      "model": [
+        {
+          "model_id": "106969297499",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1656488184,
+          "seller_sku": "",
+          "mtime": 1656488185,
+          "price_rule_id": "0",
+          "price": "8100000000",
+          "currency": "IDR",
+          "normal_price": "8100000000",
+          "stock": 917,
+          "sold": 1874,
+          "price_info": {
+            "final_price": "8100000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "18409513176",
+      "model": [
+        {
+          "model_id": "190542169037",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1654670955,
+          "seller_sku": "",
+          "mtime": 1654670955,
+          "price_rule_id": "0",
+          "price": "5400000000",
+          "currency": "IDR",
+          "normal_price": "5400000000",
+          "stock": 9862,
+          "sold": 254,
+          "price_info": {
+            "final_price": "5400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "6991542110",
+      "model": [
+        {
+          "model_id": "55894305614",
+          "name": "TOSCA,23 (12 CM)",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-TOSKA-PTH-23",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 73,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305604",
+          "name": "PUTIH HITAM,22 (11,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PTH-HITAM-22",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 77,
+          "sold": 84,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305616",
+          "name": "PUTIH HITAM,25 (13 CM)",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PTH-HITAM-25",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 6,
+          "sold": 90,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305609",
+          "name": "PUTIH NAVY,24 (12,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PTH-NAVY-24",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 47,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305610",
+          "name": "TOSCA,25 (13 CM)",
+          "status": 1,
+          "tier_indices": [
+            2,
+            3
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-TOSKA-PTH-25",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 79,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305608",
+          "name": "PINK,22 (11,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PINK-NAVY-22",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 70,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305603",
+          "name": "PINK,25 (13 CM)",
+          "status": 1,
+          "tier_indices": [
+            3,
+            3
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PINK-NAVY-25",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 80,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305612",
+          "name": "PUTIH HITAM,23 (12 CM)",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PTH-HITAM-23",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 14,
+          "sold": 104,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "26309338359",
+          "name": "NAVY,25 (13 CM)",
+          "status": 1,
+          "tier_indices": [
+            4,
+            3
+          ],
+          "create_time": 1623469841,
+          "seller_sku": "SL21-NAVY-PTH-25",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 88,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "26309338361",
+          "name": "NAVY,24 (12,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            4,
+            2
+          ],
+          "create_time": 1623469841,
+          "seller_sku": "SL21-NAVY-PTH-24",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 82,
+          "sold": 53,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "26309338362",
+          "name": "NAVY,23 (12 CM)",
+          "status": 1,
+          "tier_indices": [
+            4,
+            1
+          ],
+          "create_time": 1623469841,
+          "seller_sku": "SL21-NAVY-PTH-23",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 69,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305606",
+          "name": "PINK,24 (12,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PINK-NAVY-24",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 73,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305613",
+          "name": "PUTIH NAVY,22 (11,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PTH-NAVY-22",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 62,
+          "sold": 88,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "26309338360",
+          "name": "NAVY,22 (11,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            4,
+            0
+          ],
+          "create_time": 1623469841,
+          "seller_sku": "SL21-NAVY-PTH-22",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 51,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "45894305696",
+          "name": "PUTIH NAVY,25 (13 CM)",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PTH-NAVY-25",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 8,
+          "sold": 96,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305615",
+          "name": "PUTIH HITAM,24 (12,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PTH-HITAM-24",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 150,
+          "sold": 71,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305607",
+          "name": "TOSCA,22 (11,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-TOSKA-PTH-22",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 19,
+          "sold": 70,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305602",
+          "name": "TOSCA,24 (12,5 CM)",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-TOSKA-PTH-24",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 37,
+          "sold": 39,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305605",
+          "name": "PUTIH NAVY,23 (12 CM)",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PTH-NAVY-23",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 9,
+          "sold": 84,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "55894305611",
+          "name": "PINK,23 (12 CM)",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1623396227,
+          "seller_sku": "SL21-PINK-NAVY-23",
+          "mtime": 1754812226,
+          "price_rule_id": "775850836934656",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 87,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25627793092",
+      "model": [
+        {
+          "model_id": "245749558518",
+          "name": "Triplepack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1714631424,
+          "seller_sku": "",
+          "mtime": 1714631424,
+          "price_rule_id": "842728896792576",
+          "price": "19510000000",
+          "currency": "IDR",
+          "normal_price": "32640000000",
+          "stock": 651,
+          "sold": 8914,
+          "price_info": {
+            "final_price": "19510000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "16065461795",
+      "model": [
+        {
+          "model_id": "28899048982",
+          "name": "Twinpack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1652341361,
+          "seller_sku": "",
+          "mtime": 1652341361,
+          "price_rule_id": "842728896792576",
+          "price": "13030000000",
+          "currency": "IDR",
+          "normal_price": "21200000000",
+          "stock": 978,
+          "sold": 23517,
+          "price_info": {
+            "final_price": "13030000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27905974306",
+      "model": [
+        {
+          "model_id": "236571705545",
+          "name": "Triplepack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1721706305,
+          "seller_sku": "",
+          "mtime": 1721706305,
+          "price_rule_id": "842728896792576",
+          "price": "24040000000",
+          "currency": "IDR",
+          "normal_price": "32150000000",
+          "stock": 31,
+          "sold": 5785,
+          "price_info": {
+            "final_price": "24040000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24327797987",
+      "model": [
+        {
+          "model_id": "185072148557",
+          "name": "Triplepack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1714631687,
+          "seller_sku": "",
+          "mtime": 1714631687,
+          "price_rule_id": "842728896792576",
+          "price": "21220000000",
+          "currency": "IDR",
+          "normal_price": "32640000000",
+          "stock": 996,
+          "sold": 7879,
+          "price_info": {
+            "final_price": "21220000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29850207003",
+      "model": [
+        {
+          "model_id": "128944955642",
+          "name": "Triplepack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1715933290,
+          "seller_sku": "",
+          "mtime": 1715933290,
+          "price_rule_id": "842728896792576",
+          "price": "12850000000",
+          "currency": "IDR",
+          "normal_price": "18350000000",
+          "stock": 2701,
+          "sold": 40344,
+          "price_info": {
+            "final_price": "12850000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "3542451942",
+      "model": [
+        {
+          "model_id": "40301837674",
+          "name": "Twinpack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1594873720,
+          "seller_sku": "",
+          "mtime": 1628010040,
+          "price_rule_id": "842728896792576",
+          "price": "19730000000",
+          "currency": "IDR",
+          "normal_price": "31650000000",
+          "stock": 812,
+          "sold": 49234,
+          "price_info": {
+            "final_price": "19730000000"
+          }
+        }
+      ]
+    }
+  ]
+}
