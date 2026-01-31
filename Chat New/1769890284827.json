@@ -1,0 +1,670 @@
+{
+  "items": [
+    {
+      "item_id": "25955331406",
+      "model": [
+        {
+          "model_id": "217240611711",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1703670450,
+          "seller_sku": "",
+          "mtime": 1703670450,
+          "price_rule_id": "234549099642880",
+          "price": "4880000000",
+          "currency": "IDR",
+          "normal_price": "5880100000",
+          "stock": 8,
+          "sold": 1288,
+          "price_info": {
+            "final_price": "3660000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26513486667",
+      "model": [
+        {
+          "model_id": "157493209940",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1728374098,
+          "seller_sku": "",
+          "mtime": 1728374098,
+          "price_rule_id": "843563378720768",
+          "price": "3370100000",
+          "currency": "IDR",
+          "normal_price": "3920000000",
+          "stock": 9254,
+          "sold": 1503,
+          "price_info": {
+            "final_price": "2370100000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26086484089",
+      "model": [
+        {
+          "model_id": "178927310190",
+          "name": "Hitam,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1746814980,
+          "seller_sku": "",
+          "mtime": 1746814980,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 71,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "178927310191",
+          "name": "Hitam,XXL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1746814980,
+          "seller_sku": "",
+          "mtime": 1746814980,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 11,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "178927310186",
+          "name": "Hitam,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1746814980,
+          "seller_sku": "",
+          "mtime": 1746814980,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 22,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "178927310187",
+          "name": "Hitam,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1746814980,
+          "seller_sku": "",
+          "mtime": 1746814980,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 4,
+          "sold": 55,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "178927310188",
+          "name": "Hitam,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1746814980,
+          "seller_sku": "",
+          "mtime": 1746814980,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 37,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27119107121",
+      "model": [
+        {
+          "model_id": "147577770433",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1732821394,
+          "seller_sku": "",
+          "mtime": 1732821394,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 51,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "147577770434",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1732821394,
+          "seller_sku": "",
+          "mtime": 1732821394,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 12,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "147577770435",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1732821394,
+          "seller_sku": "",
+          "mtime": 1732821394,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 7,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "147577770436",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1732821394,
+          "seller_sku": "",
+          "mtime": 1732821394,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 23,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "147577770437",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1732821394,
+          "seller_sku": "",
+          "mtime": 1732821394,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 44,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28434490043",
+      "model": [
+        {
+          "model_id": "129343820468",
+          "name": "Hitam,XXL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1745333147,
+          "seller_sku": "",
+          "mtime": 1745333147,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 6,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "129343820464",
+          "name": "Hitam,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1745333147,
+          "seller_sku": "",
+          "mtime": 1745333147,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 10,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "129343820465",
+          "name": "Hitam,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1745333147,
+          "seller_sku": "",
+          "mtime": 1745333147,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 4,
+          "sold": 28,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "129343820466",
+          "name": "Hitam,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1745333147,
+          "seller_sku": "",
+          "mtime": 1745333147,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 8,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        },
+        {
+          "model_id": "129343820467",
+          "name": "Hitam,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1745333147,
+          "seller_sku": "",
+          "mtime": 1745333147,
+          "price_rule_id": "233672594964480",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 5,
+          "sold": 23,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24247686024",
+      "model": [
+        {
+          "model_id": "445009180274",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761298138,
+          "seller_sku": "",
+          "mtime": 1761298138,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 42,
+          "sold": 1,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        },
+        {
+          "model_id": "445009180272",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1761298138,
+          "seller_sku": "",
+          "mtime": 1761298138,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 42,
+          "sold": 1,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        },
+        {
+          "model_id": "445009180273",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1761298138,
+          "seller_sku": "",
+          "mtime": 1761298138,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 42,
+          "sold": 1,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24384352867",
+      "model": [
+        {
+          "model_id": "119227740865",
+          "name": "L,Hitam",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1722769116,
+          "seller_sku": "",
+          "mtime": 1722769116,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 26,
+          "sold": 9,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        },
+        {
+          "model_id": "119227740866",
+          "name": "XL,Hitam",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1722769116,
+          "seller_sku": "",
+          "mtime": 1722769116,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 30,
+          "sold": 7,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        },
+        {
+          "model_id": "119227740864",
+          "name": "M,Hitam",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1722769116,
+          "seller_sku": "",
+          "mtime": 1722769116,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 28,
+          "sold": 12,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24011452416",
+      "model": [
+        {
+          "model_id": "29769788369",
+          "name": "Hitam,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1706563353,
+          "seller_sku": "",
+          "mtime": 1706563353,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 32,
+          "sold": 6,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        },
+        {
+          "model_id": "29769788370",
+          "name": "Hitam,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1706563353,
+          "seller_sku": "",
+          "mtime": 1706563353,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 28,
+          "sold": 6,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        },
+        {
+          "model_id": "29769788371",
+          "name": "Hitam,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1706563353,
+          "seller_sku": "",
+          "mtime": 1706563353,
+          "price_rule_id": "837907804372992",
+          "price": "7900000000",
+          "currency": "IDR",
+          "normal_price": "18000000000",
+          "stock": 30,
+          "sold": 8,
+          "price_info": {
+            "final_price": "3950000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "3639505157",
+      "model": [
+        {
+          "model_id": "240916983818",
+          "name": "SILVER (270)",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1716976909,
+          "seller_sku": "270-HL92-SNNP",
+          "mtime": 1754469407,
+          "price_rule_id": "234488366116864",
+          "price": "14107500000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 5,
+          "sold": 45,
+          "price_info": {
+            "final_price": "9007500000"
+          }
+        },
+        {
+          "model_id": "240916983816",
+          "name": "BLACK NICKLE (721)",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1716976909,
+          "seller_sku": "721-HL92-BNNB",
+          "mtime": 1716976909,
+          "price_rule_id": "234488366116864",
+          "price": "14107500000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 5,
+          "sold": 66,
+          "price_info": {
+            "final_price": "9007500000"
+          }
+        },
+        {
+          "model_id": "240916983817",
+          "name": "GOLD (271)",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1716976909,
+          "seller_sku": "271-HL92-SNGP",
+          "mtime": 1716976909,
+          "price_rule_id": "234488366116864",
+          "price": "14107500000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 5,
+          "sold": 43,
+          "price_info": {
+            "final_price": "9007500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22382220915",
+      "model": [
+        {
+          "model_id": "194627442830",
+          "name": "Pink",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1696395784,
+          "seller_sku": "811000M701A3ID",
+          "mtime": 1751616684,
+          "price_rule_id": "227576727748608",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 20,
+          "sold": 60137,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        }
+      ]
+    }
+  ]
+}
