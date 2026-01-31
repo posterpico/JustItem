@@ -1,0 +1,3642 @@
+{
+  "items": [
+    {
+      "item_id": "26265971515",
+      "model": [
+        {
+          "model_id": "176767015516",
+          "name": "Putih,39",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Putih-39",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 559,
+          "sold": 158,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015513",
+          "name": "Putih,36",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Putih-36",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 182,
+          "sold": 86,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015515",
+          "name": "Putih,38",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Putih-38",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 439,
+          "sold": 191,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015511",
+          "name": "Hitam,38",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Hitam-38",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 705,
+          "sold": 194,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015517",
+          "name": "Putih,40",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Putih-40",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 752,
+          "sold": 121,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015510",
+          "name": "Hitam,37",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Hitam-37",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 769,
+          "sold": 209,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015512",
+          "name": "Hitam,39",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Hitam-39",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 983,
+          "sold": 166,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015518",
+          "name": "Hitam,40",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Hitam-40",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 1202,
+          "sold": 142,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015509",
+          "name": "Hitam,36",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Hitam-36",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 287,
+          "sold": 114,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        },
+        {
+          "model_id": "176767015514",
+          "name": "Putih,37",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1730268980,
+          "seller_sku": "WL2475-Putih-37",
+          "mtime": 1730268980,
+          "price_rule_id": "749382094356480",
+          "price": "13900000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 441,
+          "sold": 197,
+          "price_info": {
+            "final_price": "8900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "18894904345",
+      "model": [
+        {
+          "model_id": "184717161592",
+          "name": "Hitam,40",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-HITAM-40",
+          "mtime": 1717414916,
+          "price_rule_id": "749382094356480",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 567,
+          "sold": 791,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "184717161597",
+          "name": "Beige,37",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-BEIGE-37",
+          "mtime": 1717414916,
+          "price_rule_id": "10000015950",
+          "price": "16110000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 1235,
+          "sold": 221,
+          "price_info": {
+            "final_price": "11110000000"
+          }
+        },
+        {
+          "model_id": "184717161595",
+          "name": "Hitam,36",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-HITAM-36",
+          "mtime": 1717414916,
+          "price_rule_id": "10000015950",
+          "price": "16110000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 231,
+          "sold": 794,
+          "price_info": {
+            "final_price": "11110000000"
+          }
+        },
+        {
+          "model_id": "184717161594",
+          "name": "Beige,38",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-BEIGE-38",
+          "mtime": 1717414916,
+          "price_rule_id": "749382094356480",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 1162,
+          "sold": 185,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "184717161589",
+          "name": "Beige,40",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-BEIGE-40",
+          "mtime": 1717414916,
+          "price_rule_id": "749382094356480",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 1270,
+          "sold": 128,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "184717161591",
+          "name": "Hitam,39",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-HITAM-39",
+          "mtime": 1717414916,
+          "price_rule_id": "749382094356480",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 661,
+          "sold": 996,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "184717161598",
+          "name": "Beige,39",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-BEIGE-39",
+          "mtime": 1717414916,
+          "price_rule_id": "10000015950",
+          "price": "16110000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 1261,
+          "sold": 229,
+          "price_info": {
+            "final_price": "11110000000"
+          }
+        },
+        {
+          "model_id": "184717161590",
+          "name": "Hitam,38",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-HITAM-38",
+          "mtime": 1717414916,
+          "price_rule_id": "749382094356480",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 649,
+          "sold": 970,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "184717161596",
+          "name": "Hitam,37",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-HITAM-37",
+          "mtime": 1717414916,
+          "price_rule_id": "749382094356480",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 628,
+          "sold": 994,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "184717161593",
+          "name": "Beige,36",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1698840858,
+          "seller_sku": "1887-BEIGE-36",
+          "mtime": 1717414916,
+          "price_rule_id": "10000015950",
+          "price": "16110000000",
+          "currency": "IDR",
+          "normal_price": "35800000000",
+          "stock": 467,
+          "sold": 188,
+          "price_info": {
+            "final_price": "11110000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "48903456104",
+      "model": [
+        {
+          "model_id": "405330042625",
+          "name": "111 HITAM,37",
+          "status": 1,
+          "tier_indices": [
+            4,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1377,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042951",
+          "name": "112 BEIGE,38",
+          "status": 1,
+          "tier_indices": [
+            8,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-BEIGE-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042936",
+          "name": "111 HITAM,36",
+          "status": 1,
+          "tier_indices": [
+            4,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 564,
+          "sold": 1,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042620",
+          "name": "362 BEIGE,40",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-BEIGE-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 3,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042627",
+          "name": "111HITAM-COKELAT,38",
+          "status": 1,
+          "tier_indices": [
+            5,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM COKELAT-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 3,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042626",
+          "name": "111 HITAM,40",
+          "status": 1,
+          "tier_indices": [
+            4,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 281,
+          "sold": 3,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042946",
+          "name": "112 HITAM,40",
+          "status": 1,
+          "tier_indices": [
+            7,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-HITAM-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042949",
+          "name": "111 HITAM,38",
+          "status": 1,
+          "tier_indices": [
+            4,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1055,
+          "sold": 3,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042942",
+          "name": "362 BEIGE,37",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-BEIGE-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 4,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042617",
+          "name": "111BEIGE,40",
+          "status": 1,
+          "tier_indices": [
+            6,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-BEIGE-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042947",
+          "name": "112 BEIGE,36",
+          "status": 1,
+          "tier_indices": [
+            8,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-BEIGE-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042612",
+          "name": "363 HITAM,38",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-HITAM-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042615",
+          "name": "363 BEIGE,37",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-BEIGE-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042624",
+          "name": "112 BEIGE,37",
+          "status": 1,
+          "tier_indices": [
+            8,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-BEIGE-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042939",
+          "name": "112 HITAM,39",
+          "status": 1,
+          "tier_indices": [
+            7,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-HITAM-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 4,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042608",
+          "name": "112 HITAM,37",
+          "status": 1,
+          "tier_indices": [
+            7,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-HITAM-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 6,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042613",
+          "name": "363 BEIGE,39",
+          "status": 1,
+          "tier_indices": [
+            3,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-BEIGE-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 7,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042943",
+          "name": "363 HITAM,37",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-HITAM-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042605",
+          "name": "363 HITAM,40",
+          "status": 1,
+          "tier_indices": [
+            2,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-HITAM-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042623",
+          "name": "111BEIGE,36",
+          "status": 1,
+          "tier_indices": [
+            6,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-BEIGE-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042607",
+          "name": "111HITAM-COKELAT,40",
+          "status": 1,
+          "tier_indices": [
+            5,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM COKELAT-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042935",
+          "name": "362 BEIGE,39",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-BEIGE-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 224,
+          "sold": 2,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042945",
+          "name": "111BEIGE,39",
+          "status": 1,
+          "tier_indices": [
+            6,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-BEIGE-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042621",
+          "name": "363 HITAM,36",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-HITAM-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042628",
+          "name": "111BEIGE,38",
+          "status": 1,
+          "tier_indices": [
+            6,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-BEIGE-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042619",
+          "name": "112 HITAM,38",
+          "status": 1,
+          "tier_indices": [
+            7,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-HITAM-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042940",
+          "name": "362 HITAM,39",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-HITAM-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 450,
+          "sold": 5,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042938",
+          "name": "111BEIGE,37",
+          "status": 1,
+          "tier_indices": [
+            6,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-BEIGE-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 6,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042610",
+          "name": "362 HITAM,37",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-HITAM-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 356,
+          "sold": 3,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042614",
+          "name": "111HITAM-COKELAT,39",
+          "status": 1,
+          "tier_indices": [
+            5,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM COKELAT-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 16,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042622",
+          "name": "363 BEIGE,40",
+          "status": 1,
+          "tier_indices": [
+            3,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-BEIGE-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 5,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042950",
+          "name": "111 HITAM,39",
+          "status": 1,
+          "tier_indices": [
+            4,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1106,
+          "sold": 1,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042611",
+          "name": "362 BEIGE,38",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-BEIGE-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 3,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042609",
+          "name": "112 BEIGE,40",
+          "status": 1,
+          "tier_indices": [
+            8,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-BEIGE-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042933",
+          "name": "362 HITAM,36",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-HITAM-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042616",
+          "name": "111HITAM-COKELAT,37",
+          "status": 1,
+          "tier_indices": [
+            5,
+            1
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM COKELAT-37",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 358,
+          "sold": 5,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042618",
+          "name": "112 HITAM,36",
+          "status": 1,
+          "tier_indices": [
+            7,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-HITAM-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042937",
+          "name": "111HITAM-COKELAT,36",
+          "status": 1,
+          "tier_indices": [
+            5,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL111-HITAM COKELAT-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 5,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042948",
+          "name": "112 BEIGE,39",
+          "status": 1,
+          "tier_indices": [
+            8,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "WL112-BEIGE-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042952",
+          "name": "362 BEIGE,36",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-BEIGE-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042944",
+          "name": "363 BEIGE,38",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-BEIGE-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042934",
+          "name": "362 HITAM,38",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-HITAM-38",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042604",
+          "name": "363 HITAM,39",
+          "status": 1,
+          "tier_indices": [
+            2,
+            3
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-HITAM-39",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "405330042606",
+          "name": "363 BEIGE,36",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL363-BEIGE-36",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        },
+        {
+          "model_id": "390330042941",
+          "name": "362 HITAM,40",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1766376041,
+          "seller_sku": "BL362-HITAM-40",
+          "mtime": 1766376041,
+          "price_rule_id": "814286532820992",
+          "price": "12500000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "7500000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "21546425278",
+      "model": [
+        {
+          "model_id": "138972790081",
+          "name": "Crepes",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1718270709,
+          "seller_sku": "LXC-0000266-6",
+          "mtime": 1718270709,
+          "price_rule_id": "227571908493313",
+          "price": "7130000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 17,
+          "sold": 8269,
+          "price_info": {
+            "final_price": "3565000000"
+          }
+        },
+        {
+          "model_id": "138972778658",
+          "name": "Gingerbread",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1718270603,
+          "seller_sku": "LXC-0000266-2",
+          "mtime": 1718270603,
+          "price_rule_id": "227571908493313",
+          "price": "7130000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 19,
+          "sold": 8789,
+          "price_info": {
+            "final_price": "3565000000"
+          }
+        },
+        {
+          "model_id": "138972778659",
+          "name": "Chai Tea",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1718270603,
+          "seller_sku": "LXC-0000266-1",
+          "mtime": 1718685754,
+          "price_rule_id": "840370380914688",
+          "price": "7920000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 9053,
+          "sold": 21359,
+          "price_info": {
+            "final_price": "3960000000"
+          }
+        },
+        {
+          "model_id": "138972778660",
+          "name": "Grape Soda",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1718270603,
+          "seller_sku": "LXC-0000266-4",
+          "mtime": 1718270603,
+          "price_rule_id": "227571908493313",
+          "price": "7130000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 18,
+          "sold": 5949,
+          "price_info": {
+            "final_price": "3565000000"
+          }
+        },
+        {
+          "model_id": "138972790080",
+          "name": "Truffle",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1718270709,
+          "seller_sku": "LXC-0000266-5",
+          "mtime": 1718270709,
+          "price_rule_id": "227571908493313",
+          "price": "7130000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 19,
+          "sold": 4921,
+          "price_info": {
+            "final_price": "3565000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28425236930",
+      "model": [
+        {
+          "model_id": "425025051863",
+          "name": "Lengthening",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761619499,
+          "seller_sku": "LXC-0000709",
+          "mtime": 1761619499,
+          "price_rule_id": "840370380914688",
+          "price": "8900000000",
+          "currency": "IDR",
+          "normal_price": "12900000000",
+          "stock": 5933,
+          "sold": 1912,
+          "price_info": {
+            "final_price": "4450000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "11763149301",
+      "model": [
+        {
+          "model_id": "114670715853",
+          "name": "Travel Size (50ml)",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1640592774,
+          "seller_sku": "LXC-00003-2",
+          "mtime": 1761571760,
+          "price_rule_id": "840370380914688",
+          "price": "7120000000",
+          "currency": "IDR",
+          "normal_price": "8900000000",
+          "stock": 5830,
+          "sold": 65620,
+          "price_info": {
+            "final_price": "3560000000"
+          }
+        },
+        {
+          "model_id": "260710661702",
+          "name": "x Watson (150ml)",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1752471154,
+          "seller_sku": "LXC-0000641-2",
+          "mtime": 1752471154,
+          "price_rule_id": "840370380914688",
+          "price": "9900000000",
+          "currency": "IDR",
+          "normal_price": "14900000000",
+          "stock": 112,
+          "sold": 989,
+          "price_info": {
+            "final_price": "4950000000"
+          }
+        },
+        {
+          "model_id": "114670715852",
+          "name": "Normal Size (150ml)",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1640592774,
+          "seller_sku": "LXC-00003",
+          "mtime": 1761571760,
+          "price_rule_id": "840370380914688",
+          "price": "12700000000",
+          "currency": "IDR",
+          "normal_price": "15900000000",
+          "stock": 19284,
+          "sold": 41100,
+          "price_info": {
+            "final_price": "7700000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40823290267",
+      "model": [
+        {
+          "model_id": "296893629928",
+          "name": "Ungu,34",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 2,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629930",
+          "name": "Ungu,38",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 2,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629927",
+          "name": "Navy,38",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 4,
+          "sold": 5,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629920",
+          "name": "Abu,36",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 3,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629924",
+          "name": "Hitam,38",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 5,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629919",
+          "name": "Abu,34",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 3,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629926",
+          "name": "Navy,36",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629929",
+          "name": "Ungu,36",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 3,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629922",
+          "name": "Hitam,34",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 4,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629923",
+          "name": "Hitam,36",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 7,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629925",
+          "name": "Navy,34",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        },
+        {
+          "model_id": "296893629921",
+          "name": "Abu,38",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1759977174,
+          "seller_sku": "BH LB1824-p",
+          "mtime": 1759977174,
+          "price_rule_id": "826697587425280",
+          "price": "2699900000",
+          "currency": "IDR",
+          "normal_price": "9999900000",
+          "stock": 5,
+          "sold": 6,
+          "price_info": {
+            "final_price": "1699900000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40127380632",
+      "model": [
+        {
+          "model_id": "315323094036",
+          "name": "Ungu,38",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094033",
+          "name": "Abu-abu,38",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 2,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094034",
+          "name": "Ungu,34",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094031",
+          "name": "Abu-abu,34",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 3,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094035",
+          "name": "Ungu,36",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094038",
+          "name": "Navy,36",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094029",
+          "name": "Hitam,36",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094039",
+          "name": "Navy,38",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094030",
+          "name": "Hitam,38",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094032",
+          "name": "Abu-abu,36",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094037",
+          "name": "Navy,34",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 2,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        },
+        {
+          "model_id": "315323094028",
+          "name": "Hitam,34",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1766195209,
+          "seller_sku": "BH LB1823",
+          "mtime": 1766195209,
+          "price_rule_id": "234371718332417",
+          "price": "2790000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 5,
+          "sold": 3,
+          "price_info": {
+            "final_price": "1790000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25114585906",
+      "model": [
+        {
+          "model_id": "158527141613",
+          "name": "Biru Muda,XXL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351A-XXL",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 185,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141624",
+          "name": "Abu,S",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351D-S",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 263,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141627",
+          "name": "Abu,XL",
+          "status": 1,
+          "tier_indices": [
+            3,
+            3
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351D-XL",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 495,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141611",
+          "name": "Biru Muda,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351A-L",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 950,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141628",
+          "name": "Abu,XXL",
+          "status": 1,
+          "tier_indices": [
+            3,
+            4
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351D-XXL",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 183,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141618",
+          "name": "Maroon,XXL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351B-XXL",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 176,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141625",
+          "name": "Abu,M",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351D-M",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 781,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141609",
+          "name": "Biru Muda,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351A-S",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 194,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141621",
+          "name": "Teal Green,L",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351C-L",
+          "mtime": 1708571685,
+          "price_rule_id": "839797724200960",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 312,
+          "sold": 1224,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "158527141616",
+          "name": "Maroon,L",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351B-L",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 1183,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141617",
+          "name": "Maroon,XL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351B-XL",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 794,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141612",
+          "name": "Biru Muda,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351A-XL",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 680,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141610",
+          "name": "Biru Muda,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351A-M",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 685,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141619",
+          "name": "Teal Green,S",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351C-S",
+          "mtime": 1708571685,
+          "price_rule_id": "839797724200960",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 121,
+          "sold": 232,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "158527141615",
+          "name": "Maroon,M",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351B-M",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 899,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141620",
+          "name": "Teal Green,M",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351C-M",
+          "mtime": 1708571685,
+          "price_rule_id": "839797724200960",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 433,
+          "sold": 710,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "158527141623",
+          "name": "Teal Green,XXL",
+          "status": 1,
+          "tier_indices": [
+            2,
+            4
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351C-XXL",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 285,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141614",
+          "name": "Maroon,S",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351B-S",
+          "mtime": 1708571685,
+          "price_rule_id": "839797724200960",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 19,
+          "sold": 272,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "158527141622",
+          "name": "Teal Green,XL",
+          "status": 1,
+          "tier_indices": [
+            2,
+            3
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351C-XL",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 1214,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        },
+        {
+          "model_id": "158527141626",
+          "name": "Abu,L",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1708571685,
+          "seller_sku": "MAG30351D-L",
+          "mtime": 1708571685,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 1123,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24490553958",
+      "model": [
+        {
+          "model_id": "29875152011",
+          "name": "Dewasa-S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1737096746,
+          "seller_sku": "MAG40808A-S",
+          "mtime": 1737528429,
+          "price_rule_id": "839797724200960",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 187,
+          "sold": 87,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "29875152012",
+          "name": "Dewasa-M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1737096746,
+          "seller_sku": "MAG40808A-M",
+          "mtime": 1737528429,
+          "price_rule_id": "839797724200960",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 648,
+          "sold": 243,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "29875152013",
+          "name": "Dewasa-L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1737096746,
+          "seller_sku": "MAG40808A-L",
+          "mtime": 1737528429,
+          "price_rule_id": "839797724200960",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 982,
+          "sold": 411,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "29875152014",
+          "name": "Dewasa-XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1737096746,
+          "seller_sku": "MAG40808A-XL",
+          "mtime": 1737528429,
+          "price_rule_id": "839797724200960",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 579,
+          "sold": 429,
+          "price_info": {
+            "final_price": "11900000000"
+          }
+        },
+        {
+          "model_id": "257484833978",
+          "name": "Dewasa-XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1737096746,
+          "seller_sku": "MAG40808A-XXL",
+          "mtime": 1737528429,
+          "price_rule_id": "0",
+          "price": "44900000000",
+          "currency": "IDR",
+          "normal_price": "44900000000",
+          "stock": 0,
+          "sold": 543,
+          "price_info": {
+            "final_price": "34900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27473777858",
+      "model": [
+        {
+          "model_id": "247485965211",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1737102998,
+          "seller_sku": "MAG40863B-XXL",
+          "mtime": 1737102998,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 228,
+          "price_info": {
+            "final_price": "39900000000"
+          }
+        },
+        {
+          "model_id": "247485965207",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1737102998,
+          "seller_sku": "MAG40863B-S",
+          "mtime": 1737102998,
+          "price_rule_id": "839797724200960",
+          "price": "18900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 20,
+          "sold": 132,
+          "price_info": {
+            "final_price": "13900000000"
+          }
+        },
+        {
+          "model_id": "247485965208",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1737102998,
+          "seller_sku": "MAG40863B-M",
+          "mtime": 1737102998,
+          "price_rule_id": "839797724200960",
+          "price": "18900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 188,
+          "sold": 376,
+          "price_info": {
+            "final_price": "13900000000"
+          }
+        },
+        {
+          "model_id": "247485965209",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1737102998,
+          "seller_sku": "MAG40863B-L",
+          "mtime": 1737102998,
+          "price_rule_id": "839797724200960",
+          "price": "18900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 204,
+          "sold": 491,
+          "price_info": {
+            "final_price": "13900000000"
+          }
+        },
+        {
+          "model_id": "247485965210",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1737102998,
+          "seller_sku": "MAG40863B-XL",
+          "mtime": 1737102998,
+          "price_rule_id": "839797724200960",
+          "price": "18900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 173,
+          "sold": 466,
+          "price_info": {
+            "final_price": "13900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "4086144196",
+      "model": [
+        {
+          "model_id": "207827004793",
+          "name": "Milo",
+          "status": 1,
+          "tier_indices": [
+            13
+          ],
+          "create_time": 1726978585,
+          "seller_sku": "O033027",
+          "mtime": 1726978585,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 75,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "64926891092",
+          "name": "Walnut",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1618646990,
+          "seller_sku": "O033001",
+          "mtime": 1627883551,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 288,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "185373985312",
+          "name": "Milky Green",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1725715188,
+          "seller_sku": "O033024",
+          "mtime": 1725715188,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 36,
+          "sold": 18,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "45778882085",
+          "name": "Dove Army",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1622796565,
+          "seller_sku": "O033009",
+          "mtime": 1627923679,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 27,
+          "sold": 158,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "64926891095",
+          "name": "Dark Grey",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1618646990,
+          "seller_sku": "O033004",
+          "mtime": 1627883551,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 245,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "45778882089",
+          "name": "Castrol Grey",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1622796565,
+          "seller_sku": "O033013",
+          "mtime": 1627923679,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 63,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "205386981762",
+          "name": "Soft Sage",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1726185870,
+          "seller_sku": "O033022",
+          "mtime": 1726185870,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 32,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "205386981763",
+          "name": "Matcha",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1726185870,
+          "seller_sku": "O033025",
+          "mtime": 1726451302,
+          "price_rule_id": "227576727748608",
+          "price": "9900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 10,
+          "sold": 5,
+          "price_info": {
+            "final_price": "4900000000"
+          }
+        },
+        {
+          "model_id": "64926891089",
+          "name": "Light Grey",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1618646990,
+          "seller_sku": "O033005",
+          "mtime": 1627923679,
+          "price_rule_id": "227576727748608",
+          "price": "9900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 10,
+          "sold": 180,
+          "price_info": {
+            "final_price": "4900000000"
+          }
+        },
+        {
+          "model_id": "64926891094",
+          "name": "Stone Grey",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1618646990,
+          "seller_sku": "O033003",
+          "mtime": 1627923679,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 367,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "195414219615",
+          "name": "Soft Beige",
+          "status": 1,
+          "tier_indices": [
+            14
+          ],
+          "create_time": 1727100606,
+          "seller_sku": "O033026",
+          "mtime": 1727100606,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 151,
+          "sold": 23,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "256603428379",
+          "name": "Taupe",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1726451302,
+          "seller_sku": "O033023",
+          "mtime": 1726451302,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 89,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "64926891090",
+          "name": "Navy",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1618646990,
+          "seller_sku": "O033006",
+          "mtime": 1618646990,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 259,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "86794867210",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1643258106,
+          "seller_sku": "O033008",
+          "mtime": 1643258106,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 897,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        },
+        {
+          "model_id": "45778882093",
+          "name": "Broken White",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1622796565,
+          "seller_sku": "O033011",
+          "mtime": 1627923679,
+          "price_rule_id": "0",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "10900000000",
+          "stock": 0,
+          "sold": 287,
+          "price_info": {
+            "final_price": "5800000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "42504357001",
+      "model": [
+        {
+          "model_id": "208555446453",
+          "name": "Dark Teal Blue,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113005",
+          "mtime": 1749790469,
+          "price_rule_id": "839839868568576",
+          "price": "17900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 14,
+          "sold": 42,
+          "price_info": {
+            "final_price": "12700000000"
+          }
+        },
+        {
+          "model_id": "208555446452",
+          "name": "Brown Muffin,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113003",
+          "mtime": 1749790469,
+          "price_rule_id": "826697587425280",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 1,
+          "sold": 19,
+          "price_info": {
+            "final_price": "11700000000"
+          }
+        },
+        {
+          "model_id": "208555446454",
+          "name": "Burgundy,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113004",
+          "mtime": 1749790469,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 53,
+          "price_info": {
+            "final_price": "14600000000"
+          }
+        },
+        {
+          "model_id": "208555446457",
+          "name": "Warm Sand,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            6,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113009",
+          "mtime": 1749790469,
+          "price_rule_id": "826697587425280",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 5,
+          "sold": 14,
+          "price_info": {
+            "final_price": "11700000000"
+          }
+        },
+        {
+          "model_id": "208555446456",
+          "name": "Broken White,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            5,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113002",
+          "mtime": 1749790469,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 50,
+          "price_info": {
+            "final_price": "14600000000"
+          }
+        },
+        {
+          "model_id": "208555446451",
+          "name": "Dusty Purple,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113006",
+          "mtime": 1749790469,
+          "price_rule_id": "227576727748608",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 10,
+          "sold": 7,
+          "price_info": {
+            "final_price": "11700000000"
+          }
+        },
+        {
+          "model_id": "208555446459",
+          "name": "Espresso,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            8,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113007",
+          "mtime": 1749790469,
+          "price_rule_id": "826697587425280",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 2,
+          "sold": 24,
+          "price_info": {
+            "final_price": "11700000000"
+          }
+        },
+        {
+          "model_id": "208555446458",
+          "name": "Black,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            7,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113001",
+          "mtime": 1749790469,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14600000000"
+          }
+        },
+        {
+          "model_id": "208555446455",
+          "name": "Moonlight,French Khimar Only",
+          "status": 1,
+          "tier_indices": [
+            4,
+            0
+          ],
+          "create_time": 1749790469,
+          "seller_sku": "O113008",
+          "mtime": 1749790469,
+          "price_rule_id": "227576727748608",
+          "price": "16900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 10,
+          "sold": 27,
+          "price_info": {
+            "final_price": "11700000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27864837132",
+      "model": [
+        {
+          "model_id": "167066409671",
+          "name": "Cream Almond",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1743069686,
+          "seller_sku": "A048007",
+          "mtime": 1743069686,
+          "price_rule_id": "0",
+          "price": "9900000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 0,
+          "sold": 75,
+          "price_info": {
+            "final_price": "4900000000"
+          }
+        },
+        {
+          "model_id": "215482717825",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1729578370,
+          "seller_sku": "A048001",
+          "mtime": 1729578370,
+          "price_rule_id": "839839004557312",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 135,
+          "sold": 526,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        },
+        {
+          "model_id": "215482717826",
+          "name": "Broken White",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1729578370,
+          "seller_sku": "A048002",
+          "mtime": 1729578370,
+          "price_rule_id": "839839004557312",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 567,
+          "sold": 83,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        },
+        {
+          "model_id": "215482717827",
+          "name": "Hazelnut",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1729578370,
+          "seller_sku": "A048003",
+          "mtime": 1729578370,
+          "price_rule_id": "839839004557312",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 540,
+          "sold": 92,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        },
+        {
+          "model_id": "215482717828",
+          "name": "Navy",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1729578370,
+          "seller_sku": "A048004",
+          "mtime": 1729578370,
+          "price_rule_id": "839839004557312",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 628,
+          "sold": 22,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        },
+        {
+          "model_id": "215482717829",
+          "name": "Nude Cream",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1729578370,
+          "seller_sku": "A048005",
+          "mtime": 1729578370,
+          "price_rule_id": "839839004557312",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 206,
+          "sold": 180,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        },
+        {
+          "model_id": "215482717830",
+          "name": "Brown",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1729578370,
+          "seller_sku": "A048006",
+          "mtime": 1729578370,
+          "price_rule_id": "839839004557312",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 384,
+          "sold": 90,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        },
+        {
+          "model_id": "167066409670",
+          "name": "Pink Blush",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1743069686,
+          "seller_sku": "A048008",
+          "mtime": 1743069686,
+          "price_rule_id": "839839004557312",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 18,
+          "sold": 71,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "41716848636",
+      "model": [
+        {
+          "model_id": "228062115233",
+          "name": "2pcs 100ML",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1756721972,
+          "seller_sku": "",
+          "mtime": 1757304760,
+          "price_rule_id": "840486630244352",
+          "price": "2800000000",
+          "currency": "IDR",
+          "normal_price": "4990000000",
+          "stock": 14088,
+          "sold": 155,
+          "price_info": {
+            "final_price": "1800000000"
+          }
+        },
+        {
+          "model_id": "291481145556",
+          "name": "2pcs 300ML",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1757304760,
+          "seller_sku": "",
+          "mtime": 1757304760,
+          "price_rule_id": "840486630244352",
+          "price": "6050000000",
+          "currency": "IDR",
+          "normal_price": "10990000000",
+          "stock": 9645,
+          "sold": 1186,
+          "price_info": {
+            "final_price": "2775000000"
+          }
+        },
+        {
+          "model_id": "291481145557",
+          "name": "100ML + 300ML",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1757304760,
+          "seller_sku": "",
+          "mtime": 1757304760,
+          "price_rule_id": "840486630244352",
+          "price": "4350000000",
+          "currency": "IDR",
+          "normal_price": "7390000000",
+          "stock": 16204,
+          "sold": 1493,
+          "price_info": {
+            "final_price": "3262500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "21635690005",
+      "model": [
+        {
+          "model_id": "191830841114",
+          "name": "02 Brown",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1660806098,
+          "seller_sku": "Supa_Brown_02",
+          "mtime": 1660807389,
+          "price_rule_id": "0",
+          "price": "4000000000",
+          "currency": "IDR",
+          "normal_price": "4000000000",
+          "stock": 0,
+          "sold": 40453,
+          "price_info": {
+            "final_price": "3000000000"
+          }
+        },
+        {
+          "model_id": "191830841115",
+          "name": "03 Black",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1660806098,
+          "seller_sku": "Supa_Black_03",
+          "mtime": 1660807389,
+          "price_rule_id": "840487083245568",
+          "price": "1900000000",
+          "currency": "IDR",
+          "normal_price": "4000000000",
+          "stock": 1159,
+          "sold": 25022,
+          "price_info": {
+            "final_price": "900000000"
+          }
+        },
+        {
+          "model_id": "191830841116",
+          "name": "01 Ash Brown",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1660806098,
+          "seller_sku": "Supa_Ash_Brown_01",
+          "mtime": 1660807389,
+          "price_rule_id": "840487083245568",
+          "price": "1900000000",
+          "currency": "IDR",
+          "normal_price": "4000000000",
+          "stock": 7094,
+          "sold": 11666,
+          "price_info": {
+            "final_price": "900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23953757745",
+      "model": [
+        {
+          "model_id": "177844934918",
+          "name": "Lippie Slicks",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1693886916,
+          "seller_sku": "Lippie_Slicks",
+          "mtime": 1693886916,
+          "price_rule_id": "840487544602624",
+          "price": "1200000000",
+          "currency": "IDR",
+          "normal_price": "3500000000",
+          "stock": 28018,
+          "sold": 11398,
+          "price_info": {
+            "final_price": "200000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "9972955156",
+      "model": [
+        {
+          "model_id": "93130653846",
+          "name": "02 Earth",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1625051617,
+          "seller_sku": "Complete_02_Earth",
+          "mtime": 1630040400,
+          "price_rule_id": "840487083245568",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 2352,
+          "sold": 49334,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        },
+        {
+          "model_id": "93130653845",
+          "name": "01 Naked",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1625051617,
+          "seller_sku": "Complete_01_Naked",
+          "mtime": 1630040400,
+          "price_rule_id": "840487083245568",
+          "price": "4990000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 5502,
+          "sold": 22942,
+          "price_info": {
+            "final_price": "3742500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "15686963397",
+      "model": [
+        {
+          "model_id": "144764508866",
+          "name": "Lip Balm Random",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1654674367,
+          "seller_sku": "Color_Pop_Lip_Balm",
+          "mtime": 1654674367,
+          "price_rule_id": "840487083245568",
+          "price": "1300000000",
+          "currency": "IDR",
+          "normal_price": "3000000000",
+          "stock": 197063,
+          "sold": 54866,
+          "price_info": {
+            "final_price": "300000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "1766230699",
+      "model": [
+        {
+          "model_id": "70349190338",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1595243482,
+          "seller_sku": "",
+          "mtime": 1628010050,
+          "price_rule_id": "227576727748608",
+          "price": "16300000000",
+          "currency": "IDR",
+          "normal_price": "17100000000",
+          "stock": 29,
+          "sold": 12612,
+          "price_info": {
+            "final_price": "10648000000"
+          }
+        }
+      ]
+    }
+  ]
+}
