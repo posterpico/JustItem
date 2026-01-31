@@ -3,1566 +3,23 @@
   "data": {
     "items": [
       {
-        "item_id": "45952133471",
-        "shop_id": "1146823",
-        "name": "Clouwny Fedora Button Knit Cardigan Classy Cardigan Lengan Panjang Wanita Premium Knit Korean Look Fit to XXL",
+        "item_id": "20465430565",
+        "shop_id": "801582857",
+        "name": "Beamarry Hair Care | Body Wash with Whitening Lotion Coconut Milk Moisture - Kulit Cerah Bersinar Merata",
         "status": 1,
         "region": "ID",
         "currency": "IDR",
         "images": [
-          "id-11134207-8224s-mhprdp3gil8g71",
-          "id-11134207-8224s-mhmpziowzzsya1",
-          "sg-11134201-8225g-mhij6v38gb2gf8",
-          "sg-11134201-8227t-mhij6vj62bd157",
-          "sg-11134201-8224u-mhij6wx4nnr76c",
-          "sg-11134201-82269-mhij6umrx4hse4",
-          "id-11134207-8224o-mhmpzip4q48x55",
-          "sg-11134201-8227i-mhij6xtzi1ok9c",
-          "sg-11134201-8227l-mhij6wfoozye5a"
-        ],
-        "video_info": [
-          {
-            "video_id": "api/v4/11110105/mms/id-11110105-6ven7-mhipfy8ezfnma4.16000081764137774.mp4",
-            "thumb_url": "id-11110105-6ven7-mhipfy8ezfnma4_cover",
-            "duration": 15,
-            "version": 2,
-            "vid": "id-11110105-6ven7-mhipfy8ezfnma4"
-          }
+          "id-11134207-7r98p-lvy7o91108xab2",
+          "id-11134207-7r98u-lqx5k56ywytiee",
+          "id-11134207-7r991-lqx5k4zr7igk51",
+          "id-11134207-7r98u-lqx5k54r07h5bf",
+          "id-11134207-7r98u-lqx5ka8pj09z08"
         ],
         "size_chart": "",
         "cb_option": 0,
         "condition": 1,
-        "touch_time": 1764127259,
-        "tier_variations": [
-          {
-            "name": "Warna",
-            "options": [
-              "Black",
-              "Cream",
-              "Maroon"
-            ],
-            "images": [
-              "sg-11134201-8227y-mhij6ylcsmbnc4",
-              "sg-11134201-82262-mhij6y8afe9t3d",
-              "sg-11134201-8225t-mhij6z2ek0zk1a"
-            ],
-            "type": 0
-          }
-        ],
-        "flag": 196608,
-        "create_time": 1764127259,
-        "seller_sku": "ABG-O-CSS2529-BLACK",
-        "option": 1,
-        "mtime": 1764564910,
-        "models": [
-          {
-            "model_id": "325205940203",
-            "name": "Black",
-            "status": 1,
-            "tier_indices": [
-              0
-            ],
-            "create_time": 1764127265,
-            "seller_sku": "ABG-O-CSS2529-BLACK",
-            "mtime": 1764127265,
-            "price_rule_id": "775157275230208",
-            "price": "32900000000",
-            "currency": "IDR",
-            "normal_price": "63900000000",
-            "stock": 6,
-            "sold": 4,
-            "price_info": {
-              "final_price": "27900000000"
-            }
-          },
-          {
-            "model_id": "325205940204",
-            "name": "Cream",
-            "status": 1,
-            "tier_indices": [
-              1
-            ],
-            "create_time": 1764127265,
-            "seller_sku": "ABG-O-CSS2529-CREAM",
-            "mtime": 1764127265,
-            "price_rule_id": "775157275230208",
-            "price": "32900000000",
-            "currency": "IDR",
-            "normal_price": "63900000000",
-            "stock": 1,
-            "sold": 12,
-            "price_info": {
-              "final_price": "27900000000"
-            }
-          },
-          {
-            "model_id": "325205940205",
-            "name": "Maroon",
-            "status": 1,
-            "tier_indices": [
-              2
-            ],
-            "create_time": 1764127265,
-            "seller_sku": "ABG-O-CSS2529-MAROON",
-            "mtime": 1764127265,
-            "price_rule_id": "775157275230208",
-            "price": "32900000000",
-            "currency": "IDR",
-            "normal_price": "63900000000",
-            "stock": 0,
-            "sold": 18,
-            "price_info": {
-              "final_price": "27900000000"
-            }
-          }
-        ],
-        "cmt_count": 13,
-        "liked_count": 83,
-        "rating": {
-          "rating_star": 5,
-          "rating_counts": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            13
-          ],
-          "rcount_with_context": 0,
-          "rcount_with_image": 1
-        },
-        "sold": 34,
-        "offer_count": 0,
-        "price_min": "32900000000",
-        "price_max": "32900000000",
-        "normal_price_min": "63900000000",
-        "normal_price_max": "63900000000",
-        "total_stock": "7",
-        "sold_out_time": "0",
-        "global_brand_id": 1165851,
-        "local_brand": "",
-        "description": "[{\"i\":\"id-11134208-82252-mhipim49fbb912,0.750\"},{\"i\":\"id-11134208-8224w-mhipim41xm9tf0,0.750\"},{\"i\":\"id-11134208-8224w-mhipim47h2x22f,0.750\"},{\"i\":\"id-11134208-8224o-mhipim420fep59,0.750\"},{\"i\":\"id-11134208-8224y-mhipim421tz5ad,0.750\"},{\"i\":\"id-11134208-8224q-mhipim4238jl9e,0.750\"},{\"i\":\"id-11134208-8224x-mhipim424n41bf,0.750\"},{\"i\":\"id-11134208-8224t-mhipim4261ohe9,0.750\"},{\"i\":\"id-11134208-8224r-mhipim427g8xe7,0.750\"},{\"t\":\"\\n\\nTampil effortless namun tetap stylish dengan Fedora Button Cardigan, cardigan rajut premium yang dirancang untuk memberikan kenyamanan maksimal sekaligus tampilan yang rapi dan modern sepanjang hari. Dibuat dari premium soft knit yang terkenal lembut, halus, dan adem di kulit, cardigan ini memberikan rasa nyaman tanpa membuat gerah-cocok digunakan di berbagai aktivitas, baik indoor maupun outdoor.\\n\\nPotongannya dibuat clean dan minimalis, sehingga mudah dipadukan dengan berbagai gaya. Kamu bisa memakainya sebagai outer untuk tampilan yang lebih chic, atau menutup kancingnya untuk look yang lebih rapi dan feminin. Tekstur rajutnya jatuh dengan cantik, tidak bulky, dan memberi siluet yang tetap flattering di tubuh.\\n\\nMaterial Premium Knit Cotton\\n\\nLingkar Dada 100-140 cm\\nLingkar Lengan 46-58 cm\\nPanjang Lengan 52 cm\\nPanjang 53 cm\\n\\nAvailable Colour: Black / Cream / Maroon\\n\\nSenin - Jumat cut off pukul 15.00,\\nSabtu cut off pukul 12.00\\nMinggu : libur\\n\\nOrderan yang masuk sebelum jam cut off akan diproses di hari yang sama.\\nOrderan yang masuk setelah jam cut off akan diproses di hari kerja berikutnya\\n\\n\\nNote :\\n\\n1. Kamu bisa request untuk kado, dengan catatan harus di tulis di \\\"KOLOM PESAN\\\" saat Checkout, nanti akan kami selipkan birthday card gratis\\n\\n2. Ukuran Bust waist hips dan length tertulis mungkin akan ada sedikit perbedaandikarenakan pengukuran manual.\\n\\n3. Penampakan warna foto dengan produk asli mungkin ada sedikit perbedaan dari efek pencahayaan saat pengambilan foto dan tampilan yang berbeda2 di setiap monitor\\n\\nHappy Shopping Sista!\"}]",
-        "single_price_display": "32900000000",
-        "min_price_display": "32900000000",
-        "max_price_display": "32900000000",
-        "normal_single_price_display": "63900000000",
-        "normal_min_price_display": "63900000000",
-        "normal_max_price_display": "63900000000",
-        "price_info": {
-          "min_final_price": "27900000000",
-          "max_final_price": "27900000000"
-        },
-        "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7rbk3-maweakt6xm5nb0",
-          "chat_category_type": 1,
-          "category_id": 100017,
-          "sold_count": 34,
-          "sold_count_text": "34",
-          "display_price": {
-            "discount_price": "27900000000",
-            "discount": 0,
-            "discount_text": {
-              "text": "-49%",
-              "buyer_translated_text": {
-                "translated_text": "",
-                "translated_language": "",
-                "source": ""
-              }
-            },
-            "display_final_price_icon": true,
-            "origin_price": "63900000000",
-            "is_price_mask": false
-          },
-          "selling_point": {
-            "cod_tag": {
-              "tag_type": 5
-            }
-          },
-          "review_bar": {
-            "rating_score": 5
-          }
-        },
-        "is_price_mask": false,
-        "has_variations": true
-      },
-      {
-        "item_id": "25326093785",
-        "shop_id": "1146823",
-        "name": "Clouwny Minji Stripes Top Lengan Pendek Atasan Rajut Wanita Halus Nyaman Santai Korean Top",
-        "status": 1,
-        "region": "ID",
-        "currency": "IDR",
-        "images": [
-          "id-11134207-7ra0o-mdk5e6o4tvnw02",
-          "id-11134207-7rask-m0sa1w7kf14uab",
-          "id-11134207-7rasd-m0sa1w7kf13b35",
-          "id-11134207-7rash-m0sa1w7kf0on18",
-          "id-11134207-7r992-lzrm62pxq59c8f",
-          "id-11134207-7rasj-m0sa1w7kf0lo4f",
-          "id-11134207-7rasd-m0sa1w7kf0pi2c",
-          "id-11134207-7rasm-m5wisdxluqc362",
-          "id-11134207-7rasf-m0sa1w7kgf6430"
-        ],
-        "video_info": [
-          {
-            "video_id": "api/v4/11110105/mms/id-11110105-6ke1c-m3lwdawliv1c99.16000081733821663.mp4",
-            "thumb_url": "id-11110105-6ke1c-m3lwdawliv1c99_cover",
-            "duration": 15,
-            "version": 2,
-            "vid": "id-11110105-6ke1c-m3lwdawliv1c99"
-          }
-        ],
-        "size_chart": "",
-        "cb_option": 0,
-        "condition": 1,
-        "touch_time": 1713863515,
-        "tier_variations": [
-          {
-            "name": "Warna",
-            "options": [
-              "Black",
-              "Cream",
-              "Blue",
-              "Khaki",
-              "Green",
-              "Beige",
-              "Maroon"
-            ],
-            "images": [
-              "id-11134207-7r990-lzrm62pxrjtse7",
-              "id-11134207-7r98v-lzrm7sscwcdp3c",
-              "id-11134207-7r98s-lzrm7sscxqy5a4",
-              "id-11134207-7r98o-lzrm8ub215j984",
-              "id-11134207-7r98x-lzrm8ub22k3pf8",
-              "id-11134207-7r98v-lzrm9p4cwffsc0",
-              "id-11134207-7rasg-m5wisdxlp42bad"
-            ],
-            "type": 0
-          }
-        ],
-        "flag": 65536,
-        "create_time": 1713863515,
-        "seller_sku": "T-CXCJ211",
-        "option": 1,
-        "mtime": 1755508343,
-        "models": [
-          {
-            "model_id": "222720944367",
-            "name": "Black",
-            "status": 1,
-            "tier_indices": [
-              0
-            ],
-            "create_time": 1713863521,
-            "seller_sku": "T-CXCJ211-BLACK",
-            "mtime": 1713863521,
-            "price_rule_id": "842647309189120",
-            "price": "24900000000",
-            "currency": "IDR",
-            "normal_price": "49900000000",
-            "stock": 10,
-            "sold": 298,
-            "price_info": {
-              "final_price": "19900000000"
-            }
-          },
-          {
-            "model_id": "222720944368",
-            "name": "Cream",
-            "status": 1,
-            "tier_indices": [
-              1
-            ],
-            "create_time": 1713863521,
-            "seller_sku": "T-CXCJ211-CREAM",
-            "mtime": 1713863521,
-            "price_rule_id": "842647309189120",
-            "price": "24900000000",
-            "currency": "IDR",
-            "normal_price": "49900000000",
-            "stock": 4,
-            "sold": 200,
-            "price_info": {
-              "final_price": "19900000000"
-            }
-          },
-          {
-            "model_id": "222720944369",
-            "name": "Blue",
-            "status": 1,
-            "tier_indices": [
-              2
-            ],
-            "create_time": 1713863521,
-            "seller_sku": "T-CXCJ211-BLUE",
-            "mtime": 1713863521,
-            "price_rule_id": "0",
-            "price": "49900000000",
-            "currency": "IDR",
-            "normal_price": "49900000000",
-            "stock": 0,
-            "sold": 369,
-            "price_info": {
-              "final_price": "44700000000"
-            }
-          },
-          {
-            "model_id": "222720944370",
-            "name": "Khaki",
-            "status": 1,
-            "tier_indices": [
-              3
-            ],
-            "create_time": 1713863521,
-            "seller_sku": "T-CXCJ211-KHAKI",
-            "mtime": 1713863521,
-            "price_rule_id": "0",
-            "price": "49900000000",
-            "currency": "IDR",
-            "normal_price": "49900000000",
-            "stock": 0,
-            "sold": 215,
-            "price_info": {
-              "final_price": "44700000000"
-            }
-          },
-          {
-            "model_id": "176520578244",
-            "name": "Green",
-            "status": 1,
-            "tier_indices": [
-              4
-            ],
-            "create_time": 1718182058,
-            "seller_sku": "T-CXCJ211-GREEN",
-            "mtime": 1718182058,
-            "price_rule_id": "0",
-            "price": "49900000000",
-            "currency": "IDR",
-            "normal_price": "49900000000",
-            "stock": 0,
-            "sold": 301,
-            "price_info": {
-              "final_price": "44700000000"
-            }
-          },
-          {
-            "model_id": "176520578245",
-            "name": "Beige",
-            "status": 1,
-            "tier_indices": [
-              5
-            ],
-            "create_time": 1718182058,
-            "seller_sku": "T-CXCJ211-BEIGE",
-            "mtime": 1718182058,
-            "price_rule_id": "0",
-            "price": "49900000000",
-            "currency": "IDR",
-            "normal_price": "49900000000",
-            "stock": 0,
-            "sold": 197,
-            "price_info": {
-              "final_price": "44700000000"
-            }
-          },
-          {
-            "model_id": "205531123738",
-            "name": "Maroon",
-            "status": 1,
-            "tier_indices": [
-              6
-            ],
-            "create_time": 1730877894,
-            "seller_sku": "T-CXCJ211-MAROON",
-            "mtime": 1730877894,
-            "price_rule_id": "0",
-            "price": "49900000000",
-            "currency": "IDR",
-            "normal_price": "49900000000",
-            "stock": 0,
-            "sold": 280,
-            "price_info": {
-              "final_price": "44700000000"
-            }
-          }
-        ],
-        "cmt_count": 655,
-        "liked_count": 3011,
-        "rating": {
-          "rating_star": 4.9222222222222225,
-          "rating_counts": [
-            0,
-            3,
-            1,
-            8,
-            25,
-            683
-          ],
-          "rcount_with_context": 91,
-          "rcount_with_image": 64
-        },
-        "sold": 1860,
-        "offer_count": 0,
-        "price_min": "24900000000",
-        "price_max": "24900000000",
-        "normal_price_min": "49900000000",
-        "normal_price_max": "49900000000",
-        "total_stock": "14",
-        "sold_out_time": "0",
-        "global_brand_id": 1165851,
-        "local_brand": "",
-        "description": "[{\"i\":\"id-11134208-7rasf-m0s4xcfitm6628,0.750\"},{\"t\":\"\\n\"},{\"i\":\"id-11134208-7rasd-m0s4xcfj21ku2b,1.000\"},{\"t\":\"\\n\\n\"},{\"i\":\"id-11134208-7rase-m0s4xcfj3g5ab2,1.000\"},{\"i\":\"id-11134208-7rase-m0s4xcfj4upq32,1.001\"},{\"t\":\"\\n\\n\"},{\"i\":\"id-11134208-7ras9-m0s4xcfiwfb292,0.750\"},{\"t\":\"\\n\"},{\"i\":\"id-11134208-7ras8-m0s4xcfj69a6f2,1.000\"},{\"t\":\"\\n\\n\"},{\"i\":\"id-11134208-7rasj-m0s4xcfixtvic8,0.750\"},{\"t\":\"\\n\"},{\"i\":\"id-11134208-7rasg-m0sa4lo3u3p39c,1.000\"},{\"t\":\"\\n\\n\"},{\"i\":\"id-11134208-7rasg-m0s4xcfiz8fyea,0.750\"},{\"t\":\"\\n\"},{\"i\":\"id-11134208-7rasc-m0sa4lo3vi9jc4,1.000\"},{\"t\":\"\\n\\n\"},{\"i\":\"id-11134208-7rasc-m0sa4lo3ybef7d,1.000\"},{\"t\":\"\\n\\n\"},{\"i\":\"id-11134208-7rasg-m5wj70wejls625,0.750\"},{\"t\":\"\\n\\nTambah sentuhan seru di lemari kamu bareng Minji Knit Stripes Top!\\nAtasan unik dengan desain rajut dan motif stripe yang playful bikin kamu langsung standout tanpa usaha berlebih ❤️\\nSiap tampil beda \\u0026 penuh gaya?\\n Yuk, checkout sekarang! ✨\\n\\nMaterial Premium Knitt  \\n\\nLingkar Dada 102-164 cm\\nLingkar Ketiak 40 cm\\nLingkar Lengan 36 cm\\nPanjang 58 cm  \\nBerat 150 gr\\n\\nAvailable Colour :  Black / Cream / Blue / Khaki / Beige / Green / Maroon\\n\\nSenin - Jumat cut off pukul 15.00,\\nSabtu cut off pukul 12.00\\nMinggu : libur\\n\\nOrderan yang masuk sebelum jam cut off akan diproses di hari yang sama.\\nOrderan yang masuk setelah jam cut off akan diproses di hari kerja berikutnya\\n\\nNote :\\n1. Kamu bisa request untuk kado, dengan catatan harus di tulis di \\\"KOLOM PESAN\\\" saat Checkkout, nanti akan kami selipkan birthday card gratis\\n2. ukuran Bust waist hips dan length tertulis mungkin akan ada sedikit perbedaan dikarenakan pengukuran manual.\\n3. Penampakan warna foto dengan produk asli mungkin ada sedikit perbedaan dari efek pencahayaan saat pengambilan foto dan tampilan yang berbeda2 di setiap monitor\\n\\nHappy Shopping Sista!\"}]",
-        "single_price_display": "24900000000",
-        "min_price_display": "24900000000",
-        "max_price_display": "24900000000",
-        "normal_single_price_display": "49900000000",
-        "normal_min_price_display": "49900000000",
-        "normal_max_price_display": "49900000000",
-        "price_info": {
-          "min_final_price": "19900000000",
-          "max_final_price": "19900000000"
-        },
-        "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7rbk3-m7ay9u5hz4ta03",
-          "chat_category_type": 1,
-          "category_id": 100017,
-          "sold_count": 1860,
-          "sold_count_text": "1RB+",
-          "display_price": {
-            "discount_price": "19900000000",
-            "discount": 0,
-            "discount_text": {
-              "text": "-50%",
-              "buyer_translated_text": {
-                "translated_text": "",
-                "translated_language": "",
-                "source": ""
-              }
-            },
-            "display_final_price_icon": true,
-            "origin_price": "49900000000",
-            "is_price_mask": false
-          },
-          "top_video": {
-            "vid": "id-11110124-6ke18-m2ri2p4vxk9df0",
-            "duration": 30333,
-            "cover_image_url": "https://down-ws-id.img.susercontent.com/id-11110124-7ras8-m2ri2p4vyytt7b"
-          },
-          "selling_point": {
-            "cod_tag": {
-              "tag_type": 5
-            }
-          },
-          "review_bar": {
-            "rating_score": 4.9
-          }
-        },
-        "is_price_mask": false,
-        "has_variations": true
-      },
-      {
-        "item_id": "46501117898",
-        "shop_id": "284946390",
-        "name": "Cosmonauts - Tagging Tee",
-        "status": 1,
-        "region": "ID",
-        "currency": "IDR",
-        "images": [
-          "sg-11134201-821d4-mgvzaq3sskqw94",
-          "sg-11134201-821ft-mgvzaqpkmvbja3",
-          "sg-11134201-821fg-mgvzarcxis5kf8"
-        ],
-        "size_chart": "sg-11134201-821ez-mgvzawc0p2bu81",
-        "cb_option": 0,
-        "condition": 1,
-        "touch_time": 1762762053,
-        "tier_variations": [
-          {
-            "name": "SIZE",
-            "options": [
-              "XS",
-              "S",
-              "M",
-              "L",
-              "XL",
-              "XXL",
-              "XXXL"
-            ],
-            "images": [
-              "sg-11134201-821e4-mgvzaronw9ov4a",
-              "sg-11134201-821fu-mgvzasd79uz2c9",
-              "sg-11134201-821fp-mgvzat1b8lxp7d",
-              "sg-11134201-821eq-mgvzatm75xjf00",
-              "sg-11134201-821g6-mgvzauck0jrje1",
-              "sg-11134201-821e0-mgvzauzcj6kvd7",
-              "sg-11134201-821f9-mgvzavrdju3000"
-            ],
-            "type": 0
-          }
-        ],
-        "flag": 196608,
-        "create_time": 1762762053,
-        "seller_sku": "",
-        "option": 1,
-        "mtime": 1769396473,
-        "models": [
-          {
-            "model_id": "330099930766",
-            "name": "L",
-            "status": 1,
-            "tier_indices": [
-              3
-            ],
-            "create_time": 1762762064,
-            "seller_sku": "OF-9BS-5NML",
-            "mtime": 1762762064,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 1,
-            "sold": 4,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "330099930767",
-            "name": "XL",
-            "status": 1,
-            "tier_indices": [
-              4
-            ],
-            "create_time": 1762762064,
-            "seller_sku": "OF-9BS-5NMX",
-            "mtime": 1762762064,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 3,
-            "sold": 2,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "330099930768",
-            "name": "XXL",
-            "status": 1,
-            "tier_indices": [
-              5
-            ],
-            "create_time": 1762762064,
-            "seller_sku": "OF-9BS-5NMT",
-            "mtime": 1762762064,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 2,
-            "sold": 0,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "330099930769",
-            "name": "XXXL",
-            "status": 1,
-            "tier_indices": [
-              6
-            ],
-            "create_time": 1762762064,
-            "seller_sku": "OF-9BS-5NMU",
-            "mtime": 1762762064,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 1,
-            "sold": 0,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "330099930763",
-            "name": "XS",
-            "status": 1,
-            "tier_indices": [
-              0
-            ],
-            "create_time": 1762762064,
-            "seller_sku": "OF-9BS-5NMR",
-            "mtime": 1762762064,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 0,
-            "sold": 0,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "330099930764",
-            "name": "S",
-            "status": 1,
-            "tier_indices": [
-              1
-            ],
-            "create_time": 1762762064,
-            "seller_sku": "OF-9BS-5NMS",
-            "mtime": 1762762064,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 0,
-            "sold": 2,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "330099930765",
-            "name": "M",
-            "status": 1,
-            "tier_indices": [
-              2
-            ],
-            "create_time": 1762762064,
-            "seller_sku": "OF-9BS-5NMM",
-            "mtime": 1762762064,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 6,
-            "sold": 1,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          }
-        ],
-        "cmt_count": 3,
-        "liked_count": 6,
-        "rating": {
-          "rating_star": 5,
-          "rating_counts": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            3
-          ],
-          "rcount_with_context": 0,
-          "rcount_with_image": 0
-        },
-        "sold": 9,
-        "offer_count": 0,
-        "price_min": "45000000000",
-        "price_max": "45000000000",
-        "normal_price_min": "45000000000",
-        "normal_price_max": "45000000000",
-        "total_stock": "13",
-        "sold_out_time": "0",
-        "global_brand_id": 1021961,
-        "local_brand": "",
-        "description": "DETAILS\n- Cotton Premium\n- International fit.\n____________________________\nSIZE CHART (in cm)\n_____________________________\nSLEEVE CHEST LENGTH\nXS 20 56 69\nS 21 58 71\nM 22 60 73\nL 23 62 75\nXL 24 64 77\nXXL 25 66 79\nXXXL 26 68 81\n\nAt Cosmonauts, we always aim for the stars when it comes to designing our stellar apparel. But it’s not just about clothes.\nNote ;\n- All forms of complaints please contact our admin first and include video evidence of unboxing without editing\n- Complain a maximum of 2 days after the package is received",
-        "single_price_display": "45000000000",
-        "min_price_display": "45000000000",
-        "max_price_display": "45000000000",
-        "normal_single_price_display": "45000000000",
-        "normal_min_price_display": "45000000000",
-        "normal_max_price_display": "45000000000",
-        "price_info": {
-          "min_final_price": "36000000000",
-          "max_final_price": "36000000000"
-        },
-        "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7ra0n-mbg724vncles69",
-          "chat_category_type": 1,
-          "category_id": 100011,
-          "sold_count": 9,
-          "sold_count_text": "9",
-          "display_price": {
-            "discount_price": "36000000000",
-            "discount": 0,
-            "discount_text": {
-              "text": "",
-              "buyer_translated_text": {
-                "translated_text": "",
-                "translated_language": "",
-                "source": ""
-              }
-            },
-            "display_final_price_icon": true,
-            "origin_price": "45000000000",
-            "is_price_mask": false
-          },
-          "selling_point": {
-            "cod_tag": {
-              "tag_type": 5
-            }
-          },
-          "review_bar": {
-            "rating_score": 5
-          }
-        },
-        "is_price_mask": false,
-        "has_variations": true
-      },
-      {
-        "item_id": "45051127777",
-        "shop_id": "284946390",
-        "name": "Cosmonauts - Starberry Soda Tee",
-        "status": 1,
-        "region": "ID",
-        "currency": "IDR",
-        "images": [
-          "sg-11134201-821do-mgvz7cykmo7d7a",
-          "sg-11134201-821ef-mgvz7djp27m7ce",
-          "sg-11134201-821fh-mgvz7dxpdg5kf9"
-        ],
-        "size_chart": "sg-11134201-821d3-mgvz7i9t30unb2",
-        "cb_option": 0,
-        "condition": 1,
-        "touch_time": 1762761894,
-        "tier_variations": [
-          {
-            "name": "SIZE",
-            "options": [
-              "XS",
-              "S",
-              "M",
-              "L",
-              "XL",
-              "XXL",
-              "XXXL"
-            ],
-            "images": [
-              "sg-11134201-821eh-mgvz7e93t5hkbd",
-              "sg-11134201-821gd-mgvz7esb95ote5",
-              "sg-11134201-821fo-mgvz7fbal1c896",
-              "sg-11134201-821f2-mgvz7fwjgphmc7",
-              "sg-11134201-821g4-mgvz7ggz1fkcb1",
-              "sg-11134201-821fe-mgvz7hc5adjga3",
-              "sg-11134201-821do-mgvz7hwfble6da"
-            ],
-            "type": 0
-          }
-        ],
-        "flag": 196608,
-        "create_time": 1762761894,
-        "seller_sku": "",
-        "option": 1,
-        "mtime": 1768892447,
-        "models": [
-          {
-            "model_id": "395099916116",
-            "name": "XXXL",
-            "status": 1,
-            "tier_indices": [
-              6
-            ],
-            "create_time": 1762761905,
-            "seller_sku": "OF-9BP-5NWU",
-            "mtime": 1762761905,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 2,
-            "sold": 1,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "395099916110",
-            "name": "XS",
-            "status": 1,
-            "tier_indices": [
-              0
-            ],
-            "create_time": 1762761905,
-            "seller_sku": "OF-9BP-5NWR",
-            "mtime": 1762761905,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 7,
-            "sold": 0,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "395099916111",
-            "name": "S",
-            "status": 1,
-            "tier_indices": [
-              1
-            ],
-            "create_time": 1762761905,
-            "seller_sku": "OF-9BP-5NWS",
-            "mtime": 1762761905,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 6,
-            "sold": 0,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "395099916112",
-            "name": "M",
-            "status": 1,
-            "tier_indices": [
-              2
-            ],
-            "create_time": 1762761905,
-            "seller_sku": "OF-9BP-5NWM",
-            "mtime": 1762761905,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 5,
-            "sold": 3,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "395099916113",
-            "name": "L",
-            "status": 1,
-            "tier_indices": [
-              3
-            ],
-            "create_time": 1762761905,
-            "seller_sku": "OF-9BP-5NWL",
-            "mtime": 1762761905,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 5,
-            "sold": 1,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "395099916114",
-            "name": "XL",
-            "status": 1,
-            "tier_indices": [
-              4
-            ],
-            "create_time": 1762761905,
-            "seller_sku": "OF-9BP-5NWX",
-            "mtime": 1762761905,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 7,
-            "sold": 0,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          },
-          {
-            "model_id": "395099916115",
-            "name": "XXL",
-            "status": 1,
-            "tier_indices": [
-              5
-            ],
-            "create_time": 1762761905,
-            "seller_sku": "OF-9BP-5NWT",
-            "mtime": 1762761905,
-            "price_rule_id": "0",
-            "price": "45000000000",
-            "currency": "IDR",
-            "normal_price": "45000000000",
-            "stock": 3,
-            "sold": 2,
-            "price_info": {
-              "final_price": "36000000000"
-            }
-          }
-        ],
-        "cmt_count": 4,
-        "liked_count": 11,
-        "rating": {
-          "rating_star": 4,
-          "rating_counts": [
-            0,
-            1,
-            0,
-            0,
-            0,
-            3
-          ],
-          "rcount_with_context": 0,
-          "rcount_with_image": 1
-        },
-        "sold": 7,
-        "offer_count": 0,
-        "price_min": "45000000000",
-        "price_max": "45000000000",
-        "normal_price_min": "45000000000",
-        "normal_price_max": "45000000000",
-        "total_stock": "35",
-        "sold_out_time": "0",
-        "global_brand_id": 1021961,
-        "local_brand": "",
-        "description": "DETAILS\n- Cotton Premium\n- International fit.\n____________________________\nSIZE CHART (in cm)\n_____________________________\nSLEEVE CHEST LENGTH\nXS 20 56 69\nS 21 58 71\nM 22 60 73\nL 23 62 75\nXL 24 64 77\nXXL 25 66 79\nXXXL 26 68 81\n\nAt Cosmonauts, we always aim for the stars when it comes to designing our stellar apparel. But it’s not just about clothes.\nNote ;\n- All forms of complaints please contact our admin first and include video evidence of unboxing without editing\n- Complain a maximum of 2 days after the package is received",
-        "single_price_display": "45000000000",
-        "min_price_display": "45000000000",
-        "max_price_display": "45000000000",
-        "normal_single_price_display": "45000000000",
-        "normal_min_price_display": "45000000000",
-        "normal_max_price_display": "45000000000",
-        "price_info": {
-          "min_final_price": "36000000000",
-          "max_final_price": "36000000000"
-        },
-        "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7ra0n-mbg724vncles69",
-          "chat_category_type": 1,
-          "category_id": 100011,
-          "sold_count": 7,
-          "sold_count_text": "7",
-          "display_price": {
-            "discount_price": "36000000000",
-            "discount": 0,
-            "discount_text": {
-              "text": "",
-              "buyer_translated_text": {
-                "translated_text": "",
-                "translated_language": "",
-                "source": ""
-              }
-            },
-            "display_final_price_icon": true,
-            "origin_price": "45000000000",
-            "is_price_mask": false
-          },
-          "selling_point": {
-            "cod_tag": {
-              "tag_type": 5
-            }
-          },
-          "review_bar": {
-            "rating_score": 4
-          }
-        },
-        "is_price_mask": false,
-        "has_variations": true
-      },
-      {
-        "item_id": "23700117651",
-        "shop_id": "55891958",
-        "name": "COLORBOX Fitted Basic Tank Top Black",
-        "status": 1,
-        "region": "ID",
-        "currency": "IDR",
-        "images": [
-          "id-11134207-7quky-ljo9d7umo8yvca",
-          "id-11134207-7qul1-ljo9d7umpnjb9c",
-          "id-11134207-7qul5-ljo9d7umr23ra6",
-          "id-11134207-7qukz-ljo9d7umsgo78c",
-          "sg-11134201-22100-wtq48tk9akiv4c"
-        ],
-        "size_chart": "",
-        "cb_option": 0,
-        "condition": 1,
-        "touch_time": 1665658241,
-        "tier_variations": [
-          {
-            "name": "Size",
-            "options": [
-              "S",
-              "M",
-              "L",
-              "XL"
-            ],
-            "type": 0
-          }
-        ],
-        "flag": 131072,
-        "create_time": 1665658241,
-        "seller_sku": "110103806",
-        "option": 1,
-        "mtime": 1766202821,
-        "models": [
-          {
-            "model_id": "69121413526",
-            "name": "S",
-            "status": 1,
-            "tier_indices": [
-              0
-            ],
-            "create_time": 1665658241,
-            "seller_sku": "9990000188406",
-            "mtime": 1694142730,
-            "price_rule_id": "10000016590",
-            "price": "5989800000",
-            "currency": "IDR",
-            "normal_price": "5990000000",
-            "stock": 142,
-            "sold": 1765,
-            "price_info": {
-              "final_price": "2994900000"
-            }
-          },
-          {
-            "model_id": "69121413527",
-            "name": "M",
-            "status": 1,
-            "tier_indices": [
-              1
-            ],
-            "create_time": 1665658241,
-            "seller_sku": "9990000188413",
-            "mtime": 1694142730,
-            "price_rule_id": "0",
-            "price": "5990000000",
-            "currency": "IDR",
-            "normal_price": "5990000000",
-            "stock": 153,
-            "sold": 1979,
-            "price_info": {
-              "final_price": "2995000000"
-            }
-          },
-          {
-            "model_id": "69121413528",
-            "name": "L",
-            "status": 1,
-            "tier_indices": [
-              2
-            ],
-            "create_time": 1665658241,
-            "seller_sku": "9990000188420",
-            "mtime": 1694142730,
-            "price_rule_id": "10000016590",
-            "price": "5989800000",
-            "currency": "IDR",
-            "normal_price": "5990000000",
-            "stock": 149,
-            "sold": 1265,
-            "price_info": {
-              "final_price": "2994900000"
-            }
-          },
-          {
-            "model_id": "69121413525",
-            "name": "XL",
-            "status": 1,
-            "tier_indices": [
-              3
-            ],
-            "create_time": 1665658241,
-            "seller_sku": "9990000188437",
-            "mtime": 1694142730,
-            "price_rule_id": "10000016590",
-            "price": "5772200000",
-            "currency": "IDR",
-            "normal_price": "5990000000",
-            "stock": 193,
-            "sold": 1112,
-            "price_info": {
-              "final_price": "2886100000"
-            }
-          }
-        ],
-        "cmt_count": 1727,
-        "liked_count": 7637,
-        "rating": {
-          "rating_star": 4.910131654264453,
-          "rating_counts": [
-            0,
-            4,
-            4,
-            14,
-            101,
-            1624
-          ],
-          "rcount_with_context": 144,
-          "rcount_with_image": 110
-        },
-        "sold": 6121,
-        "offer_count": 0,
-        "price_min": "5772200000",
-        "price_max": "5990000000",
-        "normal_price_min": "5990000000",
-        "normal_price_max": "5990000000",
-        "total_stock": "637",
-        "sold_out_time": "0",
-        "global_brand_id": 1020972,
-        "local_brand": "",
-        "description": "[{\"t\":\"Atasan Tanpa Lengan\\n- Adjustable Spaghetti Strap\\n- Stretch Fabric\\n- Fit: Fitted\\n- Material: Cotton\\n\\nSize Spec (cm)  :  Panjang Depan Hps  x  Lebar Badan  x  Lebar Bawah \\n- S  :  38   x  34  x  32 \\n- M  :  40  x  36  x  34 \\n- L  :  42 x  38  x  36 \\n- XL  :  44 x  40  x  38 \\nModel Height 168 cm, Bust: 75 cm, Waist: 63 cm, Hips: 90 cm\\nModel menggunakan ukuran S\\n\\nGunakan Detergen Yang Lembut, Jangan Gunakan Pemutih, Setrika Suhu Rendah\\n\\n\\n\\nSYARAT KOMPLAIN \\u0026 PENGEMBALIAN BARANG\\n1. WAJIB mengirimkan video unboxing ketika paket diterima\\n2. Pengajuan komplain dapat dilakukan sebelum anda klik \\\"PESANAN DITERIMA\\\" dan tidak lebih dari 2x24 jam sejak pesanan terkirim\\n3. Pengajuan komplain setelah status Pesanan Diterima dan/atau tanpa dilengkapi video unboxing TIDAK DAPAT kami proses\"}]",
-        "single_price_display": "5772200000",
-        "min_price_display": "5772200000",
-        "max_price_display": "5990000000",
-        "normal_single_price_display": "5990000000",
-        "normal_min_price_display": "5990000000",
-        "normal_max_price_display": "5990000000",
-        "price_info": {
-          "min_final_price": "2886100000",
-          "max_final_price": "2995000000"
-        },
-        "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7rbk3-m7ay9u5hz4ta03",
-          "chat_category_type": 1,
-          "category_id": 100017,
-          "sold_count": 6121,
-          "sold_count_text": "6RB+",
-          "display_price": {
-            "discount_price": "2886100000",
-            "discount": 0,
-            "discount_text": {
-              "text": "-4%",
-              "buyer_translated_text": {
-                "translated_text": "",
-                "translated_language": "",
-                "source": ""
-              }
-            },
-            "display_final_price_icon": true,
-            "origin_price": "5990000000",
-            "is_price_mask": false
-          },
-          "top_video": {
-            "vid": "id-11110124-6kmip-ma3hugq4fyhqaa",
-            "duration": 11600,
-            "cover_image_url": "https://down-ws-id.img.susercontent.com/id-11134114-7rbk7-ma3hvbs101rh15"
-          },
-          "selling_point": {
-            "optimal_marketing_tag": {
-              "tag_type": 1
-            }
-          },
-          "review_bar": {
-            "rating_score": 4.9
-          }
-        },
-        "is_price_mask": false,
-        "has_variations": true
-      },
-      {
-        "item_id": "41450885415",
-        "shop_id": "55891958",
-        "name": "COLORBOX Off Shoulder Mini Balloon Dress Off White",
-        "status": 1,
-        "region": "ID",
-        "currency": "IDR",
-        "images": [
-          "id-11134275-7rbk0-m9pp6coe3m361f",
-          "id-11134275-7rbkc-m9pp6cnu5u71ce",
-          "id-11134275-7rbk0-m9pp6co440pef0",
-          "id-11134275-7rbkb-m9pp6cmg6ih9a4",
-          "id-11134275-7rbke-m9pp6cmg6i9n09",
-          "id-11134275-7rbk2-m9pp5qrk5z0ye2"
-        ],
-        "size_chart": "",
-        "cb_option": 0,
-        "condition": 1,
-        "touch_time": 1747219350,
-        "tier_variations": [
-          {
-            "name": "Color",
-            "options": [
-              "OFF WHITE"
-            ],
-            "type": 0
-          },
-          {
-            "name": "Size",
-            "options": [
-              "S",
-              "M",
-              "L"
-            ],
-            "type": 0
-          }
-        ],
-        "flag": 131072,
-        "create_time": 1747219350,
-        "seller_sku": "110114291",
-        "option": 1,
-        "mtime": 1765190930,
-        "models": [
-          {
-            "model_id": "280069407649",
-            "name": "OFF WHITE,L",
-            "status": 1,
-            "tier_indices": [
-              0,
-              2
-            ],
-            "create_time": 1747219350,
-            "seller_sku": "9990000597000",
-            "mtime": 1747219350,
-            "price_rule_id": "734656144670720",
-            "price": "8397000000",
-            "currency": "IDR",
-            "normal_price": "27990000000",
-            "stock": 94,
-            "sold": 38,
-            "price_info": {
-              "final_price": "4198500000"
-            }
-          },
-          {
-            "model_id": "280069407647",
-            "name": "OFF WHITE,S",
-            "status": 1,
-            "tier_indices": [
-              0,
-              0
-            ],
-            "create_time": 1747219350,
-            "seller_sku": "9990000596980",
-            "mtime": 1747219350,
-            "price_rule_id": "734656144670720",
-            "price": "8397000000",
-            "currency": "IDR",
-            "normal_price": "27990000000",
-            "stock": 58,
-            "sold": 74,
-            "price_info": {
-              "final_price": "4198500000"
-            }
-          },
-          {
-            "model_id": "280069407648",
-            "name": "OFF WHITE,M",
-            "status": 1,
-            "tier_indices": [
-              0,
-              1
-            ],
-            "create_time": 1747219350,
-            "seller_sku": "9990000596997",
-            "mtime": 1747219350,
-            "price_rule_id": "734656144670720",
-            "price": "8397000000",
-            "currency": "IDR",
-            "normal_price": "27990000000",
-            "stock": 118,
-            "sold": 74,
-            "price_info": {
-              "final_price": "4198500000"
-            }
-          }
-        ],
-        "cmt_count": 46,
-        "liked_count": 954,
-        "rating": {
-          "rating_star": 4.913043478260869,
-          "rating_counts": [
-            0,
-            0,
-            0,
-            2,
-            0,
-            44
-          ],
-          "rcount_with_context": 3,
-          "rcount_with_image": 1
-        },
-        "sold": 186,
-        "offer_count": 0,
-        "price_min": "8397000000",
-        "price_max": "8397000000",
-        "normal_price_min": "27990000000",
-        "normal_price_max": "27990000000",
-        "total_stock": "270",
-        "sold_out_time": "0",
-        "global_brand_id": 1020972,
-        "local_brand": "",
-        "description": "[{\"t\":\"- Off Shoulder Mini Dress\\n- Stretch Fabric On Top\\n- Balloon Cut Skirt\\n- Regular\\n- Material: Cotton Spandex\\n- Color: Off White\\n\\nSize Spec (cm) : Chest  x  Armhole  x  Body Length to Hip  x  Waist  x  Hip  x  Bottom  x  Length Skirt  x  Dress Length\\n- S : 36  x  12  x  36  x  32  x  37  x  46  x  34  x  68\\n- M : 38  x  12.5  x  37  x  34  x  39  x  48  x  34.5  x  69.5\\n- L : 40  x  13  x  38  x  36  x  41  x  50  x  35  x  71\\n- XL : 42  x  13.5  x  39  x  38  x  43  x  52  x  35.5  x  72.5\\n\\nMODEL HEIGHT: 163, WAIST: 57, BUST: 71, HIPS: 74\\nModel Is Wearing Size S\\n\\n\\nGunakan Detergen Yang Lembut, Jangan Gunakan Pemutih, Setrika Suhu Rendah.\\n\\n\\n\\n\\nSYARAT KOMPLAIN \\u0026 PENGEMBALIAN BARANG\\n\\n1. WAJIB mengirimkan video unboxing ketika paket diterima\\n2. Pengajuan komplain dapat dilakukan sebelum anda klik \\\"PESANAN DITERIMA\\\" dan tidak lebih dari 2x24 jam sejak pesanan terkirim\\n3. Pengajuan komplain setelah status Pesanan Diterima dan/atau tanpa dilengkapi video unboxing TIDAK DAPAT kami proses\\n4. Untuk alasan kesehatan \\u0026 kebersihan produk underwear, sportwear \\u0026 kaos kaki yang sudah dibeli tidak dapat dikembalikan\"}]",
-        "single_price_display": "8397000000",
-        "min_price_display": "8397000000",
-        "max_price_display": "8397000000",
-        "normal_single_price_display": "27990000000",
-        "normal_min_price_display": "27990000000",
-        "normal_max_price_display": "27990000000",
-        "price_info": {
-          "min_final_price": "4198500000",
-          "max_final_price": "4198500000"
-        },
-        "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7rbk3-maweakt6xm5nb0",
-          "chat_category_type": 1,
-          "category_id": 100017,
-          "sold_count": 186,
-          "sold_count_text": "186",
-          "display_price": {
-            "discount_price": "4198500000",
-            "discount": 0,
-            "discount_text": {
-              "text": "-70%",
-              "buyer_translated_text": {
-                "translated_text": "",
-                "translated_language": "",
-                "source": ""
-              }
-            },
-            "display_final_price_icon": true,
-            "origin_price": "27990000000",
-            "is_price_mask": false
-          },
-          "selling_point": {},
-          "review_bar": {
-            "rating_score": 4.9
-          }
-        },
-        "is_price_mask": false,
-        "has_variations": true
-      },
-      {
-        "item_id": "40862197482",
-        "shop_id": "55891958",
-        "name": "COLORBOX Ribbon Details Short Sleeve Top Lt. Green",
-        "status": 1,
-        "region": "ID",
-        "currency": "IDR",
-        "images": [
-          "id-11134275-7ra0g-md8xndok4y452e",
-          "id-11134275-7ra0g-md8xndo0gydzc5",
-          "id-11134275-7ra0k-md8xndoa5ct4f1",
-          "id-11134275-7ra0k-md8xndoa6q0765",
-          "id-11134275-7ra0q-md8xndn66xp30c",
-          "id-11134207-7r98u-lpxkmj8njaf33e"
-        ],
-        "size_chart": "id-11134207-7ra0m-md8y6q9iruikd4",
-        "cb_option": 0,
-        "condition": 1,
-        "touch_time": 1754830345,
-        "tier_variations": [
-          {
-            "name": "Color",
-            "options": [
-              "LT. GREEN"
-            ],
-            "type": 0
-          },
-          {
-            "name": "Size",
-            "options": [
-              "S",
-              "M",
-              "L",
-              "XL"
-            ],
-            "type": 0
-          }
-        ],
-        "flag": 131072,
-        "create_time": 1754830345,
-        "seller_sku": "110115776",
-        "option": 1,
-        "mtime": 1766727380,
-        "models": [
-          {
-            "model_id": "261021705011",
-            "name": "LT. GREEN,L",
-            "status": 1,
-            "tier_indices": [
-              0,
-              2
-            ],
-            "create_time": 1754830345,
-            "seller_sku": "9990000651924",
-            "mtime": 1754830345,
-            "price_rule_id": "734656144670720",
-            "price": "4495500000",
-            "currency": "IDR",
-            "normal_price": "9990000000",
-            "stock": 51,
-            "sold": 16,
-            "price_info": {
-              "final_price": "3371600000"
-            }
-          },
-          {
-            "model_id": "261021705012",
-            "name": "LT. GREEN,XL",
-            "status": 1,
-            "tier_indices": [
-              0,
-              3
-            ],
-            "create_time": 1754830345,
-            "seller_sku": "9990000651931",
-            "mtime": 1754830345,
-            "price_rule_id": "734656144670720",
-            "price": "4495500000",
-            "currency": "IDR",
-            "normal_price": "9990000000",
-            "stock": 0,
-            "sold": 42,
-            "price_info": {
-              "final_price": "3371600000"
-            }
-          },
-          {
-            "model_id": "261021705009",
-            "name": "LT. GREEN,S",
-            "status": 1,
-            "tier_indices": [
-              0,
-              0
-            ],
-            "create_time": 1754830345,
-            "seller_sku": "9990000651900",
-            "mtime": 1754830345,
-            "price_rule_id": "734656144670720",
-            "price": "4495500000",
-            "currency": "IDR",
-            "normal_price": "9990000000",
-            "stock": 108,
-            "sold": 10,
-            "price_info": {
-              "final_price": "3371600000"
-            }
-          },
-          {
-            "model_id": "261021705010",
-            "name": "LT. GREEN,M",
-            "status": 1,
-            "tier_indices": [
-              0,
-              1
-            ],
-            "create_time": 1754830345,
-            "seller_sku": "9990000651917",
-            "mtime": 1754830345,
-            "price_rule_id": "734656144670720",
-            "price": "4495500000",
-            "currency": "IDR",
-            "normal_price": "9990000000",
-            "stock": 94,
-            "sold": 21,
-            "price_info": {
-              "final_price": "3371600000"
-            }
-          }
-        ],
-        "cmt_count": 21,
-        "liked_count": 153,
-        "rating": {
-          "rating_star": 5,
-          "rating_counts": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            21
-          ],
-          "rcount_with_context": 3,
-          "rcount_with_image": 3
-        },
-        "sold": 89,
-        "offer_count": 0,
-        "price_min": "4495500000",
-        "price_max": "4495500000",
-        "normal_price_min": "9990000000",
-        "normal_price_max": "9990000000",
-        "total_stock": "253",
-        "sold_out_time": "0",
-        "global_brand_id": 1020972,
-        "local_brand": "",
-        "description": "[{\"t\":\"- Atasan Crop Lengan Pendek\\n- Contrast Round Neck With Ribbon Details\\n- Lettuce Hemline\\n- Regular Fit\\n- Material: Rib\\n- Color: Lt. Green\\n\\nSize Spec (cm)  : Chest  x  Bottom  x  Shoulder  x  Armhole  x  Sleeve Length  x  Body Length\\n- S  : 32.5  x  30.5  x  30  x  18.5  x  13.5  x  41\\n- M  : 34.5  x  32.5  x  32  x  19.5  x  14.5  x  42.5\\n- L  : 36.5  x  34.5  x  34  x  20.5  x  15.5  x  44\\n- XL  : 38.5  x  36.5  x  36  x  21.5  x  16.5  x  45.5\\n\\nModel Height: 165Cm, Bust: 74Cm, Waist: 59Cm, Hips: 83Cm\\nModel menggunakan ukuran S\\n\\nGunakan Detergen Yang Lembut, Jangan Gunakan Pemutih, Setrika Suhu Rendah. \\n\\n\\n\\n\\n\\nSYARAT KOMPLAIN \\u0026 PENGEMBALIAN BARANG\\n\\n1. WAJIB mengirimkan video unboxing ketika paket diterima\\n2. Pengajuan komplain dapat dilakukan sebelum anda klik \\\"PESANAN DITERIMA\\\" dan tidak lebih dari 2x24 jam sejak pesanan terkirim\\n3. Pengajuan komplain setelah status Pesanan Diterima dan/atau tanpa dilengkapi video unboxing TIDAK DAPAT kami proses\\n4. Untuk alasan kesehatan \\u0026 kebersihan produk underwear, sportwear \\u0026 kaos kaki yang sudah dibeli tidak dapat dikembalikan\"}]",
-        "single_price_display": "4495500000",
-        "min_price_display": "4495500000",
-        "max_price_display": "4495500000",
-        "normal_single_price_display": "9990000000",
-        "normal_min_price_display": "9990000000",
-        "normal_max_price_display": "9990000000",
-        "price_info": {
-          "min_final_price": "3371600000",
-          "max_final_price": "3371600000"
-        },
-        "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7rbk3-maweakt6xm5nb0",
-          "chat_category_type": 1,
-          "category_id": 100017,
-          "sold_count": 89,
-          "sold_count_text": "89",
-          "display_price": {
-            "discount_price": "3371600000",
-            "discount": 0,
-            "discount_text": {
-              "text": "-55%",
-              "buyer_translated_text": {
-                "translated_text": "",
-                "translated_language": "",
-                "source": ""
-              }
-            },
-            "display_final_price_icon": true,
-            "origin_price": "9990000000",
-            "is_price_mask": false
-          },
-          "top_video": {
-            "vid": "sg-11110170-6v99v-mik0gxm39tdz15",
-            "duration": 11192,
-            "cover_image_url": "https://down-ws-id.img.susercontent.com/sg-11110170-6v99v-mik0gxm39tdz15_cover"
-          },
-          "selling_point": {},
-          "review_bar": {
-            "rating_score": 5
-          }
-        },
-        "is_price_mask": false,
-        "has_variations": true
-      },
-      {
-        "item_id": "27017686458",
-        "shop_id": "55938377",
-        "name": "Cosmos Kipas Angin Stand Fan 16-XDC new series",
-        "status": 1,
-        "region": "ID",
-        "currency": "IDR",
-        "images": [
-          "id-11134207-82250-mi3v289qrxfo85",
-          "id-11134207-7ra0g-md3bwy7av2ar4a",
-          "id-11134207-7rasc-m2m27xo5otk088",
-          "id-11134207-7rase-m2m27xo5ots35a",
-          "id-11134207-7rash-m2m27xofofkha0",
-          "id-11134207-7ras9-m2m27xo5q84g92"
-        ],
-        "video_info": [
-          {
-            "video_id": "api/v4/11110105/mms/id-11110105-6vene-mhcn1bubql1ld6.16000081763770521.mp4",
-            "thumb_url": "id-11110105-6vene-mhcn1bubql1ld6_cover",
-            "duration": 60,
-            "version": 2,
-            "vid": "id-11110105-6vene-mhcn1bubql1ld6"
-          }
-        ],
-        "size_chart": "",
-        "cb_option": 0,
-        "condition": 1,
-        "touch_time": 1731652527,
+        "touch_time": 1669615384,
         "tier_variations": [
           {
             "name": "",
@@ -1573,79 +30,79 @@
           }
         ],
         "flag": 196608,
-        "create_time": 1731652527,
-        "seller_sku": "16-XDC-W",
-        "option": 1,
-        "mtime": 1769577594,
+        "create_time": 1669615384,
+        "seller_sku": "BWCMM",
+        "option": 0,
+        "mtime": 1769794844,
         "models": [
           {
-            "model_id": "79486673318",
+            "model_id": "175216921948",
             "name": "",
             "status": 1,
             "tier_indices": [
               0
             ],
-            "create_time": 1731652527,
+            "create_time": 1669615384,
             "seller_sku": "",
-            "mtime": 1731652527,
-            "price_rule_id": "234014384599040",
-            "price": "25170000000",
+            "mtime": 1669615384,
+            "price_rule_id": "0",
+            "price": "19996800000",
             "currency": "IDR",
-            "normal_price": "30100000000",
-            "stock": 26,
-            "sold": 4779,
+            "normal_price": "19996800000",
+            "stock": 0,
+            "sold": 204,
             "price_info": {
-              "final_price": "20170000000"
+              "final_price": "14396800000"
             }
           }
         ],
-        "cmt_count": 1851,
-        "liked_count": 3924,
+        "cmt_count": 71,
+        "liked_count": 298,
         "rating": {
-          "rating_star": 4.902755267423014,
+          "rating_star": 4.972972972972973,
           "rating_counts": [
             0,
-            5,
-            4,
-            19,
-            110,
-            1713
+            0,
+            0,
+            1,
+            0,
+            73
           ],
-          "rcount_with_context": 333,
-          "rcount_with_image": 295
+          "rcount_with_context": 15,
+          "rcount_with_image": 6
         },
-        "sold": 4779,
+        "sold": 204,
         "offer_count": 0,
-        "price_min": "25170000000",
-        "price_max": "25170000000",
-        "normal_price_min": "30100000000",
-        "normal_price_max": "30100000000",
-        "total_stock": "26",
-        "sold_out_time": "0",
-        "global_brand_id": 2239977,
+        "price_min": "19996800000",
+        "price_max": "19996800000",
+        "normal_price_min": "19996800000",
+        "normal_price_max": "19996800000",
+        "total_stock": "0",
+        "sold_out_time": "1769831227",
+        "global_brand_id": 0,
         "local_brand": "",
-        "description": "[{\"t\":\"Kipas angin berdiri / stand fan dengan bilah kipas berukuran 16 inch. Memiliki 3 level kecepatan dan tombol berhenti yang dapat digunakan sesuai dengan kebutuhan. Desain elegan dengan tombol model berputar (rotary model switch). Blade dirancang untuk menghasilkan angin sejuk yang lebih melebar dan merata ke seluruh ruangan.\\nKINI TERSEDIA VARIAN WARNA PUTIH \\n · Kipas angin berdiri / stand fan\\n · Bilah kipas berukuran 16 inch\\n · 3 level kecepatan \\u0026 tombol berhenti\\n · Tinggi kipas bisa diatur\\n · Tombol model berputar\\n · Superspread (penyebaran angin lebih merata)\\n · Garansi motor 5 tahun\\n · Daya masukan: 46 Watt\\n\\nkipasangin, kipasangincosmos, fan, cosmosfan, fancosmos, standfan, kipasanginberdiri, standfancosmos, kipascosmos\"}]",
-        "single_price_display": "25170000000",
-        "min_price_display": "25170000000",
-        "max_price_display": "25170000000",
-        "normal_single_price_display": "30100000000",
-        "normal_min_price_display": "30100000000",
-        "normal_max_price_display": "30100000000",
+        "description": "Beamarry Newyork Body Wash with Whitening Lotion Coconut Milk Moisture 380ml\n\nBody Wash With Whitening Lotion Coconut Milk Moisture Dengan Kandungan Coconut Milk Yang Dapat Memutihkan Dan Mencerahkan Kulit, Mengangkat Sel Kulit Mati, Dark Spot Pada Lipatan Kulit (Leher, Lengan, Lutut, Tumit Dan Daerah Sinsitif)\n\nUntuk tipe kulit : KUSAM, KERING, MEMILIKI DARK SPOT PADA BAGIAN KULIT SESITIF\n\nSpecial Ingridents :\n- Milk Protein \n- Panthenol \n- Apple Amino Acids\n- Coconut Oil \n- Argania Spinosa Kernel Oil\n\nFormulated In Beamarry Hair Care Formula :\n- Cruelty Free\n- Phosphate Free\n- Color Safe\n- Paraben Free\n- Sulfate Free\n\nCara Pengunaan :\nStep 1: Tuangkan Body Wash Beamarry Newyork ke permukaan tangan secukupnya.\nStep 2: Campurkan dengan sedikit air.\nStep 3: Aplikasikan dengan cara digosok pada seluruh permukaan badan secara merata (Lebih baik menggunakan scrub mandi).\nStep 4: Apabila sudah, bilas hingga bersih tanpa ada sisa.\nStep 5: Gunakan secara rutin (AMAN UNTUK DIGUNAKAN SETIAP HARI UNTUK HASIL YANG MAKSIMAL).\n\nKONSULTASILKAN MASALAH RAMBUT KAMU SECARA GRATIS PADA MINBEA !\n\nTersedia: Paket Bundling Perawatan sesuai dengan kondisi rambut dan kulit kepala dengan masalah yang berbeda. Untuk perawatan rambut dengan masalah yang berbeda dapat dikonsultasikan ke Admin Toko.\n\nLove Your Beautiful Hair - Beamarry Hair Care",
+        "single_price_display": "19996800000",
+        "min_price_display": "19996800000",
+        "max_price_display": "19996800000",
+        "normal_single_price_display": "19996800000",
+        "normal_min_price_display": "19996800000",
+        "normal_max_price_display": "19996800000",
         "price_info": {
-          "min_final_price": "20170000000",
-          "max_final_price": "20170000000"
+          "min_final_price": "14396800000",
+          "max_final_price": "14396800000"
         },
         "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7rbk4-m7axjiioq1twbf",
-          "chat_category_type": 2,
-          "category_id": 100010,
-          "sold_count": 4779,
-          "sold_count_text": "4RB+",
+          "image_overlays_hash": "id-11134258-7ra0n-mbg724vncles69",
+          "chat_category_type": 3,
+          "category_id": 100630,
+          "sold_count": 204,
+          "sold_count_text": "204",
           "display_price": {
-            "discount_price": "20170000000",
+            "discount_price": "14396800000",
             "discount": 0,
             "discount_text": {
-              "text": "-16%",
+              "text": "",
               "buyer_translated_text": {
                 "translated_text": "",
                 "translated_language": "",
@@ -1653,13 +110,705 @@
               }
             },
             "display_final_price_icon": true,
-            "origin_price": "30100000000",
+            "origin_price": "19996800000",
+            "is_price_mask": false
+          },
+          "selling_point": {
+            "cod_tag": {
+              "tag_type": 5
+            }
+          },
+          "review_bar": {
+            "rating_score": 5
+          }
+        },
+        "is_price_mask": false,
+        "has_variations": false
+      },
+      {
+        "item_id": "18063761292",
+        "shop_id": "801582857",
+        "name": "Beamarry New York Shampoo Shea Butter Jojoba Hydrate 380ml | Anti Kusut, Anti Belang, Antik Rontok, Anti Lepek, Oil Control, Pori - Pori Sehat, No SLS, No Paraben, No Phospate, BPOM",
+        "status": 1,
+        "region": "ID",
+        "currency": "IDR",
+        "images": [
+          "id-11134207-7r98v-lvwuxyvjjf3icb",
+          "id-11134207-7r992-lqvof8tlp8w611",
+          "id-11134207-7r991-lqvofbz30de593",
+          "id-11134207-7r98y-lqvofesn9stj9e",
+          "id-11134207-7r98z-lqvofha97795e2"
+        ],
+        "video_info": [
+          {
+            "video_id": "4a05a02e336a846bae09712fd25e6d0a",
+            "thumb_url": "867227434104d971b74415d4349feaeb",
+            "duration": 49,
+            "version": 2,
+            "vid": "id-11110105-6jt78-lhlkaw4qq44be4"
+          }
+        ],
+        "size_chart": "",
+        "cb_option": 0,
+        "condition": 1,
+        "touch_time": 1669009806,
+        "tier_variations": [
+          {
+            "name": "Variasi",
+            "options": [
+              "Shampoo 380ml"
+            ],
+            "images": [
+              "id-11134207-7rbk7-mac70xdjc7w2df"
+            ],
+            "type": 0
+          }
+        ],
+        "flag": 196608,
+        "create_time": 1669009806,
+        "seller_sku": "SSBJHS",
+        "option": 0,
+        "mtime": 1769794839,
+        "models": [
+          {
+            "model_id": "196708794073",
+            "name": "Shampoo 380ml",
+            "status": 1,
+            "tier_indices": [
+              0
+            ],
+            "create_time": 1682678781,
+            "seller_sku": "SJS380",
+            "mtime": 1705652859,
+            "price_rule_id": "0",
+            "price": "22718400000",
+            "currency": "IDR",
+            "normal_price": "22718400000",
+            "stock": 0,
+            "sold": 190,
+            "price_info": {
+              "final_price": "17118400000"
+            }
+          }
+        ],
+        "cmt_count": 100,
+        "liked_count": 795,
+        "rating": {
+          "rating_star": 4.901960784313726,
+          "rating_counts": [
+            0,
+            0,
+            0,
+            1,
+            8,
+            93
+          ],
+          "rcount_with_context": 23,
+          "rcount_with_image": 16
+        },
+        "sold": 274,
+        "offer_count": 0,
+        "price_min": "22718400000",
+        "price_max": "22718400000",
+        "normal_price_min": "22718400000",
+        "normal_price_max": "22718400000",
+        "total_stock": "0",
+        "sold_out_time": "1769831287",
+        "global_brand_id": 4078032,
+        "local_brand": "",
+        "description": "Beamarry Hair Care Shampoo Shea Butter Jojoba Hydrate 380ml\n\nRAMBUT ANTI KUSUT dan BERCABANG Memelihara kesehatan rambut dengan NUTRISI LEBIH agar RAMBUT TIDAK DEHIDRASI dan BERCABANG\n\nUntuk Tipe Rambut : KUSUT, BERCABANG dan KUSAM\n\nSpecial Ingridents :\n- Shea Butter \n- JOJOBA SEED OIL\n- KERATIN\n- ROOT Extract\n- ROSEMARRY LEAF\n- ARGANIA SPINOSA KERNEL OIL\n\nFormulated In Beamarry Hair Care Formula :\n- Cruelty Free\n- Phosphate Free\n- Color Safe\n- Paraben Free\n- Sulfate Free\n\nCara Pengunaan :\nStep 1 : Basahkan dan bilas rambut dengan merata dengan air bersih & HINDARI SUHU AIR TERLALU PANAS (TIDAK SEHAT UNTUK RAMBUT, PORI PORI TERBUKA SECARA TIDAK SEHAT dan AKAN MERUSAK AKAR RAMBUT)\nStep 2 : Pump 1-2 Kali SHAMPOO Beamarry ke telapak tangan dan berikan sedikit air & ratakan pada telapak tangan\nStep 3 : Aplikasikan pada kulit kepala ratakan hingga ke ujung rambut, pijat dengan lembut selama 2-3 menit\nStep 4 : Basuh dengan air bersih, Bilas hingga bersih tampa ada sisa shampoo pada rambut dan kulit kepala\n\nUntuk hasil lebih maksimal gunakan Shampoo, Conditioner, Hair Serum dengan varian yang sama.\n\nKONSULTASILKAN MASALAH RAMBUT KAMU SECARA GRATIS PADA MINBEA !\n\nTersedia: Paket Bundling Perawatan sesuai dengan kondisi rambut dan kulit kepala dengan masalah yang berbeda. Untuk perawatan rambut dengan masalah yang berbeda dapat dikonsultasikan ke Admin Toko.\n\n Love Your Beautiful Hair - Beamarry Hair Care ",
+        "single_price_display": "22718400000",
+        "min_price_display": "22718400000",
+        "max_price_display": "22718400000",
+        "normal_single_price_display": "22718400000",
+        "normal_min_price_display": "22718400000",
+        "normal_max_price_display": "22718400000",
+        "price_info": {
+          "min_final_price": "17118400000",
+          "max_final_price": "17118400000"
+        },
+        "item_card_v2": {
+          "image_overlays_hash": "id-11134258-7ra0n-mbg724vncles69",
+          "chat_category_type": 3,
+          "category_id": 100630,
+          "sold_count": 274,
+          "sold_count_text": "274",
+          "display_price": {
+            "discount_price": "17118400000",
+            "discount": 0,
+            "discount_text": {
+              "text": "",
+              "buyer_translated_text": {
+                "translated_text": "",
+                "translated_language": "",
+                "source": ""
+              }
+            },
+            "display_final_price_icon": true,
+            "origin_price": "22718400000",
+            "is_price_mask": false
+          },
+          "selling_point": {
+            "cod_tag": {
+              "tag_type": 5
+            }
+          },
+          "review_bar": {
+            "rating_score": 4.9
+          }
+        },
+        "is_price_mask": false,
+        "has_variations": true
+      },
+      {
+        "item_id": "21065430097",
+        "shop_id": "801582857",
+        "name": "Beamarry Hair Care | Body Wash with Lotion Macadamia Argan Smooth | Antiseptic Lotion & Menghilangkan Spot Hitam",
+        "status": 1,
+        "region": "ID",
+        "currency": "IDR",
+        "images": [
+          "id-11134207-7r98q-lvy7o9111nhq7e",
+          "id-11134207-7r98q-lqx5kwj4wrf1c8",
+          "id-11134207-7r98r-lqx5l10mcftzcc",
+          "id-11134207-7r98v-lqx5llb6ncl970",
+          "id-11134207-7r98w-lqx5loxlci891c"
+        ],
+        "size_chart": "",
+        "cb_option": 0,
+        "condition": 1,
+        "touch_time": 1747204441,
+        "tier_variations": [
+          {
+            "name": "",
+            "options": [
+              ""
+            ],
+            "type": 0
+          }
+        ],
+        "flag": 196608,
+        "create_time": 1669615586,
+        "seller_sku": "BWMASBW",
+        "option": 0,
+        "mtime": 1769794830,
+        "models": [
+          {
+            "model_id": "98494123281",
+            "name": "",
+            "status": 1,
+            "tier_indices": [
+              0
+            ],
+            "create_time": 1669615586,
+            "seller_sku": "",
+            "mtime": 1669615586,
+            "price_rule_id": "0",
+            "price": "19996800000",
+            "currency": "IDR",
+            "normal_price": "19996800000",
+            "stock": 0,
+            "sold": 122,
+            "price_info": {
+              "final_price": "14396800000"
+            }
+          }
+        ],
+        "cmt_count": 39,
+        "liked_count": 119,
+        "rating": {
+          "rating_star": 4.975,
+          "rating_counts": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            39
+          ],
+          "rcount_with_context": 10,
+          "rcount_with_image": 5
+        },
+        "sold": 122,
+        "offer_count": 0,
+        "price_min": "19996800000",
+        "price_max": "19996800000",
+        "normal_price_min": "19996800000",
+        "normal_price_max": "19996800000",
+        "total_stock": "0",
+        "sold_out_time": "1769831227",
+        "global_brand_id": 0,
+        "local_brand": "",
+        "description": "Beamarry Hair Care Body Wash with Lotion Macadamia Argan Smooth 380ml\n\nHydrate, Soothe, Refresh\n\n Body Wash with Lotion Macadamia Argan Smooth Dengan Kandungan Macadamia Argan Yang Berfungsi Untuk Melembabkan Dan Menutrisi Kulit, Dengan Kandungan Tinggi Oleic, Linoleic Dan Palmitoleic Acid Yang Berguna Untuk Membantu Menghilangkan Strech Marks Dan Bekas Luka.\n\nUntuk tipe kulit : KULIT YANG SERING TERKENA PAPARAN SINAR UV MATAHARI, SERING BERJEMUR, DAN MEMILIKI STRECH MARK JUGA, BEKAS LUKA.\n\nSpecial Ingridents :\n-Macadamia Ternifolia Seed\n-Sodium Cocoyl Apple Amino Acid \n-Prolin\n-Betadine \n-Camellia Sinensis Leaf \n-Chamomila Recutita Matricaria Flower Extract\n-Rosemary Leaf Extract \n-Polygonum Cuspidatum Root Extract \n\nFormulated In Beamarry Hair Care Formula : \n-Cruelty Free\n-Phosphate Free\n-Color Safe\n-Paraben Free\n-Sulfate Free\n\nCara Pengunaan :\nStep 1: Tuangkan Body Wash Beamarry Newyork ke permukaan tangan secukupnya.\nStep 2: Campurkan dengan sedikit air.\nStep 3: Aplikasikan dengan cara digosok pada seluruh permukaan badan secara merata (Lebih baik menggunakan scrub mandi).\nStep 4: Apabila sudah, bilas hingga bersih tanpa ada sisa.\nStep 5: Gunakan secara rutin (AMAN UNTUK DIGUNAKAN SETIAP HARI UNTUK HASIL YANG MAKSIMAL).\n\nKONSULTASILKAN MASALAH RAMBUT KAMU SECARA GRATIS PADA MINBEA !\n\nTersedia: Paket Bundling Perawatan sesuai dengan kondisi rambut dan kulit kepala dengan masalah yang berbeda. Untuk perawatan rambut dengan masalah yang berbeda dapat dikonsultasikan ke Admin Toko.\n\nLove Your Beautiful Hair - Beamarry Hair Care ",
+        "single_price_display": "19996800000",
+        "min_price_display": "19996800000",
+        "max_price_display": "19996800000",
+        "normal_single_price_display": "19996800000",
+        "normal_min_price_display": "19996800000",
+        "normal_max_price_display": "19996800000",
+        "price_info": {
+          "min_final_price": "14396800000",
+          "max_final_price": "14396800000"
+        },
+        "item_card_v2": {
+          "image_overlays_hash": "id-11134258-7ra0n-mbg724vncles69",
+          "chat_category_type": 3,
+          "category_id": 100630,
+          "sold_count": 122,
+          "sold_count_text": "122",
+          "display_price": {
+            "discount_price": "14396800000",
+            "discount": 0,
+            "discount_text": {
+              "text": "",
+              "buyer_translated_text": {
+                "translated_text": "",
+                "translated_language": "",
+                "source": ""
+              }
+            },
+            "display_final_price_icon": true,
+            "origin_price": "19996800000",
+            "is_price_mask": false
+          },
+          "selling_point": {
+            "cod_tag": {
+              "tag_type": 5
+            }
+          },
+          "review_bar": {
+            "rating_score": 5
+          }
+        },
+        "is_price_mask": false,
+        "has_variations": false
+      },
+      {
+        "item_id": "18463757012",
+        "shop_id": "801582857",
+        "name": "Beamarry New York Shampoo Rose Oil Orchid |380ml| Anti Lepek – Rambut Segar & Wangi – Shampoo Anti Bau |BPOM – No SLS – No Phospate – No Paraben|",
+        "status": 1,
+        "region": "ID",
+        "currency": "IDR",
+        "images": [
+          "id-11134207-7r991-lvwufyc0spze61",
+          "id-11134207-7r990-lsawl8d44sp24e",
+          "id-11134207-7r98z-lsawl8d44sexca",
+          "id-11134207-7r991-lsawl8d4671jc1",
+          "id-11134207-7r98y-lsawl8d47lxp45"
+        ],
+        "video_info": [
+          {
+            "video_id": "api/v4/11110105/mms/id-11110105-6vdvn-mi45ary4hkw285.16000081765435668.mp4",
+            "thumb_url": "id-11110105-6vdvn-mi45ary4hkw285_cover",
+            "duration": 48,
+            "version": 2,
+            "vid": "id-11110105-6vdvn-mi45ary4hkw285"
+          }
+        ],
+        "size_chart": "",
+        "cb_option": 0,
+        "condition": 1,
+        "touch_time": 1746498887,
+        "tier_variations": [
+          {
+            "name": "Variasi",
+            "options": [
+              "Shampoo 380ml"
+            ],
+            "images": [
+              "id-11134207-7rbk1-mac6peuy60lc48"
+            ],
+            "type": 0
+          }
+        ],
+        "flag": 196608,
+        "create_time": 1669009203,
+        "seller_sku": "SROONS",
+        "option": 0,
+        "mtime": 1769794824,
+        "models": [
+          {
+            "model_id": "165865306761",
+            "name": "Shampoo 380ml",
+            "status": 1,
+            "tier_indices": [
+              0
+            ],
+            "create_time": 1682679543,
+            "seller_sku": "ROS380",
+            "mtime": 1705652825,
+            "price_rule_id": "0",
+            "price": "22718400000",
+            "currency": "IDR",
+            "normal_price": "22718400000",
+            "stock": 0,
+            "sold": 746,
+            "price_info": {
+              "final_price": "17118400000"
+            }
+          }
+        ],
+        "cmt_count": 361,
+        "liked_count": 1445,
+        "rating": {
+          "rating_star": 4.9088397790055245,
+          "rating_counts": [
+            0,
+            0,
+            1,
+            2,
+            26,
+            333
+          ],
+          "rcount_with_context": 72,
+          "rcount_with_image": 54
+        },
+        "sold": 928,
+        "offer_count": 0,
+        "price_min": "22718400000",
+        "price_max": "22718400000",
+        "normal_price_min": "22718400000",
+        "normal_price_max": "22718400000",
+        "total_stock": "0",
+        "sold_out_time": "1769831227",
+        "global_brand_id": 4078032,
+        "local_brand": "",
+        "description": "Shampoo Rose Oil dengan Kandungan Bunga Anggrek - 380 ml\nMenyehatkan kulit kepala dan rambut, memberikan asupan protein yang cukup dan mudah diserap oleh rambut\nDengan Keunggulan :\n1.      Mengatasi Warna Rambut yang pudar\n2.      Mengatasi Rambut yang di tutup seharian (Pengunaan Hijab/Aktifitas Outdoor)\n3.      Mengatasi Rambut yang kering dan bau \n4.      Mengatasi Permasalahan Kulit Kepala Sensitive \n\nMengapa Harus memilih Shampoo Rose Oil dengan Kandungan Bunga Anggrek ?\nShampoo Rose Oil Orchid Nourish dengan kandungan bunga anggrek by Beamarry New York di formulasikan tampa SLS/Paraben/Phospat dan tampa adanya bahan keras yang dapat memberikan efek iritasi jangka panjang dan gatal yang dapat menimbulkan luka akibat di garuk, kekeringan pada kulit kepala yang berlebihan dapat membuat kerusakan permanent pada folikel rambut kita\n\nDengan kandungan Special Key Ingridients : \n1. Orchid Root Extract\n2. Rose Oil\n3. Keratin Extract\n5. Matricaria Extract\n6. Apple Amino Acids\n\nYang berguna untuk memberikan kestabilan ph pada kulit kepala sehingga kulitk kepala wangi dan bersih, memberikan kilau pada warna rambut yang pucat, membantu restorasi rambut yang rusak dan melembabkan rambut dengan efek kilau yang memikat, melenturkan rambut yang kaku atau memiliki tektur yang kasar, mengembang tidak beratusan, memiliki ketebalan yang tidak merata dan rapuh, menutrisi secara menyeruluh asupan protein untuk rambut, memberikan efek lembut untuk rambut yang mengembang, bercabang dan rapuh, juga menyegarkan Kulit Kepala, Membersihkan secara tuntas tampa efek lepek sehingga menghambat terjadinya kerak/ ketombe pada kulitkepala, memberikan nutrisi balance bagi rambut, memperbaiki foikel rambut sehingga menghambat terjadinya kerontokan\n\n*Semua Product Beamarry New York di buat tampa mengunakan SLS – Paraben – Phospat sehingga busa yang di hasilkan pada product kami tidak berlebihan di bandingkan product lainnya* \n\nDengan Kandungan Special Key Ingridients : \nOrchid Root Extract : Membantu melembabkan dan mengilaukan rambut, rose oil : anti bakteri untuk rambut sehingga tetap segar tampa adanya bau tidak sedap, Hydrolized Keratin : Membantu restorasi rambut rusak, Matricaria Extract : Membantu menguatkan Batang Rambut\n\nCara Pengunaan :\nStep 1 : Basahkan dan bilas rambut dengan merata dengan air bersih & HINDARI pengunaan air panas (sangat tidak di anjurkan keramas mengunakan air panas, pembukaan paksa pada pori pori dengan mengunakan suhu air tinggi akan merusak folikel rambut dan merusak lapisan pelindung kulit kepala yang memproduksi minyak alami untuk melembabkan kulit kepala)\nStep 2 : Pump 1-2 x Shampoo Beamarry New York ke telapak tangan dan berikan sedikit air & ratakan pada telapak tangan \nStep 3 : Aplikasikan pada kulit kepala dan ratakan hingga ke ujung rambut, pijat dengan lembut selama 2-3 menit\nStep 4 : Basuh dengan air bersih, Bilas hingga bersih tampa ada sisa shampoo pada rambut dan kulit kepala\n\nBeamarry New York\nSalon Professional Products\nDistributed by Beamarry Beauty Inc, Professional Products Division\nElmhurst, New York, NY 11373, USA\nDesign and Formulated In New York",
+        "single_price_display": "22718400000",
+        "min_price_display": "22718400000",
+        "max_price_display": "22718400000",
+        "normal_single_price_display": "22718400000",
+        "normal_min_price_display": "22718400000",
+        "normal_max_price_display": "22718400000",
+        "price_info": {
+          "min_final_price": "17118400000",
+          "max_final_price": "17118400000"
+        },
+        "item_card_v2": {
+          "image_overlays_hash": "id-11134258-7ra0n-mbg724vncles69",
+          "chat_category_type": 3,
+          "category_id": 100630,
+          "sold_count": 928,
+          "sold_count_text": "928",
+          "display_price": {
+            "discount_price": "17118400000",
+            "discount": 0,
+            "discount_text": {
+              "text": "",
+              "buyer_translated_text": {
+                "translated_text": "",
+                "translated_language": "",
+                "source": ""
+              }
+            },
+            "display_final_price_icon": true,
+            "origin_price": "22718400000",
             "is_price_mask": false
           },
           "top_video": {
-            "vid": "id-11110124-6ven9-mfb8udzjsky227",
-            "duration": 14370,
-            "cover_image_url": "https://down-ws-id.img.susercontent.com/id-11110124-6ven9-mfb8udzjsky227_cover"
+            "vid": "id-11110124-6ke1b-lmy6tjgkghpd59",
+            "duration": 27957,
+            "cover_image_url": "https://down-ws-id.img.susercontent.com/id-11110124-7r98p-lmy6xqtyyapy5b"
+          },
+          "selling_point": {
+            "cod_tag": {
+              "tag_type": 5
+            }
+          },
+          "review_bar": {
+            "rating_score": 4.9
+          }
+        },
+        "is_price_mask": false,
+        "has_variations": true
+      },
+      {
+        "item_id": "18063754529",
+        "shop_id": "801582857",
+        "name": "Beamarry New York Shampoo Coconut Milk Moisture |380ml| Melembabkan & Membuat Rambut Lembut – Menghaluskan Rambut – Anti Ketombe – Rambut Lebih Bersinar dengan Volume Lebih Tebal |BPOM – No SLS – No Phospate – No Paraben – Untuk Kulit Kepala Sensitive|",
+        "status": 1,
+        "region": "ID",
+        "currency": "IDR",
+        "images": [
+          "id-11134207-82252-mi3zf2so9ypz6e",
+          "id-11134207-8224q-mi3zf2so4cg796",
+          "id-11134207-8224w-mi3zf2soe6fb34",
+          "id-11134207-8224v-mi3zf2so5r0n0a",
+          "id-11134207-82251-mi3zf2so75l3db",
+          "id-11134207-8224p-mi3zf2so8k5j89"
+        ],
+        "video_info": [
+          {
+            "video_id": "api/v4/11110105/mms/id-11110105-6vene-mi45kicbefb678.16000081765436119.mp4",
+            "thumb_url": "id-11110105-6vene-mi45kicbefb678_cover",
+            "duration": 47,
+            "version": 2,
+            "vid": "id-11110105-6vene-mi45kicbefb678"
+          }
+        ],
+        "size_chart": "",
+        "cb_option": 0,
+        "condition": 1,
+        "touch_time": 1747360642,
+        "tier_variations": [
+          {
+            "name": "Variasi",
+            "options": [
+              "Shampoo 380ml",
+              "Paket Conditioner"
+            ],
+            "images": [
+              "id-11134207-7rbkb-mac6peuxus1s9b",
+              "id-11134207-7rbk5-mac6peuxw6m865"
+            ],
+            "type": 0
+          }
+        ],
+        "flag": 196608,
+        "create_time": 1669008196,
+        "seller_sku": "SCMMS",
+        "option": 0,
+        "mtime": 1765436142,
+        "models": [
+          {
+            "model_id": "196708552131",
+            "name": "Shampoo 380ml",
+            "status": 1,
+            "tier_indices": [
+              0
+            ],
+            "create_time": 1682672775,
+            "seller_sku": "CMS380",
+            "mtime": 1705652698,
+            "price_rule_id": "837631617860608",
+            "price": "10000000000",
+            "currency": "IDR",
+            "normal_price": "22718400000",
+            "stock": 32216,
+            "sold": 362,
+            "price_info": {
+              "final_price": "4700000000"
+            }
+          },
+          {
+            "model_id": "196708552132",
+            "name": "Paket Conditioner",
+            "status": 1,
+            "tier_indices": [
+              1
+            ],
+            "create_time": 1682672775,
+            "seller_sku": "PCMPC",
+            "mtime": 1705652698,
+            "price_rule_id": "837631617860608",
+            "price": "19000000000",
+            "currency": "IDR",
+            "normal_price": "45436800000",
+            "stock": 15625,
+            "sold": 227,
+            "price_info": {
+              "final_price": "13400000000"
+            }
+          }
+        ],
+        "cmt_count": 250,
+        "liked_count": 503,
+        "rating": {
+          "rating_star": 4.883268482490273,
+          "rating_counts": [
+            0,
+            1,
+            0,
+            5,
+            16,
+            235
+          ],
+          "rcount_with_context": 49,
+          "rcount_with_image": 35
+        },
+        "sold": 630,
+        "offer_count": 0,
+        "price_min": "10000000000",
+        "price_max": "19000000000",
+        "normal_price_min": "22718400000",
+        "normal_price_max": "45436800000",
+        "total_stock": "47841",
+        "sold_out_time": "0",
+        "global_brand_id": 4078032,
+        "local_brand": "",
+        "description": "Conditioner Coconut Milk Moisture – 380ml\nMelembapkan rambut secara intens, membuat rambut lebih lembut, mudah diatur, serta mengurangi kekeringan dan kusut tanpa membuat lepek.\nDengan Keunggulan :\n1.     Memberikan kelembapan alami pada rambut kering & kasar\n2.     Membuat rambut terasa lebih lembut & halus\n3.     Mengurangi kusut (tangles) dan frizz\n4.     Menutrisi batang rambut agar lebih kuat, sehat, dan tampak berkilau\n\nMengapa Harus memilih Conditioner Coconut Milk Moisture?\nConditioner Coconut Milk Moisture by Beamarry New York menggunakan formula lembut tanpa SLS/Paraben/Phospat dan aman untuk kulit kepala sensitif. Cocok untuk rambut kering, kusam, frizzy, sulit diatur, serta rambut yang sering terpapar panas dan styling ringan. Kombinasi Coconut Oil, Milk Protein, dan Argan Oil membantu memberi kelembapan mendalam, memperbaiki kekeringan pada batang rambut, serta membuat rambut terasa lebih halus, lembut, dan sehat alami.\n\nDengan Kandungan Special Key Ingredients :\n1. Coconut (Cocos Nucifera) Oil\n2. Milk Protein\n3. Argania Spinosa Kernel Oil\n4. Hydrolyzed Keratin\n5. Oxidized Keratin\n6. Panthenol & Glycerin\n\nYang berfungsi untuk melembapkan, menghaluskan serat rambut, mengurangi kusut, memperkuat batang rambut, serta membantu menjaga rambut tetap lembut sepanjang hari.\n\n*Semua Produk Beamarry New York dibuat tanpa SLS – Paraben – Phospat sehingga aman untuk kulit kepala sensitif, tidak membuat rambut cepat lepek, dan tidak menyebabkan iritasi jangka panjang*\n\nDengan Kandungan Special Key Ingredients :\nCoconut Oil : Memberikan kelembapan mendalam, membuat rambut lebih lembut dan berkilau, Milk Protein : Menguatkan batang rambut dan membantu memperbaiki rambut kering, Argan Oil : Menutrisi, melembapkan, serta membantu mengurangi frizz & rambut kusut, Hydrolyzed Keratin : Mengisi rongga batang rambut yang kering & rusak, Oxidized Keratin : Menghaluskan rambut dan meningkatkan tekstur rambut, Panthenol & Glycerin : Menjaga rambut tetap lembap, halus, dan mudah diatur\n\nCara Penggunaan :\nStep 1 : Gunakan setelah keramas dengan Shampoo Beamarry New York.\nStep 2 : Aplikasikan Conditioner dari tengah hingga ujung rambut.\nStep 3 : Diamkan selama 2 menit agar nutrisi meresap optimal.\nStep 4 : Bilas hingga bersih dan pastikan tidak ada sisa produk yang tertinggal.\n\nBeamarry New York\nSalon Professional Products\nDistributed by Beamarry Beauty Inc, Professional Products Division\nElmhurst, New York, NY 11373, USA\nDesigned and Formulated in New York",
+        "single_price_display": "10000000000",
+        "min_price_display": "10000000000",
+        "max_price_display": "19000000000",
+        "normal_single_price_display": "22718400000",
+        "normal_min_price_display": "22718400000",
+        "normal_max_price_display": "45436800000",
+        "price_info": {
+          "min_final_price": "4700000000",
+          "max_final_price": "13400000000"
+        },
+        "item_card_v2": {
+          "image_overlays_hash": "id-11134258-7rbk4-m7axjiioq1twbf",
+          "chat_category_type": 3,
+          "category_id": 100630,
+          "sold_count": 630,
+          "sold_count_text": "630",
+          "display_price": {
+            "discount_price": "4700000000",
+            "discount": 0,
+            "discount_text": {
+              "text": "-56%",
+              "buyer_translated_text": {
+                "translated_text": "",
+                "translated_language": "",
+                "source": ""
+              }
+            },
+            "display_final_price_icon": true,
+            "origin_price": "22718400000",
+            "is_price_mask": false
+          },
+          "top_video": {
+            "vid": "id-11110124-6ke1n-m24ykrvjdcx442",
+            "duration": 15234,
+            "cover_image_url": "https://down-ws-id.img.susercontent.com/id-11110124-7rasc-m24ykrvjerhkcd"
+          },
+          "selling_point": {
+            "cod_tag": {
+              "tag_type": 5
+            }
+          },
+          "review_bar": {
+            "rating_score": 4.9
+          }
+        },
+        "is_price_mask": false,
+        "has_variations": true
+      },
+      {
+        "item_id": "28787799955",
+        "shop_id": "559178878",
+        "name": "Beeganic Glow Bottle Brightening Toner Essense Toner Glowing",
+        "status": 1,
+        "region": "ID",
+        "currency": "IDR",
+        "images": [
+          "id-11134207-7ra0u-mb858iyze7hn49",
+          "id-11134207-7ra0u-mb858iyzfm23e3",
+          "id-11134207-7ra0s-mb858iyzcsx700",
+          "id-11134207-7ra0r-mb858iyzbecrb4"
+        ],
+        "video_info": [
+          {
+            "video_id": "api/v4/11110105/mms/id-11110105-6koua-mb85xmnyin1af7.16000081750424180.mp4",
+            "thumb_url": "id-11110105-6koua-mb85xmnyin1af7_cover",
+            "duration": 16,
+            "version": 2,
+            "vid": "id-11110105-6koua-mb85xmnyin1af7"
+          }
+        ],
+        "size_chart": "",
+        "cb_option": 0,
+        "condition": 1,
+        "touch_time": 1750424911,
+        "tier_variations": [
+          {
+            "name": "",
+            "options": [
+              ""
+            ],
+            "type": 0
+          }
+        ],
+        "flag": 196608,
+        "create_time": 1750424911,
+        "seller_sku": "",
+        "option": 0,
+        "mtime": 1769007711,
+        "models": [
+          {
+            "model_id": "305448871771",
+            "name": "",
+            "status": 1,
+            "tier_indices": [
+              0
+            ],
+            "create_time": 1750424911,
+            "seller_sku": "",
+            "mtime": 1750424911,
+            "price_rule_id": "234545148604416",
+            "price": "3400000000",
+            "currency": "IDR",
+            "normal_price": "13500000000",
+            "stock": 30,
+            "sold": 94,
+            "price_info": {
+              "final_price": "2400000000"
+            }
+          }
+        ],
+        "cmt_count": 35,
+        "liked_count": 92,
+        "rating": {
+          "rating_star": 4.857142857142857,
+          "rating_counts": [
+            0,
+            0,
+            1,
+            0,
+            2,
+            32
+          ],
+          "rcount_with_context": 5,
+          "rcount_with_image": 3
+        },
+        "sold": 94,
+        "offer_count": 0,
+        "price_min": "3400000000",
+        "price_max": "3400000000",
+        "normal_price_min": "13500000000",
+        "normal_price_max": "13500000000",
+        "total_stock": "30",
+        "sold_out_time": "0",
+        "global_brand_id": 1942531,
+        "local_brand": "",
+        "description": "Glow Bottle Brightening Toner Essense \n\nMerupakan hydrating toner essense dengan kandungan snail mucin, retynil palmitate dan phyto cell yang efektif untuk menghidrasi kulit, melembapkan, mencerahkan dan memberikan efek instan glowing. \n\nAman untuk All skin type \n\nUkuran 75 ml \n\nBpom NA18241210712\n\nManfaat : \n\nMelembapkan dan mengunci kelembapan kulit \n\nMenyamarkan garis halus\n\nMengurangi kemerahan dan merawat skin barrier \n\nKulit tampak lebih cerah dan glowing sepanjang hari \n\nIngredients: \n\nWater, Glycerin, Methylpropanediol, Glycereth-26, Diglycerin, Hydroxyacetophenone, 1,2-Hexanediol, Propanediol, Peg-40 Hydrogenated Castor Oil, Dianthus Chinensis Extract, Paeonia Suffruticosa Root Bark Extract, Glucose, Sodium Hyaluronate, Fragrance, Caffeine, Cyclodextrin, Iris Florentina Root Extract, Propylene Glycol, Caprylic/Capric Triglyceride, Snail Secretion Filtrate, Zinc Sulfate, Retinyl Palmitate, Hydrogenated Lecithin, Butylene Glycol, Hexylene Glycol, Stearic Acid, Cholesterol, Ceramide Np, Phenoxyethanol, Phytocelltec Symphtum, Panax Ginseng Root Extract\n\n \n\n",
+        "single_price_display": "3400000000",
+        "min_price_display": "3400000000",
+        "max_price_display": "3400000000",
+        "normal_single_price_display": "13500000000",
+        "normal_min_price_display": "13500000000",
+        "normal_max_price_display": "13500000000",
+        "price_info": {
+          "min_final_price": "2400000000",
+          "max_final_price": "2400000000"
+        },
+        "item_card_v2": {
+          "image_overlays_hash": "id-11134258-7rbk4-m7axjiioq1twbf",
+          "chat_category_type": 3,
+          "category_id": 100630,
+          "sold_count": 94,
+          "sold_count_text": "94",
+          "display_price": {
+            "discount_price": "2400000000",
+            "discount": 0,
+            "discount_text": {
+              "text": "-75%",
+              "buyer_translated_text": {
+                "translated_text": "",
+                "translated_language": "",
+                "source": ""
+              }
+            },
+            "display_final_price_icon": true,
+            "origin_price": "13500000000",
+            "is_price_mask": false
+          },
+          "top_video": {
+            "vid": "id-11110124-6ko2r-mdic9urg0s33cc",
+            "duration": 15733,
+            "cover_image_url": "https://down-ws-id.img.susercontent.com/id-11134114-7ra0j-mdici0u3los43b"
           },
           "selling_point": {
             "optimal_marketing_tag": {
@@ -1677,626 +826,209 @@
         "has_variations": false
       },
       {
-        "item_id": "40218823852",
-        "shop_id": "1109551852",
-        "name": "COSI COZY CREORA® Baju Olahraga Wanita Lengan Pendek Kaos Olahraga Wanita T Shirt Olahraga",
+        "item_id": "22864698372",
+        "shop_id": "962319494",
+        "name": "Bertha Kacamata Antiradiasi Blueray Style Kotak Simple Bahan TR90+Metal Simple Pria Dan Wanita Bisa Minus Blueray Photocromic 23-2",
         "status": 1,
         "region": "ID",
         "currency": "IDR",
         "images": [
-          "id-11134207-81ztd-mejx3hei2o05ae",
-          "id-11134207-81zti-mejx3he9svlw79",
-          "id-11134207-81zto-mejx3hea1b0k2a",
-          "id-11134207-81ztf-mejx3he9voqs1c",
-          "id-11134207-81zte-mejx3he9zwg430",
-          "id-11134207-81ztf-mejx3he9x3b846",
-          "id-11134207-81zti-mejx3he9yhvo9c",
-          "id-11134207-81zte-mejx3he9ua6c97",
-          "id-11134207-81ztf-mejx3hea2pl0f3"
-        ],
-        "video_info": [
-          {
-            "video_id": "api/v4/11110105/mms/id-11110105-6vdvf-mfwbbrv0ov7zdd.16000081760603033.mp4",
-            "thumb_url": "id-11110105-6vdvf-mfwbbrv0ov7zdd_cover",
-            "duration": 12,
-            "version": 2,
-            "vid": "id-11110105-6vdvf-mfwbbrv0ov7zdd"
-          }
+          "id-11134207-7r98r-lwqy403c0r652b",
+          "id-11134207-7r98p-lwr0n25yonj232",
+          "id-11134207-7r990-lwr0n25yoncee8",
+          "id-11134207-7r98x-lwqy403c4yvh25",
+          "id-11134207-7r98s-lwr0n25op2986e",
+          "id-11134207-7r991-lwr0n25op2bh17",
+          "id-11134207-7r98s-lwqy403c25ql5f",
+          "id-11134207-7r991-lwr0n25orvgd8f",
+          "id-11134207-7r98x-lwr0n25oqgvx9d"
         ],
         "size_chart": "",
         "cb_option": 0,
         "condition": 1,
-        "touch_time": 1757765716,
+        "touch_time": 1718877112,
         "tier_variations": [
           {
-            "name": "Color",
+            "name": "Warna",
             "options": [
-              "Black",
-              "Blue",
-              "White",
-              "Pink",
-              "Yellow",
-              "Purple"
+              "GREY"
             ],
             "images": [
-              "id-11134207-81ztl-mel66cah54ow1e",
-              "id-11134207-81ztl-mel66cah6j9c4a",
-              "id-11134207-81zto-mel66cah7xts17",
-              "id-11134207-81zti-mel66cah9ce869",
-              "id-11134207-81ztg-mel66cahaqyo4c",
-              "id-11134207-81ztd-mel66cahc5j4c0"
+              "id-11134207-7r98p-lwr0n25ota0t5f"
             ],
             "type": 0
           },
           {
-            "name": "Size",
+            "name": " Tipe Lensa",
             "options": [
-              "S",
-              "M",
-              "L",
-              "XL"
+              "BLUERAY NORMAL",
+              "✅MINUS ANTIRADIASI",
+              "✅MINUS BLUERAY",
+              "✅MINUS PHOTOCROMIC",
+              "✅MINUS BLUECROMIC"
             ],
             "type": 0
           }
         ],
         "flag": 196608,
-        "create_time": 1757765716,
-        "seller_sku": "",
+        "create_time": 1718877112,
+        "seller_sku": "NL-FA-23-2",
         "option": 0,
-        "mtime": 1767507514,
+        "mtime": 1758564981,
         "models": [
           {
-            "model_id": "248891233715",
-            "name": "White,S",
-            "status": 1,
-            "tier_indices": [
-              2,
-              0
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100311",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 38,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233707",
-            "name": "Yellow,L",
-            "status": 1,
-            "tier_indices": [
-              4,
-              2
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100513",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 68,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233711",
-            "name": "White,M",
-            "status": 1,
-            "tier_indices": [
-              2,
-              1
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100312",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 40,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233722",
-            "name": "Black,XL",
+            "model_id": "138979623815",
+            "name": "GREY,✅MINUS BLUECROMIC",
             "status": 1,
             "tier_indices": [
               0,
-              3
+              4
             ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100114",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
+            "create_time": 1718877113,
+            "seller_sku": "NL-FA-23-2+ABRPGX",
+            "mtime": 1718877113,
+            "price_rule_id": "816539671003136",
+            "price": "23600000000",
             "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 83,
+            "normal_price": "49900000000",
+            "stock": 69,
+            "sold": 1,
             "price_info": {
-              "final_price": "9890000000"
+              "final_price": "17600000000"
             }
           },
           {
-            "model_id": "243891223832",
-            "name": "Purple,L",
-            "status": 1,
-            "tier_indices": [
-              5,
-              2
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100613",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 55,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "243891223833",
-            "name": "Purple,XL",
-            "status": 1,
-            "tier_indices": [
-              5,
-              3
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100614",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 66,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233717",
-            "name": "Pink,M",
-            "status": 1,
-            "tier_indices": [
-              3,
-              1
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100412",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 68,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233713",
-            "name": "Yellow,XL",
-            "status": 1,
-            "tier_indices": [
-              4,
-              3
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100514",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 46,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233708",
-            "name": "Black,S",
+            "model_id": "138979623816",
+            "name": "GREY,BLUERAY NORMAL",
             "status": 1,
             "tier_indices": [
               0,
               0
             ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100111",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
+            "create_time": 1718877113,
+            "seller_sku": "NL-FA-23-2",
+            "mtime": 1718877113,
+            "price_rule_id": "234130256445441",
+            "price": "7524000000",
             "currency": "IDR",
-            "normal_price": "31900000000",
+            "normal_price": "49900000000",
             "stock": 5,
-            "sold": 73,
+            "sold": 29,
             "price_info": {
-              "final_price": "9890000000"
+              "final_price": "3762000000"
             }
           },
           {
-            "model_id": "248891233721",
-            "name": "Purple,S",
-            "status": 1,
-            "tier_indices": [
-              5,
-              0
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100611",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 27,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233724",
-            "name": "Blue,M",
-            "status": 1,
-            "tier_indices": [
-              1,
-              1
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100212",
-            "mtime": 1757765716,
-            "price_rule_id": "10000014020",
-            "price": "14743000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 48,
-            "sold": 36,
-            "price_info": {
-              "final_price": "9743000000"
-            }
-          },
-          {
-            "model_id": "248891233714",
-            "name": "Purple,M",
-            "status": 1,
-            "tier_indices": [
-              5,
-              1
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100612",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 37,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233709",
-            "name": "Black,M",
+            "model_id": "138979623817",
+            "name": "GREY,✅MINUS ANTIRADIASI",
             "status": 1,
             "tier_indices": [
               0,
               1
             ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100112",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
+            "create_time": 1718877113,
+            "seller_sku": "NL-FA-23-2+CRMC",
+            "mtime": 1718877113,
+            "price_rule_id": "816539671003136",
+            "price": "15600000000",
             "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 106,
+            "normal_price": "49900000000",
+            "stock": 65,
+            "sold": 5,
             "price_info": {
-              "final_price": "9890000000"
+              "final_price": "10100000000"
             }
           },
           {
-            "model_id": "243891223834",
-            "name": "Pink,L",
-            "status": 1,
-            "tier_indices": [
-              3,
-              2
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100413",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 52,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233723",
-            "name": "Blue,S",
-            "status": 1,
-            "tier_indices": [
-              1,
-              0
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100211",
-            "mtime": 1757765716,
-            "price_rule_id": "10000014020",
-            "price": "14889400000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 27,
-            "sold": 28,
-            "price_info": {
-              "final_price": "9889400000"
-            }
-          },
-          {
-            "model_id": "248891233726",
-            "name": "Blue,XL",
-            "status": 1,
-            "tier_indices": [
-              1,
-              3
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100214",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 49,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233725",
-            "name": "Blue,L",
-            "status": 1,
-            "tier_indices": [
-              1,
-              2
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100213",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 31,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233720",
-            "name": "White,XL",
-            "status": 1,
-            "tier_indices": [
-              2,
-              3
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100314",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 59,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "243891223835",
-            "name": "Yellow,S",
-            "status": 1,
-            "tier_indices": [
-              4,
-              0
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100511",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 35,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233716",
-            "name": "Pink,S",
-            "status": 1,
-            "tier_indices": [
-              3,
-              0
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100411",
-            "mtime": 1757765716,
-            "price_rule_id": "10000014020",
-            "price": "14889400000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 42,
-            "sold": 41,
-            "price_info": {
-              "final_price": "9889400000"
-            }
-          },
-          {
-            "model_id": "248891233712",
-            "name": "White,L",
-            "status": 1,
-            "tier_indices": [
-              2,
-              2
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100313",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 41,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233719",
-            "name": "Yellow,M",
-            "status": 1,
-            "tier_indices": [
-              4,
-              1
-            ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100512",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
-            "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 4,
-            "sold": 69,
-            "price_info": {
-              "final_price": "9890000000"
-            }
-          },
-          {
-            "model_id": "248891233710",
-            "name": "Black,L",
+            "model_id": "138979623818",
+            "name": "GREY,✅MINUS BLUERAY",
             "status": 1,
             "tier_indices": [
               0,
               2
             ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100113",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
+            "create_time": 1718877113,
+            "seller_sku": "NL-FA-23-2+ABR",
+            "mtime": 1718877113,
+            "price_rule_id": "816539671003136",
+            "price": "17600000000",
             "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 102,
+            "normal_price": "49900000000",
+            "stock": 66,
+            "sold": 5,
             "price_info": {
-              "final_price": "9890000000"
+              "final_price": "11800000000"
             }
           },
           {
-            "model_id": "248891233718",
-            "name": "Pink,XL",
+            "model_id": "138979623819",
+            "name": "GREY,✅MINUS PHOTOCROMIC",
             "status": 1,
             "tier_indices": [
-              3,
+              0,
               3
             ],
-            "create_time": 1757765716,
-            "seller_sku": "1515100414",
-            "mtime": 1757765716,
-            "price_rule_id": "234591818629120",
-            "price": "14890000000",
+            "create_time": 1718877113,
+            "seller_sku": "NL-FA-23-2+PGX",
+            "mtime": 1718877113,
+            "price_rule_id": "816539671003136",
+            "price": "19600000000",
             "currency": "IDR",
-            "normal_price": "31900000000",
-            "stock": 5,
-            "sold": 76,
+            "normal_price": "49900000000",
+            "stock": 69,
+            "sold": 1,
             "price_info": {
-              "final_price": "9890000000"
+              "final_price": "13800000000"
             }
           }
         ],
-        "cmt_count": 311,
-        "liked_count": 719,
+        "cmt_count": 22,
+        "liked_count": 117,
         "rating": {
-          "rating_star": 4.967845659163987,
+          "rating_star": 4.818181818181818,
           "rating_counts": [
             0,
             0,
+            1,
             0,
-            3,
-            4,
-            304
+            1,
+            20
           ],
-          "rcount_with_context": 26,
-          "rcount_with_image": 18
+          "rcount_with_context": 6,
+          "rcount_with_image": 5
         },
-        "sold": 1326,
+        "sold": 41,
         "offer_count": 0,
-        "price_min": "14743000000",
-        "price_max": "14890000000",
-        "normal_price_min": "31900000000",
-        "normal_price_max": "31900000000",
-        "total_stock": "221",
+        "price_min": "7524000000",
+        "price_max": "23600000000",
+        "normal_price_min": "49900000000",
+        "normal_price_max": "49900000000",
+        "total_stock": "274",
         "sold_out_time": "0",
-        "global_brand_id": 4036074,
+        "global_brand_id": 3910416,
         "local_brand": "",
-        "description": "[{\"i\":\"id-11134208-81zto-mejx61sxysxx55,0.654\"},{\"i\":\"id-11134208-8224u-mg4umfi0cqa657,0.653\"},{\"i\":\"id-11134208-81ztp-mejx61suvu2pf7,0.654\"},{\"i\":\"id-11134208-81ztm-mejx61sscj5v5a,0.654\"},{\"i\":\"id-11134208-81ztk-mejx61swya6c9f,0.653\"},{\"i\":\"id-11134208-81ztm-mejx61t817gl57,0.654\"},{\"i\":\"id-11134208-81ztd-mejx61vu9gxv42,0.654\"},{\"i\":\"id-11134208-81ztn-mejx61sru9s66c,0.654\"},{\"i\":\"id-11134208-81ztj-mejx61srvocm5e,0.653\"},{\"i\":\"id-11134208-81ztf-mejx61srx2x276,0.654\"}]",
-        "single_price_display": "14743000000",
-        "min_price_display": "14743000000",
-        "max_price_display": "14890000000",
-        "normal_single_price_display": "31900000000",
-        "normal_min_price_display": "31900000000",
-        "normal_max_price_display": "31900000000",
+        "description": "[{\"i\":\"id-11134208-7r98w-lwqyxp1fv2y45d,1.000\"},{\"i\":\"id-11134208-7r98v-lwr0qorbks32a8,1.000\"},{\"i\":\"id-11134208-7r98o-lwr0qorbm6nif3,1.000\"},{\"i\":\"id-11134208-7r98t-lwr0qorbnl7y6f,1.000\"},{\"i\":\"id-11134208-7r98v-lwr0qorbozse6a,1.000\"},{\"i\":\"id-11134208-7r98o-lwr0qorbqecu09,1.000\"},{\"i\":\"id-11134208-7r98s-lwr0qorbrsxa87,1.000\"},{\"i\":\"id-11134208-7r98z-lwr0qorbt7hq3d,1.000\"},{\"i\":\"id-11134208-7r990-lwr0qorbum265f,1.000\"},{\"i\":\"id-11134208-7r98u-lwr0qorbw0mm20,1.000\"},{\"i\":\"id-11134208-7r98w-lwr0qorbxf725a,1.000\"},{\"t\":\"\\n\\nBertha Kacamata Adalah solusi utama untuk memakai kacamata , bagi kalian ingin tampil trendy dan kekinian, bisa sekali pilih kacamata di bertha kacamata.\\n\\nBahan : TR90+Metal\\nGender : Wanita+pria\\nLensa   : Blueray Normal\\n\\nFrame kacamata dengan bahan Metal+TR90 yang sangat cocok untuk digunakan baik pria dan wanita dibuat dengan model kotak half atau biasa disebut style browline yang cocok digunakan untuk semua jenis muka, fashionable kekinian sangat cocok untuk dipadukan dengan penampilan fashion masa kini. Frame kacamata ini dibuat agar pengguna memakai nyaman dan enak sehingga frame kacamata ini sangat rekomended karna memiliki model unik. design-nya sangat cocok di pakai sehari-hari ataupun sebagai aksesoris penampilan.\\n\\n\\nKelebihan Lensa BLUERAY : Dapat menyaring sebagian besar cahaya biru dan menjaga kesehatan mata Anda. yang dapat melindungi mata dari sinar biru gadget, seperti : computer/Hp. cocok di pakai sehari hari.\\n\\nVariant Yang bisa di Pilih\\nBLUERAY NORMAL\\n✅MINUS ANTIRADIASI\\n✅MINUS BLUERAY\\n✅MINUS PHOTOCROMIC\\n✅MINUS BLUECROMIC\\n\\n(VARIANT MIN = MINUS FREE MINUS SAMPAI 4 DAN SILINDER 2 ) MELEBIHI ITU HARUS PESAN LENSANYA . DAN KONSULTASI KE ADMIN.\\n\\nKelengkapan yang di dapat :\\n\\n- pouch (tempat kacamata)\\n- lap pembersih lensa\\n- pembersih (jika pesan lensa )\\n\\nJam operasional :\\nSetiap hari 10.00-16.00.\\n-Pesanan melebihi jam 16.00 akan di proses dan di kirim ke esokan hari.\\n-Barang sebelum kami kirimkan sudah di cek terlebih dahulu.\\n-Barang kami packing sangat rapih dan aman.\\n\\n-Jika barang yang di terima tidak sesuai silahkan infokan admin dan kirimkan foto atau video dengan senang hati akan kami bantu penyelesainnya\"}]",
+        "single_price_display": "7524000000",
+        "min_price_display": "7524000000",
+        "max_price_display": "23600000000",
+        "normal_single_price_display": "49900000000",
+        "normal_min_price_display": "49900000000",
+        "normal_max_price_display": "49900000000",
         "price_info": {
-          "min_final_price": "9743000000",
-          "max_final_price": "9890000000"
+          "min_final_price": "3762000000",
+          "max_final_price": "17600000000"
         },
         "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7rbk3-maweakt6xm5nb0",
-          "chat_category_type": 3,
-          "category_id": 100637,
-          "sold_count": 1326,
-          "sold_count_text": "1RB+",
+          "image_overlays_hash": "id-11134258-7rbk4-m7axjiioq1twbf",
+          "chat_category_type": 1,
+          "category_id": 100009,
+          "sold_count": 41,
+          "sold_count_text": "41",
           "display_price": {
-            "discount_price": "9743000000",
+            "discount_price": "3762000000",
             "discount": 0,
             "discount_text": {
-              "text": "-54%",
+              "text": "-85%",
               "buyer_translated_text": {
                 "translated_text": "",
                 "translated_language": "",
@@ -2304,17 +1036,1425 @@
               }
             },
             "display_final_price_icon": true,
-            "origin_price": "31900000000",
+            "origin_price": "49900000000",
             "is_price_mask": false
-          },
-          "top_video": {
-            "vid": "id-11110124-6vdv7-mf8597digdu7e3",
-            "duration": 27305,
-            "cover_image_url": "https://down-bs-id.img.susercontent.com/id-11134114-81ztd-mf85bhneaqrx2b"
           },
           "selling_point": {
             "optimal_marketing_tag": {
-              "tag_type": 1
+              "tag_type": 3
+            },
+            "cod_tag": {
+              "tag_type": 5
+            }
+          },
+          "review_bar": {
+            "rating_score": 4.8
+          },
+          "ksp_list": [
+            {
+              "title": {
+                "text": "15 Hari Pengembalian",
+                "buyer_translated_text": {
+                  "translated_text": "",
+                  "translated_language": "",
+                  "source": ""
+                }
+              },
+              "subtitle": {
+                "text": "Untuk memastikan kepuasanmu, Shopee Mall memberikan periode pengembalian yang lebih panjang (15 hari setelah barang diterima).",
+                "buyer_translated_text": {
+                  "translated_text": "",
+                  "translated_language": "",
+                  "source": ""
+                }
+              },
+              "icon_hash": "id-11134258-7rasi-m16tp1tmlgzm12",
+              "redirect_url": "",
+              "redirect_url_pc": ""
+            }
+          ]
+        },
+        "is_price_mask": false,
+        "has_variations": true
+      },
+      {
+        "item_id": "23948821715",
+        "shop_id": "962319494",
+        "name": "BERTHA Kacamata Anti Radiasi Blueray Style Korea Bentuk Cat Eye Elegant Kekinian Bisa Minus Bahan Metal Kuat Ringan + TR90 2505",
+        "status": 1,
+        "region": "ID",
+        "currency": "IDR",
+        "images": [
+          "id-11134207-7r992-lnqo667ghoe21a",
+          "id-11134207-7r98y-lnqop18wzqtj5d",
+          "id-11134207-7r98x-lnqo667glw3efa",
+          "id-11134207-7r990-lnqo667gkhiy93",
+          "id-11134207-7r98v-lnqo667gq3sq39",
+          "id-11134207-7r98r-ls0z8yahjcux38",
+          "id-11134207-7qul7-ljf5kjppml29c1",
+          "id-11134207-7r98z-lnqo667gop8a10"
+        ],
+        "size_chart": "",
+        "cb_option": 0,
+        "condition": 1,
+        "touch_time": 1700312288,
+        "tier_variations": [
+          {
+            "name": "Warna",
+            "options": [
+              "Brown",
+              "Black Doff",
+              "Brown Leopard",
+              "Brown Transparan",
+              "Cream Leopard",
+              "Yellow Leopard",
+              "Black Glossy",
+              "Blue",
+              "Black",
+              "Transparan"
+            ],
+            "images": [
+              "id-11134207-7r990-lnqo667gswxm5d",
+              "id-11134207-7r991-lnqo667gubi284",
+              "id-11134207-81ztj-mff3x5skxn9q03",
+              "id-11134207-7qukw-ljf5s2hb5pup0d",
+              "id-11134207-7r98x-lxs0w8yyve3i1b",
+              "id-11134207-7qul8-ljf5s2hb8izl01",
+              "id-11134207-7rasm-m2uew0qv9o29a7",
+              "id-11134207-7rasc-m2uew0qvb2mp02",
+              "id-11134207-8224x-miv0849a81ky9e",
+              "id-11134207-8224y-miv0849a9g5eca"
+            ],
+            "type": 0
+          },
+          {
+            "name": "Lensa",
+            "options": [
+              "Blueray Normal",
+              "Minus Antiradiasi",
+              "Minus Photocromic",
+              "Minus Blueray",
+              "Minus Bluecromic"
+            ],
+            "type": 0
+          }
+        ],
+        "flag": 196608,
+        "create_time": 1689834980,
+        "seller_sku": "2505",
+        "option": 0,
+        "mtime": 1769569076,
+        "models": [
+          {
+            "model_id": "197993817500",
+            "name": "Black Glossy,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              6,
+              3
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1769569076,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 354,
+            "sold": 4,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "225434152985",
+            "name": "Brown,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              0,
+              4
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 196,
+            "sold": 0,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "225434152977",
+            "name": "Brown,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              0,
+              2
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 195,
+            "sold": 1,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          },
+          {
+            "model_id": "225434152978",
+            "name": "Black Doff,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              1,
+              2
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "0",
+            "price": "39900000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 0,
+            "sold": 0,
+            "price_info": {
+              "final_price": "33900000000"
+            }
+          },
+          {
+            "model_id": "225434152980",
+            "name": "Black Doff,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              1,
+              4
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "0",
+            "price": "39900000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 0,
+            "sold": 0,
+            "price_info": {
+              "final_price": "33900000000"
+            }
+          },
+          {
+            "model_id": "225434152998",
+            "name": "Cream Leopard,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              4,
+              3
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 437,
+            "sold": 0,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "225434152987",
+            "name": "Yellow Leopard,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              5,
+              0
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1689834980,
+            "price_rule_id": "818222048280576",
+            "price": "8500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 80,
+            "sold": 0,
+            "price_info": {
+              "final_price": "4250000000"
+            }
+          },
+          {
+            "model_id": "445372296391",
+            "name": "Black,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              8,
+              0
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1767065694,
+            "price_rule_id": "234130256445441",
+            "price": "8415000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 5,
+            "sold": 0,
+            "price_info": {
+              "final_price": "4207500000"
+            }
+          },
+          {
+            "model_id": "225434152981",
+            "name": "Brown Transparan,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              3,
+              2
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 172,
+            "sold": 1,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          },
+          {
+            "model_id": "197993817494",
+            "name": "Black Glossy,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              6,
+              1
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 353,
+            "sold": 3,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "445372296388",
+            "name": "Black,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              8,
+              4
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 100,
+            "sold": 0,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "225434152975",
+            "name": "Brown Transparan,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              3,
+              1
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 173,
+            "sold": 0,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "225434152970",
+            "name": "Brown Leopard,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              2,
+              4
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 593,
+            "sold": 0,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "445372296390",
+            "name": "Black,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              8,
+              1
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 100,
+            "sold": 0,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "225434152971",
+            "name": "Cream Leopard,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              4,
+              0
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1721121905,
+            "price_rule_id": "818222048280576",
+            "price": "8500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 437,
+            "sold": 0,
+            "price_info": {
+              "final_price": "4250000000"
+            }
+          },
+          {
+            "model_id": "197993817496",
+            "name": "Black Glossy,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              6,
+              0
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1732161024,
+            "price_rule_id": "818222048280576",
+            "price": "8500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 354,
+            "sold": 3,
+            "price_info": {
+              "final_price": "4250000000"
+            }
+          },
+          {
+            "model_id": "225434152996",
+            "name": "Brown Transparan,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              3,
+              0
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1689834980,
+            "price_rule_id": "818222048280576",
+            "price": "8500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 173,
+            "sold": 0,
+            "price_info": {
+              "final_price": "4250000000"
+            }
+          },
+          {
+            "model_id": "445372296387",
+            "name": "Transparan,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              9,
+              4
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 100,
+            "sold": 0,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "445372296385",
+            "name": "Transparan,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              9,
+              2
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 100,
+            "sold": 0,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          },
+          {
+            "model_id": "225434152974",
+            "name": "Brown,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              0,
+              1
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 191,
+            "sold": 5,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "225434152969",
+            "name": "Brown Leopard,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              2,
+              3
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 593,
+            "sold": 1,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "225434152990",
+            "name": "Brown Leopard,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              2,
+              2
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 593,
+            "sold": 0,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          },
+          {
+            "model_id": "225434152993",
+            "name": "Cream Leopard,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              4,
+              4
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 437,
+            "sold": 0,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "225434152982",
+            "name": "Brown,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              0,
+              3
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 195,
+            "sold": 1,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "225434152988",
+            "name": "Yellow Leopard,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              5,
+              4
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 80,
+            "sold": 1,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "225434152976",
+            "name": "Yellow Leopard,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              5,
+              3
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 80,
+            "sold": 1,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "225434152991",
+            "name": "Brown Transparan,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              3,
+              4
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 173,
+            "sold": 0,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "225434152995",
+            "name": "Brown Leopard,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              2,
+              0
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1689834980,
+            "price_rule_id": "818222048280576",
+            "price": "8500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 590,
+            "sold": 6,
+            "price_info": {
+              "final_price": "4250000000"
+            }
+          },
+          {
+            "model_id": "445372296386",
+            "name": "Transparan,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              9,
+              0
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "8500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 99,
+            "sold": 1,
+            "price_info": {
+              "final_price": "4250000000"
+            }
+          },
+          {
+            "model_id": "225434152989",
+            "name": "Brown Leopard,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              2,
+              1
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 593,
+            "sold": 0,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "225434152994",
+            "name": "Black Doff,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              1,
+              1
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "0",
+            "price": "39900000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 0,
+            "sold": 0,
+            "price_info": {
+              "final_price": "33900000000"
+            }
+          },
+          {
+            "model_id": "197993817498",
+            "name": "Blue,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              7,
+              4
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 179,
+            "sold": 0,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "445372296389",
+            "name": "Transparan,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              9,
+              3
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 100,
+            "sold": 0,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "197993817492",
+            "name": "Blue,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              7,
+              1
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 178,
+            "sold": 1,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "197993817497",
+            "name": "Blue,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              7,
+              0
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1732161024,
+            "price_rule_id": "234130256445441",
+            "price": "8415000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 5,
+            "sold": 0,
+            "price_info": {
+              "final_price": "4207500000"
+            }
+          },
+          {
+            "model_id": "445372296392",
+            "name": "Black,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              8,
+              3
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 100,
+            "sold": 0,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "445372296393",
+            "name": "Transparan,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              9,
+              1
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 100,
+            "sold": 0,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "225434152973",
+            "name": "Brown,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              0,
+              0
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1689834980,
+            "price_rule_id": "234130256445441",
+            "price": "8415000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 5,
+            "sold": 11,
+            "price_info": {
+              "final_price": "4207500000"
+            }
+          },
+          {
+            "model_id": "197993817499",
+            "name": "Black Glossy,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              6,
+              2
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1769569076,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 357,
+            "sold": 0,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          },
+          {
+            "model_id": "197993817501",
+            "name": "Black Glossy,Minus Bluecromic",
+            "status": 1,
+            "tier_indices": [
+              6,
+              4
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505+ABRPGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "26500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 356,
+            "sold": 1,
+            "price_info": {
+              "final_price": "20500000000"
+            }
+          },
+          {
+            "model_id": "225434152972",
+            "name": "Yellow Leopard,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              5,
+              2
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 80,
+            "sold": 0,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          },
+          {
+            "model_id": "197993817493",
+            "name": "Blue,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              7,
+              3
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 179,
+            "sold": 0,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "225434152986",
+            "name": "Black Doff,Blueray Normal",
+            "status": 1,
+            "tier_indices": [
+              1,
+              0
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505",
+            "mtime": 1689834980,
+            "price_rule_id": "0",
+            "price": "39900000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 0,
+            "sold": 0,
+            "price_info": {
+              "final_price": "33900000000"
+            }
+          },
+          {
+            "model_id": "197993817495",
+            "name": "Blue,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              7,
+              2
+            ],
+            "create_time": 1732161024,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 178,
+            "sold": 1,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          },
+          {
+            "model_id": "225434152979",
+            "name": "Black Doff,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              1,
+              3
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "0",
+            "price": "39900000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 0,
+            "sold": 0,
+            "price_info": {
+              "final_price": "33900000000"
+            }
+          },
+          {
+            "model_id": "445372296384",
+            "name": "Black,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              8,
+              2
+            ],
+            "create_time": 1767065694,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 100,
+            "sold": 0,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          },
+          {
+            "model_id": "225434152992",
+            "name": "Cream Leopard,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              4,
+              1
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 437,
+            "sold": 0,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "225434152997",
+            "name": "Brown Transparan,Minus Blueray",
+            "status": 1,
+            "tier_indices": [
+              3,
+              3
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+ABR",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "18500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 173,
+            "sold": 0,
+            "price_info": {
+              "final_price": "12700000000"
+            }
+          },
+          {
+            "model_id": "225434152984",
+            "name": "Yellow Leopard,Minus Antiradiasi",
+            "status": 1,
+            "tier_indices": [
+              5,
+              1
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+CRMC",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "16500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 80,
+            "sold": 0,
+            "price_info": {
+              "final_price": "10700000000"
+            }
+          },
+          {
+            "model_id": "225434152983",
+            "name": "Cream Leopard,Minus Photocromic",
+            "status": 1,
+            "tier_indices": [
+              4,
+              2
+            ],
+            "create_time": 1689834980,
+            "seller_sku": "NL-FA-2505+PGX",
+            "mtime": 1767065694,
+            "price_rule_id": "818222048280576",
+            "price": "20500000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 437,
+            "sold": 0,
+            "price_info": {
+              "final_price": "14500000000"
+            }
+          }
+        ],
+        "cmt_count": 16,
+        "liked_count": 181,
+        "rating": {
+          "rating_star": 4.9411764705882355,
+          "rating_counts": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            16
+          ],
+          "rcount_with_context": 4,
+          "rcount_with_image": 4
+        },
+        "sold": 42,
+        "offer_count": 0,
+        "price_min": "8415000000",
+        "price_max": "26500000000",
+        "normal_price_min": "39900000000",
+        "normal_price_max": "39900000000",
+        "total_stock": "10590",
+        "sold_out_time": "0",
+        "global_brand_id": 3910416,
+        "local_brand": "",
+        "description": "Kacamata style korea kekinian terbaru coxok untuk digunakan saat ini kacamata ini sangat cocok untuk dipadukan dengan gaya fashion masa kini sehingga akan menambah gaya penampilan.Kacamata ini sendiri pada bagian frame memiliki bahan TR90 yang dipadukan dengan Metal sehingga pada bagian frame ini sendiri sangat kuat dan kokoh,tidak mudah patah,tahan terhadap goresan,dan sedikit lentur.Kacamata ini juga sangat cocok digunakan baik saat bekerja ataupun saat berpergian jalan-jalan karna kacamata ini sangat nyaman sekali digunakan tidak akan merasa sakit saat memakai dalam waktu lama.\n\nBahan : TR90 + Metal\nGender :  Wanita\nLensa : Antiradiasi Blueray Mata Normal\n\n\nKelebihan Lensa BLUERAY : Dapat menyaring sebagian besar cahaya biru dan menjaga kesehatan mata Anda. yang dapat melindungi mata dari sinar biru gadget, seperti : computer/Hp. cocok di pakai sehari hari.\n\nVariant Yang bisa di Pilih\nBLUERAY NORMAL\n✅MINUS ANTIRADIASI\n✅MINUS BLUERAY\n✅MINUS PHOTOCROMIC\n✅MINUS BLUECROMIC\n(VARIANT MIN = MINUS FREE MINUS SAMPAI 4 DAN SILINDER 2 ) MELEBIHI ITU HARUS PESAN LENSANYA .\n DAN KONSULTASI KE ADMIN.\n\nKelengkapan yang di dapat :\n- pouch (tempat kacamata)\n- lap pembersih lensa\n- pembersih (jika pesan lensa )\n\n‼PERINGATAN ‼\n1. Sebelum order mohon chat admin terlebih dahulu.\n2. Jika tidak mengisi ukuran lensa di kolom pesan atau chatting artinya lensa ukuran normal.\n\nJam operasional :\nSetiap hari 10.00-16.00.\n-Pesanan melebihi jam 16.00 akan di proses dan di kirim ke esokan hari.\n-Barang sebelum kami kirimkan sudah di cek terlebih dahulu.\n-Barang kami packing sangat rapih dan aman.\n-Jika barang yang di terima tidak sesuai silahkan infokan admin dan kirimkan foto atau video dengan senang hati akan kami bantu penyelesainnya\n",
+        "single_price_display": "8415000000",
+        "min_price_display": "8415000000",
+        "max_price_display": "26500000000",
+        "normal_single_price_display": "39900000000",
+        "normal_min_price_display": "39900000000",
+        "normal_max_price_display": "39900000000",
+        "price_info": {
+          "min_final_price": "4207500000",
+          "max_final_price": "20500000000"
+        },
+        "item_card_v2": {
+          "image_overlays_hash": "id-11134258-7rbk4-m7axjiioq1twbf",
+          "chat_category_type": 1,
+          "category_id": 100009,
+          "sold_count": 42,
+          "sold_count_text": "42",
+          "display_price": {
+            "discount_price": "4207500000",
+            "discount": 0,
+            "discount_text": {
+              "text": "-79%",
+              "buyer_translated_text": {
+                "translated_text": "",
+                "translated_language": "",
+                "source": ""
+              }
+            },
+            "display_final_price_icon": true,
+            "origin_price": "39900000000",
+            "is_price_mask": false
+          },
+          "selling_point": {
+            "optimal_marketing_tag": {
+              "tag_type": 3
+            },
+            "cod_tag": {
+              "tag_type": 5
+            }
+          },
+          "review_bar": {
+            "rating_score": 4.9
+          },
+          "ksp_list": [
+            {
+              "title": {
+                "text": "15 Hari Pengembalian",
+                "buyer_translated_text": {
+                  "translated_text": "",
+                  "translated_language": "",
+                  "source": ""
+                }
+              },
+              "subtitle": {
+                "text": "Untuk memastikan kepuasanmu, Shopee Mall memberikan periode pengembalian yang lebih panjang (15 hari setelah barang diterima).",
+                "buyer_translated_text": {
+                  "translated_text": "",
+                  "translated_language": "",
+                  "source": ""
+                }
+              },
+              "icon_hash": "id-11134258-7rasi-m16tp1tmlgzm12",
+              "redirect_url": "",
+              "redirect_url_pc": ""
+            }
+          ]
+        },
+        "is_price_mask": false,
+        "has_variations": true
+      },
+      {
+        "item_id": "24072605316",
+        "shop_id": "962319494",
+        "name": "Bertha Kacamata Sunglasses Anti UV 400 Style Kotak Bahan TR90+Metal Korean Style Simple Fashion Pria Dan Wanita G29",
+        "status": 1,
+        "region": "ID",
+        "currency": "IDR",
+        "images": [
+          "id-11134207-7r98y-ltrrmznvv0qg55",
+          "id-11134207-7r98z-ltrrmznvtm60c4",
+          "id-11134207-7r98r-ltrrmznw223e67",
+          "id-11134207-7r98r-ltrrmznvxue289",
+          "id-11134207-7r98p-ltrrmznvwftmee",
+          "id-11134207-7r98s-ltrrmznvwfawde",
+          "id-11134207-7r98o-ltrrmznvz8fs82",
+          "id-11134207-7r98t-ltrrmznvxtvc44"
+        ],
+        "size_chart": "",
+        "cb_option": 0,
+        "condition": 1,
+        "touch_time": 1712385676,
+        "tier_variations": [
+          {
+            "name": "Warna",
+            "options": [
+              "BLACK BROWN",
+              "BLACK GLOSSY",
+              "BROWN GRADASI"
+            ],
+            "images": [
+              "id-11134207-7r992-ltrrmznw0n08d8",
+              "id-11134207-7r98u-ltrrmznw21koc6",
+              "id-11134207-7r98p-ltrrmznvpeznf0"
+            ],
+            "type": 0
+          }
+        ],
+        "flag": 65536,
+        "create_time": 1712385676,
+        "seller_sku": "NL-UV-G29",
+        "option": 0,
+        "mtime": 1758564982,
+        "models": [
+          {
+            "model_id": "245590011187",
+            "name": "BLACK GLOSSY",
+            "status": 1,
+            "tier_indices": [
+              1
+            ],
+            "create_time": 1712385676,
+            "seller_sku": "NL-UV-G29",
+            "mtime": 1712385676,
+            "price_rule_id": "234130256445441",
+            "price": "8514000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 5,
+            "sold": 7,
+            "price_info": {
+              "final_price": "4257000000"
+            }
+          },
+          {
+            "model_id": "245590011188",
+            "name": "BROWN GRADASI",
+            "status": 1,
+            "tier_indices": [
+              2
+            ],
+            "create_time": 1712385676,
+            "seller_sku": "NL-UV-G29",
+            "mtime": 1712385676,
+            "price_rule_id": "0",
+            "price": "39900000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 0,
+            "sold": 37,
+            "price_info": {
+              "final_price": "33900000000"
+            }
+          },
+          {
+            "model_id": "245590011186",
+            "name": "BLACK BROWN",
+            "status": 1,
+            "tier_indices": [
+              0
+            ],
+            "create_time": 1712385676,
+            "seller_sku": "NL-UV-G29",
+            "mtime": 1712385676,
+            "price_rule_id": "234130256445441",
+            "price": "8514000000",
+            "currency": "IDR",
+            "normal_price": "39900000000",
+            "stock": 5,
+            "sold": 16,
+            "price_info": {
+              "final_price": "4257000000"
+            }
+          }
+        ],
+        "cmt_count": 22,
+        "liked_count": 70,
+        "rating": {
+          "rating_star": 4.956521739130435,
+          "rating_counts": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            22
+          ],
+          "rcount_with_context": 5,
+          "rcount_with_image": 3
+        },
+        "sold": 60,
+        "offer_count": 0,
+        "price_min": "8514000000",
+        "price_max": "8514000000",
+        "normal_price_min": "39900000000",
+        "normal_price_max": "39900000000",
+        "total_stock": "10",
+        "sold_out_time": "0",
+        "global_brand_id": 3910416,
+        "local_brand": "",
+        "description": "Bertha Kacamata Adalah solusi utama untuk memakai kacamata , bagi kalian ingin tampil trendy dan kekinian, bisa sekali pilih kacamata di bertha kacamata.\n\nkacamata sunglasses uv 400 dengan style kotak yang  trendy dengan bahan tr90+metal simple mewah,di lensanya  sendiri  sudah ada lapisan uv protactionya sehingga bisa melindungi dari  paparan sinar matahari,dengan design yang keren membuat tampilan semakin elegant.\n\nBahan : TR90+Metal\nGender : Wanita+pria\n\nANTI UV 400\n✏️melindungi mata Anda dari terik matahari yang menyilaukan, sehingga Anda dapat tetap melihat dengan jelas pada siang hari atau di tempat yang menyilaukan. Melindungi mata anda pada saat mengemudi di bawah terik matahari yang menyilaukan.\n\nKacamata ini memiliki lensa dengan desain khusus yang berguna untuk melindungi mata Anda dari terik matahari secara langsung.\n\nKelengkapan:\n✏️-Hard Case \n✏️-Lap microfiber\n\nJam Operasional:\n✏️Setiap Hari 10.00-16.00\n✏️Untuk pesanan yang masuk sesudah jam operasiaonal akan di proses dihari Berikutnya.\n✏️Silahkan buat foto atau Video Unboxing setelah menerima paket ,jika mengalami kendala silahkan infokan kami.",
+        "single_price_display": "8514000000",
+        "min_price_display": "8514000000",
+        "max_price_display": "8514000000",
+        "normal_single_price_display": "39900000000",
+        "normal_min_price_display": "39900000000",
+        "normal_max_price_display": "39900000000",
+        "price_info": {
+          "min_final_price": "4257000000",
+          "max_final_price": "4257000000"
+        },
+        "item_card_v2": {
+          "image_overlays_hash": "id-11134258-7rbk4-m7axjiioq1twbf",
+          "chat_category_type": 1,
+          "category_id": 100009,
+          "sold_count": 60,
+          "sold_count_text": "60",
+          "display_price": {
+            "discount_price": "4257000000",
+            "discount": 0,
+            "discount_text": {
+              "text": "-79%",
+              "buyer_translated_text": {
+                "translated_text": "",
+                "translated_language": "",
+                "source": ""
+              }
+            },
+            "display_final_price_icon": true,
+            "origin_price": "39900000000",
+            "is_price_mask": false
+          },
+          "selling_point": {
+            "optimal_marketing_tag": {
+              "tag_type": 3
             },
             "cod_tag": {
               "tag_type": 5
@@ -2351,539 +2491,415 @@
         "has_variations": true
       },
       {
-        "item_id": "28936000675",
-        "shop_id": "1109551852",
-        "name": "COSI COZY Sport Bra Mesh Baju Bra Olahraga Wanita Tank Top Built In Bra",
+        "item_id": "43358877016",
+        "shop_id": "962319494",
+        "name": "Bertha Kacamata Anti Radiasi Blueray Lindungi Mata Darii Cahaya Layar HP dan Laptop Model Kotak Sporty Bahan TR90 Ringan untuk Pria Wanita Bisa Minus 81283",
         "status": 1,
         "region": "ID",
         "currency": "IDR",
         "images": [
-          "id-11134207-7rbkd-m9joi0cmxqmld6",
-          "id-11134207-7rbke-m9joi0cwxc0de9",
-          "id-11134207-7rbk0-m9da4pae0dn131",
-          "id-11134207-7rbka-m9joi0cwyqktbe",
-          "id-11134207-7rbk5-m9da4pa3zd5qe7",
-          "id-11134207-7rbk2-m9joi0cx055997",
-          "id-11134207-7rbk2-m9da4pa4974ucf",
-          "id-11134207-7rbkd-m9da4pa3zdot57",
-          "id-11134207-7rbk6-m9joi0cnd6vh9c"
+          "id-11134207-7ra0h-mcaubtr29pz95b",
+          "id-11134207-7ra0s-mcaubtr28bet14",
+          "id-11134207-7ra0t-mcaubtr2dxolad",
+          "id-11134207-7ra0o-mcaubtqso67443",
+          "id-11134207-7ra0i-mcaubtr2b4jp04",
+          "id-11134207-7ra0h-mcaubtr28bid71",
+          "id-11134207-7ra0s-mcaubtr2cj4532",
+          "id-11134207-7ra0r-mcaubtr2gqthc8",
+          "id-11134207-7ra0n-mcaubtr2fc912d"
         ],
-        "video_info": [
-          {
-            "video_id": "api/v4/11110105/mms/id-11110105-6knaj-m9pbocr5f703f3.16000031747104442.mp4",
-            "thumb_url": "id-11110105-6knaj-m9pbocr5f703f3_cover",
-            "duration": 12,
-            "version": 2,
-            "vid": "id-11110105-6knaj-m9pbocr5f703f3"
-          }
-        ],
-        "size_chart": "id-11134207-7rbk6-m9da4pae8t1pc4",
+        "size_chart": "",
         "cb_option": 0,
         "condition": 1,
-        "touch_time": 1748683301,
+        "touch_time": 1752765989,
         "tier_variations": [
           {
-            "name": "Color",
+            "name": "Warna",
             "options": [
-              "Black",
-              "Yellow",
-              "Purple",
-              "Pink"
+              "BLACK DOFF",
+              "GREY DOFF",
+              "BROWN DOFF"
             ],
             "images": [
-              "id-11134207-7rbke-m9joi0cx5rf17f",
-              "id-11134207-7rbka-m9joi0cx4cul0a",
-              "id-11134207-7rbkc-m9joi0cx2ya50b",
-              "id-11134207-7rbk5-m9joi0cx1jppea"
+              "id-11134207-7ra0k-mcaubtr2i5dxe8",
+              "id-11134207-7ra0u-mcaubtr2jjyd60",
+              "id-11134207-7ra0u-mcaubtr2kyit69"
             ],
             "type": 0
           },
           {
-            "name": "Size",
+            "name": " Tipe Lensa",
             "options": [
-              "S",
-              "M",
-              "L",
-              "XL",
-              "2XL"
+              "BLUERAY NORMAL",
+              "MIN ANTIRADIASI",
+              "MIN BLUERAY",
+              "MIN PHOTOCROMIC",
+              "MIN BLUECROMIC"
             ],
             "type": 0
           }
         ],
         "flag": 196608,
-        "create_time": 1746376037,
-        "seller_sku": "",
+        "create_time": 1752765989,
+        "seller_sku": "NL FA 81283",
         "option": 0,
-        "mtime": 1758568826,
+        "mtime": 1758565014,
         "models": [
           {
-            "model_id": "237794756100",
-            "name": "Yellow,S",
-            "status": 1,
-            "tier_indices": [
-              1,
-              0
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200211",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 42,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756103",
-            "name": "Purple,L",
-            "status": 1,
-            "tier_indices": [
-              2,
-              2
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200313",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 215,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756117",
-            "name": "Yellow,XL",
-            "status": 1,
-            "tier_indices": [
-              1,
-              3
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200214",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 200,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756112",
-            "name": "Yellow,2XL",
+            "model_id": "258635880520",
+            "name": "GREY DOFF,MIN BLUECROMIC",
             "status": 1,
             "tier_indices": [
               1,
               4
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200215",
-            "mtime": 1746376037,
-            "price_rule_id": "760636812887040",
-            "price": "15900000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "25600000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 0,
-            "sold": 94,
+            "normal_price": "49900000000",
+            "stock": 80,
+            "sold": 0,
             "price_info": {
-              "final_price": "10264000000"
+              "final_price": "19600000000"
             }
           },
           {
-            "model_id": "237794756104",
-            "name": "Pink,S",
+            "model_id": "258635880522",
+            "name": "BROWN DOFF,BLUERAY NORMAL",
             "status": 1,
             "tier_indices": [
-              3,
+              2,
               0
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200411",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "234130256445441",
+            "price": "9504000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
+            "normal_price": "49900000000",
             "stock": 5,
-            "sold": 65,
+            "sold": 0,
             "price_info": {
-              "final_price": "10254400000"
+              "final_price": "4752000000"
             }
           },
           {
-            "model_id": "237794756109",
-            "name": "Black,M",
-            "status": 1,
-            "tier_indices": [
-              0,
-              1
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200112",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 318,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756116",
-            "name": "Black,2XL",
+            "model_id": "258635880519",
+            "name": "BLACK DOFF,MIN BLUECROMIC",
             "status": 1,
             "tier_indices": [
               0,
               4
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200115",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "25600000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 271,
+            "normal_price": "49900000000",
+            "stock": 180,
+            "sold": 0,
             "price_info": {
-              "final_price": "10254400000"
+              "final_price": "19600000000"
             }
           },
           {
-            "model_id": "237794756111",
-            "name": "Yellow,M",
+            "model_id": "258635880515",
+            "name": "GREY DOFF,BLUERAY NORMAL",
             "status": 1,
             "tier_indices": [
               1,
-              1
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200212",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 154,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756106",
-            "name": "Purple,S",
-            "status": 1,
-            "tier_indices": [
-              2,
               0
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200311",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "234130256445441",
+            "price": "9504000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
+            "normal_price": "49900000000",
             "stock": 5,
-            "sold": 40,
+            "sold": 0,
             "price_info": {
-              "final_price": "10254400000"
+              "final_price": "4752000000"
             }
           },
           {
-            "model_id": "237794756115",
-            "name": "Black,L",
+            "model_id": "258635880516",
+            "name": "BLACK DOFF,BLUERAY NORMAL",
             "status": 1,
             "tier_indices": [
               0,
-              2
+              0
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200113",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "234130256445441",
+            "price": "9504000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
+            "normal_price": "49900000000",
             "stock": 5,
-            "sold": 458,
+            "sold": 0,
             "price_info": {
-              "final_price": "10254400000"
+              "final_price": "4752000000"
             }
           },
           {
-            "model_id": "237794756107",
-            "name": "Purple,2XL",
+            "model_id": "258635880521",
+            "name": "BROWN DOFF,MIN BLUERAY",
             "status": 1,
             "tier_indices": [
               2,
-              4
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200315",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 113,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756114",
-            "name": "Pink,L",
-            "status": 1,
-            "tier_indices": [
-              3,
               2
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200413",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "19600000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 305,
+            "normal_price": "49900000000",
+            "stock": 40,
+            "sold": 0,
             "price_info": {
-              "final_price": "10254400000"
+              "final_price": "13800000000"
             }
           },
           {
-            "model_id": "237794756119",
-            "name": "Pink,XL",
-            "status": 1,
-            "tier_indices": [
-              3,
-              3
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200414",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 163,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756113",
-            "name": "Purple,XL",
-            "status": 1,
-            "tier_indices": [
-              2,
-              3
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200314",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 191,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756118",
-            "name": "Pink,M",
-            "status": 1,
-            "tier_indices": [
-              3,
-              1
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200412",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 236,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756101",
-            "name": "Yellow,L",
+            "model_id": "258635880527",
+            "name": "GREY DOFF,MIN BLUERAY",
             "status": 1,
             "tier_indices": [
               1,
               2
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200213",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "19600000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 214,
+            "normal_price": "49900000000",
+            "stock": 80,
+            "sold": 0,
             "price_info": {
-              "final_price": "10254400000"
+              "final_price": "13800000000"
             }
           },
           {
-            "model_id": "237794756110",
-            "name": "Black,XL",
+            "model_id": "258635880514",
+            "name": "BLACK DOFF,MIN BLUERAY",
             "status": 1,
             "tier_indices": [
               0,
-              3
+              2
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200114",
-            "mtime": 1746376037,
-            "price_rule_id": "10000014020",
-            "price": "15879800000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "19600000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 163,
-            "sold": 277,
+            "normal_price": "49900000000",
+            "stock": 180,
+            "sold": 0,
             "price_info": {
-              "final_price": "10244600000"
+              "final_price": "13800000000"
             }
           },
           {
-            "model_id": "237794756108",
-            "name": "Black,S",
-            "status": 1,
-            "tier_indices": [
-              0,
-              0
-            ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200111",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
-            "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 113,
-            "price_info": {
-              "final_price": "10254400000"
-            }
-          },
-          {
-            "model_id": "237794756102",
-            "name": "Purple,M",
+            "model_id": "258635880517",
+            "name": "BROWN DOFF,MIN ANTIRADIASI",
             "status": 1,
             "tier_indices": [
               2,
               1
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200312",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "17600000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 129,
+            "normal_price": "49900000000",
+            "stock": 40,
+            "sold": 0,
             "price_info": {
-              "final_price": "10254400000"
+              "final_price": "11800000000"
             }
           },
           {
-            "model_id": "237794756105",
-            "name": "Pink,2XL",
+            "model_id": "258635880518",
+            "name": "BLACK DOFF,MIN ANTIRADIASI",
             "status": 1,
             "tier_indices": [
-              3,
+              0,
+              1
+            ],
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "17600000000",
+            "currency": "IDR",
+            "normal_price": "49900000000",
+            "stock": 180,
+            "sold": 0,
+            "price_info": {
+              "final_price": "11800000000"
+            }
+          },
+          {
+            "model_id": "258635880523",
+            "name": "BROWN DOFF,MIN PHOTOCROMIC",
+            "status": 1,
+            "tier_indices": [
+              2,
+              3
+            ],
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "21600000000",
+            "currency": "IDR",
+            "normal_price": "49900000000",
+            "stock": 40,
+            "sold": 0,
+            "price_info": {
+              "final_price": "15600000000"
+            }
+          },
+          {
+            "model_id": "258635880528",
+            "name": "GREY DOFF,MIN PHOTOCROMIC",
+            "status": 1,
+            "tier_indices": [
+              1,
+              3
+            ],
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "21600000000",
+            "currency": "IDR",
+            "normal_price": "49900000000",
+            "stock": 80,
+            "sold": 0,
+            "price_info": {
+              "final_price": "15600000000"
+            }
+          },
+          {
+            "model_id": "258635880524",
+            "name": "BROWN DOFF,MIN BLUECROMIC",
+            "status": 1,
+            "tier_indices": [
+              2,
               4
             ],
-            "create_time": 1746376037,
-            "seller_sku": "1120200415",
-            "mtime": 1746376037,
-            "price_rule_id": "234591818629120",
-            "price": "15890000000",
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "25600000000",
             "currency": "IDR",
-            "normal_price": "29900000000",
-            "stock": 5,
-            "sold": 127,
+            "normal_price": "49900000000",
+            "stock": 40,
+            "sold": 0,
             "price_info": {
-              "final_price": "10254400000"
+              "final_price": "19600000000"
+            }
+          },
+          {
+            "model_id": "258635880526",
+            "name": "GREY DOFF,MIN ANTIRADIASI",
+            "status": 1,
+            "tier_indices": [
+              1,
+              1
+            ],
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "17600000000",
+            "currency": "IDR",
+            "normal_price": "49900000000",
+            "stock": 80,
+            "sold": 0,
+            "price_info": {
+              "final_price": "11800000000"
+            }
+          },
+          {
+            "model_id": "258635880525",
+            "name": "BLACK DOFF,MIN PHOTOCROMIC",
+            "status": 1,
+            "tier_indices": [
+              0,
+              3
+            ],
+            "create_time": 1752765989,
+            "seller_sku": "NL FA 81283",
+            "mtime": 1752765989,
+            "price_rule_id": "818222048280576",
+            "price": "21600000000",
+            "currency": "IDR",
+            "normal_price": "49900000000",
+            "stock": 180,
+            "sold": 0,
+            "price_info": {
+              "final_price": "15600000000"
             }
           }
         ],
-        "cmt_count": 1184,
-        "liked_count": 2491,
+        "cmt_count": 0,
+        "liked_count": 3,
         "rating": {
-          "rating_star": 4.94847972972973,
-          "rating_counts": [
-            0,
-            1,
-            1,
-            4,
-            46,
-            1132
-          ],
-          "rcount_with_context": 113,
-          "rcount_with_image": 81
+          "rating_star": 0,
+          "rcount_with_context": 0,
+          "rcount_with_image": 0
         },
-        "sold": 3725,
+        "sold": 0,
         "offer_count": 0,
-        "price_min": "15879800000",
-        "price_max": "15890000000",
-        "normal_price_min": "29900000000",
-        "normal_price_max": "29900000000",
-        "total_stock": "253",
+        "price_min": "9504000000",
+        "price_max": "25600000000",
+        "normal_price_min": "49900000000",
+        "normal_price_max": "49900000000",
+        "total_stock": "1215",
         "sold_out_time": "0",
-        "global_brand_id": 4036074,
+        "global_brand_id": 3910416,
         "local_brand": "",
-        "description": "[{\"i\":\"id-11134208-7rbkc-m9jok1jpuz318b,0.721\"},{\"i\":\"id-11134208-7rbk0-m9jok1jpwdnh49,0.721\"},{\"i\":\"id-11134208-7rbka-m9jok1jpxs7x0b,0.721\"},{\"i\":\"id-11134208-7rbk7-m9jok1jpz6sd73,0.721\"},{\"i\":\"id-11134208-7rbkc-m9jok1jq0lctae,0.721\"},{\"i\":\"id-11134208-7rbk3-m9jok1jq1zx91e,0.721\"},{\"i\":\"id-11134208-7rbk4-m9jok1jq3ehp42,0.721\"},{\"i\":\"id-11134208-7rbkb-m9jok1jq4t250d,0.721\"},{\"i\":\"id-11134208-7rbkd-m9jok1jq67ml42,0.721\"},{\"i\":\"id-11134208-7rbke-m9jok1jq7m7198,0.774\"},{\"i\":\"id-11134208-7rbkb-m9jok1jq90rhfa,0.803\"}]",
-        "single_price_display": "15879800000",
-        "min_price_display": "15879800000",
-        "max_price_display": "15890000000",
-        "normal_single_price_display": "29900000000",
-        "normal_min_price_display": "29900000000",
-        "normal_max_price_display": "29900000000",
+        "description": "[{\"i\":\"id-11134208-7ra0t-mcatl1pjdo5739,0.750\"},{\"i\":\"id-11134208-7ra0r-mcatl1pjf2pn7b,1.000\"},{\"i\":\"id-11134208-7ra0u-mcatl1qcztc79c,0.997\"},{\"i\":\"id-11134208-7ra0u-mcatl1qd17wnec,0.999\"},{\"i\":\"id-11134208-7ra0p-mcatl1qd2mh3d8,0.829\"},{\"i\":\"id-11134208-7ra0r-mcatl1qd411j9d,1.000\"},{\"i\":\"id-11134208-7ra0o-mcatl1qd5flz64,0.686\"},{\"t\":\"\\n\\nBertha Kacamata Adalah solusi utama untuk memakai kacamata , bagi kalian ingin tampil trendy dan kekinian, bisa sekali pilih kacamata di bertha kacamata.\\n\\nDESKRIPSI.\\nframe kacamata dengan bentuk kotak yang simple dan keren dengan bahan metal bahan yang ringan dan kokoh sangat simple dan keren cocok sekali di gunakan untuk semua jenis muka dengan desgin yang kokoh,terdapat nosepad yang berbahan silicon sehingga nyaman di gunakan dalam jangka waktu yang lama.\\n\\nBahan : TR\\nGender : Wanita+Pria\\nLensa : Lensa Blueray\\n\\nLensa Plano adalah lensa yang tidak mempunyai fungsi apapun , lensa fashion yang bisa kalian ganti dengan minus/plus/atau keluhan mata lain nya. lensa plano tidak mempunyai kelebihan yang khusus karena lensa yang terpasang adalah lensa biasa tidak ada fungsi.\\n\\nVariant Yang bisa di Pilih\\nBLUERAY NORMAL\\n✅MINUS ANTIRADIASI\\n✅MINUS BLUERAY\\n✅MINUS PHOTOCROMIC\\n✅MINUS BLUECROMIC\\n(VARIANT MIN = MINUS FREE MINUS SAMPAI 4 DAN SILINDER 2 ) MELEBIHI ITU HARUS PESAN LENSANYA . DAN KONSULTASI KE ADMIN.\\n\\nKelengkapan yang di dapat :\\n- pouch (tempat kacamata)\\n- lap pembersih lensa\\n- pembersih (jika pesan lensa )\\n\\nJam operasional :\\nSetiap hari 10.00-16.00.\\n-Pesanan melebihi jam 16.00 akan di proses dan di kirim ke esokan hari.\\n-Barang sebelum kami kirimkan sudah di cek terlebih dahulu.\\n-Barang kami packing sangat rapih dan aman.\\n-Jika barang yang di terima tidak sesuai silahkan infokan admin dan kirimkan foto atau video dengan senang hati akan kami bantu penyelesai\"}]",
+        "single_price_display": "9504000000",
+        "min_price_display": "9504000000",
+        "max_price_display": "25600000000",
+        "normal_single_price_display": "49900000000",
+        "normal_min_price_display": "49900000000",
+        "normal_max_price_display": "49900000000",
         "price_info": {
-          "min_final_price": "10244600000",
-          "max_final_price": "10254400000"
+          "min_final_price": "4752000000",
+          "max_final_price": "19600000000"
         },
         "item_card_v2": {
-          "image_overlays_hash": "id-11134258-7rbk3-maweakt6xm5nb0",
-          "chat_category_type": 3,
-          "category_id": 100637,
-          "sold_count": 3725,
-          "sold_count_text": "3RB+",
+          "image_overlays_hash": "id-11134258-7rbk4-m7axjiioq1twbf",
+          "chat_category_type": 1,
+          "category_id": 100009,
+          "sold_count": 0,
+          "sold_count_text": "",
           "display_price": {
-            "discount_price": "10244600000",
+            "discount_price": "4752000000",
             "discount": 0,
             "discount_text": {
-              "text": "-47%",
+              "text": "-81%",
               "buyer_translated_text": {
                 "translated_text": "",
                 "translated_language": "",
@@ -2891,66 +2907,16 @@
               }
             },
             "display_final_price_icon": true,
-            "origin_price": "29900000000",
+            "origin_price": "49900000000",
             "is_price_mask": false
           },
           "selling_point": {
             "optimal_marketing_tag": {
-              "tag_type": 1
+              "tag_type": 3
             },
             "cod_tag": {
               "tag_type": 5
             }
-          },
-          "review_bar": {
-            "rating_score": 4.9,
-            "review_tags": [
-              {
-                "name": "Warna bagus",
-                "count": 36,
-                "buyer_translated_name": {
-                  "translated_text": "",
-                  "translated_language": "",
-                  "source": ""
-                }
-              },
-              {
-                "name": "Ukuran pas",
-                "count": 15,
-                "buyer_translated_name": {
-                  "translated_text": "",
-                  "translated_language": "",
-                  "source": ""
-                }
-              },
-              {
-                "name": "Bagus",
-                "count": 12,
-                "buyer_translated_name": {
-                  "translated_text": "",
-                  "translated_language": "",
-                  "source": ""
-                }
-              },
-              {
-                "name": "Sangat bagus",
-                "count": 11,
-                "buyer_translated_name": {
-                  "translated_text": "",
-                  "translated_language": "",
-                  "source": ""
-                }
-              },
-              {
-                "name": "Kualitas baik",
-                "count": 6,
-                "buyer_translated_name": {
-                  "translated_text": "",
-                  "translated_language": "",
-                  "source": ""
-                }
-              }
-            ]
           },
           "ksp_list": [
             {
