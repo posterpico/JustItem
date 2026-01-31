@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "item_id": "40062000680",
+      "model": [
+        {
+          "model_id": "276002461621",
+          "name": "GS5,BLUE",
+          "status": 1,
+          "tier_indices": [
+            2,
+            3
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "GS5-BLUE",
+          "mtime": 1754634264,
+          "price_rule_id": "0",
+          "price": "15000000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "9600000000"
+          }
+        },
+        {
+          "model_id": "276002461611",
+          "name": "N68,WHITE",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "N68-WHITE",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "3680000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 198,
+          "sold": 3883,
+          "price_info": {
+            "final_price": "1104000000"
+          }
+        },
+        {
+          "model_id": "276002461614",
+          "name": "WX638,BLACK",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "WX638-BLACK",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "3680000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 198,
+          "sold": 2445,
+          "price_info": {
+            "final_price": "1104000000"
+          }
+        },
+        {
+          "model_id": "276002461616",
+          "name": "WX638,PINK",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "WX638-PINK",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "3680000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 198,
+          "sold": 6104,
+          "price_info": {
+            "final_price": "1104000000"
+          }
+        },
+        {
+          "model_id": "276002461618",
+          "name": "GS5,BLACK",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "GS5-BLACK",
+          "mtime": 1754634264,
+          "price_rule_id": "0",
+          "price": "15000000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "9600000000"
+          }
+        },
+        {
+          "model_id": "276002461615",
+          "name": "WX638,WHITE",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "WX638-WHITE",
+          "mtime": 1754634264,
+          "price_rule_id": "0",
+          "price": "15000000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "9600000000"
+          }
+        },
+        {
+          "model_id": "276002461619",
+          "name": "GS5,WHITE",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "GS5-WHITE",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "4180000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 30,
+          "sold": 667,
+          "price_info": {
+            "final_price": "1254000000"
+          }
+        },
+        {
+          "model_id": "276002461620",
+          "name": "GS5,PINK",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "GS5-PINK",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "4180000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 27,
+          "sold": 4620,
+          "price_info": {
+            "final_price": "1254000000"
+          }
+        },
+        {
+          "model_id": "276002461610",
+          "name": "N68,BLACK",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "N68-BLACK",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "3680000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 194,
+          "sold": 7180,
+          "price_info": {
+            "final_price": "1104000000"
+          }
+        },
+        {
+          "model_id": "276002461612",
+          "name": "N68,PINK",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "N68-PINK",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "3680000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 188,
+          "sold": 29670,
+          "price_info": {
+            "final_price": "1104000000"
+          }
+        },
+        {
+          "model_id": "276002461617",
+          "name": "WX638,BLUE",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "WX638-BLUE",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "3680000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 30,
+          "sold": 1365,
+          "price_info": {
+            "final_price": "1104000000"
+          }
+        },
+        {
+          "model_id": "276002461613",
+          "name": "N68,BLUE",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1754634264,
+          "seller_sku": "N68-BLUE",
+          "mtime": 1754634264,
+          "price_rule_id": "234457080807426",
+          "price": "3680000000",
+          "currency": "IDR",
+          "normal_price": "15000000000",
+          "stock": 197,
+          "sold": 5036,
+          "price_info": {
+            "final_price": "1104000000"
+          }
+        }
+      ]
+    }
+  ]
+}
