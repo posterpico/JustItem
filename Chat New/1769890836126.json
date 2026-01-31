@@ -1,0 +1,2802 @@
+{
+  "items": [
+    {
+      "item_id": "2076547306",
+      "model": [
+        {
+          "model_id": "23344497682",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1608511178,
+          "seller_sku": "",
+          "mtime": 1625074165,
+          "price_rule_id": "840495102757888",
+          "price": "22450000000",
+          "currency": "IDR",
+          "normal_price": "32500000000",
+          "stock": 46,
+          "sold": 5791,
+          "price_info": {
+            "final_price": "14950000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "8801760461",
+      "model": [
+        {
+          "model_id": "37174132479",
+          "name": "8 KAIT SILVER",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1630391747,
+          "seller_sku": "KAPSTOK_8.KAIT_(KJ-8K)",
+          "mtime": 1725781737,
+          "price_rule_id": "0",
+          "price": "1242800000",
+          "currency": "IDR",
+          "normal_price": "1242800000",
+          "stock": 0,
+          "sold": 4725,
+          "price_info": {
+            "final_price": "242800000"
+          }
+        },
+        {
+          "model_id": "125296003748",
+          "name": "6 KAIT SILVER",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1650096883,
+          "seller_sku": "KAPSTOK_6.KAIT_(KJ-6K)",
+          "mtime": 1725781737,
+          "price_rule_id": "227576727748608",
+          "price": "949900000",
+          "currency": "IDR",
+          "normal_price": "999900000",
+          "stock": 30,
+          "sold": 1778,
+          "price_info": {
+            "final_price": "949900000"
+          }
+        },
+        {
+          "model_id": "138040088002",
+          "name": "7 KAIT ROSEGOLD",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1725781737,
+          "seller_sku": "KAPSTOK_ROSE.GOLD.7KAIT_JUMBO(KJ-7T)",
+          "mtime": 1725781737,
+          "price_rule_id": "0",
+          "price": "1253700000",
+          "currency": "IDR",
+          "normal_price": "1253700000",
+          "stock": 0,
+          "sold": 365,
+          "price_info": {
+            "final_price": "253700000"
+          }
+        },
+        {
+          "model_id": "23042505477",
+          "name": "7 KAIT SILVER",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1607014299,
+          "seller_sku": "KAPSTOK_7.KAIT_(KJ-7K)",
+          "mtime": 1725781737,
+          "price_rule_id": "0",
+          "price": "1130300000",
+          "currency": "IDR",
+          "normal_price": "1130300000",
+          "stock": 297,
+          "sold": 6174,
+          "price_info": {
+            "final_price": "130300000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25487093436",
+      "model": [
+        {
+          "model_id": "139419887379",
+          "name": "Olive",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1754972512,
+          "seller_sku": "920002396002",
+          "mtime": 1754972512,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 168,
+          "price_info": {
+            "final_price": "43912000000"
+          }
+        },
+        {
+          "model_id": "139419887380",
+          "name": "Navy",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1754972512,
+          "seller_sku": "920002396003",
+          "mtime": 1754972512,
+          "price_rule_id": "843441928455168",
+          "price": "37390000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 2,
+          "sold": 191,
+          "price_info": {
+            "final_price": "32390000000"
+          }
+        },
+        {
+          "model_id": "139419887378",
+          "name": "Hitam",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1754972512,
+          "seller_sku": "920002396001",
+          "mtime": 1754972512,
+          "price_rule_id": "831824251633664",
+          "price": "44910000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 560,
+          "sold": 771,
+          "price_info": {
+            "final_price": "39520800000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28909288923",
+      "model": [
+        {
+          "model_id": "241474604527",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1724813918,
+          "seller_sku": "",
+          "mtime": 1724813918,
+          "price_rule_id": "831824251633664",
+          "price": "62910000000",
+          "currency": "IDR",
+          "normal_price": "69900000000",
+          "stock": 188,
+          "sold": 1120,
+          "price_info": {
+            "final_price": "55360800000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "16434296188",
+      "model": [
+        {
+          "model_id": "97278467662",
+          "name": "SAHARA BLACK,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1648450172,
+          "seller_sku": "SaharaBlack-S",
+          "mtime": 1665321162,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 55,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "97278467663",
+          "name": "SAHARA BLACK,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1648450172,
+          "seller_sku": "SaharaBlack-M",
+          "mtime": 1665321162,
+          "price_rule_id": "820949310555136",
+          "price": "14950000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 86,
+          "price_info": {
+            "final_price": "9950000000"
+          }
+        },
+        {
+          "model_id": "97278467665",
+          "name": "SAHARA BLACK,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1648450172,
+          "seller_sku": "SaharaBlack-XL",
+          "mtime": 1665321162,
+          "price_rule_id": "820949310555136",
+          "price": "14950000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 18,
+          "price_info": {
+            "final_price": "9950000000"
+          }
+        },
+        {
+          "model_id": "195816155967",
+          "name": "COTTON BLACK,L",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1740402569,
+          "seller_sku": "CottonBlack-L",
+          "mtime": 1740402569,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "195816155969",
+          "name": "COTTON BLACK,XXL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1740402569,
+          "seller_sku": "CottonBlack-XXL",
+          "mtime": 1740402569,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "97278467664",
+          "name": "SAHARA BLACK,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1648450172,
+          "seller_sku": "SaharaBlack-L",
+          "mtime": 1665321162,
+          "price_rule_id": "827276745310208",
+          "price": "10900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 5,
+          "sold": 91,
+          "price_info": {
+            "final_price": "5900000000"
+          }
+        },
+        {
+          "model_id": "195816155965",
+          "name": "COTTON BLACK,S",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1740402569,
+          "seller_sku": "CottonBlack-S",
+          "mtime": 1740402569,
+          "price_rule_id": "827276745310208",
+          "price": "14202500000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 5,
+          "sold": 5,
+          "price_info": {
+            "final_price": "9202500000"
+          }
+        },
+        {
+          "model_id": "97278467666",
+          "name": "SAHARA BLACK,XXL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1648450172,
+          "seller_sku": "SaharaBlack-XXL",
+          "mtime": 1665321162,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 27,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        },
+        {
+          "model_id": "195816155966",
+          "name": "COTTON BLACK,M",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1740402569,
+          "seller_sku": "CottonBlack-M",
+          "mtime": 1740402569,
+          "price_rule_id": "820949310555136",
+          "price": "14950000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 13,
+          "price_info": {
+            "final_price": "9950000000"
+          }
+        },
+        {
+          "model_id": "195816155968",
+          "name": "COTTON BLACK,XL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1740402569,
+          "seller_sku": "CottonBlack-XL",
+          "mtime": 1740402569,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "23920000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "6668991292",
+      "model": [
+        {
+          "model_id": "166125267124",
+          "name": "Green,XL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1696054689,
+          "seller_sku": "MarkGreen-XL",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 92,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "166125267121",
+          "name": "Brown,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1696054689,
+          "seller_sku": "MarkBrown-XL",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 1140,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "128096386129",
+          "name": "Almond,S",
+          "status": 1,
+          "tier_indices": [
+            5,
+            0
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkAlmond-S",
+          "mtime": 1730434422,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "37757556805",
+          "name": "Green,S",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkGreen-S",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 57,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "128096386124",
+          "name": "Khaki,S",
+          "status": 1,
+          "tier_indices": [
+            4,
+            0
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkKhaki-S",
+          "mtime": 1730193669,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "128096386126",
+          "name": "Khaki,L",
+          "status": 1,
+          "tier_indices": [
+            4,
+            2
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkKhaki-L",
+          "mtime": 1730193669,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 15,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "128096386127",
+          "name": "Khaki,XL",
+          "status": 1,
+          "tier_indices": [
+            4,
+            3
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkKhaki-XL",
+          "mtime": 1730193669,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 22,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350775",
+          "name": "Green,XXL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MarkGreen-XXL",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350784",
+          "name": "Mason Grey,M",
+          "status": 1,
+          "tier_indices": [
+            6,
+            1
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonGrey-M",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 20,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205507811924",
+          "name": "Almond,L",
+          "status": 1,
+          "tier_indices": [
+            5,
+            2
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkAlmond-L",
+          "mtime": 1730434422,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 17,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "37757556803",
+          "name": "Maroon,L",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkMaroon-L",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 94,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350777",
+          "name": "Navy White,XXL",
+          "status": 1,
+          "tier_indices": [
+            3,
+            4
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MarkNavy-XXL",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816753",
+          "name": "Green,L",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkGreen-L",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 132,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350778",
+          "name": "Mason Navy,S",
+          "status": 1,
+          "tier_indices": [
+            7,
+            0
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonNavy-S",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350774",
+          "name": "Brown,XXL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MarkBrown-XXL",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816759",
+          "name": "Brown,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkBrown-M",
+          "mtime": 1696054689,
+          "price_rule_id": "827276745310208",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 7,
+          "sold": 1003,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        },
+        {
+          "model_id": "47756816756",
+          "name": "Maroon,S",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkMaroon-S",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 32,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205507811925",
+          "name": "Almond,XL",
+          "status": 1,
+          "tier_indices": [
+            5,
+            3
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkAlmond-XL",
+          "mtime": 1730434422,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 14,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "128096386128",
+          "name": "Khaki,XXL",
+          "status": 1,
+          "tier_indices": [
+            4,
+            4
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkKhaki-XXL",
+          "mtime": 1730193669,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350785",
+          "name": "Mason Grey,L",
+          "status": 1,
+          "tier_indices": [
+            6,
+            2
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonGrey-L",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 31,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350782",
+          "name": "Mason Navy,XXL",
+          "status": 1,
+          "tier_indices": [
+            7,
+            4
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonNavy-XXL",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 9,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205507811926",
+          "name": "Almond,XXL",
+          "status": 1,
+          "tier_indices": [
+            5,
+            4
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkAlmond-XXL",
+          "mtime": 1730434422,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816760",
+          "name": "Navy White,L",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkNavy-L",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 256,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816758",
+          "name": "Brown,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkBrown-S",
+          "mtime": 1696054689,
+          "price_rule_id": "827276745310208",
+          "price": "6900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 8,
+          "sold": 414,
+          "price_info": {
+            "final_price": "3450000000"
+          }
+        },
+        {
+          "model_id": "166125267119",
+          "name": "Navy White,XL",
+          "status": 1,
+          "tier_indices": [
+            3,
+            3
+          ],
+          "create_time": 1696054689,
+          "seller_sku": "MarkNavy-XL",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 192,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816755",
+          "name": "Green,M",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkGreen-M",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 98,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350780",
+          "name": "Mason Navy,L",
+          "status": 1,
+          "tier_indices": [
+            7,
+            2
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonNavy-L",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 17,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350779",
+          "name": "Mason Navy,M",
+          "status": 1,
+          "tier_indices": [
+            7,
+            1
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonNavy-M",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 10,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "128096386125",
+          "name": "Khaki,M",
+          "status": 1,
+          "tier_indices": [
+            4,
+            1
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkKhaki-M",
+          "mtime": 1730193669,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 14,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350776",
+          "name": "Maroon,XXL",
+          "status": 1,
+          "tier_indices": [
+            2,
+            4
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MarkMaroon-XXL",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350787",
+          "name": "Mason Grey,XXL",
+          "status": 1,
+          "tier_indices": [
+            6,
+            4
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonGrey-XXL",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 14,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816754",
+          "name": "Brown,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkBrown-L",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 1390,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816763",
+          "name": "Navy White,S",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkNavy-S",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 68,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350783",
+          "name": "Mason Grey,S",
+          "status": 1,
+          "tier_indices": [
+            6,
+            0
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonGrey-S",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816757",
+          "name": "Maroon,M",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkMaroon-M",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 79,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "47756816764",
+          "name": "Navy White,M",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1636360412,
+          "seller_sku": "MarkNavy-M",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 219,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350786",
+          "name": "Mason Grey,XL",
+          "status": 1,
+          "tier_indices": [
+            6,
+            3
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonGrey-XL",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 20,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205391350781",
+          "name": "Mason Navy,XL",
+          "status": 1,
+          "tier_indices": [
+            7,
+            3
+          ],
+          "create_time": 1726295146,
+          "seller_sku": "MasonNavy-XL",
+          "mtime": 1726295146,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 15,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "166125267122",
+          "name": "Maroon,XL",
+          "status": 1,
+          "tier_indices": [
+            2,
+            3
+          ],
+          "create_time": 1696054689,
+          "seller_sku": "MarkMaroon-XL",
+          "mtime": 1696054689,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 104,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        },
+        {
+          "model_id": "205507811923",
+          "name": "Almond,M",
+          "status": 1,
+          "tier_indices": [
+            5,
+            1
+          ],
+          "create_time": 1730193669,
+          "seller_sku": "MarkAlmond-M",
+          "mtime": 1730434422,
+          "price_rule_id": "0",
+          "price": "19900000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 0,
+          "sold": 9,
+          "price_info": {
+            "final_price": "14900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22222387894",
+      "model": [
+        {
+          "model_id": "230879972424",
+          "name": "BLACK",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1675742614,
+          "seller_sku": "SM4001.01",
+          "mtime": 1675742614,
+          "price_rule_id": "754831451537408",
+          "price": "1540000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 299,
+          "sold": 1528,
+          "price_info": {
+            "final_price": "540000000"
+          }
+        },
+        {
+          "model_id": "230879972425",
+          "name": "PINK",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1675742614,
+          "seller_sku": "SM4001.02",
+          "mtime": 1675742614,
+          "price_rule_id": "754831451537408",
+          "price": "1540000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 113,
+          "sold": 1346,
+          "price_info": {
+            "final_price": "540000000"
+          }
+        },
+        {
+          "model_id": "230879972426",
+          "name": "BLUE",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1675742614,
+          "seller_sku": "SM4001.03",
+          "mtime": 1675742614,
+          "price_rule_id": "754831451537408",
+          "price": "1540000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 345,
+          "sold": 1128,
+          "price_info": {
+            "final_price": "540000000"
+          }
+        },
+        {
+          "model_id": "230879972427",
+          "name": "GREEN",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1675742614,
+          "seller_sku": "SM4001.04",
+          "mtime": 1675742614,
+          "price_rule_id": "754831451537408",
+          "price": "1540000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 198,
+          "sold": 634,
+          "price_info": {
+            "final_price": "540000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "19171244736",
+      "model": [
+        {
+          "model_id": "208179277355",
+          "name": "36",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1737690730,
+          "seller_sku": "BROF0476B.36",
+          "mtime": 1737690730,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "44200000000"
+          }
+        },
+        {
+          "model_id": "193723966208",
+          "name": "40",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.40",
+          "mtime": 1673585198,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 416,
+          "price_info": {
+            "final_price": "44200000000"
+          }
+        },
+        {
+          "model_id": "193723966209",
+          "name": "41",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.41",
+          "mtime": 1673585198,
+          "price_rule_id": "227576727748608",
+          "price": "37944000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 583,
+          "price_info": {
+            "final_price": "32244000000"
+          }
+        },
+        {
+          "model_id": "231819912705",
+          "name": "37",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1689656286,
+          "seller_sku": "BROF0476B.37",
+          "mtime": 1689656286,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 10,
+          "price_info": {
+            "final_price": "44200000000"
+          }
+        },
+        {
+          "model_id": "193723966210",
+          "name": "42",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.42",
+          "mtime": 1673585198,
+          "price_rule_id": "227576727748608",
+          "price": "37944000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 589,
+          "price_info": {
+            "final_price": "32244000000"
+          }
+        },
+        {
+          "model_id": "193723966206",
+          "name": "38",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.38",
+          "mtime": 1673585198,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 30,
+          "price_info": {
+            "final_price": "44200000000"
+          }
+        },
+        {
+          "model_id": "193723966207",
+          "name": "39",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.39",
+          "mtime": 1673585198,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 181,
+          "price_info": {
+            "final_price": "44200000000"
+          }
+        },
+        {
+          "model_id": "193723966205",
+          "name": "44",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.44",
+          "mtime": 1673585198,
+          "price_rule_id": "835469118586880",
+          "price": "37944000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 54,
+          "sold": 211,
+          "price_info": {
+            "final_price": "32244000000"
+          }
+        },
+        {
+          "model_id": "193723966212",
+          "name": "45",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.45",
+          "mtime": 1673585198,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 54,
+          "price_info": {
+            "final_price": "44200000000"
+          }
+        },
+        {
+          "model_id": "193723966213",
+          "name": "46",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.46",
+          "mtime": 1673585198,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "44200000000"
+          }
+        },
+        {
+          "model_id": "193723966211",
+          "name": "43",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1673585198,
+          "seller_sku": "BROF0476B.43",
+          "mtime": 1673585198,
+          "price_rule_id": "227576727748608",
+          "price": "37944000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 356,
+          "price_info": {
+            "final_price": "32244000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "13647914868",
+      "model": [
+        {
+          "model_id": "132168740307",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1636558725,
+          "seller_sku": "",
+          "mtime": 1636558725,
+          "price_rule_id": "227571908493313",
+          "price": "17575000000",
+          "currency": "IDR",
+          "normal_price": "24000000000",
+          "stock": 5,
+          "sold": 4302,
+          "price_info": {
+            "final_price": "11575000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "41554103074",
+      "model": [
+        {
+          "model_id": "280348113176",
+          "name": "30",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1749619983,
+          "seller_sku": "BROF1137BI.30",
+          "mtime": 1749619983,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "24200000000"
+          }
+        },
+        {
+          "model_id": "280348113177",
+          "name": "31",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1749619983,
+          "seller_sku": "BROF1137BI.31",
+          "mtime": 1749619983,
+          "price_rule_id": "835469118586880",
+          "price": "17910000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "12210000000"
+          }
+        },
+        {
+          "model_id": "280348113178",
+          "name": "32",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1749619983,
+          "seller_sku": "BROF1137BI.32",
+          "mtime": 1749619983,
+          "price_rule_id": "835469118586880",
+          "price": "17910000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "12210000000"
+          }
+        },
+        {
+          "model_id": "280348113179",
+          "name": "33",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1749619983,
+          "seller_sku": "BROF1137BI.33",
+          "mtime": 1749619983,
+          "price_rule_id": "835469118586880",
+          "price": "17910000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 6,
+          "sold": 0,
+          "price_info": {
+            "final_price": "12210000000"
+          }
+        },
+        {
+          "model_id": "280348113180",
+          "name": "34",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1749619983,
+          "seller_sku": "BROF1137BI.34",
+          "mtime": 1749619983,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 3,
+          "price_info": {
+            "final_price": "24200000000"
+          }
+        },
+        {
+          "model_id": "280348113181",
+          "name": "35",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1749619983,
+          "seller_sku": "BROF1137BI.35",
+          "mtime": 1749619983,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "24200000000"
+          }
+        },
+        {
+          "model_id": "280348113182",
+          "name": "36",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1749619983,
+          "seller_sku": "BROF1137BI.36",
+          "mtime": 1749619983,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "24200000000"
+          }
+        },
+        {
+          "model_id": "280348113175",
+          "name": "29",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1749619983,
+          "seller_sku": "BROF1137BI.29",
+          "mtime": 1749619983,
+          "price_rule_id": "835469118586880",
+          "price": "17910000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "12210000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27586864908",
+      "model": [
+        {
+          "model_id": "186093080822",
+          "name": "42",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.42",
+          "mtime": 1747987413,
+          "price_rule_id": "835469118586880",
+          "price": "44910000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 15,
+          "sold": 137,
+          "price_info": {
+            "final_price": "39210000000"
+          }
+        },
+        {
+          "model_id": "186093080823",
+          "name": "43",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.43",
+          "mtime": 1747987413,
+          "price_rule_id": "835469118586880",
+          "price": "44910000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 2,
+          "sold": 93,
+          "price_info": {
+            "final_price": "39210000000"
+          }
+        },
+        {
+          "model_id": "186093080821",
+          "name": "41",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.41",
+          "mtime": 1747987413,
+          "price_rule_id": "835469118586880",
+          "price": "44910000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 164,
+          "sold": 134,
+          "price_info": {
+            "final_price": "39210000000"
+          }
+        },
+        {
+          "model_id": "198529197702",
+          "name": "46",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.46",
+          "mtime": 1747987413,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 10,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "186093080816",
+          "name": "36",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.36",
+          "mtime": 1747987413,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 10,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "186093080820",
+          "name": "40",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.40",
+          "mtime": 1747987413,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 83,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "186093080819",
+          "name": "39",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.39",
+          "mtime": 1747987413,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 20,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "198529197701",
+          "name": "45",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.45",
+          "mtime": 1747987413,
+          "price_rule_id": "835469118586880",
+          "price": "44910000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 22,
+          "price_info": {
+            "final_price": "39210000000"
+          }
+        },
+        {
+          "model_id": "186093080824",
+          "name": "44",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.44",
+          "mtime": 1747987413,
+          "price_rule_id": "835469118586880",
+          "price": "44910000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 48,
+          "price_info": {
+            "final_price": "39210000000"
+          }
+        },
+        {
+          "model_id": "186093080817",
+          "name": "37",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.37",
+          "mtime": 1747987413,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 18,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "186093080818",
+          "name": "38",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1747987413,
+          "seller_sku": "BROF1030WB.38",
+          "mtime": 1747987413,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 19,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40601927824",
+      "model": [
+        {
+          "model_id": "280156979913",
+          "name": "36",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.36",
+          "mtime": 1747985429,
+          "price_rule_id": "827276745310208",
+          "price": "39920000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 22,
+          "price_info": {
+            "final_price": "34220000000"
+          }
+        },
+        {
+          "model_id": "280156979923",
+          "name": "46",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.46",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 15,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "280156979915",
+          "name": "38",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.38",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 32,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "280156979920",
+          "name": "43",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.43",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 135,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "280156979921",
+          "name": "44",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.44",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 80,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "280156979917",
+          "name": "40",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.40",
+          "mtime": 1747985429,
+          "price_rule_id": "835469118586880",
+          "price": "39920000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 143,
+          "price_info": {
+            "final_price": "34220000000"
+          }
+        },
+        {
+          "model_id": "280156979914",
+          "name": "37",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.37",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 28,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "280156979922",
+          "name": "45",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.45",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 25,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "280156979918",
+          "name": "41",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.41",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 196,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "280156979919",
+          "name": "42",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.42",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 196,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        },
+        {
+          "model_id": "280156979916",
+          "name": "39",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1747985429,
+          "seller_sku": "BROF1030TLC.39",
+          "mtime": 1747985429,
+          "price_rule_id": "0",
+          "price": "65900000000",
+          "currency": "IDR",
+          "normal_price": "65900000000",
+          "stock": 0,
+          "sold": 67,
+          "price_info": {
+            "final_price": "60200000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26516168377",
+      "model": [
+        {
+          "model_id": "176771217154",
+          "name": "29",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1730386845,
+          "seller_sku": "BROF1121WG-WS.29",
+          "mtime": 1730386845,
+          "price_rule_id": "0",
+          "price": "45500000000",
+          "currency": "IDR",
+          "normal_price": "45500000000",
+          "stock": 0,
+          "sold": 16,
+          "price_info": {
+            "final_price": "39800000000"
+          }
+        },
+        {
+          "model_id": "176771217155",
+          "name": "30",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1730386845,
+          "seller_sku": "BROF1121WG-WS.30",
+          "mtime": 1730386845,
+          "price_rule_id": "0",
+          "price": "45500000000",
+          "currency": "IDR",
+          "normal_price": "45500000000",
+          "stock": 0,
+          "sold": 30,
+          "price_info": {
+            "final_price": "39800000000"
+          }
+        },
+        {
+          "model_id": "176771217156",
+          "name": "31",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1730386845,
+          "seller_sku": "BROF1121WG-WS.31",
+          "mtime": 1730386845,
+          "price_rule_id": "0",
+          "price": "45500000000",
+          "currency": "IDR",
+          "normal_price": "45500000000",
+          "stock": 0,
+          "sold": 27,
+          "price_info": {
+            "final_price": "39800000000"
+          }
+        },
+        {
+          "model_id": "176771217157",
+          "name": "32",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1730386845,
+          "seller_sku": "BROF1121WG-WS.32",
+          "mtime": 1730386845,
+          "price_rule_id": "835469118586880",
+          "price": "31500000000",
+          "currency": "IDR",
+          "normal_price": "45500000000",
+          "stock": 0,
+          "sold": 50,
+          "price_info": {
+            "final_price": "25800000000"
+          }
+        },
+        {
+          "model_id": "176771217158",
+          "name": "33",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1730386845,
+          "seller_sku": "BROF1121WG-WS.33",
+          "mtime": 1730386845,
+          "price_rule_id": "0",
+          "price": "45500000000",
+          "currency": "IDR",
+          "normal_price": "45500000000",
+          "stock": 0,
+          "sold": 47,
+          "price_info": {
+            "final_price": "39800000000"
+          }
+        },
+        {
+          "model_id": "176771217153",
+          "name": "28",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1730386845,
+          "seller_sku": "BROF1121WG-WS.28",
+          "mtime": 1730386845,
+          "price_rule_id": "0",
+          "price": "45500000000",
+          "currency": "IDR",
+          "normal_price": "45500000000",
+          "stock": 0,
+          "sold": 18,
+          "price_info": {
+            "final_price": "39800000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27986370756",
+      "model": [
+        {
+          "model_id": "285000962317",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1746603350,
+          "seller_sku": "",
+          "mtime": 1746603350,
+          "price_rule_id": "820988275638272",
+          "price": "12150000000",
+          "currency": "IDR",
+          "normal_price": "20250000000",
+          "stock": 37,
+          "sold": 47,
+          "price_info": {
+            "final_price": "7150000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28315324812",
+      "model": [
+        {
+          "model_id": "205492909591",
+          "name": "Abu-abu,L",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1729750925,
+          "seller_sku": "HD.PUFFER.GREY.L",
+          "mtime": 1729750925,
+          "price_rule_id": "0",
+          "price": "5000000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 0,
+          "sold": 97,
+          "price_info": {
+            "final_price": "3600000000"
+          }
+        },
+        {
+          "model_id": "205492909592",
+          "name": "Abu-abu,M",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1729750925,
+          "seller_sku": "HD.PUFFER.GREY.M",
+          "mtime": 1729750925,
+          "price_rule_id": "0",
+          "price": "5000000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 0,
+          "sold": 69,
+          "price_info": {
+            "final_price": "3600000000"
+          }
+        },
+        {
+          "model_id": "205492909593",
+          "name": "Abu-abu,S",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1729750925,
+          "seller_sku": "HD.PUFFER.GREY.S",
+          "mtime": 1729750925,
+          "price_rule_id": "234390248767490",
+          "price": "3385300000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 5,
+          "sold": 46,
+          "price_info": {
+            "final_price": "2385300000"
+          }
+        },
+        {
+          "model_id": "205492909594",
+          "name": "Abu-abu,XL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1729750925,
+          "seller_sku": "HD.PUFFER.GREY.XL",
+          "mtime": 1729750925,
+          "price_rule_id": "0",
+          "price": "5000000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 0,
+          "sold": 74,
+          "price_info": {
+            "final_price": "3600000000"
+          }
+        },
+        {
+          "model_id": "205492909587",
+          "name": "Hitam,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1729750925,
+          "seller_sku": "HD.PUFFER.BLACK.L",
+          "mtime": 1729750925,
+          "price_rule_id": "0",
+          "price": "5000000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 0,
+          "sold": 70,
+          "price_info": {
+            "final_price": "3600000000"
+          }
+        },
+        {
+          "model_id": "205492909588",
+          "name": "Hitam,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1729750925,
+          "seller_sku": "HD.PUFFER.BLACK.M",
+          "mtime": 1729750925,
+          "price_rule_id": "821789756802048",
+          "price": "3590000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 0,
+          "sold": 54,
+          "price_info": {
+            "final_price": "2590000000"
+          }
+        },
+        {
+          "model_id": "205492909589",
+          "name": "Hitam,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1729750925,
+          "seller_sku": "HD.PUFFER.BLACK.S",
+          "mtime": 1729750925,
+          "price_rule_id": "234390248767490",
+          "price": "3385300000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 5,
+          "sold": 38,
+          "price_info": {
+            "final_price": "2385300000"
+          }
+        },
+        {
+          "model_id": "205492909590",
+          "name": "Hitam,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1729750925,
+          "seller_sku": "HD.PUFFER.BLACK.XL",
+          "mtime": 1729750925,
+          "price_rule_id": "0",
+          "price": "5000000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 0,
+          "sold": 70,
+          "price_info": {
+            "final_price": "3600000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "53552104480",
+      "model": [
+        {
+          "model_id": "315206816359",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1764130271,
+          "seller_sku": "CL9013-WHITE-S",
+          "mtime": 1764130271,
+          "price_rule_id": "234359663902720",
+          "price": "18795000000",
+          "currency": "IDR",
+          "normal_price": "55990000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "13795000000"
+          }
+        },
+        {
+          "model_id": "315206816360",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1764130271,
+          "seller_sku": "CL9013-WHITE-M",
+          "mtime": 1764130271,
+          "price_rule_id": "234359663902720",
+          "price": "18795000000",
+          "currency": "IDR",
+          "normal_price": "55990000000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "13795000000"
+          }
+        },
+        {
+          "model_id": "315206816361",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1764130271,
+          "seller_sku": "CL9013-WHITE-L",
+          "mtime": 1764130271,
+          "price_rule_id": "234359663902720",
+          "price": "18795000000",
+          "currency": "IDR",
+          "normal_price": "55990000000",
+          "stock": 5,
+          "sold": 2,
+          "price_info": {
+            "final_price": "13795000000"
+          }
+        },
+        {
+          "model_id": "315206816362",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1764130271,
+          "seller_sku": "CL9013-WHITE-XL",
+          "mtime": 1764130271,
+          "price_rule_id": "234359663902720",
+          "price": "18795000000",
+          "currency": "IDR",
+          "normal_price": "55990000000",
+          "stock": 5,
+          "sold": 3,
+          "price_info": {
+            "final_price": "13795000000"
+          }
+        },
+        {
+          "model_id": "315206816363",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1764130271,
+          "seller_sku": "CL9013-WHITE-XXL",
+          "mtime": 1764130271,
+          "price_rule_id": "234359663902720",
+          "price": "18795000000",
+          "currency": "IDR",
+          "normal_price": "55990000000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "13795000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29937517154",
+      "model": [
+        {
+          "model_id": "198554283675",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1749710623,
+          "seller_sku": "",
+          "mtime": 1749710623,
+          "price_rule_id": "233324778106883",
+          "price": "12018500000",
+          "currency": "IDR",
+          "normal_price": "18490000000",
+          "stock": 5,
+          "sold": 38,
+          "price_info": {
+            "final_price": "6177200000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "13741373173",
+      "model": [
+        {
+          "model_id": "67698262643",
+          "name": "B-Pisau Set",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1635826091,
+          "seller_sku": "B-Pisau Set\n",
+          "mtime": 1717933011,
+          "price_rule_id": "234368111230976",
+          "price": "1880000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 100,
+          "sold": 163024,
+          "price_info": {
+            "final_price": "880000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22862960047",
+      "model": [
+        {
+          "model_id": "119334958227",
+          "name": "B-Pisau Set",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1732847725,
+          "seller_sku": "B-Pisau Set",
+          "mtime": 1732847725,
+          "price_rule_id": "820913407328256",
+          "price": "2150000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 3912,
+          "sold": 140,
+          "price_info": {
+            "final_price": "1150000000"
+          }
+        },
+        {
+          "model_id": "217217487306",
+          "name": "B-Pisau KARTUN",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1702709439,
+          "seller_sku": "B-Pisau KARTUN",
+          "mtime": 1703678290,
+          "price_rule_id": "234368111230976",
+          "price": "2230000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 99,
+          "sold": 278,
+          "price_info": {
+            "final_price": "1230000000"
+          }
+        },
+        {
+          "model_id": "217217487307",
+          "name": "B-Pisau KARTUN Merah",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1702709439,
+          "seller_sku": "B-Pisau KARTUN Merah",
+          "mtime": 1703678290,
+          "price_rule_id": "820913407328256",
+          "price": "2240000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 0,
+          "sold": 936,
+          "price_info": {
+            "final_price": "1240000000"
+          }
+        },
+        {
+          "model_id": "217217487308",
+          "name": "B-Pisau KARTUN Hitam",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1702709439,
+          "seller_sku": "B-Pisau KARTUN Hitam",
+          "mtime": 1703678290,
+          "price_rule_id": "820913407328256",
+          "price": "2240000000",
+          "currency": "IDR",
+          "normal_price": "9900000000",
+          "stock": 0,
+          "sold": 267,
+          "price_info": {
+            "final_price": "1240000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25688496327",
+      "model": [
+        {
+          "model_id": "445341415368",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1766560823,
+          "seller_sku": "",
+          "mtime": 1766560823,
+          "price_rule_id": "841952103284736",
+          "price": "8000000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 169,
+          "sold": 10,
+          "price_info": {
+            "final_price": "4000000000"
+          }
+        }
+      ]
+    }
+  ]
+}
