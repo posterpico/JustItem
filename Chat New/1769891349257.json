@@ -1,0 +1,566 @@
+{
+  "items": [
+    {
+      "item_id": "51850963846",
+      "model": [
+        {
+          "id": "360087020539",
+          "name": "",
+          "price": "4700000000",
+          "normal_price": "11800000000"
+        }
+      ]
+    },
+    {
+      "item_id": "43720542506",
+      "model": [
+        {
+          "id": "261678659398",
+          "name": "",
+          "price": "5860000000",
+          "normal_price": "15000000000"
+        }
+      ]
+    },
+    {
+      "item_id": "25490222915",
+      "model": [
+        {
+          "id": "247421276480",
+          "name": "C5 Beige Brown,Normal",
+          "price": "8899900000",
+          "normal_price": "39600000000"
+        },
+        {
+          "id": "247421276481",
+          "name": "C8 Crystal Pink,Normal",
+          "price": "8899900000",
+          "normal_price": "39600000000"
+        },
+        {
+          "id": "247421276477",
+          "name": "C1 Black,Normal",
+          "price": "39600000000",
+          "normal_price": "39600000000"
+        },
+        {
+          "id": "247421276478",
+          "name": "C2 Leopard,Normal",
+          "price": "39600000000",
+          "normal_price": "39600000000"
+        },
+        {
+          "id": "247421276479",
+          "name": "C3 Black Pink,Normal",
+          "price": "8899900000",
+          "normal_price": "39600000000"
+        }
+      ]
+    },
+    {
+      "item_id": "42851514091",
+      "model": [
+        {
+          "id": "147848461604",
+          "name": "C3",
+          "price": "12900000000",
+          "normal_price": "51600000000"
+        },
+        {
+          "id": "147848461605",
+          "name": "C4",
+          "price": "12900000000",
+          "normal_price": "51600000000"
+        },
+        {
+          "id": "147848461606",
+          "name": "C5",
+          "price": "12900000000",
+          "normal_price": "51600000000"
+        },
+        {
+          "id": "147848461602",
+          "name": "C1",
+          "price": "12900000000",
+          "normal_price": "51600000000"
+        },
+        {
+          "id": "147848461603",
+          "name": "C2",
+          "price": "12900000000",
+          "normal_price": "51600000000"
+        }
+      ]
+    },
+    {
+      "item_id": "9791680155",
+      "model": [
+        {
+          "id": "95300934191",
+          "name": "HUXLEY - MAROON,14\"",
+          "price": "11489900000",
+          "normal_price": "24500000000"
+        },
+        {
+          "id": "95300934192",
+          "name": "HUXLEY - MAROON,15\"",
+          "price": "11310000000",
+          "normal_price": "24500000000"
+        },
+        {
+          "id": "95300934193",
+          "name": "HUXLEY - MISTY,15\"",
+          "price": "11310000000",
+          "normal_price": "24500000000"
+        },
+        {
+          "id": "95300934194",
+          "name": "HUXLEY - NAVY,14\"",
+          "price": "11310000000",
+          "normal_price": "24500000000"
+        },
+        {
+          "id": "95300934195",
+          "name": "HUXLEY - BLACK,14\"",
+          "price": "11310000000",
+          "normal_price": "24500000000"
+        },
+        {
+          "id": "95300934196",
+          "name": "HUXLEY - MISTY,14\"",
+          "price": "11310000000",
+          "normal_price": "24500000000"
+        },
+        {
+          "id": "95300934189",
+          "name": "HUXLEY - NAVY,15\"",
+          "price": "11310000000",
+          "normal_price": "24500000000"
+        },
+        {
+          "id": "95300934190",
+          "name": "HUXLEY - BLACK,15\"",
+          "price": "11310000000",
+          "normal_price": "24500000000"
+        }
+      ]
+    },
+    {
+      "item_id": "57804318881",
+      "model": [
+        {
+          "id": "208796921106",
+          "name": "S",
+          "price": "18500000000",
+          "normal_price": "23500000000"
+        },
+        {
+          "id": "208796921107",
+          "name": "M",
+          "price": "18500000000",
+          "normal_price": "23500000000"
+        },
+        {
+          "id": "360405365617",
+          "name": "L",
+          "price": "18500000000",
+          "normal_price": "23500000000"
+        },
+        {
+          "id": "360405365618",
+          "name": "XL",
+          "price": "18500000000",
+          "normal_price": "23500000000"
+        },
+        {
+          "id": "360405365619",
+          "name": "XXL",
+          "price": "18500000000",
+          "normal_price": "23500000000"
+        }
+      ]
+    },
+    {
+      "item_id": "6518745825",
+      "model": [
+        {
+          "id": "71563420396",
+          "name": "",
+          "price": "5697000000",
+          "normal_price": "6330000000"
+        }
+      ]
+    },
+    {
+      "item_id": "7241492325",
+      "model": [
+        {
+          "id": "119517790879",
+          "name": "Brown",
+          "price": "24950000000",
+          "normal_price": "49900000000"
+        },
+        {
+          "id": "119517790876",
+          "name": "Black",
+          "price": "24950000000",
+          "normal_price": "49900000000"
+        },
+        {
+          "id": "119517790877",
+          "name": "Softpink",
+          "price": "24950000000",
+          "normal_price": "49900000000"
+        },
+        {
+          "id": "119517790878",
+          "name": "Mint",
+          "price": "24950000000",
+          "normal_price": "49900000000"
+        }
+      ]
+    },
+    {
+      "item_id": "7111271955",
+      "model": [
+        {
+          "id": "11658797651",
+          "name": "60 ml",
+          "price": "15500000000",
+          "normal_price": "15500000000"
+        },
+        {
+          "id": "11658797652",
+          "name": "100 ml",
+          "price": "21560000000",
+          "normal_price": "22000000000"
+        },
+        {
+          "id": "11658797650",
+          "name": "35 ml",
+          "price": "11760000000",
+          "normal_price": "12000000000"
+        }
+      ]
+    },
+    {
+      "item_id": "1578059186",
+      "model": [
+        {
+          "id": "237141651625",
+          "name": "",
+          "price": "5000000000",
+          "normal_price": "12000000000"
+        }
+      ]
+    },
+    {
+      "item_id": "52802655771",
+      "model": [
+        {
+          "id": "310256075534",
+          "name": "AI-05DeepConnection",
+          "price": "24400000000",
+          "normal_price": "64600000000"
+        },
+        {
+          "id": "310256075530",
+          "name": "[PO]01 First Light",
+          "price": "24400000000",
+          "normal_price": "64600000000"
+        },
+        {
+          "id": "310256075531",
+          "name": "[PO]02 Warm Embrace",
+          "price": "24400000000",
+          "normal_price": "64600000000"
+        },
+        {
+          "id": "310256075532",
+          "name": "[PO]03TrueReflection",
+          "price": "24400000000",
+          "normal_price": "64600000000"
+        },
+        {
+          "id": "310256075533",
+          "name": "AI-04 Golden Chapter",
+          "price": "24400000000",
+          "normal_price": "64600000000"
+        }
+      ]
+    },
+    {
+      "item_id": "43773173535",
+      "model": [
+        {
+          "id": "266883940411",
+          "name": "",
+          "price": "26400000000",
+          "normal_price": "41700000000"
+        }
+      ]
+    },
+    {
+      "item_id": "43972756255",
+      "model": [
+        {
+          "id": "196298313113",
+          "name": "",
+          "price": "26400000000",
+          "normal_price": "44700000000"
+        }
+      ]
+    },
+    {
+      "item_id": "57452641987",
+      "model": [
+        {
+          "id": "355255512325",
+          "name": "[PO]01 First Light",
+          "price": "24400000000",
+          "normal_price": "67600000000"
+        },
+        {
+          "id": "355255512326",
+          "name": "[PO]02 Warm Embrace",
+          "price": "24400000000",
+          "normal_price": "67600000000"
+        },
+        {
+          "id": "355255512327",
+          "name": "[PO]03TrueReflection",
+          "price": "24400000000",
+          "normal_price": "67600000000"
+        },
+        {
+          "id": "355255512328",
+          "name": "AI-04 Golden Chapter",
+          "price": "24400000000",
+          "normal_price": "67600000000"
+        },
+        {
+          "id": "355255512329",
+          "name": "AI-05DeepConnection",
+          "price": "24400000000",
+          "normal_price": "67600000000"
+        }
+      ]
+    },
+    {
+      "item_id": "56752655775",
+      "model": [
+        {
+          "id": "350255473255",
+          "name": "[PO]03TrueReflection",
+          "price": "32900000000",
+          "normal_price": "83500000000"
+        },
+        {
+          "id": "350255473256",
+          "name": "AI-04 Golden Chapter",
+          "price": "32900000000",
+          "normal_price": "83500000000"
+        },
+        {
+          "id": "350255473257",
+          "name": "AI-05DeepConnection",
+          "price": "32900000000",
+          "normal_price": "83500000000"
+        },
+        {
+          "id": "350255473253",
+          "name": "[PO] 01 First Light",
+          "price": "32900000000",
+          "normal_price": "83500000000"
+        },
+        {
+          "id": "350255473254",
+          "name": "[PO] 02 WarmEmbrace",
+          "price": "32900000000",
+          "normal_price": "83500000000"
+        }
+      ]
+    },
+    {
+      "item_id": "42277027590",
+      "model": [
+        {
+          "id": "330255421278",
+          "name": "AI-05DeepConnection",
+          "price": "23899900000",
+          "normal_price": "70600000000"
+        },
+        {
+          "id": "330255421274",
+          "name": "[PO] 01 First Light",
+          "price": "23899900000",
+          "normal_price": "70600000000"
+        },
+        {
+          "id": "330255421275",
+          "name": "[PO] 02 Warm Embrace",
+          "price": "23899900000",
+          "normal_price": "70600000000"
+        },
+        {
+          "id": "330255421276",
+          "name": "[PO]03TrueReflection",
+          "price": "23899900000",
+          "normal_price": "70600000000"
+        },
+        {
+          "id": "330255421277",
+          "name": "AI-04 Golden Chapter",
+          "price": "23899900000",
+          "normal_price": "70600000000"
+        }
+      ]
+    },
+    {
+      "item_id": "43773173420",
+      "model": [
+        {
+          "id": "281883714104",
+          "name": "",
+          "price": "24400000000",
+          "normal_price": "48700000000"
+        }
+      ]
+    },
+    {
+      "item_id": "25360685512",
+      "model": [
+        {
+          "id": "232492357881",
+          "name": "Vitamin C",
+          "price": "15974100000",
+          "normal_price": "26500000000"
+        },
+        {
+          "id": "49749878105",
+          "name": "5.5SALE BUY 1 GET 3",
+          "price": "43900000000",
+          "normal_price": "43900000000"
+        },
+        {
+          "id": "109206232766",
+          "name": "CLEARANCE ED 12/2025",
+          "price": "48000000000",
+          "normal_price": "48000000000"
+        }
+      ]
+    },
+    {
+      "item_id": "40355239404",
+      "model": [
+        {
+          "id": "297177198391",
+          "name": "HOCL SPRAY 100ML",
+          "price": "8800000000",
+          "normal_price": "13500000000"
+        },
+        {
+          "id": "335464723580",
+          "name": "2pcs HOCL+Eye Cream",
+          "price": "45900000000",
+          "normal_price": "45900000000"
+        },
+        {
+          "id": "405451431618",
+          "name": "SPRAY & REFILL",
+          "price": "25875000000",
+          "normal_price": "34500000000"
+        },
+        {
+          "id": "297177198392",
+          "name": "HOCL REFILL 300ML",
+          "price": "16999900000",
+          "normal_price": "21000000000"
+        }
+      ]
+    },
+    {
+      "item_id": "25305538087",
+      "model": [
+        {
+          "id": "109075537613",
+          "name": "Milea-Hi",
+          "price": "750000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537607",
+          "name": "Milea-Balon",
+          "price": "750000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537609",
+          "name": "Milea-Beruang",
+          "price": "750000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537611",
+          "name": "Milea-HayGirl",
+          "price": "735000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537612",
+          "name": "Milea-Lucky",
+          "price": "740000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537616",
+          "name": "Milea-Chose",
+          "price": "740000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537608",
+          "name": "Milea-Planet",
+          "price": "750000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537615",
+          "name": "Milea-Sweet",
+          "price": "617600000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537606",
+          "name": "Milea-Astro",
+          "price": "740000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537610",
+          "name": "Milea-Anjing",
+          "price": "740000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537617",
+          "name": "Milea-Cook",
+          "price": "735000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537614",
+          "name": "Milea-Wanita",
+          "price": "740000000",
+          "normal_price": "1500000000"
+        },
+        {
+          "id": "109075537605",
+          "name": "Milea-Circus",
+          "price": "750000000",
+          "normal_price": "1500000000"
+        }
+      ]
+    }
+  ]
+}
