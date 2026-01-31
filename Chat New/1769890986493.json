@@ -1,0 +1,4695 @@
+{
+  "items": [
+    {
+      "item_id": "8437968202",
+      "model": [
+        {
+          "model_id": "203994429920",
+          "name": "Putih",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1678162822,
+          "seller_sku": "3112770001-SFT23-W",
+          "mtime": 1678162822,
+          "price_rule_id": "826697587425280",
+          "price": "225500000",
+          "currency": "IDR",
+          "normal_price": "550000000",
+          "stock": 10,
+          "sold": 196,
+          "price_info": {
+            "final_price": "225500000"
+          }
+        },
+        {
+          "model_id": "74667628967",
+          "name": "Kuning",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1617769690,
+          "seller_sku": "3112770001-SFT23-K",
+          "mtime": 1677905143,
+          "price_rule_id": "826697587425280",
+          "price": "214500000",
+          "currency": "IDR",
+          "normal_price": "550000000",
+          "stock": 65,
+          "sold": 448,
+          "price_info": {
+            "final_price": "214500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "15950975429",
+      "model": [
+        {
+          "model_id": "221958238980",
+          "name": "CPENGHUBUNG-160",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1693023684,
+          "seller_sku": "CPENGHUBUNG-160",
+          "mtime": 1693023684,
+          "price_rule_id": "821040100474880",
+          "price": "5300000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 4727,
+          "sold": 250,
+          "price_info": {
+            "final_price": "2650000000"
+          }
+        },
+        {
+          "model_id": "231733143176",
+          "name": "BEDRAIL-C200 CM-BIRU",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1687443154,
+          "seller_sku": "C200-CM-BIRU",
+          "mtime": 1691221901,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4852,
+          "sold": 690,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "250828413602",
+          "name": "BEDRAIL-COW-180-PINK",
+          "status": 1,
+          "tier_indices": [
+            16
+          ],
+          "create_time": 1715759894,
+          "seller_sku": "C180CM-PINK-COW",
+          "mtime": 1715864800,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 0,
+          "sold": 219,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "225338911446",
+          "name": "BEDRAIL-C90 CM-ABU",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1687444002,
+          "seller_sku": "C90-CM-ABU",
+          "mtime": 1691221901,
+          "price_rule_id": "821040100474880",
+          "price": "21450000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4892,
+          "sold": 205,
+          "price_info": {
+            "final_price": "16450000000"
+          }
+        },
+        {
+          "model_id": "250828413603",
+          "name": "BEDRAIL-COW-160-PINK",
+          "status": 1,
+          "tier_indices": [
+            17
+          ],
+          "create_time": 1715759894,
+          "seller_sku": "C160CM-PINK-COW",
+          "mtime": 1715864800,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4880,
+          "sold": 160,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "231733143175",
+          "name": "BEDRAIL-C200 CM-ABU",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1687443154,
+          "seller_sku": "C200-CM-ABU",
+          "mtime": 1691221901,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4518,
+          "sold": 3744,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "250828413600",
+          "name": "BEDRAIL-COW-180-BIRU",
+          "status": 1,
+          "tier_indices": [
+            14
+          ],
+          "create_time": 1715759894,
+          "seller_sku": "C180CM-BIRU-COW",
+          "mtime": 1715864800,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4876,
+          "sold": 205,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "250828413601",
+          "name": "BEDRAIL-COW-160-BIRU",
+          "status": 1,
+          "tier_indices": [
+            15
+          ],
+          "create_time": 1715759894,
+          "seller_sku": "C160CM-BIRU-COW",
+          "mtime": 1715864800,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4893,
+          "sold": 150,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "194762092554",
+          "name": "CPENGHUBUNG-90",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1700549145,
+          "seller_sku": "CPENGHUBUNG-90",
+          "mtime": 1700549145,
+          "price_rule_id": "0",
+          "price": "8000000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 23,
+          "price_info": {
+            "final_price": "4000000000"
+          }
+        },
+        {
+          "model_id": "116834981097",
+          "name": "CPENGHUBUNG-120CM",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1654828776,
+          "seller_sku": "CPENGHUBUNG-120CM",
+          "mtime": 1695790823,
+          "price_rule_id": "821040100474880",
+          "price": "5300000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 4746,
+          "sold": 42,
+          "price_info": {
+            "final_price": "2650000000"
+          }
+        },
+        {
+          "model_id": "231733143174",
+          "name": "BEDRAIL-C200 CM-PINK",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1687443154,
+          "seller_sku": "C200-CM-PINK",
+          "mtime": 1691221901,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4854,
+          "sold": 765,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "250828413598",
+          "name": "BEDRAIL-COW-180-ABU",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1715759894,
+          "seller_sku": "C180CM-ABU-COW",
+          "mtime": 1715864800,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4643,
+          "sold": 967,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "221958238981",
+          "name": "CPENGHUBUNG-200",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1693023684,
+          "seller_sku": "CPENGHUBUNG-200",
+          "mtime": 1693023684,
+          "price_rule_id": "821040100474880",
+          "price": "5300000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 189,
+          "price_info": {
+            "final_price": "2650000000"
+          }
+        },
+        {
+          "model_id": "213764552588",
+          "name": "CPENGHUBUNG-140CM",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1675074482,
+          "seller_sku": "CPENGHUBUNG-140CM",
+          "mtime": 1695790823,
+          "price_rule_id": "0",
+          "price": "8000000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 0,
+          "sold": 13,
+          "price_info": {
+            "final_price": "4000000000"
+          }
+        },
+        {
+          "model_id": "250828413599",
+          "name": "BEDRAIL-COW-160-ABU",
+          "status": 1,
+          "tier_indices": [
+            13
+          ],
+          "create_time": 1715759894,
+          "seller_sku": "C160CM-ABU-COW",
+          "mtime": 1715864800,
+          "price_rule_id": "821040100474880",
+          "price": "21690000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4670,
+          "sold": 998,
+          "price_info": {
+            "final_price": "16690000000"
+          }
+        },
+        {
+          "model_id": "213764552589",
+          "name": "BEDRAIL-C140 CM-ABU",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1675074482,
+          "seller_sku": "C140-CM-ABU",
+          "mtime": 1695790823,
+          "price_rule_id": "0",
+          "price": "29500000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 0,
+          "sold": 39,
+          "price_info": {
+            "final_price": "24500000000"
+          }
+        },
+        {
+          "model_id": "221958238982",
+          "name": "CPENGHUBUNG-180",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1693023684,
+          "seller_sku": "CPENGHUBUNG-180",
+          "mtime": 1693023684,
+          "price_rule_id": "821040100474880",
+          "price": "5300000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 4711,
+          "sold": 261,
+          "price_info": {
+            "final_price": "2650000000"
+          }
+        },
+        {
+          "model_id": "96857310077",
+          "name": "BEDRAIL-C120 CM-ABU",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1644498086,
+          "seller_sku": "C120-CM-ABU",
+          "mtime": 1695790823,
+          "price_rule_id": "821040100474880",
+          "price": "21450000000",
+          "currency": "IDR",
+          "normal_price": "29500000000",
+          "stock": 4885,
+          "sold": 236,
+          "price_info": {
+            "final_price": "16450000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26411883329",
+      "model": [
+        {
+          "model_id": "251634436025",
+          "name": "10,5 (39-40) Coklat",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1726808347,
+          "seller_sku": "RSTR105CK",
+          "mtime": 1726808347,
+          "price_rule_id": "0",
+          "price": "2300000000",
+          "currency": "IDR",
+          "normal_price": "2300000000",
+          "stock": 36,
+          "sold": 1016,
+          "price_info": {
+            "final_price": "1300000000"
+          }
+        },
+        {
+          "model_id": "246634443933",
+          "name": "10,5 (39-40) Abu",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1726808347,
+          "seller_sku": "RSTR105AB",
+          "mtime": 1726808347,
+          "price_rule_id": "0",
+          "price": "2300000000",
+          "currency": "IDR",
+          "normal_price": "2300000000",
+          "stock": 211,
+          "sold": 2284,
+          "price_info": {
+            "final_price": "1300000000"
+          }
+        },
+        {
+          "model_id": "246634443934",
+          "name": "11 (41) Hitam",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1726808347,
+          "seller_sku": "RSTR11HT",
+          "mtime": 1726808347,
+          "price_rule_id": "0",
+          "price": "2300000000",
+          "currency": "IDR",
+          "normal_price": "2300000000",
+          "stock": 115,
+          "sold": 3045,
+          "price_info": {
+            "final_price": "1300000000"
+          }
+        },
+        {
+          "model_id": "246634443935",
+          "name": "11 (41) Coklat",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1726808347,
+          "seller_sku": "RSTR11CK",
+          "mtime": 1726808347,
+          "price_rule_id": "0",
+          "price": "2300000000",
+          "currency": "IDR",
+          "normal_price": "2300000000",
+          "stock": 214,
+          "sold": 1224,
+          "price_info": {
+            "final_price": "1300000000"
+          }
+        },
+        {
+          "model_id": "251634436023",
+          "name": "10 (37-38) Abu",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1726808347,
+          "seller_sku": "RSTR10AB",
+          "mtime": 1726808347,
+          "price_rule_id": "234413883670528",
+          "price": "1590000000",
+          "currency": "IDR",
+          "normal_price": "2300000000",
+          "stock": 10,
+          "sold": 718,
+          "price_info": {
+            "final_price": "590000000"
+          }
+        },
+        {
+          "model_id": "251634436024",
+          "name": "10 (37-38) Hitam",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1726808347,
+          "seller_sku": "RSTR10HT",
+          "mtime": 1726808347,
+          "price_rule_id": "0",
+          "price": "2300000000",
+          "currency": "IDR",
+          "normal_price": "2300000000",
+          "stock": 17,
+          "sold": 954,
+          "price_info": {
+            "final_price": "1300000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "44264088358",
+      "model": [
+        {
+          "model_id": "186214854075",
+          "name": "Hitam,M",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1764047991,
+          "price_rule_id": "227571908493313",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 18,
+          "sold": 1793,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448606",
+          "name": "Coklat,M",
+          "status": 1,
+          "tier_indices": [
+            4,
+            0
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2561,
+          "sold": 243,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448604",
+          "name": "Pink,XL",
+          "status": 1,
+          "tier_indices": [
+            3,
+            2
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1481,
+          "sold": 1219,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "186214854077",
+          "name": "Denim,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1448,
+          "sold": 1268,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "186214854073",
+          "name": "Abu,M",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1287,
+          "sold": 1423,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "186214854078",
+          "name": "Denim,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2229,
+          "sold": 563,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "186214854071",
+          "name": "Coklat,L",
+          "status": 1,
+          "tier_indices": [
+            4,
+            1
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2580,
+          "sold": 230,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "186214854072",
+          "name": "Coklat,XL",
+          "status": 1,
+          "tier_indices": [
+            4,
+            2
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2704,
+          "sold": 115,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448610",
+          "name": "Abu,XL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2378,
+          "sold": 411,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "186214854074",
+          "name": "Abu,XXL",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2631,
+          "sold": 172,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448603",
+          "name": "Pink,M",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "227571908493313",
+          "price": "7490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 20,
+          "sold": 4363,
+          "price_info": {
+            "final_price": "1797000000"
+          }
+        },
+        {
+          "model_id": "188653448608",
+          "name": "Denim,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1152,
+          "sold": 1531,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448607",
+          "name": "Coklat,XXL",
+          "status": 1,
+          "tier_indices": [
+            4,
+            3
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2712,
+          "sold": 107,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448609",
+          "name": "Abu,L",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1829,
+          "sold": 915,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "186214854076",
+          "name": "Pink,XXL",
+          "status": 1,
+          "tier_indices": [
+            3,
+            3
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2175,
+          "sold": 580,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "186214854079",
+          "name": "Denim,XXL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 2509,
+          "sold": 296,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448602",
+          "name": "Hitam,XXL",
+          "status": 1,
+          "tier_indices": [
+            2,
+            3
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1764047991,
+          "price_rule_id": "227571908493313",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 16,
+          "sold": 383,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448605",
+          "name": "Pink,L",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1756114705,
+          "price_rule_id": "843376136617984",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 434,
+          "sold": 3310,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448601",
+          "name": "Hitam,XL",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1764047991,
+          "price_rule_id": "227571908493313",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 20,
+          "sold": 672,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        },
+        {
+          "model_id": "188653448611",
+          "name": "Hitam,L",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1755675163,
+          "seller_sku": "SCUBA",
+          "mtime": 1764047991,
+          "price_rule_id": "227571908493313",
+          "price": "6490000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 17,
+          "sold": 1402,
+          "price_info": {
+            "final_price": "1497000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "18632871953",
+      "model": [
+        {
+          "model_id": "222420021672",
+          "name": "Single",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1704099861,
+          "seller_sku": "GLSB01001",
+          "mtime": 1704099861,
+          "price_rule_id": "829717108801536",
+          "price": "5044000000",
+          "currency": "IDR",
+          "normal_price": "7400000000",
+          "stock": 100,
+          "sold": 604,
+          "price_info": {
+            "final_price": "2522000000"
+          }
+        },
+        {
+          "model_id": "257294615416",
+          "name": "Triplepack",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1734668503,
+          "seller_sku": "PETS00123",
+          "mtime": 1734668503,
+          "price_rule_id": "835288671241216",
+          "price": "16800000000",
+          "currency": "IDR",
+          "normal_price": "22200000000",
+          "stock": 275,
+          "sold": 17,
+          "price_info": {
+            "final_price": "11200000000"
+          }
+        },
+        {
+          "model_id": "222420021671",
+          "name": "Twinpack",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1704099861,
+          "seller_sku": "PSB10135",
+          "mtime": 1704099861,
+          "price_rule_id": "835288671241216",
+          "price": "11800000000",
+          "currency": "IDR",
+          "normal_price": "14800000000",
+          "stock": 147,
+          "sold": 91,
+          "price_info": {
+            "final_price": "6400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "54802753178",
+      "model": [
+        {
+          "model_id": "267236966330",
+          "name": "Kuning,36-37",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-yellow-36-37",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1682,
+          "sold": 138,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        },
+        {
+          "model_id": "267236966383",
+          "name": "Hitam,36-37",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-black-36-37",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1862,
+          "sold": 22,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        },
+        {
+          "model_id": "267236966388",
+          "name": "Putih,40-41",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-white-40-41",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1863,
+          "sold": 29,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        },
+        {
+          "model_id": "267236966331",
+          "name": "Kuning,38-39",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-yellow-38-39",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1658,
+          "sold": 156,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        },
+        {
+          "model_id": "267236966385",
+          "name": "Hitam,40-41",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-black-40-41",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1869,
+          "sold": 22,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        },
+        {
+          "model_id": "267236966384",
+          "name": "Hitam,38-39",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-black-38-39",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1864,
+          "sold": 27,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        },
+        {
+          "model_id": "267236966387",
+          "name": "Putih,38-39",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-white-38-39",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1830,
+          "sold": 52,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        },
+        {
+          "model_id": "267236966386",
+          "name": "Putih,36-37",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-white-36-37",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1847,
+          "sold": 36,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        },
+        {
+          "model_id": "267236966382",
+          "name": "Kuning,40-41",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1765176370,
+          "seller_sku": "2803-yellow-40-41",
+          "mtime": 1765176370,
+          "price_rule_id": "804222786929664",
+          "price": "4999900000",
+          "currency": "IDR",
+          "normal_price": "9999800000",
+          "stock": 1779,
+          "sold": 80,
+          "price_info": {
+            "final_price": "3637400000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "13331414407",
+      "model": [
+        {
+          "model_id": "246377457289",
+          "name": "60ml + 1 Botol Pump",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1723618678,
+          "seller_sku": "2000124033098",
+          "mtime": 1723618678,
+          "price_rule_id": "843249418289152",
+          "price": "7560500000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 301,
+          "sold": 1598,
+          "price_info": {
+            "final_price": "3780200000"
+          }
+        },
+        {
+          "model_id": "85396709823",
+          "name": "60 ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1634630362,
+          "seller_sku": "8993319851888",
+          "mtime": 1718869057,
+          "price_rule_id": "843249418289152",
+          "price": "7452800000",
+          "currency": "IDR",
+          "normal_price": "7500000000",
+          "stock": 2777,
+          "sold": 13074,
+          "price_info": {
+            "final_price": "3726400000"
+          }
+        },
+        {
+          "model_id": "85396709824",
+          "name": "100 ml",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1634630362,
+          "seller_sku": "8993319850225",
+          "mtime": 1747791018,
+          "price_rule_id": "843249418289152",
+          "price": "10474500000",
+          "currency": "IDR",
+          "normal_price": "10500000000",
+          "stock": 4231,
+          "sold": 28703,
+          "price_info": {
+            "final_price": "4987200000"
+          }
+        },
+        {
+          "model_id": "168357542907",
+          "name": "100ml + 1 Botol Pump",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1723618678,
+          "seller_sku": "2000124033097",
+          "mtime": 1723618678,
+          "price_rule_id": "843249418289152",
+          "price": "10405900000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 301,
+          "sold": 3243,
+          "price_info": {
+            "final_price": "4952900000"
+          }
+        },
+        {
+          "model_id": "215365703615",
+          "name": "75 ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1725437575,
+          "seller_sku": "8993319850225",
+          "mtime": 1725437575,
+          "price_rule_id": "0",
+          "price": "9300000000",
+          "currency": "IDR",
+          "normal_price": "9300000000",
+          "stock": 4241,
+          "sold": 1632,
+          "price_info": {
+            "final_price": "4650000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "18053646738",
+      "model": [
+        {
+          "model_id": "126905977158",
+          "name": "Bundle 2 PCS 35 gr",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1665456663,
+          "seller_sku": "1000105977158",
+          "mtime": 1689999516,
+          "price_rule_id": "843249418289152",
+          "price": "7589700000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 1012,
+          "sold": 575,
+          "price_info": {
+            "final_price": "3794800000"
+          }
+        },
+        {
+          "model_id": "126905977159",
+          "name": "Bundle 2 PCS 40 gr",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1665456663,
+          "seller_sku": "1000105977159",
+          "mtime": 1689999516,
+          "price_rule_id": "0",
+          "price": "10000000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "4750000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5140970610",
+      "model": [
+        {
+          "model_id": "168419900303",
+          "name": "Spray60+Antipers60",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1726383745,
+          "seller_sku": "1000106355426",
+          "mtime": 1748395580,
+          "price_rule_id": "843249418289152",
+          "price": "7313700000",
+          "currency": "IDR",
+          "normal_price": "7750000000",
+          "stock": 10108,
+          "sold": 3983,
+          "price_info": {
+            "final_price": "3656800000"
+          }
+        },
+        {
+          "model_id": "193799452972",
+          "name": "Spray100+Antipers100",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1675648347,
+          "seller_sku": "1000199452972",
+          "mtime": 1748395580,
+          "price_rule_id": "843249418289152",
+          "price": "10420100000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 10753,
+          "sold": 9701,
+          "price_info": {
+            "final_price": "4960000000"
+          }
+        },
+        {
+          "model_id": "112013320034",
+          "name": "100 ml",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1630141245,
+          "seller_sku": "8993319850362",
+          "mtime": 1747789537,
+          "price_rule_id": "843249418289152",
+          "price": "4960100000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 14569,
+          "sold": 92243,
+          "price_info": {
+            "final_price": "3720000000"
+          }
+        },
+        {
+          "model_id": "112013320035",
+          "name": "60 ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1630141245,
+          "seller_sku": "8993319850560",
+          "mtime": 1689999527,
+          "price_rule_id": "843249418289152",
+          "price": "3476600000",
+          "currency": "IDR",
+          "normal_price": "3500000000",
+          "stock": 19405,
+          "sold": 57945,
+          "price_info": {
+            "final_price": "2476600000"
+          }
+        },
+        {
+          "model_id": "129056734332",
+          "name": "70 ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1725437387,
+          "seller_sku": "8993319850362",
+          "mtime": 1732758586,
+          "price_rule_id": "0",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "4500000000",
+          "stock": 14597,
+          "sold": 3985,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "10557360122",
+      "model": [
+        {
+          "model_id": "147022103582",
+          "name": "UV 30 & DCM 30",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1695106163,
+          "seller_sku": "1000121351649",
+          "mtime": 1748395696,
+          "price_rule_id": "843249418289152",
+          "price": "10450000000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 2968,
+          "sold": 2047,
+          "price_info": {
+            "final_price": "4975000000"
+          }
+        },
+        {
+          "model_id": "213586572168",
+          "name": "AHA100&DCSM100+Pouch",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1671415498,
+          "seller_sku": "2000124033104",
+          "mtime": 1748588274,
+          "price_rule_id": "843249418289152",
+          "price": "23750000000",
+          "currency": "IDR",
+          "normal_price": "25000000000",
+          "stock": 1107,
+          "sold": 1137,
+          "price_info": {
+            "final_price": "17250000000"
+          }
+        },
+        {
+          "model_id": "251515624574",
+          "name": "60 ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1725292417,
+          "seller_sku": "8993319850102",
+          "mtime": 1725292417,
+          "price_rule_id": "843249418289152",
+          "price": "10968600000",
+          "currency": "IDR",
+          "normal_price": "11000000000",
+          "stock": 3441,
+          "sold": 1364,
+          "price_info": {
+            "final_price": "5468600000"
+          }
+        },
+        {
+          "model_id": "142718874491",
+          "name": "100 ml",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1645845267,
+          "seller_sku": "8993319850102",
+          "mtime": 1689999523,
+          "price_rule_id": "843249418289152",
+          "price": "12487900000",
+          "currency": "IDR",
+          "normal_price": "12500000000",
+          "stock": 3403,
+          "sold": 31691,
+          "price_info": {
+            "final_price": "6987900000"
+          }
+        },
+        {
+          "model_id": "142718874492",
+          "name": "30 ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1645845267,
+          "seller_sku": "8993319850058",
+          "mtime": 1689999523,
+          "price_rule_id": "843441928455168",
+          "price": "4290000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 4,
+          "sold": 42571,
+          "price_info": {
+            "final_price": "3217500000"
+          }
+        },
+        {
+          "model_id": "146399619750",
+          "name": "SBS 30 & DCSM 100",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1670342502,
+          "seller_sku": "1000199619750",
+          "mtime": 1689999523,
+          "price_rule_id": "843249418289152",
+          "price": "26030000000",
+          "currency": "IDR",
+          "normal_price": "27400000000",
+          "stock": 622,
+          "sold": 1435,
+          "price_info": {
+            "final_price": "19530000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "43250134491",
+      "model": [
+        {
+          "model_id": "420316534641",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1766074913,
+          "seller_sku": "",
+          "mtime": 1766074913,
+          "price_rule_id": "0",
+          "price": "26000000000",
+          "currency": "IDR",
+          "normal_price": "26000000000",
+          "stock": 199757,
+          "sold": 115,
+          "price_info": {
+            "final_price": "20800000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "20783677842",
+      "model": [
+        {
+          "model_id": "307266219909",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1766075864,
+          "seller_sku": "",
+          "mtime": 1766075864,
+          "price_rule_id": "843441928455168",
+          "price": "7990000000",
+          "currency": "IDR",
+          "normal_price": "19500000000",
+          "stock": 2,
+          "sold": 341,
+          "price_info": {
+            "final_price": "3995000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22453418008",
+      "model": [
+        {
+          "model_id": "282259646498",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1765879821,
+          "seller_sku": "",
+          "mtime": 1765879821,
+          "price_rule_id": "843441928455168",
+          "price": "7990000000",
+          "currency": "IDR",
+          "normal_price": "19500000000",
+          "stock": 3,
+          "sold": 306,
+          "price_info": {
+            "final_price": "3995000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "44126109499",
+      "model": [
+        {
+          "model_id": "375070871476",
+          "name": "TCXTUTI [PINK]",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1762239173,
+          "seller_sku": "BODY - EG - TEDDYXTUTI [PINK]",
+          "mtime": 1768452201,
+          "price_rule_id": "806270999789568",
+          "price": "3990000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 2,
+          "sold": 46,
+          "price_info": {
+            "final_price": "2990000000"
+          }
+        },
+        {
+          "model_id": "375070871477",
+          "name": "TCXTUTI [KUNING]",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1762239173,
+          "seller_sku": "BODY - EG - TEDDYXTUTI [KUNING]",
+          "mtime": 1768452201,
+          "price_rule_id": "806270999789568",
+          "price": "3990000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 1016,
+          "sold": 12,
+          "price_info": {
+            "final_price": "2990000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "50052614029",
+      "model": [
+        {
+          "model_id": "395252724416",
+          "name": "BUNDLE [OIL+BALM]",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1764904100,
+          "seller_sku": "[BUNDLE]-CLASSIC BLEND + GLIDE BUTTER",
+          "mtime": 1769737797,
+          "price_rule_id": "806270999789568",
+          "price": "10599900000",
+          "currency": "IDR",
+          "normal_price": "13000000000",
+          "stock": 91,
+          "sold": 13,
+          "price_info": {
+            "final_price": "5599900000"
+          }
+        },
+        {
+          "model_id": "287376828047",
+          "name": "Classic Blend +19K",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1769737797,
+          "seller_sku": "ISI 2 - [CLASSIC BLEND + MINI MATCHA]",
+          "mtime": 1769737797,
+          "price_rule_id": "806270999789568",
+          "price": "7140000000",
+          "currency": "IDR",
+          "normal_price": "8499900000",
+          "stock": 30,
+          "sold": 0,
+          "price_info": {
+            "final_price": "3570000000"
+          }
+        },
+        {
+          "model_id": "395252724415",
+          "name": "Classic Blend 1PCS",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1764904100,
+          "seller_sku": "[1PCS]-CLASSIC BLEND-AFTERSAHVE OIL",
+          "mtime": 1764904100,
+          "price_rule_id": "806270999789568",
+          "price": "5500000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 146,
+          "sold": 10,
+          "price_info": {
+            "final_price": "2750000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "10375774061",
+      "model": [
+        {
+          "model_id": "132725426362",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1638517613,
+          "seller_sku": "",
+          "mtime": 1638517613,
+          "price_rule_id": "806270999789568",
+          "price": "2999900000",
+          "currency": "IDR",
+          "normal_price": "3200000000",
+          "stock": 994,
+          "sold": 676,
+          "price_info": {
+            "final_price": "1999900000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "9726689915",
+      "model": [
+        {
+          "model_id": "74192270566",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1615877502,
+          "seller_sku": "",
+          "mtime": 1627819390,
+          "price_rule_id": "810023333183488",
+          "price": "25105500000",
+          "currency": "IDR",
+          "normal_price": "39850000000",
+          "stock": 38,
+          "sold": 2098,
+          "price_info": {
+            "final_price": "20105500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29834326156",
+      "model": [
+        {
+          "model_id": "224142754158",
+          "name": "Galaxy Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1745246785,
+          "seller_sku": "FG2-00960",
+          "mtime": 1746020554,
+          "price_rule_id": "842554371801088",
+          "price": "429900000000",
+          "currency": "IDR",
+          "normal_price": "449900000000",
+          "stock": 287,
+          "sold": 8976,
+          "price_info": {
+            "final_price": "424900000000"
+          }
+        },
+        {
+          "model_id": "224142754159",
+          "name": "Emerald Lake Green",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1745246785,
+          "seller_sku": "FG2-00961",
+          "mtime": 1746020554,
+          "price_rule_id": "842554371801088",
+          "price": "429900000000",
+          "currency": "IDR",
+          "normal_price": "449900000000",
+          "stock": 334,
+          "sold": 3766,
+          "price_info": {
+            "final_price": "424900000000"
+          }
+        },
+        {
+          "model_id": "258256107974",
+          "name": "Glacier White",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1745289182,
+          "seller_sku": "FG2-00964",
+          "mtime": 1747190685,
+          "price_rule_id": "842554371801088",
+          "price": "429900000000",
+          "currency": "IDR",
+          "normal_price": "449900000000",
+          "stock": 223,
+          "sold": 3938,
+          "price_info": {
+            "final_price": "424900000000"
+          }
+        },
+        {
+          "model_id": "270992902370",
+          "name": "Sandy Titanium",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1754553373,
+          "seller_sku": "FG2-02521",
+          "mtime": 1754554514,
+          "price_rule_id": "0",
+          "price": "449900000000",
+          "currency": "IDR",
+          "normal_price": "449900000000",
+          "stock": 0,
+          "sold": 2614,
+          "price_info": {
+            "final_price": "444900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "55502017249",
+      "model": [
+        {
+          "model_id": "355196728112",
+          "name": "Sage,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1763968934,
+          "seller_sku": "9990000663989",
+          "mtime": 1763968934,
+          "price_rule_id": "842960296542208",
+          "price": "18392000000",
+          "currency": "IDR",
+          "normal_price": "22990000000",
+          "stock": 133,
+          "sold": 54,
+          "price_info": {
+            "final_price": "13392000000"
+          }
+        },
+        {
+          "model_id": "355196728113",
+          "name": "Sage,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1763968934,
+          "seller_sku": "9990000663996",
+          "mtime": 1763968934,
+          "price_rule_id": "842960296542208",
+          "price": "18392000000",
+          "currency": "IDR",
+          "normal_price": "22990000000",
+          "stock": 22,
+          "sold": 50,
+          "price_info": {
+            "final_price": "13392000000"
+          }
+        },
+        {
+          "model_id": "355196728114",
+          "name": "Sage,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1763968934,
+          "seller_sku": "9990000664009",
+          "mtime": 1763968934,
+          "price_rule_id": "842960296542208",
+          "price": "18392000000",
+          "currency": "IDR",
+          "normal_price": "22990000000",
+          "stock": 3,
+          "sold": 37,
+          "price_info": {
+            "final_price": "13392000000"
+          }
+        },
+        {
+          "model_id": "355196728111",
+          "name": "Sage,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1763968934,
+          "seller_sku": "9990000663972",
+          "mtime": 1763968934,
+          "price_rule_id": "842960296542208",
+          "price": "18392000000",
+          "currency": "IDR",
+          "normal_price": "22990000000",
+          "stock": 80,
+          "sold": 50,
+          "price_info": {
+            "final_price": "13392000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "51500020302",
+      "model": [
+        {
+          "model_id": "350000273273",
+          "name": "Khaki 10056500",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761207370,
+          "seller_sku": "10056500",
+          "mtime": 1761207969,
+          "price_rule_id": "0",
+          "price": "24900000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 91,
+          "sold": 13,
+          "price_info": {
+            "final_price": "19900000000"
+          }
+        },
+        {
+          "model_id": "425000406536",
+          "name": "Pink 10056600",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1761207969,
+          "seller_sku": "10056600",
+          "mtime": 1761207969,
+          "price_rule_id": "0",
+          "price": "24900000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 0,
+          "sold": 28,
+          "price_info": {
+            "final_price": "19900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25185175443",
+      "model": [
+        {
+          "model_id": "226686739954",
+          "name": "Asterix Navy",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1724383432,
+          "seller_sku": "70054-0100",
+          "mtime": 1762224969,
+          "price_rule_id": "754223990505472",
+          "price": "17990000000",
+          "currency": "IDR",
+          "normal_price": "23900000000",
+          "stock": 83,
+          "sold": 60,
+          "price_info": {
+            "final_price": "12840000000"
+          }
+        },
+        {
+          "model_id": "226686739953",
+          "name": "HABIS",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1724383432,
+          "seller_sku": "70054-0500",
+          "mtime": 1769560780,
+          "price_rule_id": "227576727748608",
+          "price": "19890000000",
+          "currency": "IDR",
+          "normal_price": "23900000000",
+          "stock": 5,
+          "sold": 110,
+          "price_info": {
+            "final_price": "14740000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27138609473",
+      "model": [
+        {
+          "model_id": "260700063694",
+          "name": "3",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1752329371,
+          "seller_sku": "TP070-06-03",
+          "mtime": 1752329371,
+          "price_rule_id": "227576727748608",
+          "price": "19380000000",
+          "currency": "IDR",
+          "normal_price": "20400000000",
+          "stock": 5,
+          "sold": 256,
+          "price_info": {
+            "final_price": "14380000000"
+          }
+        },
+        {
+          "model_id": "29616276692",
+          "name": "1",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1752329371,
+          "seller_sku": "TP070-06-01",
+          "mtime": 1752329371,
+          "price_rule_id": "227576727748608",
+          "price": "19380000000",
+          "currency": "IDR",
+          "normal_price": "20400000000",
+          "stock": 5,
+          "sold": 386,
+          "price_info": {
+            "final_price": "14380000000"
+          }
+        },
+        {
+          "model_id": "29616276693",
+          "name": "2",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1752329371,
+          "seller_sku": "TP070-06-02",
+          "mtime": 1752329371,
+          "price_rule_id": "227576727748608",
+          "price": "19380000000",
+          "currency": "IDR",
+          "normal_price": "20400000000",
+          "stock": 5,
+          "sold": 454,
+          "price_info": {
+            "final_price": "14380000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5936209230",
+      "model": [
+        {
+          "model_id": "18910191700",
+          "name": "Light",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1591090357,
+          "seller_sku": "Foundation-Light",
+          "mtime": 1715335177,
+          "price_rule_id": "829717108801536",
+          "price": "6510000000",
+          "currency": "IDR",
+          "normal_price": "8950000000",
+          "stock": 25,
+          "sold": 546,
+          "price_info": {
+            "final_price": "3255000000"
+          }
+        },
+        {
+          "model_id": "18910191701",
+          "name": "Natural",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1591090357,
+          "seller_sku": "Foundation-Natural",
+          "mtime": 1715335177,
+          "price_rule_id": "829717108801536",
+          "price": "6510000000",
+          "currency": "IDR",
+          "normal_price": "8950000000",
+          "stock": 22,
+          "sold": 1128,
+          "price_info": {
+            "final_price": "3255000000"
+          }
+        },
+        {
+          "model_id": "18910191702",
+          "name": "Pecan",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1591090357,
+          "seller_sku": "Foundation-Pecan",
+          "mtime": 1715335177,
+          "price_rule_id": "0",
+          "price": "8950000000",
+          "currency": "IDR",
+          "normal_price": "8950000000",
+          "stock": 0,
+          "sold": 44,
+          "price_info": {
+            "final_price": "4475000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23975579620",
+      "model": [
+        {
+          "model_id": "206926395966",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1690946650,
+          "seller_sku": "",
+          "mtime": 1690946650,
+          "price_rule_id": "842814720622592",
+          "price": "7700000000",
+          "currency": "IDR",
+          "normal_price": "9500000000",
+          "stock": 42,
+          "sold": 16,
+          "price_info": {
+            "final_price": "3850000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "18142444066",
+      "model": [
+        {
+          "model_id": "107572830825",
+          "name": "30gr",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1665737063,
+          "seller_sku": "TTS-Sunfriends30gr",
+          "mtime": 1666594891,
+          "price_rule_id": "842584293949440",
+          "price": "4800000000",
+          "currency": "IDR",
+          "normal_price": "8900000000",
+          "stock": 14,
+          "sold": 79509,
+          "price_info": {
+            "final_price": "2800000000"
+          }
+        },
+        {
+          "model_id": "107572830826",
+          "name": "15gr",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1665737063,
+          "seller_sku": "TTS-MINI-Sunfriends",
+          "mtime": 1666594891,
+          "price_rule_id": "843441928455168",
+          "price": "3190000000",
+          "currency": "IDR",
+          "normal_price": "5900000000",
+          "stock": 4,
+          "sold": 11071,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "13575066096",
+      "model": [
+        {
+          "model_id": "138090379419",
+          "name": "Serum + Moisturizer",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1729759639,
+          "seller_sku": "TVPN71",
+          "mtime": 1759919654,
+          "price_rule_id": "842584293949440",
+          "price": "17500000000",
+          "currency": "IDR",
+          "normal_price": "33400000000",
+          "stock": 30,
+          "sold": 1114,
+          "price_info": {
+            "final_price": "12500000000"
+          }
+        },
+        {
+          "model_id": "166749351426",
+          "name": "NIACINAMAX SERUM",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1729654743,
+          "seller_sku": "TVNS01",
+          "mtime": 1729654743,
+          "price_rule_id": "842584293949440",
+          "price": "8400000000",
+          "currency": "IDR",
+          "normal_price": "17200000000",
+          "stock": 11,
+          "sold": 14311,
+          "price_info": {
+            "final_price": "4200000000"
+          }
+        },
+        {
+          "model_id": "179113128651",
+          "name": "Serum - 2 pcs",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1761903025,
+          "seller_sku": "TVPS19",
+          "mtime": 1761903025,
+          "price_rule_id": "842508184109056",
+          "price": "21900000000",
+          "currency": "IDR",
+          "normal_price": "34400000000",
+          "stock": 2479,
+          "sold": 180,
+          "price_info": {
+            "final_price": "16900000000"
+          }
+        },
+        {
+          "model_id": "257504890756",
+          "name": "with Ceraboost 30g",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1737355155,
+          "seller_sku": "TVPW42",
+          "mtime": 1737355155,
+          "price_rule_id": "842508184109056",
+          "price": "21000000000",
+          "currency": "IDR",
+          "normal_price": "33510000000",
+          "stock": 4958,
+          "sold": 352,
+          "price_info": {
+            "final_price": "16000000000"
+          }
+        },
+        {
+          "model_id": "355212868117",
+          "name": "Special Niac Serum",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1764214794,
+          "seller_sku": "TVNS01",
+          "mtime": 1764214794,
+          "price_rule_id": "842508184109056",
+          "price": "11000000000",
+          "currency": "IDR",
+          "normal_price": "17200000000",
+          "stock": 5118,
+          "sold": 121,
+          "price_info": {
+            "final_price": "6000000000"
+          }
+        },
+        {
+          "model_id": "98163915711",
+          "name": "Luminous - 30 ml",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1661165872,
+          "seller_sku": "TVNC03",
+          "mtime": 1729820700,
+          "price_rule_id": "842584293949440",
+          "price": "10400000000",
+          "currency": "IDR",
+          "normal_price": "17420000000",
+          "stock": 29,
+          "sold": 11518,
+          "price_info": {
+            "final_price": "5400000000"
+          }
+        },
+        {
+          "model_id": "137756518924",
+          "name": "Luminous - 15 ml",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1698724065,
+          "seller_sku": "TVNC05",
+          "mtime": 1729820700,
+          "price_rule_id": "842584293949440",
+          "price": "6480000000",
+          "currency": "IDR",
+          "normal_price": "10760000000",
+          "stock": 29,
+          "sold": 2560,
+          "price_info": {
+            "final_price": "3240000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "47105019575",
+      "model": [
+        {
+          "model_id": "292350145526",
+          "name": "Almond,All Size",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1768978609,
+          "seller_sku": "SABASET-ITALM0",
+          "mtime": 1768978609,
+          "price_rule_id": "234201190510596",
+          "price": "78210000000",
+          "currency": "IDR",
+          "normal_price": "86900000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "68210000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "47405019488",
+      "model": [
+        {
+          "model_id": "335461049537",
+          "name": "Broken White,All Size",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1768977995,
+          "seller_sku": "SABASET-ITBRW0",
+          "mtime": 1768977995,
+          "price_rule_id": "234201190510596",
+          "price": "78210000000",
+          "currency": "IDR",
+          "normal_price": "86900000000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "68210000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "48355020311",
+      "model": [
+        {
+          "model_id": "365461038201",
+          "name": "Dark Grey,All Size",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1768977832,
+          "seller_sku": "SABASET-ITDRG0",
+          "mtime": 1768977832,
+          "price_rule_id": "234201190510596",
+          "price": "78210000000",
+          "currency": "IDR",
+          "normal_price": "86900000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "68210000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "49252463328",
+      "model": [
+        {
+          "model_id": "325238066856",
+          "name": "Choco,Syar'i",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYASYR-CHC0",
+          "mtime": 1764667934,
+          "price_rule_id": "234201190510596",
+          "price": "24210000000",
+          "currency": "IDR",
+          "normal_price": "26900000000",
+          "stock": 5,
+          "sold": 4,
+          "price_info": {
+            "final_price": "18157500000"
+          }
+        },
+        {
+          "model_id": "325238066849",
+          "name": "Black,Reguler",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYAREG-BLK0",
+          "mtime": 1764667934,
+          "price_rule_id": "0",
+          "price": "25900000000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 4,
+          "sold": 31,
+          "price_info": {
+            "final_price": "19425000000"
+          }
+        },
+        {
+          "model_id": "325238066850",
+          "name": "Black,Syar'i",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYASYR-BLK0",
+          "mtime": 1764667934,
+          "price_rule_id": "0",
+          "price": "26900000000",
+          "currency": "IDR",
+          "normal_price": "26900000000",
+          "stock": 162,
+          "sold": 18,
+          "price_info": {
+            "final_price": "20175000000"
+          }
+        },
+        {
+          "model_id": "325238066852",
+          "name": "Broken White,Syar'i",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYASYR-BRW0",
+          "mtime": 1764667934,
+          "price_rule_id": "0",
+          "price": "26900000000",
+          "currency": "IDR",
+          "normal_price": "26900000000",
+          "stock": 17,
+          "sold": 28,
+          "price_info": {
+            "final_price": "20175000000"
+          }
+        },
+        {
+          "model_id": "325238066855",
+          "name": "Choco,Reguler",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYAREG-CHC0",
+          "mtime": 1764667934,
+          "price_rule_id": "234201190510596",
+          "price": "23310000000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 5,
+          "sold": 9,
+          "price_info": {
+            "final_price": "17482500000"
+          }
+        },
+        {
+          "model_id": "325238066857",
+          "name": "Dark Coffee,Reguler",
+          "status": 1,
+          "tier_indices": [
+            4,
+            0
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYAREG-DCF0",
+          "mtime": 1764667934,
+          "price_rule_id": "234201190510596",
+          "price": "23310000000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 5,
+          "sold": 18,
+          "price_info": {
+            "final_price": "17482500000"
+          }
+        },
+        {
+          "model_id": "325238066858",
+          "name": "Dark Coffee,Syar'i",
+          "status": 1,
+          "tier_indices": [
+            4,
+            1
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYASYR-DCF0",
+          "mtime": 1764667934,
+          "price_rule_id": "234201190510596",
+          "price": "24210000000",
+          "currency": "IDR",
+          "normal_price": "26900000000",
+          "stock": 5,
+          "sold": 4,
+          "price_info": {
+            "final_price": "18157500000"
+          }
+        },
+        {
+          "model_id": "325238066851",
+          "name": "Broken White,Reguler",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYAREG-BRW0",
+          "mtime": 1764667934,
+          "price_rule_id": "234201190510596",
+          "price": "23310000000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 5,
+          "sold": 18,
+          "price_info": {
+            "final_price": "17482500000"
+          }
+        },
+        {
+          "model_id": "325238066853",
+          "name": "Dusty Pink,Reguler",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYAREG-DST0",
+          "mtime": 1764667934,
+          "price_rule_id": "234201190510596",
+          "price": "23310000000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 5,
+          "sold": 5,
+          "price_info": {
+            "final_price": "17482500000"
+          }
+        },
+        {
+          "model_id": "325238066854",
+          "name": "Dusty Pink,Syar'i",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1764667934,
+          "seller_sku": "ZOYASYR-DST0",
+          "mtime": 1764667934,
+          "price_rule_id": "234201190510596",
+          "price": "22865000000",
+          "currency": "IDR",
+          "normal_price": "26900000000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "17148700000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27402454070",
+      "model": [
+        {
+          "model_id": "250998061954",
+          "name": "100 ML + FREE PAD",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1718120770,
+          "seller_sku": "TXG100",
+          "mtime": 1718120770,
+          "price_rule_id": "826697587425280",
+          "price": "2830800000",
+          "currency": "IDR",
+          "normal_price": "12141600000",
+          "stock": 84846,
+          "sold": 384,
+          "price_info": {
+            "final_price": "1830800000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "976780695",
+      "model": [
+        {
+          "model_id": "52604129589",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1608511830,
+          "seller_sku": "",
+          "mtime": 1628048855,
+          "price_rule_id": "234048106803202",
+          "price": "1196200000",
+          "currency": "IDR",
+          "normal_price": "1595000000",
+          "stock": 12,
+          "sold": 5908,
+          "price_info": {
+            "final_price": "196200000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5150257045",
+      "model": [
+        {
+          "model_id": "70849131290",
+          "name": "Midnight Blue,100 x 200",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1598959240,
+          "seller_sku": "Uniland-Springbed-2in1-PlushtopLorenz-MidnightBlue-100x200",
+          "mtime": 1698386967,
+          "price_rule_id": "233666613882880",
+          "price": "329800000000",
+          "currency": "IDR",
+          "normal_price": "434070000000",
+          "stock": 5,
+          "sold": 121,
+          "price_info": {
+            "final_price": "318800000000"
+          }
+        },
+        {
+          "model_id": "70849131291",
+          "name": "Midnight Blue,120 x 200",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1598959240,
+          "seller_sku": "Uniland-Springbed-2in1-PlushtopLorenz-MidnightBlue-120x200",
+          "mtime": 1698386967,
+          "price_rule_id": "233666613882880",
+          "price": "344800000000",
+          "currency": "IDR",
+          "normal_price": "453810000000",
+          "stock": 5,
+          "sold": 448,
+          "price_info": {
+            "final_price": "333800000000"
+          }
+        },
+        {
+          "model_id": "70849131292",
+          "name": "Choco Brown,90 x 200",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1598959240,
+          "seller_sku": "Uniland-Springbed-2in1-PlushtopLorenz-ChocoBrown-90x200",
+          "mtime": 1698386967,
+          "price_rule_id": "233666613882880",
+          "price": "299800000000",
+          "currency": "IDR",
+          "normal_price": "394600000000",
+          "stock": 5,
+          "sold": 56,
+          "price_info": {
+            "final_price": "288800000000"
+          }
+        },
+        {
+          "model_id": "70849131293",
+          "name": "Choco Brown,100 x 200",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1598959240,
+          "seller_sku": "Uniland-Springbed-2in1-PlushtopLorenz-ChocoBrown-100x200",
+          "mtime": 1698386967,
+          "price_rule_id": "233666613882880",
+          "price": "329800000000",
+          "currency": "IDR",
+          "normal_price": "434070000000",
+          "stock": 5,
+          "sold": 151,
+          "price_info": {
+            "final_price": "318800000000"
+          }
+        },
+        {
+          "model_id": "70849131294",
+          "name": "Choco Brown,120 x 200",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1598959240,
+          "seller_sku": "Uniland-Springbed-2in1-PlushtopLorenz-ChocoBrown-120x200",
+          "mtime": 1698386967,
+          "price_rule_id": "233666613882880",
+          "price": "344800000000",
+          "currency": "IDR",
+          "normal_price": "453810000000",
+          "stock": 5,
+          "sold": 458,
+          "price_info": {
+            "final_price": "333800000000"
+          }
+        },
+        {
+          "model_id": "70849131295",
+          "name": "Midnight Blue,90 x 200",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1598959240,
+          "seller_sku": "Uniland-Springbed-2in1-PlushtopLorenz-MidnightBlue-90x200",
+          "mtime": 1698386967,
+          "price_rule_id": "233666613882880",
+          "price": "299800000000",
+          "currency": "IDR",
+          "normal_price": "394600000000",
+          "stock": 5,
+          "sold": 53,
+          "price_info": {
+            "final_price": "288800000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "19838763283",
+      "model": [
+        {
+          "model_id": "315249504106",
+          "name": "Red,Size 6",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770121 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "234083083104257",
+          "price": "15210000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 1,
+          "sold": 1,
+          "price_info": {
+            "final_price": "10210000000"
+          }
+        },
+        {
+          "model_id": "315249504109",
+          "name": "Red,Size 12",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770121 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "780331821613056",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 1,
+          "sold": 6,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        },
+        {
+          "model_id": "315249504110",
+          "name": "Red,Size 14",
+          "status": 1,
+          "tier_indices": [
+            0,
+            5
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770121 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "780331821613056",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 0,
+          "sold": 4,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        },
+        {
+          "model_id": "315249504112",
+          "name": "Green,Size 6",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770171 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "780331821613056",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 1,
+          "sold": 3,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        },
+        {
+          "model_id": "315249504113",
+          "name": "Green,Size 8",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770171 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "780331821613056",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        },
+        {
+          "model_id": "315249504116",
+          "name": "Green,Size 14",
+          "status": 1,
+          "tier_indices": [
+            1,
+            5
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770171 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "780331821613056",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 1,
+          "sold": 3,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        },
+        {
+          "model_id": "315249504105",
+          "name": "Red,Size 4",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770121 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "234083083104257",
+          "price": "15210000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 1,
+          "sold": 1,
+          "price_info": {
+            "final_price": "10210000000"
+          }
+        },
+        {
+          "model_id": "315249504114",
+          "name": "Green,Size 10",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770171 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "780331821613056",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 2,
+          "sold": 5,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        },
+        {
+          "model_id": "315249504108",
+          "name": "Red,Size 10",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770121 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "234083083104257",
+          "price": "15210000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 1,
+          "sold": 4,
+          "price_info": {
+            "final_price": "10210000000"
+          }
+        },
+        {
+          "model_id": "315249504115",
+          "name": "Green,Size 12",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770171 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "780331821613056",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 1,
+          "sold": 6,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        },
+        {
+          "model_id": "315249504107",
+          "name": "Red,Size 8",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770121 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "234083083104257",
+          "price": "15210000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 1,
+          "sold": 0,
+          "price_info": {
+            "final_price": "10210000000"
+          }
+        },
+        {
+          "model_id": "315249504111",
+          "name": "Green,Size 4",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1764834409,
+          "seller_sku": "1231770171 NC",
+          "mtime": 1764834409,
+          "price_rule_id": "780331821613056",
+          "price": "15900000000",
+          "currency": "IDR",
+          "normal_price": "17900000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "10900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40708941579",
+      "model": [
+        {
+          "model_id": "196164926401",
+          "name": "SATIN BRONZE,7",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1752811321,
+          "seller_sku": "VAN200021718400070",
+          "mtime": 1752811321,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 8,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "196164926402",
+          "name": "SATIN BRONZE,8",
+          "status": 1,
+          "tier_indices": [
+            0,
+            5
+          ],
+          "create_time": 1752811321,
+          "seller_sku": "VAN200021718400080",
+          "mtime": 1752811321,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 5,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "196164926397",
+          "name": "SATIN BRONZE,3.5",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1752811321,
+          "seller_sku": "VAN20002171840003H",
+          "mtime": 1752811321,
+          "price_rule_id": "842877022830592",
+          "price": "87920000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 1,
+          "sold": 1,
+          "price_info": {
+            "final_price": "73920000000"
+          }
+        },
+        {
+          "model_id": "196164926398",
+          "name": "SATIN BRONZE,4.5",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1752811321,
+          "seller_sku": "VAN20002171840004H",
+          "mtime": 1752811321,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 5,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "196164926399",
+          "name": "SATIN BRONZE,5.5",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1752811321,
+          "seller_sku": "VAN20002171840005H",
+          "mtime": 1752811321,
+          "price_rule_id": "842877022830592",
+          "price": "87920000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 4,
+          "sold": 6,
+          "price_info": {
+            "final_price": "73920000000"
+          }
+        },
+        {
+          "model_id": "196164926400",
+          "name": "SATIN BRONZE,6",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1752811321,
+          "seller_sku": "VAN200021718400060",
+          "mtime": 1752811321,
+          "price_rule_id": "842877022830592",
+          "price": "87920000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 5,
+          "sold": 7,
+          "price_info": {
+            "final_price": "73920000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40059326436",
+      "model": [
+        {
+          "model_id": "270778215469",
+          "name": "NAVY,8",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN200022157206080",
+          "mtime": 1753084765,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 5,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "270778215474",
+          "name": "NAVY,7",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN200022157206070",
+          "mtime": 1753084765,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 6,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "270778215475",
+          "name": "NAVY,9.5",
+          "status": 1,
+          "tier_indices": [
+            0,
+            7
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN20002215720609H",
+          "mtime": 1753084765,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 3,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "270778215476",
+          "name": "NAVY,11",
+          "status": 1,
+          "tier_indices": [
+            0,
+            9
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN200022157206110",
+          "mtime": 1753084765,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "270778215467",
+          "name": "NAVY,5.5",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN20002215720605H",
+          "mtime": 1753084765,
+          "price_rule_id": "842877022830592",
+          "price": "87920000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 5,
+          "sold": 0,
+          "price_info": {
+            "final_price": "73920000000"
+          }
+        },
+        {
+          "model_id": "270778215473",
+          "name": "NAVY,4.5",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN20002215720604H",
+          "mtime": 1753084765,
+          "price_rule_id": "842877022830592",
+          "price": "87920000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 2,
+          "sold": 1,
+          "price_info": {
+            "final_price": "73920000000"
+          }
+        },
+        {
+          "model_id": "270778215471",
+          "name": "NAVY,9",
+          "status": 1,
+          "tier_indices": [
+            0,
+            6
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN200022157206090",
+          "mtime": 1753084765,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 5,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "270778215472",
+          "name": "NAVY,10",
+          "status": 1,
+          "tier_indices": [
+            0,
+            8
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN200022157206100",
+          "mtime": 1753084765,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 3,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "270778215470",
+          "name": "NAVY,8.5",
+          "status": 1,
+          "tier_indices": [
+            0,
+            5
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN20002215720608H",
+          "mtime": 1753084765,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "270778215477",
+          "name": "NAVY,12",
+          "status": 1,
+          "tier_indices": [
+            0,
+            10
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN200022157206120",
+          "mtime": 1753084765,
+          "price_rule_id": "0",
+          "price": "109900000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 0,
+          "sold": 1,
+          "price_info": {
+            "final_price": "95900000000"
+          }
+        },
+        {
+          "model_id": "270778215468",
+          "name": "NAVY,6",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1753084765,
+          "seller_sku": "VAN200022157206060",
+          "mtime": 1753084765,
+          "price_rule_id": "842877022830592",
+          "price": "87920000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 5,
+          "sold": 1,
+          "price_info": {
+            "final_price": "73920000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "7859352376",
+      "model": [
+        {
+          "model_id": "71544239414",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1603774326,
+          "seller_sku": "",
+          "mtime": 1622408655,
+          "price_rule_id": "0",
+          "price": "51000000000",
+          "currency": "IDR",
+          "normal_price": "51000000000",
+          "stock": 1526,
+          "sold": 1520,
+          "price_info": {
+            "final_price": "45000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29479734755",
+      "model": [
+        {
+          "model_id": "129283257865",
+          "name": "Mint",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1742033136,
+          "seller_sku": "GAM-NADHIAMint",
+          "mtime": 1742033136,
+          "price_rule_id": "776882233081856",
+          "price": "27060000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 75,
+          "sold": 9,
+          "price_info": {
+            "final_price": "20295000000"
+          }
+        },
+        {
+          "model_id": "129283257866",
+          "name": "Cream",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1742033136,
+          "seller_sku": "GAM-NADHIACream",
+          "mtime": 1742033136,
+          "price_rule_id": "776882233081856",
+          "price": "27060000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 9,
+          "sold": 24,
+          "price_info": {
+            "final_price": "20295000000"
+          }
+        },
+        {
+          "model_id": "129283257867",
+          "name": "Berry",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1742033136,
+          "seller_sku": "GAM-NADHIABerry",
+          "mtime": 1742033136,
+          "price_rule_id": "0",
+          "price": "33000000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 0,
+          "sold": 42,
+          "price_info": {
+            "final_price": "24750000000"
+          }
+        },
+        {
+          "model_id": "129283257868",
+          "name": "Pink",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1742033136,
+          "seller_sku": "GAM-NADHIAPink",
+          "mtime": 1742033136,
+          "price_rule_id": "776882233081856",
+          "price": "27060000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 40,
+          "sold": 21,
+          "price_info": {
+            "final_price": "20295000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24864816925",
+      "model": [
+        {
+          "model_id": "236194909334",
+          "name": "Digital Lavender",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1712217108,
+          "seller_sku": "VS010118337618",
+          "mtime": 1712217108,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 21,
+          "sold": 457,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236194909335",
+          "name": "Navy",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1712217108,
+          "seller_sku": "VS010100237618",
+          "mtime": 1712217108,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 66,
+          "sold": 866,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236068835915",
+          "name": "Biscotti",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1708671961,
+          "seller_sku": "VS010111037618",
+          "mtime": 1708671961,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 7,
+          "sold": 1597,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236194909330",
+          "name": "Classic Blue",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1712217108,
+          "seller_sku": "VS010118137618",
+          "mtime": 1712217108,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 48,
+          "sold": 1590,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236194909336",
+          "name": "Cool Grey",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1712217108,
+          "seller_sku": "VS010119037618",
+          "mtime": 1712217108,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 43,
+          "sold": 1740,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236068835920",
+          "name": "Pistachio",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1708671961,
+          "seller_sku": "VS010118537618",
+          "mtime": 1708671961,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 15,
+          "sold": 1575,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236068835922",
+          "name": "Shale Green",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1708671961,
+          "seller_sku": "VS010116637618",
+          "mtime": 1708671961,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 37,
+          "sold": 761,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236194909329",
+          "name": "Olive",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1712217108,
+          "seller_sku": "VS010100137618",
+          "mtime": 1712217108,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 63,
+          "sold": 760,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236194909331",
+          "name": "Ash Grey",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1712217108,
+          "seller_sku": "VS010117337618",
+          "mtime": 1712217108,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 15,
+          "sold": 446,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236194909332",
+          "name": "Ginger",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1712217108,
+          "seller_sku": "VS010118837618",
+          "mtime": 1712217108,
+          "price_rule_id": "0",
+          "price": "20000000000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 0,
+          "sold": 91,
+          "price_info": {
+            "final_price": "15000000000"
+          }
+        },
+        {
+          "model_id": "236194909333",
+          "name": "Dusty Pink",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1712217108,
+          "seller_sku": "VS010118737618",
+          "mtime": 1712217108,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 85,
+          "sold": 1002,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        },
+        {
+          "model_id": "236068835916",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1708671961,
+          "seller_sku": "VS010100337618",
+          "mtime": 1708671961,
+          "price_rule_id": "227576727748608",
+          "price": "15599900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 5,
+          "sold": 2869,
+          "price_info": {
+            "final_price": "10599900000"
+          }
+        },
+        {
+          "model_id": "236068835921",
+          "name": "Rose Gold",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1708671961,
+          "seller_sku": "VS010110937618",
+          "mtime": 1708671961,
+          "price_rule_id": "798936638488576",
+          "price": "15999900000",
+          "currency": "IDR",
+          "normal_price": "20000000000",
+          "stock": 48,
+          "sold": 1858,
+          "price_info": {
+            "final_price": "10999900000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "13628107956",
+      "model": [
+        {
+          "model_id": "121256492320",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1634183605,
+          "seller_sku": "",
+          "mtime": 1634183605,
+          "price_rule_id": "234037021257728",
+          "price": "47400000000",
+          "currency": "IDR",
+          "normal_price": "61000000000",
+          "stock": 5,
+          "sold": 328,
+          "price_info": {
+            "final_price": "35920000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23575263874",
+      "model": [
+        {
+          "model_id": "138693740406",
+          "name": "Grey Soft",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1690597029,
+          "seller_sku": "Super Soft",
+          "mtime": 1690597029,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 74,
+          "sold": 144,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "138693740404",
+          "name": "Dusty Pink",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1690597029,
+          "seller_sku": "Super Soft",
+          "mtime": 1690597029,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 48,
+          "sold": 361,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "235554454439",
+          "name": "Maroon",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1692787770,
+          "seller_sku": "Super Soft",
+          "mtime": 1692787770,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 6,
+          "sold": 215,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "148480699532",
+          "name": "Motif 7",
+          "status": 1,
+          "tier_indices": [
+            19
+          ],
+          "create_time": 1703730730,
+          "seller_sku": "Motif SuperSoft",
+          "mtime": 1703730730,
+          "price_rule_id": "767963171454976",
+          "price": "28405000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 4,
+          "price_info": {
+            "final_price": "20553700000"
+          }
+        },
+        {
+          "model_id": "197219565228",
+          "name": "Motif 4",
+          "status": 1,
+          "tier_indices": [
+            17
+          ],
+          "create_time": 1702778350,
+          "seller_sku": "Motif SuperSoft",
+          "mtime": 1702778350,
+          "price_rule_id": "831683096543232",
+          "price": "24305800000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 49,
+          "sold": 16,
+          "price_info": {
+            "final_price": "17479300000"
+          }
+        },
+        {
+          "model_id": "148512608628",
+          "name": "Army",
+          "status": 1,
+          "tier_indices": [
+            22
+          ],
+          "create_time": 1706582217,
+          "seller_sku": "Super Soft",
+          "mtime": 1706582217,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 86,
+          "sold": 23,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "128742784117",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1694825227,
+          "seller_sku": "Super Soft",
+          "mtime": 1694825227,
+          "price_rule_id": "767963171454976",
+          "price": "22325000000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 36,
+          "sold": 367,
+          "price_info": {
+            "final_price": "15993700000"
+          }
+        },
+        {
+          "model_id": "235554454442",
+          "name": "White",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1692787770,
+          "seller_sku": "Super Soft",
+          "mtime": 1692787770,
+          "price_rule_id": "767963171454976",
+          "price": "22325000000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 40,
+          "sold": 113,
+          "price_info": {
+            "final_price": "15993700000"
+          }
+        },
+        {
+          "model_id": "235554454440",
+          "name": "Purple",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1692787770,
+          "seller_sku": "Super Soft",
+          "mtime": 1692787770,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 78,
+          "sold": 99,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "148480699530",
+          "name": "Motif 5",
+          "status": 1,
+          "tier_indices": [
+            18
+          ],
+          "create_time": 1703730730,
+          "seller_sku": "Motif SuperSoft",
+          "mtime": 1703730730,
+          "price_rule_id": "0",
+          "price": "29900000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 13,
+          "price_info": {
+            "final_price": "21675000000"
+          }
+        },
+        {
+          "model_id": "235554454441",
+          "name": "Navy",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1692787770,
+          "seller_sku": "Super Soft",
+          "mtime": 1692787770,
+          "price_rule_id": "831683096543232",
+          "price": "19959800000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 39,
+          "sold": 271,
+          "price_info": {
+            "final_price": "13959800000"
+          }
+        },
+        {
+          "model_id": "69361829322",
+          "name": "Nude Brown",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1698131134,
+          "seller_sku": "Super Soft",
+          "mtime": 1698131134,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 55,
+          "sold": 206,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "138693740405",
+          "name": "Khaki",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1690597029,
+          "seller_sku": "Super Soft",
+          "mtime": 1690597029,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 74,
+          "sold": 155,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "138693740402",
+          "name": "Sage Green",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1690597029,
+          "seller_sku": "Super Soft",
+          "mtime": 1690597029,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 7,
+          "sold": 246,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "148480699533",
+          "name": "Motif 8",
+          "status": 1,
+          "tier_indices": [
+            20
+          ],
+          "create_time": 1703730730,
+          "seller_sku": "Motif SuperSoft1",
+          "mtime": 1714489163,
+          "price_rule_id": "767963171454976",
+          "price": "28405000000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 0,
+          "sold": 15,
+          "price_info": {
+            "final_price": "20553700000"
+          }
+        },
+        {
+          "model_id": "197219565227",
+          "name": "Motif 3",
+          "status": 1,
+          "tier_indices": [
+            16
+          ],
+          "create_time": 1702778350,
+          "seller_sku": "Motif SuperSoft",
+          "mtime": 1702778350,
+          "price_rule_id": "831683096543232",
+          "price": "24305800000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 45,
+          "sold": 20,
+          "price_info": {
+            "final_price": "17479300000"
+          }
+        },
+        {
+          "model_id": "197219565225",
+          "name": "Motif 1",
+          "status": 1,
+          "tier_indices": [
+            14
+          ],
+          "create_time": 1702778350,
+          "seller_sku": "Motif SuperSoft",
+          "mtime": 1702778350,
+          "price_rule_id": "831683096543232",
+          "price": "24305800000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 49,
+          "sold": 16,
+          "price_info": {
+            "final_price": "17479300000"
+          }
+        },
+        {
+          "model_id": "148512608629",
+          "name": "Blue Denim",
+          "status": 1,
+          "tier_indices": [
+            23
+          ],
+          "create_time": 1706582217,
+          "seller_sku": "Super Soft",
+          "mtime": 1706582217,
+          "price_rule_id": "831683096543232",
+          "price": "19109200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 63,
+          "sold": 73,
+          "price_info": {
+            "final_price": "13109200000"
+          }
+        },
+        {
+          "model_id": "148512608627",
+          "name": "Soft Purple",
+          "status": 1,
+          "tier_indices": [
+            21
+          ],
+          "create_time": 1706582217,
+          "seller_sku": "Super Soft",
+          "mtime": 1706582217,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 3,
+          "sold": 65,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "128742784115",
+          "name": "Blue Arctic",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1694825227,
+          "seller_sku": "Super Soft",
+          "mtime": 1694825227,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 10,
+          "sold": 159,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "128742784116",
+          "name": "Olive Green",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1694825227,
+          "seller_sku": "Super Soft",
+          "mtime": 1694825227,
+          "price_rule_id": "831683096543232",
+          "price": "19109300000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 44,
+          "sold": 66,
+          "price_info": {
+            "final_price": "13109300000"
+          }
+        },
+        {
+          "model_id": "138693740403",
+          "name": "Dark green",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1690597029,
+          "seller_sku": "Super Soft",
+          "mtime": 1690597029,
+          "price_rule_id": "831683096543232",
+          "price": "19487500000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 36,
+          "sold": 243,
+          "price_info": {
+            "final_price": "13487500000"
+          }
+        },
+        {
+          "model_id": "235815606090",
+          "name": "Lichen Green",
+          "status": 1,
+          "tier_indices": [
+            13
+          ],
+          "create_time": 1700365810,
+          "seller_sku": "Super Soft",
+          "mtime": 1700365810,
+          "price_rule_id": "831683096543232",
+          "price": "19103200000",
+          "currency": "IDR",
+          "normal_price": "23500000000",
+          "stock": 22,
+          "sold": 94,
+          "price_info": {
+            "final_price": "13103200000"
+          }
+        },
+        {
+          "model_id": "197219565226",
+          "name": "Motif 2",
+          "status": 1,
+          "tier_indices": [
+            15
+          ],
+          "create_time": 1702778350,
+          "seller_sku": "Motif SuperSoft",
+          "mtime": 1702778350,
+          "price_rule_id": "831683096543232",
+          "price": "24305800000",
+          "currency": "IDR",
+          "normal_price": "29900000000",
+          "stock": 48,
+          "sold": 12,
+          "price_info": {
+            "final_price": "17479300000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "1080772556",
+      "model": [
+        {
+          "model_id": "41563406411",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1603873843,
+          "seller_sku": "",
+          "mtime": 1629824400,
+          "price_rule_id": "841987217998848",
+          "price": "7275000000",
+          "currency": "IDR",
+          "normal_price": "9000000000",
+          "stock": 375,
+          "sold": 63322,
+          "price_info": {
+            "final_price": "3637500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27139260033",
+      "model": [
+        {
+          "model_id": "248682808101",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1753688301,
+          "seller_sku": "",
+          "mtime": 1753688301,
+          "price_rule_id": "234036127870976",
+          "price": "5175000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 20,
+          "sold": 538,
+          "price_info": {
+            "final_price": "2587500000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25417469501",
+      "model": [
+        {
+          "model_id": "98882787497",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1709864728,
+          "seller_sku": "",
+          "mtime": 1709864728,
+          "price_rule_id": "234036127870976",
+          "price": "13325000000",
+          "currency": "IDR",
+          "normal_price": "15500000000",
+          "stock": 19,
+          "sold": 1923,
+          "price_info": {
+            "final_price": "8325000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "8146223",
+      "model": [
+        {
+          "model_id": "32641625840",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1608590975,
+          "seller_sku": "",
+          "mtime": 1627837344,
+          "price_rule_id": "234036127870976",
+          "price": "6000000000",
+          "currency": "IDR",
+          "normal_price": "7500000000",
+          "stock": 16,
+          "sold": 29665,
+          "price_info": {
+            "final_price": "3000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "21452678990",
+      "model": [
+        {
+          "model_id": "182647932180",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1665128940,
+          "seller_sku": "",
+          "mtime": 1665128940,
+          "price_rule_id": "824439508355072",
+          "price": "5150000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 470,
+          "sold": 14793,
+          "price_info": {
+            "final_price": "2575000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "17499202967",
+      "model": [
+        {
+          "model_id": "222134610924",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1697450890,
+          "seller_sku": "48341",
+          "mtime": 1748691074,
+          "price_rule_id": "227571908493313",
+          "price": "99800000000",
+          "currency": "IDR",
+          "normal_price": "109900000000",
+          "stock": 5,
+          "sold": 2592,
+          "price_info": {
+            "final_price": "94800000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "27309313386",
+      "model": [
+        {
+          "model_id": "365457129908",
+          "name": "C301 Bundling 2pcs",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1768894331,
+          "seller_sku": "953535754",
+          "mtime": 1768894331,
+          "price_rule_id": "842694713196544",
+          "price": "59900000000",
+          "currency": "IDR",
+          "normal_price": "69800000000",
+          "stock": 483,
+          "sold": 46,
+          "price_info": {
+            "final_price": "54900000000"
+          }
+        },
+        {
+          "model_id": "365457129909",
+          "name": "C301 Bundling 3pcs",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1768894331,
+          "seller_sku": "953535755",
+          "mtime": 1768894331,
+          "price_rule_id": "842694713196544",
+          "price": "86900000000",
+          "currency": "IDR",
+          "normal_price": "104700000000",
+          "stock": 272,
+          "sold": 23,
+          "price_info": {
+            "final_price": "81900000000"
+          }
+        },
+        {
+          "model_id": "197760247964",
+          "name": "Camera C301",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1724819742,
+          "seller_sku": "57268",
+          "mtime": 1768894331,
+          "price_rule_id": "227571908493313",
+          "price": "31800000000",
+          "currency": "IDR",
+          "normal_price": "34900000000",
+          "stock": 6,
+          "sold": 43993,
+          "price_info": {
+            "final_price": "26800000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "44056222373",
+      "model": [
+        {
+          "model_id": "227922530051",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1751704801,
+          "seller_sku": "",
+          "mtime": 1751704801,
+          "price_rule_id": "233746586677248",
+          "price": "29750000000",
+          "currency": "IDR",
+          "normal_price": "55000000000",
+          "stock": 15,
+          "sold": 30,
+          "price_info": {
+            "final_price": "23000000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22675893590",
+      "model": [
+        {
+          "model_id": "196933707225",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1691214467,
+          "seller_sku": "",
+          "mtime": 1691214467,
+          "price_rule_id": "233139897380865",
+          "price": "5720000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 28,
+          "sold": 21895,
+          "price_info": {
+            "final_price": "3540000000"
+          }
+        }
+      ]
+    }
+  ]
+}
