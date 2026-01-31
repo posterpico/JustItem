@@ -1,0 +1,3890 @@
+{
+  "items": [
+    {
+      "item_id": "53605604636",
+      "model": [
+        {
+          "model_id": "405507467176",
+          "name": "F41 120 - Pink",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1769745133,
+          "seller_sku": "6936668101489",
+          "mtime": 1769745133,
+          "price_rule_id": "234393381908485",
+          "price": "4599000000",
+          "currency": "IDR",
+          "normal_price": "19999000000",
+          "stock": 50,
+          "sold": 0,
+          "price_info": {
+            "final_price": "3449200000"
+          }
+        },
+        {
+          "model_id": "405507467174",
+          "name": "F41 120 - Grey",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1769745133,
+          "seller_sku": "6936668101363",
+          "mtime": 1769745133,
+          "price_rule_id": "234393381908485",
+          "price": "4599000000",
+          "currency": "IDR",
+          "normal_price": "19999000000",
+          "stock": 50,
+          "sold": 0,
+          "price_info": {
+            "final_price": "3449200000"
+          }
+        },
+        {
+          "model_id": "405507467175",
+          "name": "F41 120 - White",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1769745133,
+          "seller_sku": "6936668101364",
+          "mtime": 1769745133,
+          "price_rule_id": "234393381908485",
+          "price": "4599000000",
+          "currency": "IDR",
+          "normal_price": "19999000000",
+          "stock": 50,
+          "sold": 0,
+          "price_info": {
+            "final_price": "3449200000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24781702700",
+      "model": [
+        {
+          "model_id": "157330258198",
+          "name": "3 pcs",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1717564647,
+          "seller_sku": "6975242805178",
+          "mtime": 1717564647,
+          "price_rule_id": "840388055712768",
+          "price": "3440000000",
+          "currency": "IDR",
+          "normal_price": "8000000000",
+          "stock": 1510,
+          "sold": 1409,
+          "price_info": {
+            "final_price": "2440000000"
+          }
+        },
+        {
+          "model_id": "157330258197",
+          "name": "1 pcs",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1717564647,
+          "seller_sku": "6975242804959",
+          "mtime": 1717564647,
+          "price_rule_id": "840388055712768",
+          "price": "1470000000",
+          "currency": "IDR",
+          "normal_price": "3500000000",
+          "stock": 1484,
+          "sold": 2949,
+          "price_info": {
+            "final_price": "470000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24131675627",
+      "model": [
+        {
+          "model_id": "166507204451",
+          "name": "#05 Lemon Tea",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1717503043,
+          "seller_sku": "6975242803839",
+          "mtime": 1717503043,
+          "price_rule_id": "0",
+          "price": "12900000000",
+          "currency": "IDR",
+          "normal_price": "12900000000",
+          "stock": 0,
+          "sold": 1194,
+          "price_info": {
+            "final_price": "7900000000"
+          }
+        },
+        {
+          "model_id": "166507204452",
+          "name": "#01 Nude Pink",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1717503043,
+          "seller_sku": "6975242803792",
+          "mtime": 1717503043,
+          "price_rule_id": "0",
+          "price": "12900000000",
+          "currency": "IDR",
+          "normal_price": "12900000000",
+          "stock": 0,
+          "sold": 2518,
+          "price_info": {
+            "final_price": "7900000000"
+          }
+        },
+        {
+          "model_id": "256094537936",
+          "name": "#06 Amber",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1719475430,
+          "seller_sku": "6975242803846",
+          "mtime": 1719475430,
+          "price_rule_id": "840388055712768",
+          "price": "11868000000",
+          "currency": "IDR",
+          "normal_price": "12900000000",
+          "stock": 25,
+          "sold": 1556,
+          "price_info": {
+            "final_price": "6868000000"
+          }
+        },
+        {
+          "model_id": "256094537937",
+          "name": "#04 Jelly",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1719475430,
+          "seller_sku": "6975242803822",
+          "mtime": 1719475430,
+          "price_rule_id": "840388055712768",
+          "price": "11868000000",
+          "currency": "IDR",
+          "normal_price": "12900000000",
+          "stock": 31,
+          "sold": 2903,
+          "price_info": {
+            "final_price": "6868000000"
+          }
+        },
+        {
+          "model_id": "256094537938",
+          "name": "#09 Hawthorne",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1719475430,
+          "seller_sku": "6975242803877",
+          "mtime": 1719475430,
+          "price_rule_id": "840388055712768",
+          "price": "11868000000",
+          "currency": "IDR",
+          "normal_price": "12900000000",
+          "stock": 0,
+          "sold": 1616,
+          "price_info": {
+            "final_price": "6868000000"
+          }
+        },
+        {
+          "model_id": "166507204450",
+          "name": "#02 Orange Soda",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1717503043,
+          "seller_sku": "6975242803808",
+          "mtime": 1717503043,
+          "price_rule_id": "0",
+          "price": "12900000000",
+          "currency": "IDR",
+          "normal_price": "12900000000",
+          "stock": 0,
+          "sold": 421,
+          "price_info": {
+            "final_price": "7900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "1104069394",
+      "model": [
+        {
+          "model_id": "115273381137",
+          "name": "SC-848SG",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1643266803,
+          "seller_sku": "SCISSORS-SC-848SG",
+          "mtime": 1643266803,
+          "price_rule_id": "0",
+          "price": "1620000000",
+          "currency": "IDR",
+          "normal_price": "1620000000",
+          "stock": 552,
+          "sold": 29422,
+          "price_info": {
+            "final_price": "620000000"
+          }
+        },
+        {
+          "model_id": "51904210189",
+          "name": "SC-828SG",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1605857128,
+          "seller_sku": "SCISSORS-SC-828SG",
+          "mtime": 1643266803,
+          "price_rule_id": "0",
+          "price": "880000000",
+          "currency": "IDR",
+          "normal_price": "880000000",
+          "stock": 5,
+          "sold": 33208,
+          "price_info": {
+            "final_price": "880000000"
+          }
+        },
+        {
+          "model_id": "115273381136",
+          "name": "SC-838SG",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1643266803,
+          "seller_sku": "SCISSORS-SC-838SG",
+          "mtime": 1643266803,
+          "price_rule_id": "841852178203648",
+          "price": "790000000",
+          "currency": "IDR",
+          "normal_price": "1040000000",
+          "stock": 2,
+          "sold": 37648,
+          "price_info": {
+            "final_price": "790000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5589754763",
+      "model": [
+        {
+          "model_id": "55574292203",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1621845968,
+          "seller_sku": "",
+          "mtime": 1629651600,
+          "price_rule_id": "0",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "4500000000",
+          "stock": 31,
+          "sold": 3609,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "9336999092",
+      "model": [
+        {
+          "model_id": "118380257688",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1718164555,
+          "seller_sku": "",
+          "mtime": 1718164555,
+          "price_rule_id": "227576727748608",
+          "price": "3900000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 11,
+          "sold": 7857,
+          "price_info": {
+            "final_price": "2900000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23668009976",
+      "model": [
+        {
+          "model_id": "89362550058",
+          "name": "Triplepack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1684221260,
+          "seller_sku": "",
+          "mtime": 1684221260,
+          "price_rule_id": "227576727748608",
+          "price": "8160000000",
+          "currency": "IDR",
+          "normal_price": "10180000000",
+          "stock": 19,
+          "sold": 8265,
+          "price_info": {
+            "final_price": "4080000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5150471353",
+      "model": [
+        {
+          "model_id": "70863460693",
+          "name": "Twinpack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1599045326,
+          "seller_sku": "",
+          "mtime": 1628010036,
+          "price_rule_id": "814342921043968",
+          "price": "3260000000",
+          "currency": "IDR",
+          "normal_price": "3950000000",
+          "stock": 1913,
+          "sold": 61697,
+          "price_info": {
+            "final_price": "2260000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24578192167",
+      "model": [
+        {
+          "model_id": "89557970115",
+          "name": "Twinpack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1714737827,
+          "seller_sku": "",
+          "mtime": 1714737827,
+          "price_rule_id": "814342921043968",
+          "price": "3060000000",
+          "currency": "IDR",
+          "normal_price": "3520000000",
+          "stock": 3623,
+          "sold": 18469,
+          "price_info": {
+            "final_price": "2060000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23637850599",
+      "model": [
+        {
+          "model_id": "109026333379",
+          "name": "0-2 Tahun,Navy",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1697082191,
+          "seller_sku": "PSM-NV-XXXX",
+          "mtime": 1697082191,
+          "price_rule_id": "234156017856512",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 1,
+          "sold": 40,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        },
+        {
+          "model_id": "109026333378",
+          "name": "0-2 Tahun,Maroon",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1697082191,
+          "seller_sku": "PSM-MR-XXXX",
+          "mtime": 1697082191,
+          "price_rule_id": "234156017856512",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 1,
+          "sold": 25,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "8652441746",
+      "model": [
+        {
+          "model_id": "161634061371",
+          "name": "0-2 Tahun,White",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1649306286,
+          "seller_sku": "IH-WB-XXXX",
+          "mtime": 1717834165,
+          "price_rule_id": "234156017856512",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 1,
+          "sold": 566,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        },
+        {
+          "model_id": "265002475523",
+          "name": "0-2 Tahun,Black",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1746607232,
+          "seller_sku": "IH-BC-XXXX",
+          "mtime": 1746607233,
+          "price_rule_id": "234156017856512",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 1,
+          "sold": 21,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        },
+        {
+          "model_id": "265002475524",
+          "name": "0-2 Tahun,Brown",
+          "status": 1,
+          "tier_indices": [
+            0,
+            5
+          ],
+          "create_time": 1746607232,
+          "seller_sku": "IH-BR-XXXX",
+          "mtime": 1746607233,
+          "price_rule_id": "234156017856512",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 1,
+          "sold": 24,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        },
+        {
+          "model_id": "127730221608",
+          "name": "0-2 Tahun,Maroon",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1697081673,
+          "seller_sku": "IH-MR-XXXX",
+          "mtime": 1717834165,
+          "price_rule_id": "234156017856512",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 1,
+          "sold": 138,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        },
+        {
+          "model_id": "127730221609",
+          "name": "0-2 Tahun,Navy",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1697081673,
+          "seller_sku": "IH-NV-XXXX",
+          "mtime": 1717834165,
+          "price_rule_id": "234156017856512",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 1,
+          "sold": 136,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        },
+        {
+          "model_id": "161634061369",
+          "name": "0-2 Tahun,Lilac",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1649306286,
+          "seller_sku": "IH-LL-XXXX",
+          "mtime": 1717834165,
+          "price_rule_id": "234156017856512",
+          "price": "2200000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 1,
+          "sold": 529,
+          "price_info": {
+            "final_price": "1190000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24284375217",
+      "model": [
+        {
+          "model_id": "128002803270",
+          "name": "Hunter Green,4 tahun",
+          "status": 1,
+          "tier_indices": [
+            2,
+            3
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRHUNTER4T",
+          "mtime": 1723609193,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 5,
+          "sold": 286,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        },
+        {
+          "model_id": "128002803259",
+          "name": "Charc Grey,3 tahun",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRCHARC3T",
+          "mtime": 1759127806,
+          "price_rule_id": "0",
+          "price": "6000000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 0,
+          "sold": 1150,
+          "price_info": {
+            "final_price": "3000000000"
+          }
+        },
+        {
+          "model_id": "128002803267",
+          "name": "Hunter Green,1 tahun",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRHUNTER1T",
+          "mtime": 1723609193,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "5500000000",
+          "stock": 5,
+          "sold": 591,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        },
+        {
+          "model_id": "128002803269",
+          "name": "Hunter Green,3 tahun",
+          "status": 1,
+          "tier_indices": [
+            2,
+            2
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRHUNTER3T",
+          "mtime": 1759127806,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 5,
+          "sold": 596,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        },
+        {
+          "model_id": "128002803257",
+          "name": "Charc Grey,1 tahun",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRCHARC1T",
+          "mtime": 1723609193,
+          "price_rule_id": "0",
+          "price": "5500000000",
+          "currency": "IDR",
+          "normal_price": "5500000000",
+          "stock": 0,
+          "sold": 1251,
+          "price_info": {
+            "final_price": "2750000000"
+          }
+        },
+        {
+          "model_id": "128002803271",
+          "name": "Hunter Green,5 tahun",
+          "status": 1,
+          "tier_indices": [
+            2,
+            4
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRHUNTER5T",
+          "mtime": 1723609193,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 4,
+          "sold": 278,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        },
+        {
+          "model_id": "128002803264",
+          "name": "Preu Blue,3 tahun",
+          "status": 1,
+          "tier_indices": [
+            1,
+            2
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRPRUE3T",
+          "mtime": 1759127806,
+          "price_rule_id": "0",
+          "price": "6000000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 0,
+          "sold": 1077,
+          "price_info": {
+            "final_price": "3000000000"
+          }
+        },
+        {
+          "model_id": "128002803263",
+          "name": "Preu Blue,2 tahun",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRPRUE2T",
+          "mtime": 1723609193,
+          "price_rule_id": "0",
+          "price": "6000000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 0,
+          "sold": 925,
+          "price_info": {
+            "final_price": "3000000000"
+          }
+        },
+        {
+          "model_id": "128002803268",
+          "name": "Hunter Green,2 tahun",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRHUNTER2T",
+          "mtime": 1723609193,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 3,
+          "sold": 595,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        },
+        {
+          "model_id": "128002803260",
+          "name": "Charc Grey,4 tahun",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRCHARC4T",
+          "mtime": 1723609193,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 5,
+          "sold": 834,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        },
+        {
+          "model_id": "128002803261",
+          "name": "Charc Grey,5 tahun",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRCHARC5T",
+          "mtime": 1723609193,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 2,
+          "sold": 790,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        },
+        {
+          "model_id": "128002803266",
+          "name": "Preu Blue,5 tahun",
+          "status": 1,
+          "tier_indices": [
+            1,
+            4
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRPRUE5T",
+          "mtime": 1723609193,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 5,
+          "sold": 609,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        },
+        {
+          "model_id": "128002803262",
+          "name": "Preu Blue,1 tahun",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRPRUE1T",
+          "mtime": 1723609193,
+          "price_rule_id": "0",
+          "price": "5500000000",
+          "currency": "IDR",
+          "normal_price": "5500000000",
+          "stock": 0,
+          "sold": 1269,
+          "price_info": {
+            "final_price": "2750000000"
+          }
+        },
+        {
+          "model_id": "128002803258",
+          "name": "Charc Grey,2 tahun",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRCHARC2T",
+          "mtime": 1723609193,
+          "price_rule_id": "0",
+          "price": "6000000000",
+          "currency": "IDR",
+          "normal_price": "6000000000",
+          "stock": 0,
+          "sold": 1307,
+          "price_info": {
+            "final_price": "3000000000"
+          }
+        },
+        {
+          "model_id": "128002803265",
+          "name": "Preu Blue,4 tahun",
+          "status": 1,
+          "tier_indices": [
+            1,
+            3
+          ],
+          "create_time": 1722829548,
+          "seller_sku": "KEO212CRPRUE4T",
+          "mtime": 1723609193,
+          "price_rule_id": "227576727748608",
+          "price": "4500000000",
+          "currency": "IDR",
+          "normal_price": "6500000000",
+          "stock": 5,
+          "sold": 660,
+          "price_info": {
+            "final_price": "3375000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "10636286001",
+      "model": [
+        {
+          "model_id": "198053911441",
+          "name": "Warm Beige",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1733901424,
+          "seller_sku": "",
+          "mtime": 1733901424,
+          "price_rule_id": "234550718644226",
+          "price": "14990000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 8,
+          "sold": 72,
+          "price_info": {
+            "final_price": "9990000000"
+          }
+        },
+        {
+          "model_id": "198053911439",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1733901424,
+          "seller_sku": "",
+          "mtime": 1733901424,
+          "price_rule_id": "234550718644226",
+          "price": "14990000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 8,
+          "sold": 867,
+          "price_info": {
+            "final_price": "9990000000"
+          }
+        },
+        {
+          "model_id": "198053911440",
+          "name": "White",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1733901424,
+          "seller_sku": "",
+          "mtime": 1733901424,
+          "price_rule_id": "234550718644226",
+          "price": "14990000000",
+          "currency": "IDR",
+          "normal_price": "19900000000",
+          "stock": 8,
+          "sold": 95,
+          "price_info": {
+            "final_price": "9990000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "18081876958",
+      "model": [
+        {
+          "model_id": "89710870579",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1733904064,
+          "seller_sku": "",
+          "mtime": 1733904064,
+          "price_rule_id": "234550718644226",
+          "price": "23300000000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 8,
+          "sold": 362,
+          "price_info": {
+            "final_price": "18300000000"
+          }
+        },
+        {
+          "model_id": "89710870578",
+          "name": "Ivory",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1733904064,
+          "seller_sku": "",
+          "mtime": 1733904064,
+          "price_rule_id": "234550718644226",
+          "price": "23309900000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 8,
+          "sold": 918,
+          "price_info": {
+            "final_price": "18309900000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23143405283",
+      "model": [
+        {
+          "model_id": "252229210693",
+          "name": "Black",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1733903827,
+          "seller_sku": "",
+          "mtime": 1733903827,
+          "price_rule_id": "234550718644226",
+          "price": "23300000000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 8,
+          "sold": 608,
+          "price_info": {
+            "final_price": "18300000000"
+          }
+        },
+        {
+          "model_id": "252229210694",
+          "name": "Ivory",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1733903827,
+          "seller_sku": "",
+          "mtime": 1733903827,
+          "price_rule_id": "234550718644226",
+          "price": "23300000000",
+          "currency": "IDR",
+          "normal_price": "25900000000",
+          "stock": 8,
+          "sold": 95,
+          "price_info": {
+            "final_price": "18300000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25923928978",
+      "model": [
+        {
+          "model_id": "29785997059",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1712996196,
+          "seller_sku": "",
+          "mtime": 1712996196,
+          "price_rule_id": "840495102757888",
+          "price": "5770000000",
+          "currency": "IDR",
+          "normal_price": "6900000000",
+          "stock": 41,
+          "sold": 119029,
+          "price_info": {
+            "final_price": "2685000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26216937067",
+      "model": [
+        {
+          "model_id": "197956741392",
+          "name": "0",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1731033978,
+          "seller_sku": "",
+          "mtime": 1731033978,
+          "price_rule_id": "227576727748608",
+          "price": "2400000000",
+          "currency": "IDR",
+          "normal_price": "3100000000",
+          "stock": 7,
+          "sold": 11062,
+          "price_info": {
+            "final_price": "1400000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26317041791",
+      "model": [
+        {
+          "model_id": "195539998867",
+          "name": "EDP Saffron Oud",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1731109100,
+          "seller_sku": "2030031785405",
+          "mtime": 1731109100,
+          "price_rule_id": "841920159466496",
+          "price": "28130000000",
+          "currency": "IDR",
+          "normal_price": "31900000000",
+          "stock": 1695,
+          "sold": 421,
+          "price_info": {
+            "final_price": "22216000000"
+          }
+        },
+        {
+          "model_id": "195539998870",
+          "name": "EDT Revered Oud",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1731109100,
+          "seller_sku": "2030031785403",
+          "mtime": 1731109100,
+          "price_rule_id": "227576727748608",
+          "price": "7709700000",
+          "currency": "IDR",
+          "normal_price": "9100000000",
+          "stock": 79,
+          "sold": 3662,
+          "price_info": {
+            "final_price": "3854800000"
+          }
+        },
+        {
+          "model_id": "445071669985",
+          "name": "Humbling+BW",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1762246728,
+          "seller_sku": "2030097802922",
+          "mtime": 1762246728,
+          "price_rule_id": "841920159466496",
+          "price": "28130000000",
+          "currency": "IDR",
+          "normal_price": "44000000000",
+          "stock": 1,
+          "sold": 259,
+          "price_info": {
+            "final_price": "22216000000"
+          }
+        },
+        {
+          "model_id": "445071669983",
+          "name": "Revered+BW",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1762246728,
+          "seller_sku": "2030097802920",
+          "mtime": 1762246728,
+          "price_rule_id": "841920159466496",
+          "price": "28130000000",
+          "currency": "IDR",
+          "normal_price": "36900000000",
+          "stock": 1,
+          "sold": 85,
+          "price_info": {
+            "final_price": "22216000000"
+          }
+        },
+        {
+          "model_id": "252057972768",
+          "name": "Revered + EDT",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1731988393,
+          "seller_sku": "2030031785607",
+          "mtime": 1731988393,
+          "price_rule_id": "0",
+          "price": "41000000000",
+          "currency": "IDR",
+          "normal_price": "41000000000",
+          "stock": 0,
+          "sold": 481,
+          "price_info": {
+            "final_price": "32512000000"
+          }
+        },
+        {
+          "model_id": "195539998871",
+          "name": "EDTInvigorating",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1731109100,
+          "seller_sku": "2030031785400",
+          "mtime": 1731109100,
+          "price_rule_id": "841920159466496",
+          "price": "8041300000",
+          "currency": "IDR",
+          "normal_price": "9100000000",
+          "stock": 2308,
+          "sold": 1661,
+          "price_info": {
+            "final_price": "4020600000"
+          }
+        },
+        {
+          "model_id": "195539998868",
+          "name": "EDT Brotherhood",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1731109100,
+          "seller_sku": "2030031785402",
+          "mtime": 1731109100,
+          "price_rule_id": "841920159466496",
+          "price": "8041300000",
+          "currency": "IDR",
+          "normal_price": "9100000000",
+          "stock": 4691,
+          "sold": 906,
+          "price_info": {
+            "final_price": "4020600000"
+          }
+        },
+        {
+          "model_id": "276884310272",
+          "name": "EDP Humbling",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1759898752,
+          "seller_sku": "2030097801199",
+          "mtime": 1759898752,
+          "price_rule_id": "841920159466496",
+          "price": "28130000000",
+          "currency": "IDR",
+          "normal_price": "39000000000",
+          "stock": 786,
+          "sold": 145,
+          "price_info": {
+            "final_price": "22216000000"
+          }
+        },
+        {
+          "model_id": "276884310271",
+          "name": "EDPInvigorating",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1759898752,
+          "seller_sku": "2030097801198",
+          "mtime": 1759898752,
+          "price_rule_id": "841920159466496",
+          "price": "28130000000",
+          "currency": "IDR",
+          "normal_price": "39000000000",
+          "stock": 774,
+          "sold": 98,
+          "price_info": {
+            "final_price": "22216000000"
+          }
+        },
+        {
+          "model_id": "195539998869",
+          "name": "EDT Humbling",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1731109100,
+          "seller_sku": "2030031785401",
+          "mtime": 1731109100,
+          "price_rule_id": "841920159466496",
+          "price": "8041300000",
+          "currency": "IDR",
+          "normal_price": "9100000000",
+          "stock": 2817,
+          "sold": 2261,
+          "price_info": {
+            "final_price": "4020600000"
+          }
+        },
+        {
+          "model_id": "445071669982",
+          "name": "Saffron+BW",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1762246728,
+          "seller_sku": "2030097802919",
+          "mtime": 1762246728,
+          "price_rule_id": "841920159466496",
+          "price": "28130000000",
+          "currency": "IDR",
+          "normal_price": "36900000000",
+          "stock": 1,
+          "sold": 48,
+          "price_info": {
+            "final_price": "22216000000"
+          }
+        },
+        {
+          "model_id": "445071669984",
+          "name": "Invigorating+BW",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1762246728,
+          "seller_sku": "2030097802921",
+          "mtime": 1762246728,
+          "price_rule_id": "841920159466496",
+          "price": "28130000000",
+          "currency": "IDR",
+          "normal_price": "44000000000",
+          "stock": 1,
+          "sold": 121,
+          "price_info": {
+            "final_price": "22216000000"
+          }
+        },
+        {
+          "model_id": "195539998866",
+          "name": "EDP Revered Oud",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1731109100,
+          "seller_sku": "2030031785404",
+          "mtime": 1731109100,
+          "price_rule_id": "841920159466496",
+          "price": "28130000000",
+          "currency": "IDR",
+          "normal_price": "31900000000",
+          "stock": 1575,
+          "sold": 599,
+          "price_info": {
+            "final_price": "22216000000"
+          }
+        },
+        {
+          "model_id": "252057972769",
+          "name": "Saffron + EDT",
+          "status": 1,
+          "tier_indices": [
+            13
+          ],
+          "create_time": 1731988393,
+          "seller_sku": "2030031785608",
+          "mtime": 1731988393,
+          "price_rule_id": "0",
+          "price": "41000000000",
+          "currency": "IDR",
+          "normal_price": "41000000000",
+          "stock": 0,
+          "sold": 304,
+          "price_info": {
+            "final_price": "32512000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22025657237",
+      "model": [
+        {
+          "model_id": "175598145643",
+          "name": "Note 10 Lite,1 PCS (LH09/10)",
+          "status": 1,
+          "tier_indices": [
+            2,
+            0
+          ],
+          "create_time": 1676778938,
+          "seller_sku": "CLEAR NO.10-GTH09",
+          "mtime": 1713094073,
+          "price_rule_id": "820081475502080",
+          "price": "2100000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 1886,
+          "sold": 1,
+          "price_info": {
+            "final_price": "1100000000"
+          }
+        },
+        {
+          "model_id": "175598145644",
+          "name": "Note 10 Lite,2 PCS (LH09/10)",
+          "status": 1,
+          "tier_indices": [
+            2,
+            1
+          ],
+          "create_time": 1676778938,
+          "seller_sku": "CLEAR NO.10-GTH09*2",
+          "mtime": 1713094073,
+          "price_rule_id": "820081475502080",
+          "price": "3700000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 888,
+          "sold": 2,
+          "price_info": {
+            "final_price": "2700000000"
+          }
+        },
+        {
+          "model_id": "175598145645",
+          "name": "Note 11 Pro,1 PCS (LH09/10)",
+          "status": 1,
+          "tier_indices": [
+            3,
+            0
+          ],
+          "create_time": 1676778938,
+          "seller_sku": "CLEAR NO.10-GTH09",
+          "mtime": 1713094073,
+          "price_rule_id": "820081475502080",
+          "price": "2100000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 1882,
+          "sold": 7,
+          "price_info": {
+            "final_price": "1100000000"
+          }
+        },
+        {
+          "model_id": "175598145646",
+          "name": "Note 11 Pro,2 PCS (LH09/10)",
+          "status": 1,
+          "tier_indices": [
+            3,
+            1
+          ],
+          "create_time": 1676778938,
+          "seller_sku": "CLEAR NO.10-GTH09*2",
+          "mtime": 1713094073,
+          "price_rule_id": "820081475502080",
+          "price": "3700000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 888,
+          "sold": 0,
+          "price_info": {
+            "final_price": "2700000000"
+          }
+        },
+        {
+          "model_id": "175598145647",
+          "name": "Note 9 Pro,1 PCS (LH09/10)",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1676778938,
+          "seller_sku": "CLEAR NO.10-GTH09",
+          "mtime": 1713094073,
+          "price_rule_id": "820081475502080",
+          "price": "2100000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 1879,
+          "sold": 14,
+          "price_info": {
+            "final_price": "1100000000"
+          }
+        },
+        {
+          "model_id": "175598145640",
+          "name": "Note 9 Pro,2 PCS (LH09/10)",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1676778938,
+          "seller_sku": "CLEAR NO.10-GTH09*2",
+          "mtime": 1713094073,
+          "price_rule_id": "820081475502080",
+          "price": "3700000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 886,
+          "sold": 2,
+          "price_info": {
+            "final_price": "2700000000"
+          }
+        },
+        {
+          "model_id": "175598145641",
+          "name": "Note 10 Pro,1 PCS (LH09/10)",
+          "status": 1,
+          "tier_indices": [
+            1,
+            0
+          ],
+          "create_time": 1676778938,
+          "seller_sku": "CLEAR NO.10-GTH09",
+          "mtime": 1713094073,
+          "price_rule_id": "820081475502080",
+          "price": "2100000000",
+          "currency": "IDR",
+          "normal_price": "5000000000",
+          "stock": 1877,
+          "sold": 16,
+          "price_info": {
+            "final_price": "1100000000"
+          }
+        },
+        {
+          "model_id": "175598145642",
+          "name": "Note 10 Pro,2 PCS (LH09/10)",
+          "status": 1,
+          "tier_indices": [
+            1,
+            1
+          ],
+          "create_time": 1676778938,
+          "seller_sku": "CLEAR NO.10-GTH09*2",
+          "mtime": 1713094073,
+          "price_rule_id": "820081475502080",
+          "price": "3700000000",
+          "currency": "IDR",
+          "normal_price": "10000000000",
+          "stock": 883,
+          "sold": 6,
+          "price_info": {
+            "final_price": "2700000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "7538480378",
+      "model": [
+        {
+          "model_id": "224552428133",
+          "name": "72016- Army",
+          "status": 1,
+          "tier_indices": [
+            31
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72016",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "34900000000",
+          "currency": "IDR",
+          "normal_price": "34900000000",
+          "stock": 36,
+          "sold": 0,
+          "price_info": {
+            "final_price": "29400000000"
+          }
+        },
+        {
+          "model_id": "185039395507",
+          "name": "72012-Maroon",
+          "status": 1,
+          "tier_indices": [
+            19
+          ],
+          "create_time": 1713514410,
+          "seller_sku": "72012",
+          "mtime": 1713514410,
+          "price_rule_id": "227571908493313",
+          "price": "28975000000",
+          "currency": "IDR",
+          "normal_price": "30500000000",
+          "stock": 12,
+          "sold": 39,
+          "price_info": {
+            "final_price": "23475000000"
+          }
+        },
+        {
+          "model_id": "185557423080",
+          "name": "72013-Army",
+          "status": 1,
+          "tier_indices": [
+            23
+          ],
+          "create_time": 1731643129,
+          "seller_sku": "72013",
+          "mtime": 1731643129,
+          "price_rule_id": "0",
+          "price": "28800000000",
+          "currency": "IDR",
+          "normal_price": "28800000000",
+          "stock": 52,
+          "sold": 58,
+          "price_info": {
+            "final_price": "23300000000"
+          }
+        },
+        {
+          "model_id": "228144134374",
+          "name": "72014- Milo",
+          "status": 1,
+          "tier_indices": [
+            24
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72014",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "16000000000",
+          "currency": "IDR",
+          "normal_price": "16000000000",
+          "stock": 35,
+          "sold": 0,
+          "price_info": {
+            "final_price": "10800000000"
+          }
+        },
+        {
+          "model_id": "185557423081",
+          "name": "72013-Abu",
+          "status": 1,
+          "tier_indices": [
+            21
+          ],
+          "create_time": 1731643129,
+          "seller_sku": "72013",
+          "mtime": 1731643129,
+          "price_rule_id": "0",
+          "price": "28800000000",
+          "currency": "IDR",
+          "normal_price": "28800000000",
+          "stock": 45,
+          "sold": 140,
+          "price_info": {
+            "final_price": "23300000000"
+          }
+        },
+        {
+          "model_id": "69166748429",
+          "name": "72001-Navy",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1667897876,
+          "seller_sku": "72001",
+          "mtime": 1667897876,
+          "price_rule_id": "0",
+          "price": "23800000000",
+          "currency": "IDR",
+          "normal_price": "23800000000",
+          "stock": 116,
+          "sold": 151,
+          "price_info": {
+            "final_price": "18300000000"
+          }
+        },
+        {
+          "model_id": "224552428130",
+          "name": "72015- Grey",
+          "status": 1,
+          "tier_indices": [
+            28
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72015",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "16500000000",
+          "currency": "IDR",
+          "normal_price": "16500000000",
+          "stock": 35,
+          "sold": 1,
+          "price_info": {
+            "final_price": "11300000000"
+          }
+        },
+        {
+          "model_id": "430007266221",
+          "name": "72016 + 39021",
+          "status": 1,
+          "tier_indices": [
+            35
+          ],
+          "create_time": 1761277952,
+          "seller_sku": "72016 + 39021",
+          "mtime": 1761277952,
+          "price_rule_id": "0",
+          "price": "47490000000",
+          "currency": "IDR",
+          "normal_price": "47490000000",
+          "stock": 24,
+          "sold": 0,
+          "price_info": {
+            "final_price": "41351200000"
+          }
+        },
+        {
+          "model_id": "231349840184",
+          "name": "72010-Merah",
+          "status": 1,
+          "tier_indices": [
+            11
+          ],
+          "create_time": 1679970308,
+          "seller_sku": "72010",
+          "mtime": 1679970308,
+          "price_rule_id": "0",
+          "price": "25200000000",
+          "currency": "IDR",
+          "normal_price": "25200000000",
+          "stock": 12,
+          "sold": 32,
+          "price_info": {
+            "final_price": "19700000000"
+          }
+        },
+        {
+          "model_id": "185557423082",
+          "name": "72013-Navy",
+          "status": 1,
+          "tier_indices": [
+            22
+          ],
+          "create_time": 1731643129,
+          "seller_sku": "72013",
+          "mtime": 1731643129,
+          "price_rule_id": "0",
+          "price": "28800000000",
+          "currency": "IDR",
+          "normal_price": "28800000000",
+          "stock": 44,
+          "sold": 147,
+          "price_info": {
+            "final_price": "23300000000"
+          }
+        },
+        {
+          "model_id": "224552428131",
+          "name": "72015- Pink",
+          "status": 1,
+          "tier_indices": [
+            29
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72015",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "16500000000",
+          "currency": "IDR",
+          "normal_price": "16500000000",
+          "stock": 36,
+          "sold": 0,
+          "price_info": {
+            "final_price": "11300000000"
+          }
+        },
+        {
+          "model_id": "59167228445",
+          "name": "72001-Abu",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1667897876,
+          "seller_sku": "72001",
+          "mtime": 1667897876,
+          "price_rule_id": "0",
+          "price": "23800000000",
+          "currency": "IDR",
+          "normal_price": "23800000000",
+          "stock": 117,
+          "sold": 68,
+          "price_info": {
+            "final_price": "18300000000"
+          }
+        },
+        {
+          "model_id": "430007266220",
+          "name": "72013 + 39021",
+          "status": 1,
+          "tier_indices": [
+            34
+          ],
+          "create_time": 1761277952,
+          "seller_sku": "72013 + 39021",
+          "mtime": 1761277952,
+          "price_rule_id": "0",
+          "price": "41300000000",
+          "currency": "IDR",
+          "normal_price": "41300000000",
+          "stock": 22,
+          "sold": 2,
+          "price_info": {
+            "final_price": "35800000000"
+          }
+        },
+        {
+          "model_id": "224552428128",
+          "name": "72014- Stone Grey",
+          "status": 1,
+          "tier_indices": [
+            26
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72014",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "16000000000",
+          "currency": "IDR",
+          "normal_price": "16000000000",
+          "stock": 35,
+          "sold": 1,
+          "price_info": {
+            "final_price": "10800000000"
+          }
+        },
+        {
+          "model_id": "204065047580",
+          "name": "72009-Merah",
+          "status": 1,
+          "tier_indices": [
+            8
+          ],
+          "create_time": 1679042299,
+          "seller_sku": "72009",
+          "mtime": 1679042299,
+          "price_rule_id": "0",
+          "price": "27000000000",
+          "currency": "IDR",
+          "normal_price": "27000000000",
+          "stock": 91,
+          "sold": 48,
+          "price_info": {
+            "final_price": "21500000000"
+          }
+        },
+        {
+          "model_id": "224552428134",
+          "name": "72016- Abu",
+          "status": 1,
+          "tier_indices": [
+            32
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72016",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "34900000000",
+          "currency": "IDR",
+          "normal_price": "34900000000",
+          "stock": 36,
+          "sold": 0,
+          "price_info": {
+            "final_price": "29400000000"
+          }
+        },
+        {
+          "model_id": "69166748428",
+          "name": "71094-Coklat",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1667897876,
+          "seller_sku": "71094",
+          "mtime": 1672892475,
+          "price_rule_id": "0",
+          "price": "36000000000",
+          "currency": "IDR",
+          "normal_price": "36000000000",
+          "stock": 57,
+          "sold": 19,
+          "price_info": {
+            "final_price": "30500000000"
+          }
+        },
+        {
+          "model_id": "222146023822",
+          "name": "72011-Navy",
+          "status": 1,
+          "tier_indices": [
+            13
+          ],
+          "create_time": 1697705441,
+          "seller_sku": "72011",
+          "mtime": 1697705441,
+          "price_rule_id": "0",
+          "price": "28800000000",
+          "currency": "IDR",
+          "normal_price": "28800000000",
+          "stock": 55,
+          "sold": 398,
+          "price_info": {
+            "final_price": "23300000000"
+          }
+        },
+        {
+          "model_id": "325318481202",
+          "name": "72011 Light Brown",
+          "status": 1,
+          "tier_indices": [
+            16
+          ],
+          "create_time": 1766119760,
+          "seller_sku": "72011",
+          "mtime": 1766119760,
+          "price_rule_id": "0",
+          "price": "28800000000",
+          "currency": "IDR",
+          "normal_price": "28800000000",
+          "stock": 7,
+          "sold": 5,
+          "price_info": {
+            "final_price": "23300000000"
+          }
+        },
+        {
+          "model_id": "69166748431",
+          "name": "71097-merah",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1667897876,
+          "seller_sku": "71097",
+          "mtime": 1667897876,
+          "price_rule_id": "0",
+          "price": "34200000000",
+          "currency": "IDR",
+          "normal_price": "34200000000",
+          "stock": 73,
+          "sold": 6,
+          "price_info": {
+            "final_price": "28700000000"
+          }
+        },
+        {
+          "model_id": "59167228447",
+          "name": "71097-Hitam",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1667897876,
+          "seller_sku": "71097",
+          "mtime": 1667897876,
+          "price_rule_id": "0",
+          "price": "34200000000",
+          "currency": "IDR",
+          "normal_price": "34200000000",
+          "stock": 75,
+          "sold": 16,
+          "price_info": {
+            "final_price": "28700000000"
+          }
+        },
+        {
+          "model_id": "69166748427",
+          "name": "71094- Navy",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1667897876,
+          "seller_sku": "71094",
+          "mtime": 1672892475,
+          "price_rule_id": "0",
+          "price": "36000000000",
+          "currency": "IDR",
+          "normal_price": "36000000000",
+          "stock": 57,
+          "sold": 36,
+          "price_info": {
+            "final_price": "30500000000"
+          }
+        },
+        {
+          "model_id": "228144134375",
+          "name": "72014- Navy",
+          "status": 1,
+          "tier_indices": [
+            25
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72014",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "16000000000",
+          "currency": "IDR",
+          "normal_price": "16000000000",
+          "stock": 34,
+          "sold": 2,
+          "price_info": {
+            "final_price": "10800000000"
+          }
+        },
+        {
+          "model_id": "69166748426",
+          "name": "71094- Merah",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1667897876,
+          "seller_sku": "71094",
+          "mtime": 1672892475,
+          "price_rule_id": "0",
+          "price": "36000000000",
+          "currency": "IDR",
+          "normal_price": "36000000000",
+          "stock": 60,
+          "sold": 11,
+          "price_info": {
+            "final_price": "30500000000"
+          }
+        },
+        {
+          "model_id": "29459308950",
+          "name": "72011-Teracotta",
+          "status": 1,
+          "tier_indices": [
+            15
+          ],
+          "create_time": 1708331505,
+          "seller_sku": "72011",
+          "mtime": 1708331505,
+          "price_rule_id": "0",
+          "price": "28800000000",
+          "currency": "IDR",
+          "normal_price": "28800000000",
+          "stock": 0,
+          "sold": 107,
+          "price_info": {
+            "final_price": "23300000000"
+          }
+        },
+        {
+          "model_id": "204065047579",
+          "name": "72009-Biru",
+          "status": 1,
+          "tier_indices": [
+            9
+          ],
+          "create_time": 1679042299,
+          "seller_sku": "72009",
+          "mtime": 1679042299,
+          "price_rule_id": "0",
+          "price": "27000000000",
+          "currency": "IDR",
+          "normal_price": "27000000000",
+          "stock": 98,
+          "sold": 29,
+          "price_info": {
+            "final_price": "21500000000"
+          }
+        },
+        {
+          "model_id": "222146023823",
+          "name": "72011-Abu",
+          "status": 1,
+          "tier_indices": [
+            12
+          ],
+          "create_time": 1697705441,
+          "seller_sku": "72011",
+          "mtime": 1697705441,
+          "price_rule_id": "0",
+          "price": "28800000000",
+          "currency": "IDR",
+          "normal_price": "28800000000",
+          "stock": 42,
+          "sold": 457,
+          "price_info": {
+            "final_price": "23300000000"
+          }
+        },
+        {
+          "model_id": "258195271930",
+          "name": "71904 Biru Muda",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1744775200,
+          "seller_sku": "71094",
+          "mtime": 1744775200,
+          "price_rule_id": "0",
+          "price": "36000000000",
+          "currency": "IDR",
+          "normal_price": "36000000000",
+          "stock": 3,
+          "sold": 1,
+          "price_info": {
+            "final_price": "30500000000"
+          }
+        },
+        {
+          "model_id": "430007266219",
+          "name": "72011 + 39021",
+          "status": 1,
+          "tier_indices": [
+            33
+          ],
+          "create_time": 1761277952,
+          "seller_sku": "72011 + 39021",
+          "mtime": 1761277952,
+          "price_rule_id": "0",
+          "price": "41300000000",
+          "currency": "IDR",
+          "normal_price": "41300000000",
+          "stock": 23,
+          "sold": 1,
+          "price_info": {
+            "final_price": "35800000000"
+          }
+        },
+        {
+          "model_id": "185039395506",
+          "name": "72012-Navy",
+          "status": 1,
+          "tier_indices": [
+            18
+          ],
+          "create_time": 1713514410,
+          "seller_sku": "72012",
+          "mtime": 1713514410,
+          "price_rule_id": "0",
+          "price": "30500000000",
+          "currency": "IDR",
+          "normal_price": "30500000000",
+          "stock": 0,
+          "sold": 99,
+          "price_info": {
+            "final_price": "25000000000"
+          }
+        },
+        {
+          "model_id": "185039395505",
+          "name": "72012-Abu",
+          "status": 1,
+          "tier_indices": [
+            17
+          ],
+          "create_time": 1713514410,
+          "seller_sku": "72012",
+          "mtime": 1713514410,
+          "price_rule_id": "0",
+          "price": "30500000000",
+          "currency": "IDR",
+          "normal_price": "30500000000",
+          "stock": 58,
+          "sold": 76,
+          "price_info": {
+            "final_price": "25000000000"
+          }
+        },
+        {
+          "model_id": "224552428129",
+          "name": "72015- Biru",
+          "status": 1,
+          "tier_indices": [
+            27
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72015",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "16500000000",
+          "currency": "IDR",
+          "normal_price": "16500000000",
+          "stock": 36,
+          "sold": 0,
+          "price_info": {
+            "final_price": "11300000000"
+          }
+        },
+        {
+          "model_id": "224552428132",
+          "name": "72016- Navy",
+          "status": 1,
+          "tier_indices": [
+            30
+          ],
+          "create_time": 1759380389,
+          "seller_sku": "72016",
+          "mtime": 1759380389,
+          "price_rule_id": "0",
+          "price": "34900000000",
+          "currency": "IDR",
+          "normal_price": "34900000000",
+          "stock": 36,
+          "sold": 0,
+          "price_info": {
+            "final_price": "29400000000"
+          }
+        },
+        {
+          "model_id": "185039395508",
+          "name": "72012-Coklat",
+          "status": 1,
+          "tier_indices": [
+            20
+          ],
+          "create_time": 1713514410,
+          "seller_sku": "72012",
+          "mtime": 1713514410,
+          "price_rule_id": "227571908493313",
+          "price": "28975000000",
+          "currency": "IDR",
+          "normal_price": "30500000000",
+          "stock": 12,
+          "sold": 70,
+          "price_info": {
+            "final_price": "23475000000"
+          }
+        },
+        {
+          "model_id": "204065047581",
+          "name": "72009-Abu-abu",
+          "status": 1,
+          "tier_indices": [
+            10
+          ],
+          "create_time": 1679042299,
+          "seller_sku": "72009",
+          "mtime": 1679042299,
+          "price_rule_id": "0",
+          "price": "27000000000",
+          "currency": "IDR",
+          "normal_price": "27000000000",
+          "stock": 87,
+          "sold": 92,
+          "price_info": {
+            "final_price": "21500000000"
+          }
+        },
+        {
+          "model_id": "29459308949",
+          "name": "72011-Army",
+          "status": 1,
+          "tier_indices": [
+            14
+          ],
+          "create_time": 1708331505,
+          "seller_sku": "72011",
+          "mtime": 1708331505,
+          "price_rule_id": "0",
+          "price": "28800000000",
+          "currency": "IDR",
+          "normal_price": "28800000000",
+          "stock": 57,
+          "sold": 109,
+          "price_info": {
+            "final_price": "23300000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "53353750854",
+      "model": [
+        {
+          "model_id": "350356098380",
+          "name": "Green Mocca,S",
+          "status": 1,
+          "tier_indices": [
+            0,
+            0
+          ],
+          "create_time": 1766712250,
+          "seller_sku": "KD-RGB013-HM-S",
+          "mtime": 1766712250,
+          "price_rule_id": "234401078456320",
+          "price": "7100000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 5,
+          "sold": 5,
+          "price_info": {
+            "final_price": "3550000000"
+          }
+        },
+        {
+          "model_id": "350356098381",
+          "name": "Green Mocca,M",
+          "status": 1,
+          "tier_indices": [
+            0,
+            1
+          ],
+          "create_time": 1766712250,
+          "seller_sku": "KD-RGB013-HM-M",
+          "mtime": 1766712250,
+          "price_rule_id": "234401078456320",
+          "price": "7600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 5,
+          "sold": 14,
+          "price_info": {
+            "final_price": "3800000000"
+          }
+        },
+        {
+          "model_id": "350356098382",
+          "name": "Green Mocca,L",
+          "status": 1,
+          "tier_indices": [
+            0,
+            2
+          ],
+          "create_time": 1766712250,
+          "seller_sku": "KD-RGB013-HM-L",
+          "mtime": 1766712250,
+          "price_rule_id": "234401078456320",
+          "price": "7600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 5,
+          "sold": 27,
+          "price_info": {
+            "final_price": "3800000000"
+          }
+        },
+        {
+          "model_id": "350356098383",
+          "name": "Green Mocca,XL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            3
+          ],
+          "create_time": 1766712250,
+          "seller_sku": "KD-RGB013-HM-XL",
+          "mtime": 1766712250,
+          "price_rule_id": "234401078456320",
+          "price": "7600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 5,
+          "sold": 13,
+          "price_info": {
+            "final_price": "3800000000"
+          }
+        },
+        {
+          "model_id": "350356098384",
+          "name": "Green Mocca,XXL",
+          "status": 1,
+          "tier_indices": [
+            0,
+            4
+          ],
+          "create_time": 1766712250,
+          "seller_sku": "KD-RGB013-HM-XXL",
+          "mtime": 1766712250,
+          "price_rule_id": "234401078456320",
+          "price": "7600000000",
+          "currency": "IDR",
+          "normal_price": "17000000000",
+          "stock": 5,
+          "sold": 13,
+          "price_info": {
+            "final_price": "3800000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "43276146779",
+      "model": [
+        {
+          "model_id": "420076238853",
+          "name": "Multipack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1762325283,
+          "seller_sku": "",
+          "mtime": 1762325283,
+          "price_rule_id": "0",
+          "price": "3640000000",
+          "currency": "IDR",
+          "normal_price": "3640000000",
+          "stock": 18,
+          "sold": 1972,
+          "price_info": {
+            "final_price": "2640000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25025182379",
+      "model": [
+        {
+          "model_id": "255663969101",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1713523464,
+          "seller_sku": "",
+          "mtime": 1713523464,
+          "price_rule_id": "814342921043968",
+          "price": "1450000000",
+          "currency": "IDR",
+          "normal_price": "1590000000",
+          "stock": 401,
+          "sold": 1746,
+          "price_info": {
+            "final_price": "450000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40876013018",
+      "model": [
+        {
+          "model_id": "335050040614",
+          "name": "Multipack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761880467,
+          "seller_sku": "",
+          "mtime": 1761880467,
+          "price_rule_id": "0",
+          "price": "17460000000",
+          "currency": "IDR",
+          "normal_price": "17460000000",
+          "stock": 3,
+          "sold": 2390,
+          "price_info": {
+            "final_price": "12460000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23767949209",
+      "model": [
+        {
+          "model_id": "29694252862",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1684148879,
+          "seller_sku": "",
+          "mtime": 1684148879,
+          "price_rule_id": "234119976202240",
+          "price": "45600000000",
+          "currency": "IDR",
+          "normal_price": "48000000000",
+          "stock": 3,
+          "sold": 2309,
+          "price_info": {
+            "final_price": "35600000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "17746027916",
+      "model": [
+        {
+          "model_id": "171794087664",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1649734806,
+          "seller_sku": "",
+          "mtime": 1649734806,
+          "price_rule_id": "842899663668224",
+          "price": "17230000000",
+          "currency": "IDR",
+          "normal_price": "20270000000",
+          "stock": 22,
+          "sold": 3278,
+          "price_info": {
+            "final_price": "12230000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "10591962343",
+      "model": [
+        {
+          "model_id": "161570158466",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1649066486,
+          "seller_sku": "",
+          "mtime": 1649066486,
+          "price_rule_id": "842899663668224",
+          "price": "17230000000",
+          "currency": "IDR",
+          "normal_price": "20270000000",
+          "stock": 18,
+          "sold": 308,
+          "price_info": {
+            "final_price": "12230000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "5502195089",
+      "model": [
+        {
+          "model_id": "187393349291",
+          "name": "100ml (Travel Size)",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1711264597,
+          "seller_sku": "MUSK-100",
+          "mtime": 1768884518,
+          "price_rule_id": "227580410343424",
+          "price": "5031600000",
+          "currency": "IDR",
+          "normal_price": "5990000000",
+          "stock": 5,
+          "sold": 129,
+          "price_info": {
+            "final_price": "2515800000"
+          }
+        },
+        {
+          "model_id": "230541465872",
+          "name": "500ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1671255669,
+          "seller_sku": "MUSK-500",
+          "mtime": 1768884518,
+          "price_rule_id": "227580410343424",
+          "price": "15121100000",
+          "currency": "IDR",
+          "normal_price": "16990000000",
+          "stock": 5,
+          "sold": 366,
+          "price_info": {
+            "final_price": "10121100000"
+          }
+        },
+        {
+          "model_id": "425044201175",
+          "name": "300ml",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1761805523,
+          "seller_sku": "MUSK-300",
+          "mtime": 1768884518,
+          "price_rule_id": "227580410343424",
+          "price": "10071600000",
+          "currency": "IDR",
+          "normal_price": "11990000000",
+          "stock": 5,
+          "sold": 14,
+          "price_info": {
+            "final_price": "5071600000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "4739320059",
+      "model": [
+        {
+          "model_id": "184114655145",
+          "name": "500ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1679791393,
+          "seller_sku": "ACNE-500",
+          "mtime": 1768883802,
+          "price_rule_id": "10000017430",
+          "price": "18990000000",
+          "currency": "IDR",
+          "normal_price": "19990000000",
+          "stock": 1799,
+          "sold": 963,
+          "price_info": {
+            "final_price": "13990000000"
+          }
+        },
+        {
+          "model_id": "184114655146",
+          "name": "1000ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1679791393,
+          "seller_sku": "ACNE-1000",
+          "mtime": 1768883802,
+          "price_rule_id": "0",
+          "price": "34990000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 1026,
+          "sold": 317,
+          "price_info": {
+            "final_price": "27992000000"
+          }
+        },
+        {
+          "model_id": "440224410124",
+          "name": "300ml",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1764403979,
+          "seller_sku": "ACNE-300",
+          "mtime": 1768883802,
+          "price_rule_id": "227580410343424",
+          "price": "14249000000",
+          "currency": "IDR",
+          "normal_price": "14999000000",
+          "stock": 1,
+          "sold": 120,
+          "price_info": {
+            "final_price": "9249000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "11381016976",
+      "model": [
+        {
+          "model_id": "114792538728",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1641277548,
+          "seller_sku": "",
+          "mtime": 1641277548,
+          "price_rule_id": "227576727748608",
+          "price": "3747000000",
+          "currency": "IDR",
+          "normal_price": "4500000000",
+          "stock": 21,
+          "sold": 48952,
+          "price_info": {
+            "final_price": "2637000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29278335595",
+      "model": [
+        {
+          "model_id": "262196039786",
+          "name": "B2G3AcnePro",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1763951458,
+          "seller_sku": "2030097803540",
+          "mtime": 1763951458,
+          "price_rule_id": "10000016320",
+          "price": "32760000000",
+          "currency": "IDR",
+          "normal_price": "53400000000",
+          "stock": 31,
+          "sold": 107,
+          "price_info": {
+            "final_price": "25632000000"
+          }
+        },
+        {
+          "model_id": "237458979727",
+          "name": "Normal & Dull",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1741101088,
+          "seller_sku": "2030091790100",
+          "mtime": 1741101088,
+          "price_rule_id": "10000016320",
+          "price": "24900000000",
+          "currency": "IDR",
+          "normal_price": "42000000000",
+          "stock": 544,
+          "sold": 2063,
+          "price_info": {
+            "final_price": "19180000000"
+          }
+        },
+        {
+          "model_id": "262196039784",
+          "name": "B2G3Normal",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1763951458,
+          "seller_sku": "2030097803539",
+          "mtime": 1763951458,
+          "price_rule_id": "841975289413632",
+          "price": "33464000000",
+          "currency": "IDR",
+          "normal_price": "53000000000",
+          "stock": 214,
+          "sold": 47,
+          "price_info": {
+            "final_price": "26195200000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22043163818",
+      "model": [
+        {
+          "model_id": "196762282197",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1684824826,
+          "seller_sku": "",
+          "mtime": 1684824826,
+          "price_rule_id": "10000016320",
+          "price": "11625000000",
+          "currency": "IDR",
+          "normal_price": "19500000000",
+          "stock": 143,
+          "sold": 25326,
+          "price_info": {
+            "final_price": "6625000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "9551393873",
+      "model": [
+        {
+          "model_id": "110094161348",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1620117619,
+          "seller_sku": "",
+          "mtime": 1627943867,
+          "price_rule_id": "227576727748608",
+          "price": "34680000000",
+          "currency": "IDR",
+          "normal_price": "39000000000",
+          "stock": 8,
+          "sold": 11751,
+          "price_info": {
+            "final_price": "26944000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "22985050864",
+      "model": [
+        {
+          "model_id": "214702478019",
+          "name": "Package",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1698632774,
+          "seller_sku": "",
+          "mtime": 1698632774,
+          "price_rule_id": "227571908493313",
+          "price": "84470000000",
+          "currency": "IDR",
+          "normal_price": "107000000000",
+          "stock": 9,
+          "sold": 1202,
+          "price_info": {
+            "final_price": "73470000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "18271757471",
+      "model": [
+        {
+          "model_id": "156559574412",
+          "name": "Twinpack",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1674551369,
+          "seller_sku": "",
+          "mtime": 1674551369,
+          "price_rule_id": "227571908493313",
+          "price": "39510000000",
+          "currency": "IDR",
+          "normal_price": "45310000000",
+          "stock": 9,
+          "sold": 359,
+          "price_info": {
+            "final_price": "30808000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "11276746695",
+      "model": [
+        {
+          "model_id": "28177815553",
+          "name": "no variation",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1639040767,
+          "seller_sku": "SBSID000125",
+          "mtime": 1639040767,
+          "price_rule_id": "227571908493313",
+          "price": "38720000000",
+          "currency": "IDR",
+          "normal_price": "45310000000",
+          "stock": 9,
+          "sold": 7473,
+          "price_info": {
+            "final_price": "30176000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "8851394101",
+      "model": [
+        {
+          "model_id": "25739112346",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1620117612,
+          "seller_sku": "",
+          "mtime": 1627943950,
+          "price_rule_id": "227571908493313",
+          "price": "31680000000",
+          "currency": "IDR",
+          "normal_price": "37070000000",
+          "stock": 7,
+          "sold": 9057,
+          "price_info": {
+            "final_price": "24544000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "57100010355",
+      "model": [
+        {
+          "model_id": "272082635990",
+          "name": "Package",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761207541,
+          "seller_sku": "",
+          "mtime": 1761207541,
+          "price_rule_id": "814342921043968",
+          "price": "84030000000",
+          "currency": "IDR",
+          "normal_price": "99000000000",
+          "stock": 2781,
+          "sold": 514,
+          "price_info": {
+            "final_price": "73030000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "40857124934",
+      "model": [
+        {
+          "model_id": "290604162003",
+          "name": "Package",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1751519665,
+          "seller_sku": "",
+          "mtime": 1751519665,
+          "price_rule_id": "814342921043968",
+          "price": "33230000000",
+          "currency": "IDR",
+          "normal_price": "36040000000",
+          "stock": 1829,
+          "sold": 584,
+          "price_info": {
+            "final_price": "25784000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "9051394067",
+      "model": [
+        {
+          "model_id": "25739112653",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1620117614,
+          "seller_sku": "",
+          "mtime": 1628010039,
+          "price_rule_id": "814342921043968",
+          "price": "31040000000",
+          "currency": "IDR",
+          "normal_price": "33000000000",
+          "stock": 1311,
+          "sold": 55597,
+          "price_info": {
+            "final_price": "24032000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25028436093",
+      "model": [
+        {
+          "model_id": "245765164398",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1714819918,
+          "seller_sku": "",
+          "mtime": 1714819918,
+          "price_rule_id": "0",
+          "price": "13500000000",
+          "currency": "IDR",
+          "normal_price": "13500000000",
+          "stock": 10212,
+          "sold": 2076,
+          "price_info": {
+            "final_price": "8500000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "52101713983",
+      "model": [
+        {
+          "model_id": "297174284941",
+          "name": "",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1763543523,
+          "seller_sku": "",
+          "mtime": 1763543523,
+          "price_rule_id": "842584293949440",
+          "price": "5920000000",
+          "currency": "IDR",
+          "normal_price": "12400000000",
+          "stock": 27,
+          "sold": 85,
+          "price_info": {
+            "final_price": "3690000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "25817316424",
+      "model": [
+        {
+          "model_id": "168409604349",
+          "name": "50ml",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1725937681,
+          "seller_sku": "3614273927338",
+          "mtime": 1725937681,
+          "price_rule_id": "227571908493313",
+          "price": "187010000000",
+          "currency": "IDR",
+          "normal_price": "199000000000",
+          "stock": 5,
+          "sold": 227,
+          "price_info": {
+            "final_price": "172010000000"
+          }
+        },
+        {
+          "model_id": "168409604348",
+          "name": "100ml",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1725937681,
+          "seller_sku": "3614273927321",
+          "mtime": 1725937681,
+          "price_rule_id": "227571908493313",
+          "price": "261210000000",
+          "currency": "IDR",
+          "normal_price": "279000000000",
+          "stock": 5,
+          "sold": 183,
+          "price_info": {
+            "final_price": "236210000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "45651337840",
+      "model": [
+        {
+          "model_id": "425119427205",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRL",
+          "mtime": 1763040257,
+          "price_rule_id": "227576727748608",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 46,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "425119427206",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRXL",
+          "mtime": 1763040257,
+          "price_rule_id": "227576727748608",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 38,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "425119427207",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRXXL",
+          "mtime": 1763040257,
+          "price_rule_id": "227576727748608",
+          "price": "50255000000",
+          "currency": "IDR",
+          "normal_price": "52900000000",
+          "stock": 5,
+          "sold": 31,
+          "price_info": {
+            "final_price": "45255000000"
+          }
+        },
+        {
+          "model_id": "425119427203",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRS",
+          "mtime": 1763040257,
+          "price_rule_id": "227576727748608",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 13,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "425119427204",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1763040257,
+          "seller_sku": "BMK101009CRM",
+          "mtime": 1763040257,
+          "price_rule_id": "843441928455168",
+          "price": "46890000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 2,
+          "sold": 35,
+          "price_info": {
+            "final_price": "41890000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "29638582902",
+      "model": [
+        {
+          "model_id": "285690692533",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1752238883,
+          "seller_sku": "KDK1D07009L",
+          "mtime": 1752238883,
+          "price_rule_id": "227576727748608",
+          "price": "21912000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 5,
+          "sold": 11,
+          "price_info": {
+            "final_price": "16912000000"
+          }
+        },
+        {
+          "model_id": "285690692534",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1752238883,
+          "seller_sku": "KDK1D07009XL",
+          "mtime": 1752238883,
+          "price_rule_id": "0",
+          "price": "24900000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 0,
+          "sold": 18,
+          "price_info": {
+            "final_price": "19900000000"
+          }
+        },
+        {
+          "model_id": "285690692531",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1752238883,
+          "seller_sku": "KDK1D07009S",
+          "mtime": 1752238883,
+          "price_rule_id": "227576727748608",
+          "price": "21912000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 5,
+          "sold": 4,
+          "price_info": {
+            "final_price": "16912000000"
+          }
+        },
+        {
+          "model_id": "285690692532",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1752238883,
+          "seller_sku": "KDK1D07009M",
+          "mtime": 1752238883,
+          "price_rule_id": "227576727748608",
+          "price": "21912000000",
+          "currency": "IDR",
+          "normal_price": "24900000000",
+          "stock": 5,
+          "sold": 10,
+          "price_info": {
+            "final_price": "16912000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "51750292739",
+      "model": [
+        {
+          "model_id": "395028172411",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011XL",
+          "mtime": 1761652985,
+          "price_rule_id": "227571908493313",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 66,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "395028172412",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011XXL",
+          "mtime": 1761652985,
+          "price_rule_id": "227571908493313",
+          "price": "50255000000",
+          "currency": "IDR",
+          "normal_price": "52900000000",
+          "stock": 5,
+          "sold": 39,
+          "price_info": {
+            "final_price": "45255000000"
+          }
+        },
+        {
+          "model_id": "395028172408",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011S",
+          "mtime": 1761652985,
+          "price_rule_id": "0",
+          "price": "49900000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 3,
+          "sold": 20,
+          "price_info": {
+            "final_price": "44900000000"
+          }
+        },
+        {
+          "model_id": "395028172409",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011M",
+          "mtime": 1761652985,
+          "price_rule_id": "227571908493313",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 54,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        },
+        {
+          "model_id": "395028172410",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1761652985,
+          "seller_sku": "BMK101011L",
+          "mtime": 1761652985,
+          "price_rule_id": "227571908493313",
+          "price": "47405000000",
+          "currency": "IDR",
+          "normal_price": "49900000000",
+          "stock": 5,
+          "sold": 85,
+          "price_info": {
+            "final_price": "42405000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "23107997185",
+      "model": [
+        {
+          "model_id": "175218679686",
+          "name": "XXL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546XXL",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "59755000000",
+          "currency": "IDR",
+          "normal_price": "62900000000",
+          "stock": 5,
+          "sold": 1210,
+          "price_info": {
+            "final_price": "54755000000"
+          }
+        },
+        {
+          "model_id": "175218679682",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546L",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "56905000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 5,
+          "sold": 3655,
+          "price_info": {
+            "final_price": "51905000000"
+          }
+        },
+        {
+          "model_id": "175218679683",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546M",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "56905000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 5,
+          "sold": 3512,
+          "price_info": {
+            "final_price": "51905000000"
+          }
+        },
+        {
+          "model_id": "175218679684",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546S",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "56905000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 5,
+          "sold": 1135,
+          "price_info": {
+            "final_price": "51905000000"
+          }
+        },
+        {
+          "model_id": "175218679685",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1669625468,
+          "seller_sku": "K10A546XL",
+          "mtime": 1719204724,
+          "price_rule_id": "227571908493313",
+          "price": "56905000000",
+          "currency": "IDR",
+          "normal_price": "59900000000",
+          "stock": 5,
+          "sold": 2270,
+          "price_info": {
+            "final_price": "51905000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "28932882967",
+      "model": [
+        {
+          "model_id": "168852066808",
+          "name": "27 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O143",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 43,
+          "sold": 3,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066809",
+          "name": "28 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O144",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 41,
+          "sold": 5,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066810",
+          "name": "29 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O145",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 52,
+          "sold": 1,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066811",
+          "name": "30 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            5
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O146",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 40,
+          "sold": 4,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066812",
+          "name": "31 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            6
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O147",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 40,
+          "sold": 3,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066813",
+          "name": "32 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            7
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O148",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 41,
+          "sold": 2,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066806",
+          "name": "25 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O141",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 6,
+          "sold": 1,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        },
+        {
+          "model_id": "168852066807",
+          "name": "26 Inseam 30",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1744278314,
+          "seller_sku": "LVB3O142",
+          "mtime": 1744278314,
+          "price_rule_id": "842770126782464",
+          "price": "65994000000",
+          "currency": "IDR",
+          "normal_price": "109990000000",
+          "stock": 25,
+          "sold": 1,
+          "price_info": {
+            "final_price": "55714400000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "24543837863",
+      "model": [
+        {
+          "model_id": "253137378490",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P383",
+          "mtime": 1744267318,
+          "price_rule_id": "0",
+          "price": "34990000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 0,
+          "sold": 25,
+          "price_info": {
+            "final_price": "29990000000"
+          }
+        },
+        {
+          "model_id": "253137378491",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P384",
+          "mtime": 1744267318,
+          "price_rule_id": "0",
+          "price": "34990000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 0,
+          "sold": 0,
+          "price_info": {
+            "final_price": "29990000000"
+          }
+        },
+        {
+          "model_id": "253137378492",
+          "name": "XS",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P385",
+          "mtime": 1744267318,
+          "price_rule_id": "842770126782464",
+          "price": "17495000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 9,
+          "sold": 11,
+          "price_info": {
+            "final_price": "12495000000"
+          }
+        },
+        {
+          "model_id": "253137378488",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P381",
+          "mtime": 1744267318,
+          "price_rule_id": "842770126782464",
+          "price": "17495000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 2,
+          "sold": 17,
+          "price_info": {
+            "final_price": "12495000000"
+          }
+        },
+        {
+          "model_id": "253137378489",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1744267318,
+          "seller_sku": "LVB3P382",
+          "mtime": 1744267318,
+          "price_rule_id": "0",
+          "price": "34990000000",
+          "currency": "IDR",
+          "normal_price": "34990000000",
+          "stock": 0,
+          "sold": 30,
+          "price_info": {
+            "final_price": "29990000000"
+          }
+        }
+      ]
+    },
+    {
+      "item_id": "26487551956",
+      "model": [
+        {
+          "model_id": "224290727947",
+          "name": "M",
+          "status": 1,
+          "tier_indices": [
+            1
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R315",
+          "mtime": 1749803924,
+          "price_rule_id": "842770126782464",
+          "price": "64995000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 3,
+          "sold": 22,
+          "price_info": {
+            "final_price": "54795400000"
+          }
+        },
+        {
+          "model_id": "224290727948",
+          "name": "S",
+          "status": 1,
+          "tier_indices": [
+            2
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R316",
+          "mtime": 1749803924,
+          "price_rule_id": "842770126782464",
+          "price": "64995000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 15,
+          "sold": 21,
+          "price_info": {
+            "final_price": "54795400000"
+          }
+        },
+        {
+          "model_id": "224290727949",
+          "name": "XS",
+          "status": 1,
+          "tier_indices": [
+            3
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R317",
+          "mtime": 1749803924,
+          "price_rule_id": "842770126782464",
+          "price": "64995000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 8,
+          "sold": 9,
+          "price_info": {
+            "final_price": "54795400000"
+          }
+        },
+        {
+          "model_id": "224290727950",
+          "name": "XL",
+          "status": 1,
+          "tier_indices": [
+            4
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R318",
+          "mtime": 1749803924,
+          "price_rule_id": "0",
+          "price": "129990000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 0,
+          "sold": 2,
+          "price_info": {
+            "final_price": "118490000000"
+          }
+        },
+        {
+          "model_id": "224290727946",
+          "name": "L",
+          "status": 1,
+          "tier_indices": [
+            0
+          ],
+          "create_time": 1749803924,
+          "seller_sku": "LVB3R314",
+          "mtime": 1749803924,
+          "price_rule_id": "0",
+          "price": "129990000000",
+          "currency": "IDR",
+          "normal_price": "129990000000",
+          "stock": 0,
+          "sold": 27,
+          "price_info": {
+            "final_price": "118490000000"
+          }
+        }
+      ]
+    }
+  ]
+}
