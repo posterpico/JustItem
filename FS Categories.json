@@ -1,48 +1,5 @@
 [
   {
-    "banner": "id-11134004-822wg-mmjptb8z43yeda",
-    "banner_url": "",
-    "carousel_banner": {
-      "flash_banner": [
-        {
-          "banner": "id-11134004-822wg-mmjptb8z43yeda",
-          "banner_url": "",
-          "pc_banner": "id-11134004-822ws-mmjptdw5zkld37",
-          "shopee_food_info": null
-        }
-      ],
-      "mega_banner": [],
-      "shopee_food_banner": []
-    },
-    "categories": [
-      {
-        "catid": 0,
-        "catname": "All",
-        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      }
-    ],
-    "description": "Flash Sale - Exception | 4 Apr 00:10 - 4 Apr 00:20",
-    "end_time": 1775236800,
-    "is_ongoing": true,
-    "name": "Flash Sale - Exception | 4 Apr 00:10 - 4 Apr 00:20",
-    "pc_banner": "id-11134004-822ws-mmjptdw5zkld37",
-    "promotionid": 247799690313728,
-    "start_time": 1775236200,
-    "status": 1,
-    "with_mega_sale_session": false,
-    "signature": "15580ec9e1e15ca9170a85c4580c12cb41af5b0fbc4688ab9f1da018a4f6630e",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af4e9183ff728ea6f2f9159300\"}"
-  },
-  {
     "banner": "id-11134004-822wl-mmjptq5qdhjj50",
     "banner_url": "",
     "carousel_banner": {
@@ -63,7 +20,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0}}"
       },
       {
         "catid": 1,
@@ -75,7 +32,7 @@
     ],
     "description": "Flash Sale - Exception | 4 Apr 00:20 - 4 Apr 00:30",
     "end_time": 1775237400,
-    "is_ongoing": false,
+    "is_ongoing": true,
     "name": "Flash Sale - Exception | 4 Apr 00:20 - 4 Apr 00:30",
     "pc_banner": "id-11134004-822wl-mmjptsikxlov4c",
     "promotionid": 247799690313730,
@@ -83,7 +40,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "7dfa9d8db960d913cf1090d05ebd38d27c66c0d2ade887c11fb62e4bfc8e576c",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af4e9183ff728ea6f2f9159300\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af4e918715188b1c567647c800\"}"
   },
   {
     "banner": "id-11134004-822wp-mmjpu0pk1berdc",
@@ -106,7 +63,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0}}"
       },
       {
         "catid": 1,
@@ -126,6 +83,49 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "34ad4c88f12fbc83021fccfd3a27488d79cb9ba4142787f1ab697842c9d1ee52",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af4e918715188b1c567647c800\"}"
+  },
+  {
+    "banner": "id-11134004-822wt-mmjpurz3suf9b6",
+    "banner_url": "",
+    "carousel_banner": {
+      "flash_banner": [
+        {
+          "banner": "id-11134004-822wt-mmjpurz3suf9b6",
+          "banner_url": "",
+          "pc_banner": "id-11134004-822wl-mmjpuugixsed9f",
+          "shopee_food_info": null
+        }
+      ],
+      "mega_banner": [],
+      "shopee_food_banner": []
+    },
+    "categories": [
+      {
+        "catid": 0,
+        "catname": "All",
+        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      }
+    ],
+    "description": "Flash Sale - Exception | 4 Apr 00:40 - 4 Apr 00:50",
+    "end_time": 1775238600,
+    "is_ongoing": false,
+    "name": "Flash Sale - Exception | 4 Apr 00:40 - 4 Apr 00:50",
+    "pc_banner": "id-11134004-822wl-mmjpuugixsed9f",
+    "promotionid": 247799694508034,
+    "start_time": 1775238000,
+    "status": 1,
+    "with_mega_sale_session": false,
+    "signature": "74d943a091c6c4bfb320926b6ed3de5132c0e272ff4d5d40b47a6d5b3072b075",
     "tracker_info": null
   }
 ]
