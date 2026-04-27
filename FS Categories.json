@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.060928132}}"
       },
       {
         "catid": 77,
@@ -57,6 +57,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-7rbk3-m70p409i1auif5",
@@ -67,13 +74,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -207,7 +207,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "761b7ea965a68849ed1bdc9c351c03a28d5e46a1e774fab204f5ef85ead436e7",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5069fcd5cdacd902e0e1d900\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af506dcb0afe19ab542e851a00\"}"
   },
   {
     "banner": "id-11134004-822wh-mndrnontrtokf4",
@@ -236,7 +236,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.061961763}}"
       },
       {
         "catid": 77,
@@ -267,6 +267,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-7rbk3-m70p409i1auif5",
@@ -277,13 +284,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -417,7 +417,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "193e259ef346b3c8690b268843c77628698327e775a98715981c90f406bd9ceb",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5069fcd5cdacd902e0e1d900\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af506dcb0afe19ab542e851a00\"}"
   },
   {
     "banner": "id-11134004-822wl-mnf8s02apxj72e",
@@ -477,6 +477,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 7,
+        "catname": "Pesta Diskon Akhir Bulan",
+        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-7rbk3-m70p409i1auif5",
@@ -522,13 +529,6 @@
         "catid": 19,
         "catname": "Olahraga & Otomotif",
         "image": "81de11e6c255333eeb85ac0ff0d97367",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 7,
-        "catname": "Pesta Diskon Akhir Bulan",
-        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
         "cat_label": 0,
         "recommendation_info": null
       },
