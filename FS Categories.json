@@ -1,13 +1,13 @@
 [
   {
-    "banner": "id-11134004-822wq-mntkmg6wketgd6",
+    "banner": "id-11134004-822wl-mntkmr92dr0o01",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-822wq-mntkmg6wketgd6",
+          "banner": "id-11134004-822wl-mntkmr92dr0o01",
           "banner_url": "",
-          "pc_banner": "id-11134004-822wg-mntkmjd8qmf869",
+          "pc_banner": "id-11134004-822wh-mntkmt8qmrr5c7",
           "shopee_food_info": null
         }
       ],
@@ -31,26 +31,26 @@
       }
     ],
     "description": "Ketahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994 \n\nJika ingin mengeluarkan produk yang sudah tergabung dengan kampanye Flash Sale di periode ini, Anda dapat mengahpus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374",
-    "end_time": 1777915800,
-    "is_ongoing": false,
-    "name": "Flash Sale - Shopee Nomination | 5 May 00:20 - 5 May 00:30",
-    "pc_banner": "id-11134004-822wg-mntkmjd8qmf869",
-    "promotionid": 259418558312448,
-    "start_time": 1777915200,
+    "end_time": 1777916400,
+    "is_ongoing": true,
+    "name": "Flash Sale - Shopee Nomination | 5 May 00:30 - 5 May 00:40",
+    "pc_banner": "id-11134004-822wh-mntkmt8qmrr5c7",
+    "promotionid": 259418558312450,
+    "start_time": 1777915800,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "915ac640eeccdfbd490ccf7666acd22e357e5b59ab189dac4013978ae2ef861e",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af510147b8868f0c62cb7ae700\"}"
+    "signature": "72de5707b09632a618c7c414b21d6d9bb46654a9663174399b4fb6a30e8be78d",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5101619bdb24a294c2c20100\"}"
   },
   {
-    "banner": "id-11134004-822wl-mntkmr92dr0o01",
+    "banner": "id-11134004-822wl-mntkn0lecmpua4",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-822wl-mntkmr92dr0o01",
+          "banner": "id-11134004-822wl-mntkn0lecmpua4",
           "banner_url": "",
-          "pc_banner": "id-11134004-822wh-mntkmt8qmrr5c7",
+          "pc_banner": "id-11134004-822wu-mntkn2dgawp052",
           "shopee_food_info": null
         }
       ],
@@ -74,15 +74,58 @@
       }
     ],
     "description": "Ketahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994 \n\nJika ingin mengeluarkan produk yang sudah tergabung dengan kampanye Flash Sale di periode ini, Anda dapat mengahpus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374",
-    "end_time": 1777916400,
-    "is_ongoing": true,
-    "name": "Flash Sale - Shopee Nomination | 5 May 00:30 - 5 May 00:40",
-    "pc_banner": "id-11134004-822wh-mntkmt8qmrr5c7",
-    "promotionid": 259418558312450,
-    "start_time": 1777915800,
+    "end_time": 1777917000,
+    "is_ongoing": false,
+    "name": "Flash Sale - Shopee Nomination | 5 May 00:40 - 5 May 00:50",
+    "pc_banner": "id-11134004-822wu-mntkn2dgawp052",
+    "promotionid": 259418562506753,
+    "start_time": 1777916400,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "72de5707b09632a618c7c414b21d6d9bb46654a9663174399b4fb6a30e8be78d",
+    "signature": "d2097a9fd4e5e768e68d3cc24b0ad12f1a783fbe1dc1bd658a065cd0be88c16c",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5101619bdb24a294c2c20100\"}"
+  },
+  {
+    "banner": "id-11134004-822wr-mntkn9t5fegwaa",
+    "banner_url": "",
+    "carousel_banner": {
+      "flash_banner": [
+        {
+          "banner": "id-11134004-822wr-mntkn9t5fegwaa",
+          "banner_url": "",
+          "pc_banner": "id-11134004-822wj-mntknbt1k7ig07",
+          "shopee_food_info": null
+        }
+      ],
+      "mega_banner": [],
+      "shopee_food_banner": []
+    },
+    "categories": [
+      {
+        "catid": 0,
+        "catname": "All",
+        "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      }
+    ],
+    "description": "Ketahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994 \n\nJika ingin mengeluarkan produk yang sudah tergabung dengan kampanye Flash Sale di periode ini, Anda dapat mengahpus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374",
+    "end_time": 1777917600,
+    "is_ongoing": false,
+    "name": "Flash Sale - Shopee Nomination | 5 May 00:50 - 5 May 01:00",
+    "pc_banner": "id-11134004-822wj-mntknbt1k7ig07",
+    "promotionid": 259418562506754,
+    "start_time": 1777917000,
+    "status": 1,
+    "with_mega_sale_session": false,
+    "signature": "2e2e55cf604f46cd7d3abd5515b837d96ec2593d01f19adf8e222e9efc0db550",
     "tracker_info": null
   }
 ]
