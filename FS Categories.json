@@ -20,19 +20,19 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.043990947}}"
+      },
+      {
+        "catid": 95,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-822wl-mncea7f092bs33",
+        "cat_label": 0,
         "recommendation_info": null
       },
       {
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 95,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-822wl-mncea7f092bs33",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -180,7 +180,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "0077b4c8fd27204cf2a1549bdc522e21a011016c729d4b72a24c43c77d077bbd",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5129183c6095f6c5d81bc700\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af51327d92f9f41d84533f2800\"}"
   },
   {
     "banner": "id-11134004-822wh-mnwawmrn9n2c05",
@@ -203,19 +203,19 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.041547004}}"
+      },
+      {
+        "catid": 95,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-822wl-mncea7f092bs33",
+        "cat_label": 0,
         "recommendation_info": null
       },
       {
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 95,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-822wl-mncea7f092bs33",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -363,7 +363,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "8b81f5b7c8847ee60062f37e13176225352f558348ad8906157386d146bb8659",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5129183c6095f6c5d81bc700\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af51327d92f9f41d84533f2800\"}"
   },
   {
     "banner": "id-11134004-822wn-mnwbbo70oao25a",
@@ -389,16 +389,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 95,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-822wl-mncea7f092bs33",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 95,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-822wl-mncea7f092bs33",
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
