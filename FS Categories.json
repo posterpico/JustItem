@@ -40,7 +40,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "3b08f41295a1cc00e23bc682df28fb0c937f5fa6c94a99fa54a50b8e97fc57ae",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5385377bf8867b6ea8a3cc00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af538537d059554c9d3615a100\"}"
   },
   {
     "banner": "id-11134004-822wu-mp3510wqdy4s06",
@@ -63,7 +63,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06708828}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-4.1046276}}"
       },
       {
         "catid": 1,
@@ -83,7 +83,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "4e276367880c8fde1adb844993412b012cc59cf9820da08019c5d71ab0b0bb54",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5385377bf8867b6ea8a3cc00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af538537d059554c9d3615a100\"}"
   },
   {
     "banner": "id-11134004-822wp-mp1xma4pgbnz67",
