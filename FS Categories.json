@@ -1,19 +1,13 @@
 [
   {
-    "banner": "id-11134004-822wk-mp0mq6lxnri86a",
-    "banner_url": "https://shopee.co.id/m/brand-day",
+    "banner": "id-11134004-822ws-mp1xl1azftvwf0",
+    "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-822wk-mp0mq6lxnri86a",
-          "banner_url": "https://shopee.co.id/m/brand-day",
-          "pc_banner": "id-11134004-822wg-mp0mq93z1gchd1",
-          "shopee_food_info": null
-        },
-        {
-          "banner": "id-11134004-822wq-mp0mq3bvw0zv0d",
+          "banner": "id-11134004-822ws-mp1xl1azftvwf0",
           "banner_url": "",
-          "pc_banner": "",
+          "pc_banner": "id-11134004-822wt-mp1xl32psx7008",
           "shopee_food_info": null
         }
       ],
@@ -26,49 +20,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 66,
-        "catname": "Diskon 6ASPOL",
-        "image": "id-11134004-822wk-mo3oze4dc6bo82",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 51,
-        "catname": "Brand Day",
-        "image": "id-11134004-822wh-mooye68elcen2c",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 56,
-        "catname": "Finest Brand Day",
-        "image": "id-11134004-7rbk3-m735s6n7251l6e",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-3.8813705}}"
       },
       {
         "catid": 1,
@@ -76,141 +28,29 @@
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
-      },
-      {
-        "catid": 16,
-        "catname": "Kesehatan & Kecantikan",
-        "image": "96048b93bd5c09a28672da655bcb0683",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 17,
-        "catname": "Makanan & Minuman",
-        "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 18,
-        "catname": "Hobi & Alat Tulis",
-        "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 19,
-        "catname": "Olahraga & Otomotif",
-        "image": "81de11e6c255333eeb85ac0ff0d97367",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 20,
-        "catname": "Rumah",
-        "image": "1ed449fcff2db0badf0ea3f11464a810",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 21,
-        "catname": "Aksesoris",
-        "image": "28ad1a2b6a71a257b45c4e445682a75e",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 22,
-        "catname": "Jam Tangan",
-        "image": "4377481b1caedc39ed234e365acd3a64",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 23,
-        "catname": "Fashion Anak",
-        "image": "2b1eec13a9bca8a5d83fc7e349756843",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 29,
-        "catname": "Ibu & Bayi",
-        "image": "d9aa0c1e8fb85518baa9777c35343d11",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 34,
-        "catname": "Fashion Muslim",
-        "image": "id-11134004-7rbka-m8ua0eit667v72",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 39,
-        "catname": "Handphone & Aksesoris",
-        "image": "5db6f4c96309f6bcf6d18edde7c9f784",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 41,
-        "catname": "Komputer & Aksesoris",
-        "image": "9139c9eca604be49c1c3b94fd11be593",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 73,
-        "catname": "Dikelola Shopee",
-        "image": "fe72453c171aa7f26d3fc0421324a776",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 75,
-        "catname": "Fotografi",
-        "image": "058f1348d52540e69630f76b42c027c2",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 86,
-        "catname": "Elektronik",
-        "image": "d92a865d5a891f9566ffbb7d44bdfff7",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 9,
-        "catname": "ShopeePay Sekitarmu",
-        "image": "id-11134004-7ra0p-mdlezzkg1q1eb0",
-        "cat_label": 0,
-        "recommendation_info": null
       }
     ],
-    "description": "\"Ayo, nominasikan produkmu di Flash Sale Shopee!\n•        Harga promo untuk produk yang dinominasikan harus lebih rendah 1% dari harga terendah produk tersebut dalam 30 hari terakhir.\n•        Produk yang dinominasikan memiliki min. 1 pesanan dalam 14 hari terakhir. \n•        Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n•        Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12 \n•        Nama produk tidak boleh mengandung kata sifat, kata kasar, emoji, kata promosi, serta menggunakan bahasa selain bahasa Inggris dan Indonesia.\n•        Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374  \n\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994\"",
-    "end_time": 1780678800,
+    "description": "Ketahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994 \n\nJika ingin mengeluarkan produk yang sudah tergabung dengan kampanye Flash Sale di periode ini, Anda dapat mengahpus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374",
+    "end_time": 1780679400,
     "is_ongoing": true,
-    "name": "Flash Sale - Seller Nomination | 5 Jun 20:00 - 6 Jun 00:00",
-    "pc_banner": "id-11134004-822wg-mp0mq93z1gchd1",
-    "promotionid": 273167784632320,
-    "start_time": 1780664400,
+    "name": "Flash Sale - Shopee Nomination | 6 Jun 00:00 - 6 Jun 00:10",
+    "pc_banner": "id-11134004-822wt-mp1xl32psx7008",
+    "promotionid": 273170150207488,
+    "start_time": 1780678800,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "d7166fab128b6477d364634da73f7da1041eaf4a963228912794f792130e6785",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5383a2477f6042a95a2a1f00\"}"
+    "signature": "436a6aa79901a97afe1228d394cb39bcbff1ebd3a41746e28dc7001c4c22b671",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5384aff2960d6e30ab90cc00\"}"
   },
   {
-    "banner": "id-11134004-822ws-mp1xl1azftvwf0",
+    "banner": "id-11134004-822wm-mp34iartacqzc4",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-822ws-mp1xl1azftvwf0",
+          "banner": "id-11134004-822wm-mp34iartacqzc4",
           "banner_url": "",
-          "pc_banner": "id-11134004-822wt-mp1xl32psx7008",
+          "pc_banner": "id-11134004-822wt-mp34idb9jmz3e2",
           "shopee_food_info": null
         }
       ],
@@ -234,26 +74,26 @@
       }
     ],
     "description": "Ketahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994 \n\nJika ingin mengeluarkan produk yang sudah tergabung dengan kampanye Flash Sale di periode ini, Anda dapat mengahpus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374",
-    "end_time": 1780679400,
+    "end_time": 1780680000,
     "is_ongoing": false,
-    "name": "Flash Sale - Shopee Nomination | 6 Jun 00:00 - 6 Jun 00:10",
-    "pc_banner": "id-11134004-822wt-mp1xl32psx7008",
-    "promotionid": 273170150207488,
-    "start_time": 1780678800,
+    "name": "Flash Sale - Shopee Nomination | 6 Jun 00:10 - 6 Jun 00:20",
+    "pc_banner": "id-11134004-822wt-mp34idb9jmz3e2",
+    "promotionid": 273170154409984,
+    "start_time": 1780679400,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "436a6aa79901a97afe1228d394cb39bcbff1ebd3a41746e28dc7001c4c22b671",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5383a2477f6042a95a2a1f00\"}"
+    "signature": "91ca0afdc0c4b2ecf0422fad76c188563f3ed382aaeee98d4c3290fb737e97d4",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5384aff2960d6e30ab90cc00\"}"
   },
   {
-    "banner": "id-11134004-822wm-mp34iartacqzc4",
+    "banner": "id-11134004-822wp-mp1xl8uuzci6f4",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-822wm-mp34iartacqzc4",
+          "banner": "id-11134004-822wp-mp1xl8uuzci6f4",
           "banner_url": "",
-          "pc_banner": "id-11134004-822wt-mp34idb9jmz3e2",
+          "pc_banner": "id-11134004-822wn-mp1xlax5np4w51",
           "shopee_food_info": null
         }
       ],
@@ -277,15 +117,15 @@
       }
     ],
     "description": "Ketahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994 \n\nJika ingin mengeluarkan produk yang sudah tergabung dengan kampanye Flash Sale di periode ini, Anda dapat mengahpus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374",
-    "end_time": 1780680000,
+    "end_time": 1780680600,
     "is_ongoing": false,
-    "name": "Flash Sale - Shopee Nomination | 6 Jun 00:10 - 6 Jun 00:20",
-    "pc_banner": "id-11134004-822wt-mp34idb9jmz3e2",
-    "promotionid": 273170154409984,
-    "start_time": 1780679400,
+    "name": "Flash Sale - Shopee Nomination | 6 Jun 00:20 - 6 Jun 00:30",
+    "pc_banner": "id-11134004-822wn-mp1xlax5np4w51",
+    "promotionid": 273170154409986,
+    "start_time": 1780680000,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "91ca0afdc0c4b2ecf0422fad76c188563f3ed382aaeee98d4c3290fb737e97d4",
+    "signature": "4de1196fc243f953e61bf08a3de02d999ea2a7a3ccb0fcf9ad92767c1c179e24",
     "tracker_info": null
   }
 ]
