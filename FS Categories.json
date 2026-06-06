@@ -187,7 +187,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "6046e6417e541fd09fef9b8a9428ad12f30306039f0feac0bcba2be3c507a63c",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af538b4c0644e8e6dcdea95600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af538d242952c21aa0a638fa00\"}"
   },
   {
     "banner": "id-11134004-822wk-mp1xm1n41pn24f",
@@ -210,7 +210,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07222578}}"
       },
       {
         "catid": 66,
@@ -377,7 +377,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "9d536a9a4048006111a9b34300061cd65708b80a1f539abbb0a853cfbe091a6c",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af538b4c0644e8e6dcdea95600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af538d242952c21aa0a638fa00\"}"
   },
   {
     "banner": "id-11134004-822wh-mp33rt5hkgzk65",
