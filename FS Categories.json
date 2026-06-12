@@ -26,19 +26,19 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07452248}}"
-      },
-      {
-        "catid": 97,
-        "catname": "Brand Day",
-        "image": "id-11134004-822wp-mp7h1hv2euj25c",
-        "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07394105}}"
       },
       {
         "catid": 95,
         "catname": "Super Brand Day",
         "image": "id-11134004-822wj-mp7h23kmx8nif8",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 97,
+        "catname": "Brand Day",
+        "image": "id-11134004-822wp-mp7h1hv2euj25c",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -179,7 +179,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "67baba0ba97f905e0ebf54aca2364eed57bb370dc358d42ff683f4e283da5066",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af53ff514d2ade76b6cc1aa800\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af540625faa8fbf430d950df00\"}"
   },
   {
     "banner": "id-11134004-822wp-mpacqo9uk83x2a",
@@ -208,19 +208,19 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07043861}}"
-      },
-      {
-        "catid": 97,
-        "catname": "Brand Day",
-        "image": "id-11134004-822wp-mp7h1hv2euj25c",
-        "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06891023}}"
       },
       {
         "catid": 95,
         "catname": "Super Brand Day",
         "image": "id-11134004-822wj-mp7h23kmx8nif8",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 97,
+        "catname": "Brand Day",
+        "image": "id-11134004-822wp-mp7h1hv2euj25c",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -361,7 +361,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "8706e49bfca79f8c9fec526e14a8c35c81b7e1be69ad731b4af7a32d34780958",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af53ff514d2ade76b6cc1aa800\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af540625faa8fbf430d950df00\"}"
   },
   {
     "banner": "id-11134004-822wu-mpaebvk1i4gd36",
@@ -393,16 +393,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 97,
-        "catname": "Brand Day",
-        "image": "id-11134004-822wp-mp7h1hv2euj25c",
+        "catid": 95,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-822wj-mp7h23kmx8nif8",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 95,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-822wj-mp7h23kmx8nif8",
+        "catid": 97,
+        "catname": "Brand Day",
+        "image": "id-11134004-822wp-mp7h1hv2euj25c",
         "cat_label": 0,
         "recommendation_info": null
       },
