@@ -20,7 +20,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.050117783}}"
       },
       {
         "catid": 13,
@@ -166,7 +166,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "467972c08ac429c80bf85dbf829a82066bdc2fb1316bd6f3cc0029af546c3e5b",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5443b308902bde8d9efc4800\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af54479addebd3da14a3bb1f00\"}"
   },
   {
     "banner": "id-11134004-822wl-mpd3v044xzwuf4",
@@ -189,7 +189,7 @@
         "catname": "All",
         "image": "4fd1ccd7594d7ad6d6725aed21c7af27",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.05579904}}"
       },
       {
         "catid": 13,
@@ -335,7 +335,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "69512c41f97c554564917055c8d1d8b5b3081cdb16ecb2fab0de6e56005dd32f",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5443b308902bde8d9efc4800\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af54479addebd3da14a3bb1f00\"}"
   },
   {
     "banner": "id-11134004-822wl-mpheq7cxx6h8d1",
