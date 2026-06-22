@@ -8,13 +8,6 @@
   },
   {
     "promotion_id": 473146943873203,
-    "item_id": 26550012119,
-    "shop_id": 36092728,
-    "start_time": 1782119820,
-    "promo_price": 22000
-  },
-  {
-    "promotion_id": 473146943873203,
     "item_id": 29016600781,
     "shop_id": 36092728,
     "start_time": 1782119820,
@@ -26,5 +19,12 @@
     "shop_id": 36092728,
     "start_time": 1782119820,
     "promo_price": 10000
+  },
+  {
+    "promotion_id": 473146943873203,
+    "item_id": 26550012119,
+    "shop_id": 36092728,
+    "start_time": 1782119820,
+    "promo_price": 22000
   }
 ]
