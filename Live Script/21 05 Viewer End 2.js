@@ -1,4 +1,4 @@
-(window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[22], {
+(window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[21], {
     "0LPd": function(e, n, t) {
         "use strict";
         t.d(n, "c", (function() {
@@ -103,11 +103,12 @@
                         switch (e.prev = e.next) {
                         case 0:
                             return e.next = 2,
-                            c.d.get("session/".concat(n, "/sp_items"), {
-                                params: {
-                                    offset: t,
-                                    limit: 10
-                                }
+                            c.d.get("session/".concat(n, "/voucher/applicable_items"), {
+                                 params: {
+                                  offset: t,
+                                  promotion_id: 1466341450465280,
+                                  voucher_code: "FSV-9827565675101552644",
+                                  limit: 100
                             });
                         case 2:
                             return e.abrupt("return", e.sent);
@@ -840,4 +841,4 @@
         }
     }
 }]);
-//# 4277675af0e98774bf0b6b6207b40e255a1c3894.acd819900b6e27f21c16.js.map
+//# 4277675af0e98774bf0b6b6207b40e255a1c3894.e7f4b0f52974433a2062.js.map
