@@ -125,13 +125,11 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                         switch (e.prev = e.next) {
                         case 0:
                             return e.next = 2,
-                            s.d.get("session/".concat(t, "/voucher/applicable_items"), {
+                            s.d.get("session/".concat(t, "/more_items"), {
                                 params: {
-                                  offset: n.offset,
-                                  promotion_id: 1466341450465280,
-                                  voucher_code: "FSV-9827565675101552644",
-                                  limit: 100
-                                },
+                                    offset: n,
+                                    limit: 10
+                                }
                             });
                         case 2:
                             return e.abrupt("return", e.sent);
@@ -3272,13 +3270,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                         switch (e.prev = e.next) {
                         case 0:
                             return e.next = 2,
-                            a.d.get("/session/".concat(t.session, "/voucher/applicable_items"), {
-                                params: {
-                                  offset: t.offset,
-                                  promotion_id: 1466341450465280,
-                                  voucher_code: "FSV-9827565675101552644",
-                                  limit: 100
-                                },
+                            a.d.get("/session/".concat(t.session, "/more_items"), {
+                                params: t
                             });
                         case 2:
                             return e.abrupt("return", e.sent);
