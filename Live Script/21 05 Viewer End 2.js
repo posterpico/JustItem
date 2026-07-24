@@ -109,6 +109,7 @@
                                   promotion_id: 1466341450465280,
                                   voucher_code: "FSV-9827565675101552644",
                                   limit: 100
+                                 }
                             });
                         case 2:
                             return e.abrupt("return", e.sent);
