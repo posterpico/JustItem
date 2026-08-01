@@ -3273,12 +3273,12 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                         case 0:
                             return e.next = 2,
                             a.d.get("/session/".concat(t.session, "/voucher/applicable_items"), {
-                                params: {
+                               params: {
                                   offset: t.offset,
-                                  promotion_id: 1466341450465280,
-                                  voucher_code: "FSV-9827565675101552644",
+                                  promotion_id: 1471551909412864,
+                                  voucher_code: "FSV-988092067976577024",
                                   limit: 100
-                                }
+                                 }
                             });
                         case 2:
                             return e.abrupt("return", e.sent);
