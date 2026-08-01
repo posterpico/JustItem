@@ -104,10 +104,10 @@
                         case 0:
                             return e.next = 2,
                             c.d.get("session/".concat(n, "/voucher/applicable_items"), {
-                                 params: {
+                               params: {
                                   offset: t,
-                                  promotion_id: 1466341450465280,
-                                  voucher_code: "FSV-9827565675101552644",
+                                  promotion_id: 1471551909412864,
+                                  voucher_code: "FSV-988092067976577024",
                                   limit: 100
                                  }
                         
