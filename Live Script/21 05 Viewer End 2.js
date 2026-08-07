@@ -106,8 +106,8 @@
                             c.d.get("session/".concat(n, "/voucher/applicable_items"), {
                                params: {
                                   offset: t,
-                                  promotion_id: 1471551909412864,
-                                  voucher_code: "FSV-988092067976577024",
+                                  promotion_id: 1476603789590528,
+                                  voucher_code: "FSV-993265201381900288",
                                   limit: 100
                                  }
                         
