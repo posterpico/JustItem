@@ -187,7 +187,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "201d26943c0c13459ca7da80a3a03221b91702b4b148b92d54f9cc86902e8591",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af58761b24bef0789d0936a90a\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af58761b4b519193968f2b0700\"}"
   },
   {
     "banner": "id-11134004-81ztd-mrjxl2kbcjd3b3",
@@ -210,7 +210,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.09937452}}"
       },
       {
         "catid": 1,
@@ -230,7 +230,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "4f2ae6a289c833dad0b2d8d21d736561647b713b7ca20a4226c5cc1bb9dd7873",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af58761b24bef0789d0936a90a\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af58761b4b519193968f2b0700\"}"
   },
   {
     "banner": "id-11134004-81ztj-mrjxl9klwjk557",
