@@ -187,7 +187,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "c8d28041755d696c24fb951bcc9e6b58ad3de4ae091dc18af32c4a32508bf2a6",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af587d5a4b67db1a2832080100\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af587d5a90615b1591c8fdbd0a\"}"
   },
   {
     "banner": "id-11134004-81zth-mrjxgvb1lm2v67",
@@ -210,7 +210,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.09956761}}"
       },
       {
         "catid": 88,
@@ -377,7 +377,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "ea05b0aa28f2cedbf45ef3602b1728d886c5109e4caef0a632d188a4158c9c88",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af587d5a4b67db1a2832080100\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af587d5a90615b1591c8fdbd0a\"}"
   },
   {
     "banner": "id-11134004-81zto-mrjxh2e0kl4x42",
