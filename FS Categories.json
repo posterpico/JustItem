@@ -1,19 +1,13 @@
 [
   {
-    "banner": "id-11134004-81ztf-mrsc55jbk747cb",
-    "banner_url": "https://shopee.co.id/m/sbd",
+    "banner": "id-11134004-81ztq-mrtov9rdleyo20",
+    "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81ztf-mrsc55jbk747cb",
-          "banner_url": "https://shopee.co.id/m/sbd",
-          "pc_banner": "id-11134004-81zte-mrsc58i33z7sda",
-          "shopee_food_info": null
-        },
-        {
-          "banner": "id-11134004-81zti-mrsc5kgpn9c874",
+          "banner": "id-11134004-81ztq-mrtov9rdleyo20",
           "banner_url": "",
-          "pc_banner": "",
+          "pc_banner": "id-11134004-81ztc-mrtovbp4740726",
           "shopee_food_info": null
         }
       ],
@@ -26,21 +20,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.1062727}}"
-      },
-      {
-        "catid": 51,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-81ztl-mrpdvzpeo7wn97",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 64,
-        "catname": "Brand Day",
-        "image": "id-11134004-81ztq-mrpdx1osni8697",
-        "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.08814715}}"
       },
       {
         "catid": 13,
@@ -53,6 +33,20 @@
         "catid": 14,
         "catname": "Fashion Wanita",
         "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 67,
+        "catname": "Brand Day",
+        "image": "id-11134004-81ztc-mrpfop67wmbr3c",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 56,
+        "catname": "Finest Brand Day",
+        "image": "id-11134004-7rbk3-m735s6n7251l6e",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -184,26 +178,26 @@
       }
     ],
     "description": "\"Ayo, nominasikan produkmu di Flash Sale Shopee!\n•        Harga promo untuk produk yang dinominasikan harus lebih rendah 1% dari harga terendah produk tersebut dalam 30 hari terakhir.\n•        Produk yang dinominasikan memiliki min. 1 pesanan dalam 14 hari terakhir. \n•        Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n•        Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12 \n•        Nama produk tidak boleh mengandung kata sifat, kata kasar, emoji, kata promosi, serta menggunakan bahasa selain bahasa Inggris dan Indonesia.\n•        Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374  \n\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994\"",
-    "end_time": 1786726800,
+    "end_time": 1786878000,
     "is_ongoing": true,
-    "name": "Flash Sale - Seller Nomination | 14 Aug 18:00 - 15 Aug 00:00",
-    "pc_banner": "id-11134004-81zte-mrsc58i33z7sda",
-    "promotionid": 483233817174807,
-    "start_time": 1786705200,
+    "name": "Flash Sale - Seller Nomination | 16 Aug 12:00 - 16 Aug 18:00",
+    "pc_banner": "id-11134004-81ztc-mrtovbp4740726",
+    "promotionid": 485821094565038,
+    "start_time": 1786856400,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "1828db491b1946f15135c92a0648cdb0a08b91d69f443b1e4356bd57fc4ea677",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5903759c8d8cd5df2f3e8200\"}"
+    "signature": "b65f8056ec9e216937c784b39e3d055b13eb7acc5fd4af5bf79b0f9c22f574fd",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5926e9330423efc1f2a12400\"}"
   },
   {
-    "banner": "id-11134004-81zti-mrtn1ockcnwl3f",
+    "banner": "id-11134004-81zth-mrtqs58y4gsl3b",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81zti-mrtn1ockcnwl3f",
+          "banner": "id-11134004-81zth-mrtqs58y4gsl3b",
           "banner_url": "",
-          "pc_banner": "id-11134004-81ztd-mrtn1u1ozcw5c0",
+          "pc_banner": "id-11134004-81zth-mrtqs7zsu8sle5",
           "shopee_food_info": null
         }
       ],
@@ -216,7 +210,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.10044451}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.104209185}}"
       },
       {
         "catid": 13,
@@ -240,6 +234,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 56,
+        "catname": "Finest Brand Day",
+        "image": "id-11134004-7rbk3-m735s6n7251l6e",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 16,
         "catname": "Kesehatan & Kecantikan",
         "image": "96048b93bd5c09a28672da655bcb0683",
@@ -254,13 +255,6 @@
         "recommendation_info": null
       },
       {
-        "catid": 18,
-        "catname": "Hobi & Alat Tulis",
-        "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-7rbk3-m70p409i1auif5",
@@ -271,6 +265,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 18,
+        "catname": "Hobi & Alat Tulis",
+        "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -310,16 +311,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 29,
-        "catname": "Ibu & Bayi",
-        "image": "d9aa0c1e8fb85518baa9777c35343d11",
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 73,
-        "catname": "Dikelola Shopee",
-        "image": "fe72453c171aa7f26d3fc0421324a776",
+        "catid": 29,
+        "catname": "Ibu & Bayi",
+        "image": "d9aa0c1e8fb85518baa9777c35343d11",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -367,26 +368,26 @@
       }
     ],
     "description": "\"Ayo, nominasikan produkmu di Flash Sale Shopee!\n•        Harga promo untuk produk yang dinominasikan harus lebih rendah 1% dari harga terendah produk tersebut dalam 30 hari terakhir.\n•        Produk yang dinominasikan memiliki min. 1 pesanan dalam 14 hari terakhir. \n•        Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n•        Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12 \n•        Nama produk tidak boleh mengandung kata sifat, kata kasar, emoji, kata promosi, serta menggunakan bahasa selain bahasa Inggris dan Indonesia.\n•        Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374  \n\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994\"",
-    "end_time": 1786770000,
+    "end_time": 1786899600,
     "is_ongoing": false,
-    "name": "Flash Sale - Seller Nomination | 15 Aug 00:00 - 15 Aug 12:00",
-    "pc_banner": "id-11134004-81ztd-mrtn1u1ozcw5c0",
-    "promotionid": 485821056827454,
-    "start_time": 1786726800,
+    "name": "Flash Sale - Seller Nomination | 16 Aug 18:00 - 17 Aug 00:00",
+    "pc_banner": "id-11134004-81zth-mrtqs7zsu8sle5",
+    "promotionid": 485821111353574,
+    "start_time": 1786878000,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "456c3672e6c24e706213d4aa64bc0aa34f9900fd184386f06913390f07bd85f7",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5903759c8d8cd5df2f3e8200\"}"
+    "signature": "abc6b20f9cd5de9f0c9ca46fa3bc7997baf7ce14086a45d78f37a850c3b34e9e",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5926e9330423efc1f2a12400\"}"
   },
   {
-    "banner": "id-11134004-81ztf-mrtlxpodylu0d6",
+    "banner": "id-11134004-81ztc-mrv515600vlwe9",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81ztf-mrtlxpodylu0d6",
+          "banner": "id-11134004-81ztc-mrv515600vlwe9",
           "banner_url": "",
-          "pc_banner": "id-11134004-81ztg-mrtlxrwtboxwf0",
+          "pc_banner": "id-11134004-81zte-mrv516zonojrde",
           "shopee_food_info": null
         }
       ],
@@ -416,13 +417,6 @@
         "recommendation_info": null
       },
       {
-        "catid": 67,
-        "catname": "Brand Day",
-        "image": "id-11134004-81ztc-mrpfop67wmbr3c",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
         "catid": 16,
         "catname": "Kesehatan & Kecantikan",
         "image": "96048b93bd5c09a28672da655bcb0683",
@@ -433,6 +427,13 @@
         "catid": 17,
         "catname": "Makanan & Minuman",
         "image": "630bec71a9ce336a20eaaa38fb335846",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 95,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-81ztg-mruyslh2g93a52",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -454,6 +455,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -493,16 +501,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 29,
-        "catname": "Ibu & Bayi",
-        "image": "d9aa0c1e8fb85518baa9777c35343d11",
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 73,
-        "catname": "Dikelola Shopee",
-        "image": "fe72453c171aa7f26d3fc0421324a776",
+        "catid": 29,
+        "catname": "Ibu & Bayi",
+        "image": "d9aa0c1e8fb85518baa9777c35343d11",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -550,15 +558,15 @@
       }
     ],
     "description": "\"Ayo, nominasikan produkmu di Flash Sale Shopee!\n•        Harga promo untuk produk yang dinominasikan harus lebih rendah 1% dari harga terendah produk tersebut dalam 30 hari terakhir.\n•        Produk yang dinominasikan memiliki min. 1 pesanan dalam 14 hari terakhir. \n•        Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n•        Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12 \n•        Nama produk tidak boleh mengandung kata sifat, kata kasar, emoji, kata promosi, serta menggunakan bahasa selain bahasa Inggris dan Indonesia.\n•        Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374  \n\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994\"",
-    "end_time": 1786791600,
+    "end_time": 1786942800,
     "is_ongoing": false,
-    "name": "Flash Sale - Seller Nomination | 15 Aug 12:00 - 15 Aug 18:00",
-    "pc_banner": "id-11134004-81ztg-mrtlxrwtboxwf0",
-    "promotionid": 485821061009866,
-    "start_time": 1786770000,
+    "name": "Flash Sale - Seller Nomination | 17 Aug 00:00 - 17 Aug 12:00",
+    "pc_banner": "id-11134004-81zte-mrv516zonojrde",
+    "promotionid": 485821161668695,
+    "start_time": 1786899600,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "ce2327938ea6d59f186cef7c3bea67f28032e9a3dd19733cf65cb9bd57c5a721",
+    "signature": "7c3f5313c265005eeb1947b6ebb662463934e925525d44105afa18f5b0257cc3",
     "tracker_info": null
   }
 ]
