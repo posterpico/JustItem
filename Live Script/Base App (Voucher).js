@@ -708,7 +708,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[88], {
                         switch (t.prev = t.next) {
                         case 0:
                             return t.next = 2,
-                            o.d.post("/session/".concat(e, "/show_item"), n);
+                            o.d.get("/session/".concat(e, "/show_item"), n);
                         case 2:
                             return t.abrupt("return", t.sent);
                         case 3:
