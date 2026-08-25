@@ -3599,7 +3599,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                         switch (e.prev = e.next) {
                         case 0:
                             return e.next = 2,
-                            a.d.post("/session/".concat(t, "/item/track_token"), n);
+                            a.d.post("/session/".concat(t, "/show_item"), n);
                         case 2:
                             return e.abrupt("return", e.sent);
                         case 3:
