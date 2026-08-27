@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07868101}}"
       },
       {
         "catid": 44,
@@ -50,9 +50,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 7,
+        "catname": "Pesta Diskon Akhir Bulan",
+        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -60,6 +60,13 @@
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -88,13 +95,6 @@
         "catid": 18,
         "catname": "Hobi & Alat Tulis",
         "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 7,
-        "catname": "Pesta Diskon Akhir Bulan",
-        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -193,7 +193,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "c01b36d19ed52862e57885f7f3732525c4c290bd5947b2cc6de22cba16daa715",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af59f62663c645a6d40e143f00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af59ff5eaef9c020249e7e2a00\"}"
   },
   {
     "banner": "id-11134004-81ztd-mscah4jor0nbc9",
@@ -222,7 +222,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.0737158}}"
       },
       {
         "catid": 44,
@@ -246,9 +246,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 7,
+        "catname": "Pesta Diskon Akhir Bulan",
+        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -256,6 +256,13 @@
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -284,13 +291,6 @@
         "catid": 18,
         "catname": "Hobi & Alat Tulis",
         "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 7,
-        "catname": "Pesta Diskon Akhir Bulan",
-        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -389,7 +389,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "691febb261d84492ed500a31f078295ad4d488d80cbd6fefb1c2686f5fcf6a2c",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af59f62663c645a6d40e143f00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af59ff5eaef9c020249e7e2a00\"}"
   },
   {
     "banner": "id-11134004-81zto-mscahpme62gx41",
@@ -442,9 +442,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 7,
+        "catname": "Pesta Diskon Akhir Bulan",
+        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -452,6 +452,13 @@
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -480,13 +487,6 @@
         "catid": 18,
         "catname": "Hobi & Alat Tulis",
         "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 7,
-        "catname": "Pesta Diskon Akhir Bulan",
-        "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
         "cat_label": 0,
         "recommendation_info": null
       },
