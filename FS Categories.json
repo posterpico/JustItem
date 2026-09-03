@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.058134872}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.05693728}}"
       },
       {
         "catid": 44,
@@ -36,9 +36,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 51,
+        "catname": "Brand Day",
+        "image": "id-11134004-81ztk-msdjzmcary8468",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -46,13 +46,6 @@
         "catid": 97,
         "catname": "Super Brand Day",
         "image": "id-11134004-81ztd-msdjz2e8ihag45",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 51,
-        "catname": "Brand Day",
-        "image": "id-11134004-81ztk-msdjzmcary8468",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -67,6 +60,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -200,7 +200,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "7c128a854959788e3f6774224a1ef5e3b8024462d601ad1ae9fe9b0a881af481",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5a82f76c08ffd3cba2fa9600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5a8c3e7393dc22d32718e000\"}"
   },
   {
     "banner": "id-11134004-81ztl-mskpmap7aio6f9",
@@ -229,7 +229,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06379808}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06112386}}"
       },
       {
         "catid": 44,
@@ -239,9 +239,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 51,
+        "catname": "Brand Day",
+        "image": "id-11134004-81ztk-msdjzmcary8468",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -249,13 +249,6 @@
         "catid": 97,
         "catname": "Super Brand Day",
         "image": "id-11134004-81ztd-msdjz2e8ihag45",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 51,
-        "catname": "Brand Day",
-        "image": "id-11134004-81ztk-msdjzmcary8468",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -270,6 +263,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -403,7 +403,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "d99303586e2fdf53e359c8c9d458fc8bb0cd499de9aeaec985694570f2a2f0a5",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5a82f76c08ffd3cba2fa9600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5a8c3e7393dc22d32718e000\"}"
   },
   {
     "banner": "id-11134004-81ztj-mskvdwo9ujnu7d",
@@ -442,9 +442,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 51,
+        "catname": "Brand Day",
+        "image": "id-11134004-81ztk-msdjzmcary8468",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -452,13 +452,6 @@
         "catid": 97,
         "catname": "Super Brand Day",
         "image": "id-11134004-81ztd-msdjz2e8ihag45",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 51,
-        "catname": "Brand Day",
-        "image": "id-11134004-81ztk-msdjzmcary8468",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -473,6 +466,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
