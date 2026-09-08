@@ -3596,17 +3596,15 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
             return (M = Object(r.a)(o.a.mark((function e(t, n) {
                 return o.a.wrap((function(e) {
                     for (; ; )
-                        switch (e.prev = e.next) {
-                        case 0:
-                            return e.next = 2,
-                            a.d.get("/session/".concat(t, "/show_item"), n);
-                            a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=10"), n);
-                        case 2:
-                            return e.next = 3,
-                        case 3:
-                        case "end":
-                            return e.stop()
-                        }
+                    switch (e.prev = e.next) {
+                    case 0:
+                        a.d.get("/session/".concat(t, "/show_item"), n);
+                        a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=10"), n);
+                    
+                    case 1:
+                    case "end":
+                        return e.stop();
+                    }
                 }
                 ), e)
             }
