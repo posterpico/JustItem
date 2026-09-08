@@ -3601,7 +3601,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                             return e.next = 2,
                             a.d.get("/session/".concat(t, "/show_item"), n);
                         case 2:
-                            return e.abrupt("return", e.sent);
+                            return e.next = 3,
+                            a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=10"), n);
                         case 3:
                         case "end":
                             return e.stop()
