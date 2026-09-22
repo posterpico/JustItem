@@ -26,14 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.05533084}}"
-      },
-      {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.05681352}}"
       },
       {
         "catid": 35,
@@ -43,16 +36,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "catid": 67,
+        "catname": "Brand Day",
+        "image": "id-11134004-81ztp-mt6745e82dc4d5",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 67,
-        "catname": "Brand Day",
-        "image": "id-11134004-81ztp-mt6745e82dc4d5",
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -67,6 +60,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -193,7 +193,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "eda65b7af2615943e7a3bfde8fc39ee02ff96be26700c48d1c6f61c7a9e81957",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5c012e5652a855d754adfc00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5c0a594b6cc364afef920f00\"}"
   },
   {
     "banner": "id-11134004-81ztf-mtde4rb10xs9dd",
@@ -222,14 +222,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.056739442}}"
-      },
-      {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.05538215}}"
       },
       {
         "catid": 35,
@@ -239,16 +232,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "catid": 67,
+        "catname": "Brand Day",
+        "image": "id-11134004-81ztp-mt6745e82dc4d5",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 67,
-        "catname": "Brand Day",
-        "image": "id-11134004-81ztp-mt6745e82dc4d5",
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -263,6 +256,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -389,7 +389,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "f1c9484d7b02886858ee309e615dd36dc1e9cb7fe639db4f08c88abb04e6cd80",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5c012e5652a855d754adfc00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5c0a594b6cc364afef920f00\"}"
   },
   {
     "banner": "id-11134004-81ztp-mtdeap9tcjr6bb",
@@ -421,13 +421,6 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
         "catid": 35,
         "catname": "Super Brand Day",
         "image": "id-11134004-81ztd-mt4sbzsshmgx55",
@@ -435,16 +428,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "catid": 67,
+        "catname": "Brand Day",
+        "image": "id-11134004-81ztp-mt6745e82dc4d5",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 67,
-        "catname": "Brand Day",
-        "image": "id-11134004-81ztp-mt6745e82dc4d5",
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -459,6 +452,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
         "cat_label": 0,
         "recommendation_info": null
       },
