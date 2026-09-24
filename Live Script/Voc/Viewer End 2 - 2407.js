@@ -105,13 +105,11 @@
                             return e.next = 2,
                             c.d.get("session/".concat(n, "/voucher/applicable_items"), {
                                  params: {
-                                  offset: t,
-                                  promotion_id: 1506905656016896,
-                                  voucher_code: "FSV-1024294312787050496",
+                                  offset: n.offset,
+                                  promotion_id: 1511374140489728,
+                                  voucher_code: "FSV-1028870042212630528",
                                   limit: 100
                                  }
-                        
-    
                             });
                         case 2:
                             return e.abrupt("return", e.sent);
@@ -394,7 +392,7 @@
                     R.includes(a) && ("number" !== typeof n.performanceData[a] && (n.count -= 1,
                     n.setBaseInfo(o)),
                     n.performanceData[a] = Math.round(i),
-                    0 === n.count && n.sendAfterCollection && (L.A ? B.g.getAppInfo().then((function() {
+                    0 === n.count && n.sendAfterCollection && (L.A ? B.h.getAppInfo().then((function() {
                         n.sendEvent(!0)
                     }
                     )) : n.sendEvent(!0)))
@@ -412,13 +410,13 @@
                 ,
                 this.addPageHideListener = function() {
                     console.log("addPageHideListener"),
-                    L.A ? B.g.addEventListener("viewDidDisappear", n.handlePagehide) : (window.addEventListener("visibilitychange", n.handleVisibilitychange),
+                    L.A ? B.h.addEventListener("viewDidDisappear", n.handlePagehide) : (window.addEventListener("visibilitychange", n.handleVisibilitychange),
                     window.addEventListener("pagehide", n.handlePagehide))
                 }
                 ,
                 this.removePageHideListener = function() {
                     console.log("removePageHideListener"),
-                    L.A ? B.g.removeEventListener("viewDidDisappear", n.handlePagehide) : (window.removeEventListener("pagehide", n.handlePagehide),
+                    L.A ? B.h.removeEventListener("viewDidDisappear", n.handlePagehide) : (window.removeEventListener("pagehide", n.handlePagehide),
                     window.removeEventListener("visibilitychange", n.handleVisibilitychange))
                 }
                 ,
@@ -437,12 +435,12 @@
             }, {
                 key: "supportsFCP",
                 value: function() {
-                    return "PerformanceObserver"in window && "supportedEntryTypes"in PerformanceObserver && PerformanceObserver.supportedEntryTypes.includes("paint")
+                    return "PerformanceObserver" in window && "supportedEntryTypes" in PerformanceObserver && PerformanceObserver.supportedEntryTypes.includes("paint")
                 }
             }, {
                 key: "supportsLCP",
                 value: function() {
-                    return "PerformanceObserver"in window && "supportedEntryTypes"in PerformanceObserver && PerformanceObserver.supportedEntryTypes.includes("largest-contentful-paint")
+                    return "PerformanceObserver" in window && "supportedEntryTypes" in PerformanceObserver && PerformanceObserver.supportedEntryTypes.includes("largest-contentful-paint")
                 }
             }, {
                 key: "setBaseInfo",
@@ -657,7 +655,7 @@
                                         break
                                     }
                                     return e.next = 3,
-                                    h.g.getAppInfo();
+                                    h.h.getAppInfo();
                                 case 3:
                                     return n = e.sent,
                                     t = g(),
@@ -844,4 +842,4 @@
         }
     }
 }]);
-//# 4277675af0e98774bf0b6b6207b40e255a1c3894.e7f4b0f52974433a2062.js.map
+//# 4277675af0e98774bf0b6b6207b40e255a1c3894.1a3b14b6226cec349f0a.js.map
