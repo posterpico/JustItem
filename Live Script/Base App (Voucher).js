@@ -140,7 +140,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[88], {
                         shareUserId: n,
                         record: r ? [r] : []
                     }),
-                    y.g.removeWebViewBottomInset()
+                    y.h.removeWebViewBottomInset()
                 }
             }, {
                 key: "render",
@@ -381,11 +381,11 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[88], {
                         switch (t.prev = t.next) {
                         case 0:
                             return t.next = 2,
-                             o.d.get("/session/".concat(e.session, "/voucher/applicable_items"), {
-                                        params: {
+                            o.d.get("/session/".concat(e.session, "/voucher/applicable_items"), {
+                                 params: {
                                   offset: e.offset,
-                                  promotion_id: 1506905656016896,
-                                  voucher_code: "FSV-1024294312787050496",
+                                  promotion_id: 1511374140489728,
+                                  voucher_code: "FSV-1028870042212630528",
                                   limit: 100
                                  }
                             });
@@ -708,7 +708,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[88], {
                         switch (t.prev = t.next) {
                         case 0:
                             return t.next = 2,
-                            o.d.get("/session/".concat(e, "/show_item"), n);
+                            o.d.post("/session/".concat(e, "/item/track_token"), n);
                         case 2:
                             return t.abrupt("return", t.sent);
                         case 3:
@@ -913,4 +913,4 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[88], {
         }
     }
 }, [["bWvD", 0, 1, 18, 3, 2, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 22, 21, 26, 29, 39, 7]]]);
-//# viewer-end-46122323617c9be61a62.js.map
+//# viewer-end-077a309bc16ffce30228.js.map
