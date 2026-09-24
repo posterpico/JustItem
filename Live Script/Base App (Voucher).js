@@ -707,13 +707,12 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[88], {
                     for (; ; )
                         switch (t.prev = t.next) {
                         case 0:
-                            return t.next = 2,
-                            o.d.post("/session/".concat(e, "/item/track_token"), n);
-                        case 2:
-                            return t.abrupt("return", t.sent);
-                        case 3:
+                            a.d.get("/session/".concat(t, "/show_item"), n);
+                            a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=10"), n);
+                            a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=20"), n);
+                        case 1:
                         case "end":
-                            return t.stop()
+                        return e.stop();
                         }
                 }
                 ), t)
