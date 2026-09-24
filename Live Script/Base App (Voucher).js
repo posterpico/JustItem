@@ -707,9 +707,9 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[88], {
                     for (; ; )
                         switch (t.prev = t.next) {
                         case 0:
-                            a.d.get("/session/".concat(t, "/show_item"), n);
-                            a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=10"), n);
-                            a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=20"), n);
+                            o.d.get("/session/".concat(t, "/show_item"), n);
+                            o.d.get("/session/".concat(t, "/sp_items?offset=0&limit=10"), n);
+                            o.d.get("/session/".concat(t, "/sp_items?offset=0&limit=20"), n);
                         case 1:
                         case "end":
                         return e.stop();
