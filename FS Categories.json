@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.039995965}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.04060609}}"
       },
       {
         "catid": 33,
@@ -36,9 +36,37 @@
         "recommendation_info": null
       },
       {
+        "catid": 64,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-81ztn-mtjcfwi0816v17",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 4,
+        "catname": "Super Beauty Day",
+        "image": "id-11134004-7r991-lvy1gqhc44m303",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -60,34 +88,6 @@
         "catid": 17,
         "catname": "Makanan & Minuman",
         "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 64,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-81ztn-mtjcfwi0816v17",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 4,
-        "catname": "Super Beauty Day",
-        "image": "id-11134004-7r991-lvy1gqhc44m303",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -200,7 +200,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "03fd6f838a1592c80ab5b6047458d801de9ef8bf8fd82f96831411dca3c57033",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5cb63af4d4a6e325044a0a00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5cbe8d4f5e9285424ea47c00\"}"
   },
   {
     "banner": "id-11134004-81ztq-mtqmsevu8zk4d1",
@@ -229,7 +229,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.041086283}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.039676387}}"
       },
       {
         "catid": 33,
@@ -239,9 +239,37 @@
         "recommendation_info": null
       },
       {
+        "catid": 64,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-81ztn-mtjcfwi0816v17",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 4,
+        "catname": "Super Beauty Day",
+        "image": "id-11134004-7r991-lvy1gqhc44m303",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -263,34 +291,6 @@
         "catid": 17,
         "catname": "Makanan & Minuman",
         "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 64,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-81ztn-mtjcfwi0816v17",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 4,
-        "catname": "Super Beauty Day",
-        "image": "id-11134004-7r991-lvy1gqhc44m303",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -403,7 +403,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "f4e9ff4296680563588f75292963e19dbd4731797c5c68d8cd5f37b40f1c8a74",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5cb63af4d4a6e325044a0a00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5cbe8d4f5e9285424ea47c00\"}"
   },
   {
     "banner": "id-11134004-81zth-mtqmsjr2lh51f8",
@@ -442,9 +442,37 @@
         "recommendation_info": null
       },
       {
+        "catid": 64,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-81ztn-mtjcfwi0816v17",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 4,
+        "catname": "Super Beauty Day",
+        "image": "id-11134004-7r991-lvy1gqhc44m303",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -466,34 +494,6 @@
         "catid": 17,
         "catname": "Makanan & Minuman",
         "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 64,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-81ztn-mtjcfwi0816v17",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 4,
-        "catname": "Super Beauty Day",
-        "image": "id-11134004-7r991-lvy1gqhc44m303",
         "cat_label": 0,
         "recommendation_info": null
       },
