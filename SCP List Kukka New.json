@@ -1,9 +1,16 @@
 [
   {
-    "promotion_id": 509744267944004,
-    "item_id": 28235796000,
+    "promotion_id": 509744276324383,
+    "item_id": 27503583683,
     "shop_id": 227074971,
-    "start_time": 1790960400,
+    "start_time": 1791010800,
+    "promo_price": 21000
+  },
+  {
+    "promotion_id": 509744276324528,
+    "item_id": 24070422485,
+    "shop_id": 227074971,
+    "start_time": 1791028800,
     "promo_price": 21000
   }
 ]
