@@ -200,7 +200,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "c305636d00372eabb1d9feab5bfe4f3a3f372e0f1006b8fa94c0ad7f947086fe",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d10c139f7147cacd47a3d00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d141d2f84855014f46bb500\"}"
   },
   {
     "banner": "id-11134004-81ztf-mtx9furnaqkmbd",
@@ -229,7 +229,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-6.480136}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.071431756}}"
       },
       {
         "catid": 33,
@@ -403,13 +403,26 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "9d8a1c2df2c03ee7b4f672f77136e0c86636f4cbadcb430e1affad29a12e29e5",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d10c139f7147cacd47a3d00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d141d2f84855014f46bb500\"}"
   },
   {
-    "banner": null,
-    "banner_url": null,
+    "banner": "id-11134004-81ztm-mtxf61qkqz2da9",
+    "banner_url": "https://shopee.co.id/m/10-10-sbd",
     "carousel_banner": {
-      "flash_banner": [],
+      "flash_banner": [
+        {
+          "banner": "id-11134004-81ztm-mtxf61qkqz2da9",
+          "banner_url": "https://shopee.co.id/m/10-10-sbd",
+          "pc_banner": "",
+          "shopee_food_info": null
+        },
+        {
+          "banner": "id-11134004-81zth-mtxf644m6uwz12",
+          "banner_url": "",
+          "pc_banner": "",
+          "shopee_food_info": null
+        }
+      ],
       "mega_banner": [],
       "shopee_food_banner": []
     },
@@ -418,6 +431,13 @@
         "catid": 0,
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 33,
+        "catname": "Brands Festival",
+        "image": "id-11134004-81ztf-msw8i4atsxz80d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -432,6 +452,27 @@
         "catid": 14,
         "catname": "Fashion Wanita",
         "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 67,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-81ztc-mtrt1vfcnfuy70",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -453,13 +494,6 @@
         "catid": 18,
         "catname": "Hobi & Alat Tulis",
         "image": "c0c4edec7ab5f0662c56d729aabf0bf0",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -495,6 +529,13 @@
         "catid": 23,
         "catname": "Fashion Anak",
         "image": "2b1eec13a9bca8a5d83fc7e349756843",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -539,13 +580,20 @@
         "image": "d92a865d5a891f9566ffbb7d44bdfff7",
         "cat_label": 0,
         "recommendation_info": null
+      },
+      {
+        "catid": 9,
+        "catname": "ShopeePay Sekitarmu",
+        "image": "id-11134004-7ra0p-mdlezzkg1q1eb0",
+        "cat_label": 0,
+        "recommendation_info": null
       }
     ],
     "description": "Ayo, nominasikan produkmu di Flash Sale Shopee!\n·       Produk harus memiliki minimal diskon sebesar:\n-       Sub Kategori Elektronik, Sub kategori Handphone & Tablet : 2% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n-       Kategori lainnya : 5% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n·       Produk yang dinominasikan memiliki min. Rata-rata jumlah pesanan per hari: 1 pesanan dalam 30 hari terakhir.\n·       Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n·       Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12.\n·       Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994",
     "end_time": 1791262800,
     "is_ongoing": false,
     "name": "Flash Sale - Seller Nomination | 6 Oct 00:00 - 6 Oct 12:00",
-    "pc_banner": null,
+    "pc_banner": "",
     "promotionid": 502518492963097,
     "start_time": 1791219600,
     "status": 1,
