@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07317977}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07211703}}"
       },
       {
         "catid": 33,
@@ -43,9 +43,30 @@
         "recommendation_info": null
       },
       {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -67,27 +88,6 @@
         "catid": 17,
         "catname": "Makanan & Minuman",
         "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -200,17 +200,17 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "7c73b71498e2cf5ce7863ca58e06ceca3b876d74e0145e2078d921bb0e2fb24b",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d06b238e2ce47b72f7d5600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d0f948c85468812cc720300\"}"
   },
   {
-    "banner": "id-11134004-81zti-mtsz36p4d4htfb",
+    "banner": "id-11134004-81ztd-mtx9ffrpy612ef",
     "banner_url": "https://shopee.co.id/m/10-10-sbd",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81zti-mtsz36p4d4htfb",
+          "banner": "id-11134004-81ztd-mtx9ffrpy612ef",
           "banner_url": "https://shopee.co.id/m/10-10-sbd",
-          "pc_banner": "id-11134004-81zto-mtsz39djlou9f1",
+          "pc_banner": "id-11134004-81ztd-mtx9fi4gg5jece",
           "shopee_food_info": null
         },
         {
@@ -229,7 +229,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06523925}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06664469}}"
       },
       {
         "catid": 33,
@@ -246,9 +246,30 @@
         "recommendation_info": null
       },
       {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -270,27 +291,6 @@
         "catid": 17,
         "catname": "Makanan & Minuman",
         "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -397,23 +397,23 @@
     "end_time": 1791198000,
     "is_ongoing": false,
     "name": "Flash Sale - Seller Nomination | 5 Oct 12:00 - 5 Oct 18:00",
-    "pc_banner": "id-11134004-81zto-mtsz39djlou9f1",
+    "pc_banner": "id-11134004-81ztd-mtx9fi4gg5jece",
     "promotionid": 502518329389233,
     "start_time": 1791176400,
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "c305636d00372eabb1d9feab5bfe4f3a3f372e0f1006b8fa94c0ad7f947086fe",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d06b238e2ce47b72f7d5600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d0f948c85468812cc720300\"}"
   },
   {
-    "banner": "id-11134004-81ztm-mtt55x9n21ogaa",
+    "banner": "id-11134004-81ztf-mtx9furnaqkmbd",
     "banner_url": "https://shopee.co.id/m/10-10-sbd",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81ztm-mtt55x9n21ogaa",
+          "banner": "id-11134004-81ztf-mtx9furnaqkmbd",
           "banner_url": "https://shopee.co.id/m/10-10-sbd",
-          "pc_banner": "id-11134004-81ztk-mttbulqvxszu80",
+          "pc_banner": "id-11134004-81ztc-mtx9fx1baps7b7",
           "shopee_food_info": null
         },
         {
@@ -449,9 +449,30 @@
         "recommendation_info": null
       },
       {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 13,
         "catname": "Fashion Pria",
         "image": "952a6373147846d8f0d2acaad4876c7b",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 31,
+        "catname": "Pilih Lokal",
+        "image": "id-11134004-7rbk3-m70p409i1auif5",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 1,
+        "catname": "Pulsa & E-voucher",
+        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -473,27 +494,6 @@
         "catid": 17,
         "catname": "Makanan & Minuman",
         "image": "630bec71a9ce336a20eaaa38fb335846",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 31,
-        "catname": "Pilih Lokal",
-        "image": "id-11134004-7rbk3-m70p409i1auif5",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 1,
-        "catname": "Pulsa & E-voucher",
-        "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -600,7 +600,7 @@
     "end_time": 1791219600,
     "is_ongoing": false,
     "name": "Flash Sale - Seller Nomination | 5 Oct 18:00 - 6 Oct 00:00",
-    "pc_banner": "id-11134004-81ztk-mttbulqvxszu80",
+    "pc_banner": "id-11134004-81ztc-mtx9fx1baps7b7",
     "promotionid": 502518329393357,
     "start_time": 1791198000,
     "status": 1,
