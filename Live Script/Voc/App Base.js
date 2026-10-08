@@ -128,8 +128,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                             s.d.get("session/".concat(t, "/voucher/applicable_items"), {
                                  params: {
                                   offset: n.offset,
-                                  promotion_id: 1517166667907072,
-                                  voucher_code: "FSV-1034801589600124928",
+                                  promotion_id: 1522300336619540,
+                                  voucher_code: "FSV-1040058466261008384",
                                   limit: 100
                                  }
                             });
@@ -3340,8 +3340,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                             a.d.get("/session/".concat(t.session, "/voucher/applicable_items"), {
                                params: {
                                   offset: t.offset,
-                                  promotion_id: 1517166667907072,
-                                  voucher_code: "FSV-1034801589600124928",
+                                  promotion_id: 1522300336619540,
+                                  voucher_code: "FSV-1040058466261008384",
                                   limit: 100
                                  }
                             });
@@ -3666,6 +3666,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                                 a.d.get("/session/".concat(t, "/show_item"), n);
                                 a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=10"), n);
                                 a.d.get("/session/".concat(t, "/sp_items?offset=10&limit=10"), n);
+                                a.d.get("/session/".concat(t, "/sp_items?offset=20&limit=10"), n);
                             case 1:
                             case "end":
                                 return e.stop();
