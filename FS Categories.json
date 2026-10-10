@@ -180,7 +180,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "5b89083eb180c3ca067c86456a14d3857de01edbc87cb7a07e48664c1e282e80",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d73835ca42f8818930eff00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d73838c1be217b54a74e500\"}"
   },
   {
     "banner": "id-11134004-81zti-mu2wsnqh35l41f",
@@ -203,7 +203,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-6.330084}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.040786028}}"
       },
       {
         "catid": 33,
@@ -363,7 +363,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "743f6bf5aa0b7f5153001031a81c6b308324f182a4c14b18725a4fa89c2a9abc",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d73835ca42f8818930eff00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d73838c1be217b54a74e500\"}"
   },
   {
     "banner": "id-11134004-81zto-mu34pvg8rh8i7d",
