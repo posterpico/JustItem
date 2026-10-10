@@ -1,13 +1,13 @@
 [
   {
-    "banner": "id-11134004-81ztg-mu39dh7mwv7p69",
+    "banner": "id-11134004-81zto-mu34ta8exzif00",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81ztg-mu39dh7mwv7p69",
+          "banner": "id-11134004-81zto-mu34ta8exzif00",
           "banner_url": "",
-          "pc_banner": "id-11134004-81zti-mu39djc3ffnn63",
+          "pc_banner": "id-11134004-81ztl-mu34td7g90qu72",
           "shopee_food_info": null
         }
       ],
@@ -20,7 +20,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-3.0982893}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-3.0874069}}"
       },
       {
         "catid": 33,
@@ -170,27 +170,27 @@
         "recommendation_info": null
       }
     ],
-    "description": "Flash Sale - DP | 10 Oct 01:00 - 10 Oct 08:00",
-    "end_time": 1791594000,
+    "description": "Ayo, nominasikan produkmu di Flash Sale Shopee!\n·       Produk harus memiliki minimal diskon sebesar:\n-       Sub Kategori Elektronik, Sub kategori Handphone & Tablet : 2% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n-       Kategori lainnya : 5% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n·       Produk yang dinominasikan memiliki min. Rata-rata jumlah pesanan per hari: 1 pesanan dalam 30 hari terakhir.\n·       Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n·       Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12.\n·       Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994",
+    "end_time": 1791608400,
     "is_ongoing": true,
-    "name": "Flash Sale - DP | 10 Oct 01:00 - 10 Oct 08:00",
-    "pc_banner": "id-11134004-81zti-mu39djc3ffnn63",
-    "promotionid": 506816975085594,
-    "start_time": 1791568800,
+    "name": "Flash Sale - Seller Nomination | 10 Oct 08:00 - 10 Oct 12:00",
+    "pc_banner": "id-11134004-81ztl-mu34td7g90qu72",
+    "promotionid": 506816966688798,
+    "start_time": 1791594000,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "021ed6c548247afb976405eda84c24afbdf77a2eeea763db9302e618a7c1476f",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d71fbe63b234d6979f88c00\"}"
+    "signature": "5b89083eb180c3ca067c86456a14d3857de01edbc87cb7a07e48664c1e282e80",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d73835ca42f8818930eff00\"}"
   },
   {
-    "banner": "id-11134004-81zto-mu34ta8exzif00",
+    "banner": "id-11134004-81zti-mu2wsnqh35l41f",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81zto-mu34ta8exzif00",
+          "banner": "id-11134004-81zti-mu2wsnqh35l41f",
           "banner_url": "",
-          "pc_banner": "id-11134004-81ztl-mu34td7g90qu72",
+          "pc_banner": "id-11134004-81ztj-mu2wsqtbw4xz70",
           "shopee_food_info": null
         }
       ],
@@ -354,26 +354,26 @@
       }
     ],
     "description": "Ayo, nominasikan produkmu di Flash Sale Shopee!\n·       Produk harus memiliki minimal diskon sebesar:\n-       Sub Kategori Elektronik, Sub kategori Handphone & Tablet : 2% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n-       Kategori lainnya : 5% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n·       Produk yang dinominasikan memiliki min. Rata-rata jumlah pesanan per hari: 1 pesanan dalam 30 hari terakhir.\n·       Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n·       Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12.\n·       Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994",
-    "end_time": 1791608400,
+    "end_time": 1791619200,
     "is_ongoing": false,
-    "name": "Flash Sale - Seller Nomination | 10 Oct 08:00 - 10 Oct 12:00",
-    "pc_banner": "id-11134004-81ztl-mu34td7g90qu72",
-    "promotionid": 506816966688798,
-    "start_time": 1791594000,
+    "name": "Flash Sale - Seller Nomination | 10 Oct 12:00 - 10 Oct 15:00",
+    "pc_banner": "id-11134004-81ztj-mu2wsqtbw4xz70",
+    "promotionid": 506816966688853,
+    "start_time": 1791608400,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "5b89083eb180c3ca067c86456a14d3857de01edbc87cb7a07e48664c1e282e80",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d71fbe63b234d6979f88c00\"}"
+    "signature": "743f6bf5aa0b7f5153001031a81c6b308324f182a4c14b18725a4fa89c2a9abc",
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall_downgrade|optimised_queue;get_curated_flash_sale_items|flow_id|ranker_downgrade|ego_dl_v3_gpu;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d73835ca42f8818930eff00\"}"
   },
   {
-    "banner": "id-11134004-81zti-mu2wsnqh35l41f",
+    "banner": "id-11134004-81zto-mu34pvg8rh8i7d",
     "banner_url": "",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81zti-mu2wsnqh35l41f",
+          "banner": "id-11134004-81zto-mu34pvg8rh8i7d",
           "banner_url": "",
-          "pc_banner": "id-11134004-81ztj-mu2wsqtbw4xz70",
+          "pc_banner": "id-11134004-81ztq-mu34pwovw6iq52",
           "shopee_food_info": null
         }
       ],
@@ -537,15 +537,15 @@
       }
     ],
     "description": "Ayo, nominasikan produkmu di Flash Sale Shopee!\n·       Produk harus memiliki minimal diskon sebesar:\n-       Sub Kategori Elektronik, Sub kategori Handphone & Tablet : 2% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n-       Kategori lainnya : 5% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n·       Produk yang dinominasikan memiliki min. Rata-rata jumlah pesanan per hari: 1 pesanan dalam 30 hari terakhir.\n·       Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n·       Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12.\n·       Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994",
-    "end_time": 1791619200,
+    "end_time": 1791637200,
     "is_ongoing": false,
-    "name": "Flash Sale - Seller Nomination | 10 Oct 12:00 - 10 Oct 15:00",
-    "pc_banner": "id-11134004-81ztj-mu2wsqtbw4xz70",
-    "promotionid": 506816966688853,
-    "start_time": 1791608400,
+    "name": "Flash Sale - Seller Nomination | 10 Oct 15:00 - 10 Oct 20:00",
+    "pc_banner": "id-11134004-81ztq-mu34pwovw6iq52",
+    "promotionid": 506816975081960,
+    "start_time": 1791619200,
     "status": 1,
     "with_mega_sale_session": false,
-    "signature": "743f6bf5aa0b7f5153001031a81c6b308324f182a4c14b18725a4fa89c2a9abc",
+    "signature": "fb24ca7b293012c0ff2b8180f97a67a81dbe59bc8677b921639ef5ed92599fb2",
     "tracker_info": null
   }
 ]
