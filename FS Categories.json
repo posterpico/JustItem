@@ -20,7 +20,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-4.749378}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.04310782}}"
       },
       {
         "catid": 33,
@@ -180,7 +180,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "a6cca48704041201df1c8b068b9afc10ec1af4e0b2d687d449f82d03270a9735",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d897435d8eff39c64528800\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d8bb09e7e52e26addd0de00\"}"
   },
   {
     "banner": "id-11134004-81zte-mu34xeaih3wj46",
@@ -363,7 +363,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "0e5bff5564b3cb611cbfd427223a30883c37faabeda9609aade073018e03c21e",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d897435d8eff39c64528800\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d8bb09e7e52e26addd0de00\"}"
   },
   {
     "banner": "id-11134004-81zti-mu343ilego3p80",
