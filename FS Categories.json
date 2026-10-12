@@ -26,14 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.045875207}}"
-      },
-      {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.04578285}}"
       },
       {
         "catid": 97,
@@ -46,6 +39,13 @@
         "catid": 51,
         "catname": "Super Brand Day",
         "image": "id-11134004-81ztn-mu0eku4pjfuw3a",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -64,9 +64,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -200,7 +200,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "44e8ca5bb1e42b4fdf913540d33ad9836e95159cd4bd228e84cec83ea0f20926",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d938523df1d643402fb5900\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d9b9e41a4534804241fea00\"}"
   },
   {
     "banner": "id-11134004-81ztq-mu2zoedrw1s51a",
@@ -239,16 +239,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "catid": 51,
+        "catname": "Super Brand Day",
+        "image": "id-11134004-81ztn-mu0eku4pjfuw3a",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 51,
-        "catname": "Super Brand Day",
-        "image": "id-11134004-81ztn-mu0eku4pjfuw3a",
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -267,9 +267,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -396,7 +396,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "f98e59e79845b90aa6529fdb48c67d90bf5a630f0f70c1cc3f12d1f245adb82e",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d938523df1d643402fb5900\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5d9b9e41a4534804241fea00\"}"
   },
   {
     "banner": "id-11134004-81ztj-mu35guherc3m9d",
@@ -428,13 +428,6 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
         "catid": 97,
         "catname": "Brand Day",
         "image": "id-11134004-81ztj-mtxer49pg64g88",
@@ -445,6 +438,13 @@
         "catid": 51,
         "catname": "Super Brand Day",
         "image": "id-11134004-81ztn-mu0eku4pjfuw3a",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -463,9 +463,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
