@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.1160356}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.10968982}}"
       },
       {
         "catid": 35,
@@ -43,6 +43,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-81ztq-mtz3o9jlcrnlc9",
@@ -53,13 +60,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -186,7 +186,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "94742cd0d2332dc53cb4b197356620ac54539122c2debdde3f53d9fc2a014937",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5de3fa831555b072b5dc8600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5ded50d6572321faa617c70a\"}"
   },
   {
     "banner": "id-11134004-81ztc-muakkyhvokcn28",
@@ -215,7 +215,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.120176874}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.11037115}}"
       },
       {
         "catid": 35,
@@ -232,6 +232,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-81ztq-mtz3o9jlcrnlc9",
@@ -242,13 +249,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -375,7 +375,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "231c9c0df50c54cc8f49503e11097f84ac2791f81b906e0056bfeb3fae15329b",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5de3fa831555b072b5dc8600\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5ded50d6572321faa617c70a\"}"
   },
   {
     "banner": "id-11134004-81ztk-muakkpwpilu0b1",
@@ -421,6 +421,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 14,
+        "catname": "Fashion Wanita",
+        "image": "a69aa8806b664e6b6a8a04b6961aa651",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-81ztq-mtz3o9jlcrnlc9",
@@ -431,13 +438,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 14,
-        "catname": "Fashion Wanita",
-        "image": "a69aa8806b664e6b6a8a04b6961aa651",
         "cat_label": 0,
         "recommendation_info": null
       },
