@@ -20,7 +20,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07020615}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06049391}}"
       },
       {
         "catid": 67,
@@ -187,7 +187,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "45057ade0aa16a195f048533e22a56f31140a73eb9e69af4bd53bdc87cebf198",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5e2a62fe3c56be77ee0ef300\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5e2e41c5852afc6496f5f000\"}"
   },
   {
     "banner": "id-11134004-81ztn-mud16pu74pab6c",
@@ -210,7 +210,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.07111245}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.061336275}}"
       },
       {
         "catid": 67,
@@ -377,17 +377,23 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "8fccdd1b6c9a47cc2bc4119b58bf5cd46294d91846b2a046b6958850a6cba76b",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5e2a62fe3c56be77ee0ef300\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5e2e41c5852afc6496f5f000\"}"
   },
   {
-    "banner": "id-11134004-81ztn-muhbopcrcd1k72",
-    "banner_url": "",
+    "banner": "id-11134004-81ztd-muhcpoo0b3t272",
+    "banner_url": "https://shopee.co.id/m/sbd",
     "carousel_banner": {
       "flash_banner": [
         {
-          "banner": "id-11134004-81ztn-muhbopcrcd1k72",
+          "banner": "id-11134004-81ztd-muhcpoo0b3t272",
+          "banner_url": "https://shopee.co.id/m/sbd",
+          "pc_banner": "id-11134004-81ztl-muhcppnzrcp335",
+          "shopee_food_info": null
+        },
+        {
+          "banner": "id-11134004-81ztk-muhcofiqh3wq0e",
           "banner_url": "",
-          "pc_banner": "id-11134004-81ztq-muhborhz4u0za3",
+          "pc_banner": "",
           "shopee_food_info": null
         }
       ],
@@ -561,7 +567,7 @@
     "end_time": 1792472400,
     "is_ongoing": false,
     "name": "Flash Sale - Shopee Nomination | 20 Oct 00:00 - 20 Oct 12:00",
-    "pc_banner": "id-11134004-81ztq-muhborhz4u0za3",
+    "pc_banner": "id-11134004-81ztl-muhcppnzrcp335",
     "promotionid": 509399844278358,
     "start_time": 1792429200,
     "status": 1,
