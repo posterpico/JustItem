@@ -128,8 +128,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                             s.d.get("session/".concat(t, "/voucher/applicable_items"), {
                                  params: {
                                   offset: n.offset,
-                                  promotion_id: 1522300336619540,
-                                  voucher_code: "FSV-1040058466261008384",
+                                  promotion_id: 1531743728975888,
+                                  voucher_code: "FSV-1049728499396378624",
                                   limit: 100
                                  }
                             });
@@ -3340,8 +3340,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                             a.d.get("/session/".concat(t.session, "/voucher/applicable_items"), {
                                params: {
                                   offset: t.offset,
-                                  promotion_id: 1522300336619540,
-                                  voucher_code: "FSV-1040058466261008384",
+                                  promotion_id: 1531743728975888,
+                                  voucher_code: "FSV-1049728499396378624",
                                   limit: 100
                                  }
                             });
