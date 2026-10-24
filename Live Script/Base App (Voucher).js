@@ -384,8 +384,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[88], {
                             o.d.get("/session/".concat(e.session, "/voucher/applicable_items"), {
                                  params: {
                                   offset: e.offset,
-                                  promotion_id: 1522300336619540,
-                                  voucher_code: "FSV-1040058466261008384",
+                                  promotion_id: 1531743728975888,
+                                  voucher_code: "FSV-1049728499396378624",
                                   limit: 100
                                  }
                             });
