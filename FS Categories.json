@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06631549}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.062487382}}"
       },
       {
         "catid": 66,
@@ -50,9 +50,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 52,
+        "catname": "IM3 Tri Super Brand Day",
+        "image": "id-11134004-81ztl-mu0i081oqeiw44",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -74,6 +74,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -120,16 +127,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 21,
-        "catname": "Aksesoris",
-        "image": "28ad1a2b6a71a257b45c4e445682a75e",
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 73,
-        "catname": "Dikelola Shopee",
-        "image": "fe72453c171aa7f26d3fc0421324a776",
+        "catid": 21,
+        "catname": "Aksesoris",
+        "image": "28ad1a2b6a71a257b45c4e445682a75e",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -165,13 +172,6 @@
         "catid": 39,
         "catname": "Handphone & Aksesoris",
         "image": "5db6f4c96309f6bcf6d18edde7c9f784",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 52,
-        "catname": "IM3 Tri Super Brand Day",
-        "image": "id-11134004-81ztl-mu0i081oqeiw44",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -214,7 +214,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "a3b1e5aeb110e69b498324e900c7ad078910aa4177ac3c1fc804e0a8fd9a7eb6",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5f39f5c6cd1992de40411b00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5f42e5ec926170fb0854d600\"}"
   },
   {
     "banner": "id-11134004-81ztd-mux84g73rklh22",
@@ -243,7 +243,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.06161429}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.061316203}}"
       },
       {
         "catid": 66,
@@ -267,9 +267,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 52,
+        "catname": "IM3 Tri Super Brand Day",
+        "image": "id-11134004-81ztl-mu0i081oqeiw44",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -291,6 +291,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -337,16 +344,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 21,
-        "catname": "Aksesoris",
-        "image": "28ad1a2b6a71a257b45c4e445682a75e",
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 73,
-        "catname": "Dikelola Shopee",
-        "image": "fe72453c171aa7f26d3fc0421324a776",
+        "catid": 21,
+        "catname": "Aksesoris",
+        "image": "28ad1a2b6a71a257b45c4e445682a75e",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -382,13 +389,6 @@
         "catid": 39,
         "catname": "Handphone & Aksesoris",
         "image": "5db6f4c96309f6bcf6d18edde7c9f784",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 52,
-        "catname": "IM3 Tri Super Brand Day",
-        "image": "id-11134004-81ztl-mu0i081oqeiw44",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -431,7 +431,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "ccc693bd81f0e40f1fa01705ac01b15fe5ab33f468695a86cbdd406eca2abd00",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5f39f5c6cd1992de40411b00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af5f42e5ec926170fb0854d600\"}"
   },
   {
     "banner": "id-11134004-81ztj-mux84lr8mz9lc7",
@@ -484,9 +484,9 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 52,
+        "catname": "IM3 Tri Super Brand Day",
+        "image": "id-11134004-81ztl-mu0i081oqeiw44",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -508,6 +508,13 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -554,16 +561,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 21,
-        "catname": "Aksesoris",
-        "image": "28ad1a2b6a71a257b45c4e445682a75e",
+        "catid": 73,
+        "catname": "Dikelola Shopee",
+        "image": "fe72453c171aa7f26d3fc0421324a776",
         "cat_label": 0,
         "recommendation_info": null
       },
       {
-        "catid": 73,
-        "catname": "Dikelola Shopee",
-        "image": "fe72453c171aa7f26d3fc0421324a776",
+        "catid": 21,
+        "catname": "Aksesoris",
+        "image": "28ad1a2b6a71a257b45c4e445682a75e",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -599,13 +606,6 @@
         "catid": 39,
         "catname": "Handphone & Aksesoris",
         "image": "5db6f4c96309f6bcf6d18edde7c9f784",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 52,
-        "catname": "IM3 Tri Super Brand Day",
-        "image": "id-11134004-81ztl-mu0i081oqeiw44",
         "cat_label": 0,
         "recommendation_info": null
       },
