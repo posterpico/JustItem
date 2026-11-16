@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-7.017979}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.10105775}}"
       },
       {
         "catid": 95,
@@ -43,6 +43,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-81ztq-mtz3o9jlcrnlc9",
@@ -53,13 +60,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -200,7 +200,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "7eb353ef4846c19eda25b12e12e6a2113c0b2ab0671b62921b2be017fbc9120a",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af605397a360d0f470cd4fda00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af605ce6b735d86e966f3d4600\"}"
   },
   {
     "banner": "id-11134004-81ztm-mvh6jd70p7ut96",
@@ -229,7 +229,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.08981983}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.09068376}}"
       },
       {
         "catid": 95,
@@ -246,6 +246,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-81ztq-mtz3o9jlcrnlc9",
@@ -256,13 +263,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -403,7 +403,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "4706170010f9d5f4c463a7109c541d4b42b32b86897f46637081a715673bc1fc",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af605397a360d0f470cd4fda00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af605ce6b735d86e966f3d4600\"}"
   },
   {
     "banner": "id-11134004-81zto-mvh6jkeb9zpi29",
@@ -449,6 +449,13 @@
         "recommendation_info": null
       },
       {
+        "catid": 12,
+        "catname": "Mall Monday Sale",
+        "image": "id-11134004-7r98z-luu4an2ptl478a",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
         "catid": 31,
         "catname": "Pilih Lokal",
         "image": "id-11134004-81ztq-mtz3o9jlcrnlc9",
@@ -459,13 +466,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 12,
-        "catname": "Mall Monday Sale",
-        "image": "id-11134004-7r98z-luu4an2ptl478a",
         "cat_label": 0,
         "recommendation_info": null
       },
