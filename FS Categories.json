@@ -179,7 +179,7 @@
     ],
     "description": "Ayo, nominasikan produkmu di Flash Sale Shopee!\n·       Produk harus memiliki minimal diskon sebesar:\n-       Sub Kategori Elektronik, Sub kategori Handphone & Tablet : 2% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n-       Kategori lainnya : 5% lebih rendah dari harga terendah produk tersebut dalam 14 hari terakhir.\n·       Produk yang dinominasikan memiliki min. Rata-rata jumlah pesanan per hari: 1 pesanan dalam 30 hari terakhir.\n·       Produk yang dinominasikan memiliki penilaian produk min. 4 bintang & min. 10 penilaian.\n·       Setiap produk yang dinominasikan diperlukan menginput batas pembelian min. 1 & max. 12.\n·       Jika ingin mengeluarkan produk yang sudah tergabung dalam kampanye Flash Sale di periode ini, Anda dapat menghapus produk yang telah disetujui Shopee lewat https://seller.shopee.co.id/edu/article/17374\nKetahui lebih lanjut tentang Nominasi Flash Sale dengan membaca panduan pengguna dan FAQ kami di https://seller.shopee.co.id/edu/article/6994",
     "end_time": 1794999600,
-    "is_ongoing": true,
+    "is_ongoing": false,
     "name": "Flash Sale - Seller Nomination | 18 Nov 12:00 - 18 Nov 18:00",
     "pc_banner": "id-11134004-81ztc-mvl7l13hcqvc54",
     "promotionid": 519565947973912,
@@ -187,7 +187,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "6cb69fcffe6d61a7d95257dd5213483eb4ec4b90c998d1ba0ea4137dd1122873",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af608a18d6bd811b6636974c00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af608ae986410725bcee2ffc00\"}"
   },
   {
     "banner": "id-11134004-81ztq-mvl9wbh5k1z5e3",
@@ -377,7 +377,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "6309e4b9ad9794941a4df7b139bb2464c659ad51ddb6e99e223cd7da3d91c124",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af608a18d6bd811b6636974c00\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af608ae986410725bcee2ffc00\"}"
   },
   {
     "banner": "id-11134004-81ztl-mvlacdbff1ft0f",
