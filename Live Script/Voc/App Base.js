@@ -3667,6 +3667,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[52], {
                                 a.d.get("/session/".concat(t, "/sp_items?offset=0&limit=10"), n);
                                 a.d.get("/session/".concat(t, "/sp_items?offset=10&limit=10"), n);
                                 a.d.get("/session/".concat(t, "/sp_items?offset=20&limit=10"), n);
+                                a.d.get(`/session/${t}`, n);
                             case 1:
                             case "end":
                                 return e.stop();
