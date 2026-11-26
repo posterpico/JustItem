@@ -26,7 +26,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":-7.017979}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.090860404}}"
       },
       {
         "catid": 88,
@@ -214,7 +214,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "9729ddaa13f2f35338c8d2a37f5c0ac099ee7eccd4534fc00ed65e90b80f74fc",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af6126d0ea8f015a83cfb81300\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af612aaf33d74c5b794e84ca00\"}"
   },
   {
     "banner": "id-11134004-81zto-mvwzl55o8miuea",
@@ -243,7 +243,7 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.093173444}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.09900937}}"
       },
       {
         "catid": 88,
@@ -431,7 +431,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "78784cabdf218a08327e831107ef023c3ac928ba69e7da8b04e29948e6d93032",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af6126d0ea8f015a83cfb81300\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af612aaf33d74c5b794e84ca00\"}"
   },
   {
     "banner": "id-11134004-81ztg-mvwu0b7m9tkz85",
@@ -514,7 +514,7 @@
       {
         "catid": 60,
         "catname": "BLACK FRIDAY",
-        "image": "id-11134004-81ztj-mvy55xm1xpflb8",
+        "image": "id-11134004-81ztn-mvzt6qorq22rc9",
         "cat_label": 0,
         "recommendation_info": null
       },
