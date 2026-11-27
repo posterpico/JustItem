@@ -26,19 +26,12 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.08823922}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.08812557}}"
       },
       {
         "catid": 88,
         "catname": "Birthday Sale",
         "image": "id-11134004-81ztd-muvs4vbusav92f",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 95,
-        "catname": "Brand Day",
-        "image": "id-11134004-81zti-mvvkklosyp6pa8",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -50,9 +43,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 40,
-        "catname": "IM3 Tri Mini Brand Day",
-        "image": "id-11134004-81zth-mu0hyhofgc1ve2",
+        "catid": 95,
+        "catname": "Brand Day",
+        "image": "id-11134004-81zti-mvvkklosyp6pa8",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 60,
+        "catname": "BLACK FRIDAY",
+        "image": "id-11134004-81ztl-mvzzgn9akf7p62",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -60,6 +60,13 @@
         "catid": 7,
         "catname": "Pesta Diskon Akhir Bulan",
         "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 40,
+        "catname": "IM3 Tri Mini Brand Day",
+        "image": "id-11134004-81zth-mu0hyhofgc1ve2",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -74,13 +81,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 60,
-        "catname": "BLACK FRIDAY",
-        "image": "id-11134004-81ztl-mvzzgn9akf7p62",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -221,7 +221,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "7db7ab23b94f779e08d6f6a30e6e66a745956ac190ea5398d0a29a76d52f0fe5",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af6130dfde0c61eb241d653700\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af61398ee1334c41604dcc6b00\"}"
   },
   {
     "banner": "id-11134004-81ztj-mvwxppiabr4611",
@@ -250,19 +250,12 @@
         "catname": "All",
         "image": "id-11134005-822wt-mozbqugx3q4r99",
         "cat_label": 0,
-        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.09041453}}"
+        "recommendation_info": "{\"ranker_info\":{\"agg_rank_score\":0.09061878}}"
       },
       {
         "catid": 88,
         "catname": "Birthday Sale",
         "image": "id-11134004-81ztd-muvs4vbusav92f",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 95,
-        "catname": "Brand Day",
-        "image": "id-11134004-81zti-mvvkklosyp6pa8",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -274,9 +267,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 40,
-        "catname": "IM3 Tri Mini Brand Day",
-        "image": "id-11134004-81zth-mu0hyhofgc1ve2",
+        "catid": 95,
+        "catname": "Brand Day",
+        "image": "id-11134004-81zti-mvvkklosyp6pa8",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 60,
+        "catname": "BLACK FRIDAY",
+        "image": "id-11134004-81ztl-mvzzgn9akf7p62",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -284,6 +284,13 @@
         "catid": 7,
         "catname": "Pesta Diskon Akhir Bulan",
         "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 40,
+        "catname": "IM3 Tri Mini Brand Day",
+        "image": "id-11134004-81zth-mu0hyhofgc1ve2",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -298,13 +305,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 60,
-        "catname": "BLACK FRIDAY",
-        "image": "id-11134004-81ztl-mvzzgn9akf7p62",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -445,7 +445,7 @@
     "status": 1,
     "with_mega_sale_session": false,
     "signature": "1ed6c019bad3d6c3ae4e1e937ea018c033af83ac86fa28aff81dd61595e86ce5",
-    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af6130dfde0c61eb241d653700\"}"
+    "tracker_info": "{\"ab_test_sign\":\"get_curated_flash_sale_items|flow_id|recall|rt_hot;get_curated_flash_sale_items|flow_id|ranker|dl_v2;get_curated_flash_sale_items|flow_id|reranker|default;get_curated_flash_sale_items|flow_id|category_ranker|default\",\"request_id\":\"b11ba3af61398ee1334c41604dcc6b00\"}"
   },
   {
     "banner": "id-11134004-81ztm-mvy4f2so775y1c",
@@ -484,13 +484,6 @@
         "recommendation_info": null
       },
       {
-        "catid": 95,
-        "catname": "Brand Day",
-        "image": "id-11134004-81zti-mvvkklosyp6pa8",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
         "catid": 97,
         "catname": "Super Brand Day",
         "image": "id-11134004-81ztg-mvvkm9vjv30n85",
@@ -498,9 +491,16 @@
         "recommendation_info": null
       },
       {
-        "catid": 13,
-        "catname": "Fashion Pria",
-        "image": "952a6373147846d8f0d2acaad4876c7b",
+        "catid": 95,
+        "catname": "Brand Day",
+        "image": "id-11134004-81zti-mvvkklosyp6pa8",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 60,
+        "catname": "BLACK FRIDAY",
+        "image": "id-11134004-81ztl-mvzzgn9akf7p62",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -508,6 +508,13 @@
         "catid": 7,
         "catname": "Pesta Diskon Akhir Bulan",
         "image": "id-11134004-7rbkb-m8lk0cqx2lh4ef",
+        "cat_label": 0,
+        "recommendation_info": null
+      },
+      {
+        "catid": 13,
+        "catname": "Fashion Pria",
+        "image": "952a6373147846d8f0d2acaad4876c7b",
         "cat_label": 0,
         "recommendation_info": null
       },
@@ -522,13 +529,6 @@
         "catid": 1,
         "catname": "Pulsa & E-voucher",
         "image": "5f0f86cf590b8b2a14d1216117aaa60d",
-        "cat_label": 0,
-        "recommendation_info": null
-      },
-      {
-        "catid": 60,
-        "catname": "BLACK FRIDAY",
-        "image": "id-11134004-81ztl-mvzzgn9akf7p62",
         "cat_label": 0,
         "recommendation_info": null
       },
